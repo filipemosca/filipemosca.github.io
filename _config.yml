@@ -18,3 +18,8 @@ defaults:
 
 # para o SEO tag:
 lang: pt_BR
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
