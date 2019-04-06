@@ -1,20 +1,45 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<!--
+Criado por Filipe Mosca
+Acesse meu site: https://canalionico.com.br
+Contato: filipemosca@canalionico.com.br
 
-  {%- include head.html -%}
+  -. (#)(#) .-
+   '\.';;'./'
+.-\.'  ;;  './-.
+  ;    ;;    ;
+  ;   .''.   ;
+   '''    '''
+-->
 
+<!doctype html>
+<html lang="pt-BR" dir="ltr">
+  <head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58629913-5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-58629913-5');
+    </script>
+
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="favicon-radical-livre.png"/>
+    {% feed_meta %}
+    {% seo %}
+  </head>
   <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+    {% include header.html %}
+    <div class="wrapper">
+      <div class="main">
         {{ content }}
       </div>
-    </main>
-
-    {%- include footer.html -%}
-
+    </div>
+    {% include footer.html %}
   </body>
-
 </html>

@@ -1,0 +1,32 @@
+---
+title: ~fm/rl
+layout: default
+---
+<h1 class="abertura">Seja bem vindo!</h1>
+<p class="abertura">Esse é um <em>sub-blog</em> que criei para escrever sobre o mundo Open Source no geral. Com tutoriais, dicas, opiniões e afins. É a minha forma de contribuir com essa comunidade fantástica.</p>
+
+<div class="post-list">
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p id="post-info">{{ post.date | date: "%-d" }} de {% assign m = post.date | date: "%-m" %}
+        {% case m %}
+          {% when '1' %}janeiro
+          {% when '2' %}fevereiro
+          {% when '3' %}março
+          {% when '4' %}abril
+          {% when '5' %}maio
+          {% when '6' %}junho
+          {% when '7' %}julho
+          {% when '8' %}agosto
+          {% when '9' %}setembro
+          {% when '10' %}outubro
+          {% when '11' %}novembro
+          {% when '12' %}dezembro
+        {% endcase %}{{ post.date | date: "%Y"}} - por {{ post.author }}</p>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
