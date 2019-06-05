@@ -1,4 +1,9 @@
-- name: início
+- name: Início
+  link: https://canalionico.com.br
+  icon: home
+- name: Resumos
+  link: /resumos.canalionico.com.br
+  icon: align-left
+- name: Blog
   link: /
-- name: sobre
-  link: /sobre.html
+  icon: stethoscope

@@ -1,6 +1,7 @@
-title: Radical Livre
+title: Blog
 author: Filipe Mosca
-url: "https://filipemosca.github.io"
+url: "https://blog.canalionico.com.br"
+description: Diário de um estudante de medicina e suas aventuras na faculdade
 
 defaults:
 #defaults para os posts
@@ -10,9 +11,11 @@ defaults:
     values:
       layout: "post"
       permalink: /:title
+      author: "Filipe Mosca"
 #defaults para todo o resto
   - scope:
       path: ""
+      type: "pages"
     values:
       layout: "default"
 

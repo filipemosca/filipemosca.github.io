@@ -5,39 +5,66 @@
   padding-right: 20px;
   padding-left: 20px;
 }
-
+.wrapper-footer {
+  max-width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+}
 body {
   margin: 0 0 0 0;
 }
 
 /* Header */
 #logo {
-  width: 200px;
-  margin-top: 10px;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  padding-top: 20px;
+  display: block;
 }
-
 header {
-  border-bottom: 1px solid #e8e8e8;
   border-top: 5px solid #d40000;
 }
 
 /* Barra de navegaçao */
 nav {
-  float: right;
-  line-height: 80px;
+  line-height: 35px;
+  padding-top: 20px;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
   a {
-  text-decoration: none;
-  padding: 10px;
-  font-size: 16px;
-  color: #2a7ae2;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: #727272;
+    padding: 4px 6px 4px 6px;
+    border-radius: 0.5rem;
+    color: white;
+    display: inline-block;
+    margin-bottom: 0;
   }
   a:hover {
-    color: black;
+    background-color: #008000;
   }
 }
-
 .current {
-  color: #d40000;
+  background-color: #008000;
+}
+.fa {
+  padding-right: 5px;
+}
+.fab {
+  padding-right: 5px;
+  color: #828282;
+}
+#face, #git {
+  font-size: 20px;
+}
+#face {
+  padding-left: 3px;
+  padding-right: 3px;
 }
 
 /* conteúdo principal */
@@ -46,7 +73,10 @@ nav {
   width: 100%;
   margin-bottom: 30px;
 }
-
+h1  {
+  text-align: center;
+  margin-bottom: 0;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 400;
@@ -59,6 +89,10 @@ p, a, li {
   text-align: justify;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+a {
+  text-decoration: none;
+  color: #2a7ae2;
 }
 
 p {
@@ -93,8 +127,14 @@ p {
     color: black;
   }
 }
+#post-page-info {
+  font-size: 16px;
+  color: gray;
+  margin-top: 1px;
+  text-align: center;
+}
 
-#post-info, #post-page-info {
+#post-info,{
   font-size: 16px;
   color: gray;
   margin-top: 1px;
@@ -183,8 +223,6 @@ kbd {
     margin-bottom: 5px;
   }
   a {
-    text-decoration: none;
-    color: #2a7ae2;
     font-size: 16px;
   }
   a:hover {
