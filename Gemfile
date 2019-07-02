@@ -1,8 +1,3 @@
-source 'https://rubygems.org'
-
-gem 'jekyll'
-
-
 #Plugins
 source 'https://rubygems.org'
 
