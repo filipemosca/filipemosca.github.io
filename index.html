@@ -4,13 +4,16 @@ layout: default
 ---
 <h2 class="abertura">Seja bem vindo!</h2>
 <p class="abertura">Esse é um blog dedicado a postagens sobre tecnologia e Linux no geral</p>
+<a class="github-button" href="https://github.com/filipemosca" data-size="large" aria-label="Follow @filipemosca on GitHub">Follow</a>
+<a href="https://twitter.com/moscafilipe" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-size="large">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <div class="post-list">
   <ul>
     {% for post in site.posts %}
       <li>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p id="post-info">{{ post.date | date: "%-d" }} de {% assign m = post.date | date: "%-m" %}
+        <p id="post-info"><i id="calendar-index" class="far fa-calendar-alt"></i><time>{{ post.date | date: "%-d" }} de {% assign m = post.date | date: "%-m" %}
         {% case m %}
           {% when '1' %}janeiro
           {% when '2' %}fevereiro
@@ -24,7 +27,7 @@ layout: default
           {% when '10' %}outubro
           {% when '11' %}novembro
           {% when '12' %}dezembro
-        {% endcase %}{{ post.date | date: "%Y"}} - por {{ post.author }}</p>
+        {% endcase %}{{ post.date | date: "%Y"}}</time> / <i id="portrait-index" class="fas fa-portrait"></i>{{ post.author }}</p>
         {{ post.excerpt }}
       </li>
     {% endfor %}

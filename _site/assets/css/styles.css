@@ -24,9 +24,6 @@ body {
   padding-top: 20px;
   display: block; }
 
-header {
-  border-top: 5px solid #d40000; }
-
 /* Barra de navegaçao */
 nav {
   line-height: 35px;
@@ -63,6 +60,15 @@ nav {
   padding-left: 3px;
   padding-right: 3px; }
 
+.fas, .far {
+  padding-left: 5px; }
+
+#calendar-index {
+  padding-right: 5px; }
+
+#portrait-index {
+  padding-right: 5px; }
+
 /* conteúdo principal */
 .main {
   display: block;
@@ -70,7 +76,7 @@ nav {
   margin-bottom: 30px; }
 
 h1 {
-  text-align: center;
+  text-align: left;
   margin-bottom: 0; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -93,6 +99,14 @@ p {
   text-align: justify;
   hyphens: auto; }
 
+::selection {
+  background: yellow;
+  /* WebKit/Blink Browsers */ }
+
+::-moz-selection {
+  background: yellow;
+  /* Gecko Browsers */ }
+
 .abertura {
   color: gray; }
   .abertura a {
@@ -100,6 +114,18 @@ p {
     color: #2a7ae2; }
   .abertura a:hover {
     color: black; }
+
+.post-date {
+  font-size: 16px;
+  color: gray;
+  margin-bottom: 0;
+  text-align: right; }
+
+.post-author {
+  font-size: 16px;
+  color: gray;
+  text-align: right;
+  margin-top: 0; }
 
 .post-list ul {
   list-style-type: none;
@@ -109,9 +135,10 @@ p {
 .post-list li h2 a {
   text-decoration: none;
   font-size: 24px;
-  color: #2a7ae2; }
+  color: black;
+  font-weight: 600; }
 .post-list li h2 a:hover {
-  color: black; }
+  color: #2a7ae2; }
 
 #post-page-info {
   font-size: 16px;
@@ -187,6 +214,22 @@ kbd {
 .footer-col2 {
   width: 100%; }
 
+.license {
+  display: inline-block;
+  width: 100%; }
+  .license p {
+    text-align: center;
+    font-size: 14px;
+    margin: 0 0 0 0;
+    color: gray; }
+    .license p a {
+      font-size: 14px;
+      color: #2a7ae2;
+      text-decoration: none; }
+  .license a img {
+    margin: 5px auto;
+    display: block; }
+
 .menu li {
   margin-bottom: 5px; }
 .menu a {
@@ -221,10 +264,10 @@ kbd {
     padding-left: 0; }
 
   .footer-col1 {
-    width: calc(35% - (30px / 2)); }
+    width: calc(34%); }
 
   .footer-col2 {
-    width: calc(20% - (30px / 2)); }
+    width: calc(25%); }
 
   .footer-col3 {
-    width: calc(45% - (30px / 2)); } }
+    width: calc(35%); } }
