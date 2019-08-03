@@ -10,7 +10,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /:title
       author: "Filipe Mosca"
 #defaults para todo o resto
   - scope:
