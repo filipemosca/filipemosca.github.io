@@ -1,9 +1,15 @@
 - name: Início
-  link: https://canalionico.com.br
-  icon: home
-- name: Resumos
-  link: /resumos.canalionico.com.br
-  icon: align-left
-- name: Radical
   link: /
-  icon: bolt
+  icon: home
+- name: Arquivo
+  link: /arquivo.html
+  icon: archive
+- name: Sobre
+  link: /sobre.html
+  icon: portrait
+- name: Canal Iônico
+  link: https://canalionico.com.br
+  icon: globe-americas
+- name: Resumos
+  link: https://resumos.canalionico.com.br
+  icon: align-left

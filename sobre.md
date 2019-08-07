@@ -1,7 +1,7 @@
 ---
-title: ~fm/sobre
+title: sobre
 layout: default
 ---
 # Sobre mim
 
-Essa página diz um pouco sobre mim.
+Sou um estudante da área de saúde e apaixonado por Linux.

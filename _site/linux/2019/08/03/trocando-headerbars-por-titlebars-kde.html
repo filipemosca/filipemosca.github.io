@@ -48,29 +48,39 @@ Contato: filipemosca@canalionico.com.br
 <meta property="og:locale" content="pt_BR" />
 <meta name="description" content="A partir do Gnome 3, o Gnome começou a usar a tecnologia de client side decorations (CSD), ou headerbars. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica titlebar gerada pelo server side decoration (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS." />
 <meta property="og:description" content="A partir do Gnome 3, o Gnome começou a usar a tecnologia de client side decorations (CSD), ou headerbars. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica titlebar gerada pelo server side decoration (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS." />
-<link rel="canonical" href="http://localhost:4000/2019/08/03/trocando-headerbars-por-titlebars-kde.html" />
-<meta property="og:url" content="http://localhost:4000/2019/08/03/trocando-headerbars-por-titlebars-kde.html" />
+<link rel="canonical" href="http://localhost:4000/linux/2019/08/03/trocando-headerbars-por-titlebars-kde.html" />
+<meta property="og:url" content="http://localhost:4000/linux/2019/08/03/trocando-headerbars-por-titlebars-kde.html" />
 <meta property="og:site_name" content="Radical Livre" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-08-03T00:00:00-03:00" />
 <script type="application/ld+json">
-{"headline":"Como desativar as headerbars e usar titlebars nos apps do Gnome","dateModified":"2019-08-03T00:00:00-03:00","datePublished":"2019-08-03T00:00:00-03:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2019/08/03/trocando-headerbars-por-titlebars-kde.html"},"url":"http://localhost:4000/2019/08/03/trocando-headerbars-por-titlebars-kde.html","author":{"@type":"Person","name":"Filipe Mosca"},"description":"A partir do Gnome 3, o Gnome começou a usar a tecnologia de client side decorations (CSD), ou headerbars. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica titlebar gerada pelo server side decoration (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS.","@context":"http://schema.org"}</script>
+{"headline":"Como desativar as headerbars e usar titlebars nos apps do Gnome","dateModified":"2019-08-03T00:00:00-03:00","datePublished":"2019-08-03T00:00:00-03:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/linux/2019/08/03/trocando-headerbars-por-titlebars-kde.html"},"url":"http://localhost:4000/linux/2019/08/03/trocando-headerbars-por-titlebars-kde.html","author":{"@type":"Person","name":"Filipe Mosca"},"description":"A partir do Gnome 3, o Gnome começou a usar a tecnologia de client side decorations (CSD), ou headerbars. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica titlebar gerada pelo server side decoration (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS.","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
   <body>
     <header>
   <div class="wrapper">
-    <a href="/"><img id="logo" src="/logo-radical-livre.png" alt="logo"></a>
-    <nav>
-      
-        <a href="https://canalionico.com.br" ><i class="fa fa-home"></i>Início</a>
-      
-        <a href="/resumos.canalionico.com.br" ><i class="fa fa-align-left"></i>Resumos</a>
-      
-        <a href="/" ><i class="fa fa-bolt"></i>Radical</a>
-      
-      </nav>
+    <div class="bar">
+      <div class="bar1">
+        <a id="logo" href="/"><h1>Mosquildo</h1></a>
+      </div>
+      <div class="bar2">
+        <nav>
+          
+            <a href="/" ><i class="fa fa-home"></i>Início</a>
+          
+            <a href="/arquivo.html" ><i class="fa fa-archive"></i>Arquivo</a>
+          
+            <a href="/sobre.html" ><i class="fa fa-portrait"></i>Sobre</a>
+          
+            <a href="https://canalionico.com.br" ><i class="fa fa-globe-americas"></i>Canal Iônico</a>
+          
+            <a href="https://resumos.canalionico.com.br" ><i class="fa fa-align-left"></i>Resumos</a>
+          
+          </nav>
+      </div>
+    </div>
   </div>
 </header>
 
@@ -80,7 +90,6 @@ Contato: filipemosca@canalionico.com.br
 <p class="post-date"><time>3 de 
 agosto
   2019</time><i class="far fa-calendar-alt"></i></p>
-<p class="post-author">Filipe Mosca<i class="fas fa-portrait"></i></p>
 
 <p>A partir do Gnome 3, o Gnome começou a usar a tecnologia de <em>client side decorations</em> (CSD), ou <em>headerbars</em>. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica <em>titlebar</em>  gerada pelo <em>server side decoration</em> (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS.</p>
 
@@ -113,8 +122,8 @@ agosto
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 
 var disqus_config = function () {
-this.page.url = "https://radical.canalionico.com.br/2019/08/03/trocando-headerbars-por-titlebars-kde.html";  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = "https://radical.canalionico.com.br/2019/08/03/trocando-headerbars-por-titlebars-kde.html"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = "https://radical.canalionico.com.br/linux/2019/08/03/trocando-headerbars-por-titlebars-kde.html";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "https://radical.canalionico.com.br/linux/2019/08/03/trocando-headerbars-por-titlebars-kde.html"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
@@ -147,7 +156,7 @@ s.setAttribute('data-timestamp', +new Date());
       </ul>
     </div>
     <div class="footer-col footer-col3">
-      <p id="creditos">Template desenvolvido mim mesmo com uma "leve" inspiração no tema minima do jekyll</p>
+      <p id="creditos">Template desenvolvido por mim mesmo</p>
     </div>
     <div class="license">
       <p>Esta obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>.</p>

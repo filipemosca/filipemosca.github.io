@@ -18,36 +18,33 @@ body {
 
 /* Header */
 #logo {
-  width: 100%;
-  max-width: 400px;
   margin: 0 auto;
   padding-top: 20px;
-  display: block;
+  color: #727272;
 }
 
 /* Barra de navegaçao */
 nav {
-  line-height: 35px;
-  padding-top: 20px;
+  padding-top: 5px;
+  line-height: 30px;
   margin: 0 auto;
-  text-align: center;
-  width: 100%;
   a {
     text-decoration: none;
-    font-size: 16px;
-    background-color: #727272;
+    font-size: medium;
+    background-color: #dedede;
     padding: 4px 6px 4px 6px;
     border-radius: 0.5rem;
-    color: white;
     display: inline-block;
     margin-bottom: 0;
   }
   a:hover {
     background-color: #d40000;
+    color: white;
   }
 }
 .current {
-  background-color: #d40000;
+  background-color: #b80000;
+  color: white;
 }
 .fa {
   padding-right: 5px;
@@ -91,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 p, a, li {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 1.2;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -100,7 +97,7 @@ a {
   color: #2a7ae2;
 }
 p {
-  hyphens: auto;
+  line-height: 1.5;
 }
 ::selection {
   background: yellow; /* WebKit/Blink Browsers */
@@ -110,12 +107,11 @@ p {
 }
 .abertura {
   color: gray;
-  a {
-    text-decoration: none;
-    color: #2a7ae2;
+  h2 {
+    margin-bottom: 1px;
   }
-  a:hover {
-    color: black;
+  p {
+    margin-top: 6px;
   }
 }
 .post-date {
@@ -157,7 +153,7 @@ p {
 #post-info,{
   font-size: 16px;
   color: gray;
-  margin-top: 1px;
+  margin-top: 5px;
 }
 pre {
   padding: 8px 12px;

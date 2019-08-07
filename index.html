@@ -2,10 +2,14 @@
 title: ~fm
 layout: default
 ---
-<h2 class="abertura">Seja bem vindo!</h2>
-<p class="abertura">Esse é um blog dedicado a postagens sobre tecnologia e Linux no geral</p>
-<a class="github-button" href="https://github.com/filipemosca" data-size="large" aria-label="Follow @filipemosca on GitHub">Follow</a>
-<a href="https://twitter.com/moscafilipe" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-size="large">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="abertura">
+  <h2>Seja bem vindo!</h2>
+  <p>Eu sou Filipe Mosca e esse é meu blog. Aqui escrevo sobre os mais variados assuntos, como medicina, tecnologia, linux, geeks, livros, <em>etc</em>.</p>
+  <a class="github-button" href="https://github.com/filipemosca" data-size="large" aria-label="Follow @filipemosca on GitHub">Follow</a>
+  <a href="https://twitter.com/moscafilipe" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-size="large">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<p>Tags: {% for category in site.categories %}<a href="/{{ category[0] }}">{{ category[0] }}</a>{% endfor %}</p>
 
 
 <div class="post-list">
@@ -27,7 +31,7 @@ layout: default
           {% when '10' %}outubro
           {% when '11' %}novembro
           {% when '12' %}dezembro
-        {% endcase %}{{ post.date | date: "%Y"}}</time> / <i id="portrait-index" class="fas fa-portrait"></i>{{ post.author }}</p>
+        {% endcase %}{{ post.date | date: "%Y"}}</time></p>
         {{ post.excerpt }}
       </li>
     {% endfor %}
