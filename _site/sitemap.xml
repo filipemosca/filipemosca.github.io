@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/problema-brilho-linux</loc>
+<loc>https://mosquildo.com.br/problema-brilho-linux</loc>
 <lastmod>2019-02-18T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/linux/2019/08/03/trocando-headerbars-por-titlebars-kde.html</loc>
+<loc>https://mosquildo.com.br/linux/2019/08/03/trocando-headerbars-por-titlebars-kde.html</loc>
 <lastmod>2019-08-03T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://mosquildo.com.br/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/linux.html</loc>
+<loc>https://mosquildo.com.br/linux.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/sobre.html</loc>
+<loc>https://mosquildo.com.br/sobre.html</loc>
 </url>
 </urlset>
