@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<meta itemprop="datePublished" content="{{ page.date }}">
-<p class="post-date"><time>{{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
+<h1>{{ page.title }}</h1><p class="post-date"><time>{{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}janeiro
   {% when '2' %}fevereiro

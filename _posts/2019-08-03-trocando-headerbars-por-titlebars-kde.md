@@ -23,4 +23,4 @@ $ sudo apt install gtk3-nocsd
 
 Ou você pode baixar diretamente no Github do desenvolvedor: [gtk3-nocsd](https://github.com/PCMan/gtk3-nocsd)
 
-Nesse artigo não quero entrar muito no merito se as CSDs são boas ou ruins. Existe uma discussão muito acalorada sobre isso. Será assunto para uma próxima postagem.
+Nesse artigo não quero entrar muito no merito se as CSDs são boas ou ruins. Existe uma discussão muito acalorada sobre isso. Será assunto para uma próxima postagem. Até!
