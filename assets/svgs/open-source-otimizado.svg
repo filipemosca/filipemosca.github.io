@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="32" height="36.87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g transform="translate(-35.11 -849.8)">
+		<g transform="matrix(3.161 0 0 3.161 1290 2830)">
+			<path d="m-391.8-622.1m0.5216 1.359a1.455 1.455 0 1 0-1.043 0l-0.9803 2.554a4.191 4.191 0 1 1 3.004 0z" fill="#3fa652" stroke="#21552a" stroke-linejoin="round" stroke-width=".3493"/>
+			<g fill="#20552a" font-family="Sans" font-size="1.753px" letter-spacing="0px" stroke-width=".04737" word-spacing="0px">
+				<text transform="scale(.9904 1.01)" x="-400.89447" y="-610.58911" style="line-height:125%" xml:space="preserve"><tspan x="-400.89447" y="-610.58911" fill="#000000" font-family="OpenSymbol" font-size="1.665px">open</tspan><tspan x="-400.89447" y="-608.37531" fill="#000000" font-family="FreeSans" font-size="1.753px"/><tspan x="-400.89447" y="-606.18427" fill="#20552a" font-size="1.578px"/></text>
+				<text transform="scale(.9904 1.01)" x="-396.02399" y="-610.61884" style="line-height:125%" xml:space="preserve"><tspan x="-396.02399" y="-610.61884" fill="#000000" font-family="OpenSymbol" font-size="1.665px">source</tspan><tspan x="-396.02399" y="-608.40503" fill="#000000" font-family="FreeSans" font-size="1.753px"/><tspan x="-396.02399" y="-606.21399" fill="#20552a" font-size="1.578px"/></text>
+				<text transform="scale(.9904 1.01)" x="-399.2713" y="-608.95605" style="line-height:125%" xml:space="preserve"><tspan x="-399.2713" y="-608.95605" fill="#000000" font-family="OpenSymbol" font-size="1.665px">initiative</tspan><tspan x="-399.2713" y="-606.74225" fill="#000000" font-family="FreeSans" font-size="1.753px"/><tspan x="-399.2713" y="-604.55121" fill="#20552a" font-size="1.578px"/></text>
+			</g>
+			<g transform="matrix(.04737 0 0 .04737 -379.2 -585.8)">
+				<ellipse transform="matrix(.3391 0 0 .3385 -402.5 -908.4)" cx="645.7" cy="646.6" rx="23.57" ry="23.57" fill="none" stroke="#000" stroke-width="6.665"/>
+				<text x="-188.29698" y="-685.33014" fill="#000000" font-family="OpenSymbol" font-size="12.66px" font-weight="bold" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="-188.29698" y="-685.33014">R</tspan></text>
+			</g>
+		</g>
+	</g>
+</svg>
