@@ -22,6 +22,21 @@ body {
   padding-top: 20px;
   color: #727272; }
 
+.botao {
+  text-decoration: none;
+  font-size: medium;
+  background-color: #dedede;
+  padding: 4px 6px 4px 6px;
+  border-radius: 0.5rem;
+  display: inline-block;
+  margin-bottom: 0;
+  padding-right: 5px;
+  margin-right: 5px; }
+
+.botao:hover {
+  background-color: #d40000;
+  color: white; }
+
 /* Barra de navegaçao */
 nav {
   padding-top: 5px;
@@ -81,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400; }
 
 p, a, li {
-  font-family: 'Open Sans', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   line-height: 1.2;
   -webkit-font-smoothing: antialiased;
@@ -133,6 +148,9 @@ p {
   font-weight: 600; }
 .post-list li h2 a:hover {
   color: #2a7ae2; }
+
+.excerpt {
+  font-size: 90%; }
 
 #post-page-info {
   font-size: 16px;

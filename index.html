@@ -9,7 +9,7 @@ layout: default
   <a href="https://twitter.com/moscafilipe" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-size="large">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<p>Tags: {% for category in site.categories %}<a href="/{{ category[0] }}">{{ category[0] }}</a>{% endfor %}</p>
+<p>Categorias: {% for category in site.categories %}<a class="botao" href="/{{ category[0] }}">{{ category[0] }}</a>{% endfor %}</p>
 
 
 <div class="post-list">
@@ -32,7 +32,7 @@ layout: default
           {% when '11' %}novembro
           {% when '12' %}dezembro
         {% endcase %}{{ post.date | date: "%Y"}}</time></p>
-        {{ post.excerpt }}
+        <p class="excerpt">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
       </li>
     {% endfor %}
   </ul>

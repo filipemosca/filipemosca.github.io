@@ -11,6 +11,7 @@ defaults:
     values:
       layout: "post"
       author: "Filipe Mosca"
+      permalink: "/:categories/:day/:month/:year/:title"
 #defaults para todo o resto
   - scope:
       path: ""
