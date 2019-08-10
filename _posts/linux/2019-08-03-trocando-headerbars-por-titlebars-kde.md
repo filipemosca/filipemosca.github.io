@@ -1,6 +1,6 @@
 ---
 title: Como desativar as headerbars e usar titlebars nos apps do Gnome
-categories: linux
+category: linux
 ---
 A partir do Gnome 3, o Gnome começou a usar a tecnologia de _client side decorations_ (CSD), ou _headerbars_. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica _titlebar_  gerada pelo _server side decoration_ (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS.
 

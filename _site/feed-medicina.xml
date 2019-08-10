@@ -1,24 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://mosquildo.com.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mosquildo.com.br/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-10T16:59:24-03:00</updated><id>https://mosquildo.com.br/feed.xml</id><title type="html">Mosquildo</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">Como desativar as headerbars e usar titlebars nos apps do Gnome</title><link href="https://mosquildo.com.br/linux/03/08/2019/trocando-headerbars-por-titlebars-kde" rel="alternate" type="text/html" title="Como desativar as headerbars e usar titlebars nos apps do Gnome" /><published>2019-08-03T00:00:00-03:00</published><updated>2019-08-03T00:00:00-03:00</updated><id>https://mosquildo.com.br/linux/03/08/2019/trocando-headerbars-por-titlebars-kde</id><content type="html" xml:base="https://mosquildo.com.br/linux/03/08/2019/trocando-headerbars-por-titlebars-kde">&lt;p&gt;A partir do Gnome 3, o Gnome começou a usar a tecnologia de &lt;em&gt;client side decorations&lt;/em&gt; (CSD), ou &lt;em&gt;headerbars&lt;/em&gt;. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica &lt;em&gt;titlebar&lt;/em&gt;  gerada pelo &lt;em&gt;server side decoration&lt;/em&gt; (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mosquildo</title>
+    <description>Blog sobre medicina, geek e Linux</description>
+    <link>https://mosquildo.com.br/</link>
+    <atom:link href="https://mosquildo.com.br/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 10 Aug 2019 16:59:24 -0300</pubDate>
+    <lastBuildDate>Sat, 10 Aug 2019 16:59:24 -0300</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
 
-&lt;p&gt;Contudo, no KDE Plasma essa funcionalidade fica muito mal integrada. O KWin não atua nesses aplicativos e o resultado é uma inconsistência visual no desktop, o que é suficiente para me gerar uma crise de TOC. Por sorte, é possível desabilitar o CSD dos apps GTK3 graças ao pacote &lt;code class=&quot;highlighter-rouge&quot;&gt;gtk3-nocsd&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Olha a diferença que faz. Na imagem abaixo temos o gnome-calendar padrão.
-&lt;img src=&quot;/assets/apps-screenshot/gnome-csd.png&quot; alt=&quot;gnome-calendar com CSD&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;E essa outra imagem é o mesmo gnome-calendar mas com o CSD desabilitado.
-&lt;img src=&quot;/assets/apps-screenshot/gnome-nocsd.png&quot; alt=&quot;gnome-calendar sem CSD&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Perceba que a janela do app com CSD não possui sombras e ainda têm as bordas quadradas. Além disso ele não responde às animações do KWin e nem possui bordas. Já o app sem o CSD, que é gerenciado pelo KWin, apresenta essas funcionalidades.&lt;/p&gt;
-
-&lt;h2 id=&quot;como-instalar&quot;&gt;Como instalar&lt;/h2&gt;
-&lt;p&gt;No Ubuntu e Debian, o pacote está disponível nos repositórios oficiais. Basta instalar e ele já passa a funcionar.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt install gtk3-nocsd
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Ou você pode baixar diretamente no Github do desenvolvedor: &lt;a href=&quot;https://github.com/PCMan/gtk3-nocsd&quot;&gt;gtk3-nocsd&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Nesse artigo não quero entrar muito no merito se as CSDs são boas ou ruins. Existe uma discussão muito acalorada sobre isso. Será assunto para uma próxima postagem. Até!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="linux" /><summary type="html">A partir do Gnome 3, o Gnome começou a usar a tecnologia de client side decorations (CSD), ou headerbars. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica titlebar gerada pelo server side decoration (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS.</summary></entry><entry><title type="html">Por que os casos de gripe aumentam no inverno?</title><link href="https://mosquildo.com.br/medicina/18/04/2019/por-que-os-casos-de-gripe-aumentam-no-inverno" rel="alternate" type="text/html" title="Por que os casos de gripe aumentam no inverno?" /><published>2019-04-18T00:00:00-03:00</published><updated>2019-04-18T00:00:00-03:00</updated><id>https://mosquildo.com.br/medicina/18/04/2019/por-que-os-casos-de-gripe-aumentam-no-inverno</id><content type="html" xml:base="https://mosquildo.com.br/medicina/18/04/2019/por-que-os-casos-de-gripe-aumentam-no-inverno">&lt;p&gt;Chega o inverno e o frio começa a atacar.
+    
+    <entry>
+            <title type="html">Por que os casos de gripe aumentam no inverno?</title>
+            <link href="https://mosquildo.com.br/medicina/18/04/2019/por-que-os-casos-de-gripe-aumentam-no-inverno"/>
+            <published>2019-04-18T00:00:00-03:00</published>
+            <id>/medicina/18/04/2019/por-que-os-casos-de-gripe-aumentam-no-inverno</id>
+            <content type="html">&lt;p&gt;Chega o inverno e o frio começa a atacar.
 Nessa época começamos a notar um grande aumento na quantidade de pessoas gripadas, com espirros e tosses tornando-se frequentes.
 Mas por que será que o frio favorece a gripe?
 Muitas pessoas até associam o frio ou o vento gelado como o causador da gripe.
@@ -136,7 +133,16 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
       &lt;p&gt;Gerdil C. The annual production cycle for influenza vaccine. Vaccine. 2003;21(16):1776-1779. doi:&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0264410X03000719&quot;&gt;10.1016/S0264-410X(03)00071-9&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="gripe" /><summary type="html">Chega o inverno e o frio começa a atacar. Nessa época começamos a notar um grande aumento na quantidade de pessoas gripadas, com espirros e tosses tornando-se frequentes. Mas por que será que o frio favorece a gripe? Muitas pessoas até associam o frio ou o vento gelado como o causador da gripe. Até a palavra “resfriado” já remete ao “frio”.</summary></entry><entry><title type="html">O efeito placebo e a humanização da medicina</title><link href="https://mosquildo.com.br/medicina/13/04/2019/efeito-placebo-e-a-humanizacao-da-medicina" rel="alternate" type="text/html" title="O efeito placebo e a humanização da medicina" /><published>2019-04-13T00:00:00-03:00</published><updated>2019-04-13T00:00:00-03:00</updated><id>https://mosquildo.com.br/medicina/13/04/2019/efeito-placebo-e-a-humanizacao-da-medicina</id><content type="html" xml:base="https://mosquildo.com.br/medicina/13/04/2019/efeito-placebo-e-a-humanizacao-da-medicina">&lt;p&gt;Placebo é qualquer medicamento ou procedimento inerte e desprovido de valor terapêutico conhecido, mas que induz algum tipo de resposta quando administrado em pacientes que acreditam estar sendo medicados.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Por exemplo, pacientes com dores que ingerem pílulas de açúcar achando que estão tomando um analgésico podem sentir redução na dor. Sabidamente as pílulas de açúcar não deveriam provocar uma resposta terapêutica mas isso ocorre devido a mecanismos psicológicos. A resposta ou efeito provocado pela administração do placebo é chamada de &lt;em&gt;efeito placebo&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">O efeito placebo e a humanização da medicina</title>
+            <link href="https://mosquildo.com.br/medicina/13/04/2019/efeito-placebo-e-a-humanizacao-da-medicina"/>
+            <published>2019-04-13T00:00:00-03:00</published>
+            <id>/medicina/13/04/2019/efeito-placebo-e-a-humanizacao-da-medicina</id>
+            <content type="html">&lt;p&gt;Placebo é qualquer medicamento ou procedimento inerte e desprovido de valor terapêutico conhecido, mas que induz algum tipo de resposta quando administrado em pacientes que acreditam estar sendo medicados.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Por exemplo, pacientes com dores que ingerem pílulas de açúcar achando que estão tomando um analgésico podem sentir redução na dor. Sabidamente as pílulas de açúcar não deveriam provocar uma resposta terapêutica mas isso ocorre devido a mecanismos psicológicos. A resposta ou efeito provocado pela administração do placebo é chamada de &lt;em&gt;efeito placebo&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Os mecanismo de placebo mais estudado são os efeitos analgésicos.&lt;sup id=&quot;fnref:1:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Em estudos sobre controle da dor, pacientes que fazem uso de placebos possuem uma melhor evolução comparado a pacientes que não recebem nenhum tipo de intervenção ou tratamento.&lt;/p&gt;
 
@@ -192,7 +198,16 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
       &lt;p&gt;Colloca L, Lopiano L, Lanotte M, Benedetti F. Overt versus covert treatment for pain, anxiety, and Parkinson’s disease. The Lancet Neurology. 2004;3(11):679-684. doi:&lt;a href=&quot;https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(04)00908-1/fulltext&quot;&gt;10.1016/S1474-4422(04)00908-1&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="placebo" /><summary type="html">Placebo é qualquer medicamento ou procedimento inerte e desprovido de valor terapêutico conhecido, mas que induz algum tipo de resposta quando administrado em pacientes que acreditam estar sendo medicados.1 Por exemplo, pacientes com dores que ingerem pílulas de açúcar achando que estão tomando um analgésico podem sentir redução na dor. Sabidamente as pílulas de açúcar não deveriam provocar uma resposta terapêutica mas isso ocorre devido a mecanismos psicológicos. A resposta ou efeito provocado pela administração do placebo é chamada de efeito placebo. &amp;#8617;</summary></entry><entry><title type="html">Os dois novos casos de cura do HIV</title><link href="https://mosquildo.com.br/medicina/10/03/2019/novos-casos-cura-hiv" rel="alternate" type="text/html" title="Os dois novos casos de cura do HIV" /><published>2019-03-10T00:00:00-03:00</published><updated>2019-03-10T00:00:00-03:00</updated><id>https://mosquildo.com.br/medicina/10/03/2019/novos-casos-cura-hiv</id><content type="html" xml:base="https://mosquildo.com.br/medicina/10/03/2019/novos-casos-cura-hiv">&lt;p&gt;Esse mês, dois novos casos de remissão do HIV foram divulgados. Se confirmados com o tempo, já serão três pacientes “curados” do HIV. Claro que a noticia agitou tanto o mundo acadêmico como toda sociedade. A cura do HIV parece estar cada vez mais tangivel.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Os dois novos casos de cura do HIV</title>
+            <link href="https://mosquildo.com.br/medicina/10/03/2019/novos-casos-cura-hiv"/>
+            <published>2019-03-10T00:00:00-03:00</published>
+            <id>/medicina/10/03/2019/novos-casos-cura-hiv</id>
+            <content type="html">&lt;p&gt;Esse mês, dois novos casos de remissão do HIV foram divulgados. Se confirmados com o tempo, já serão três pacientes “curados” do HIV. Claro que a noticia agitou tanto o mundo acadêmico como toda sociedade. A cura do HIV parece estar cada vez mais tangivel.&lt;/p&gt;
 
 &lt;p&gt;O primeiro relato de cura do vírus HIV data de 2007 na Alemanha. O paciente em questão ficou conhecido como &lt;em&gt;“paciente de Berlim”&lt;/em&gt;, de modo a preservar sua identidade. Porém, em 2010 ele decidiu se expor para o mundo revelando seu nome: Timothy Ray Brown. Daí em diante Timothy começou a contribuir para uma série de estudos que buscavam a tão almejada cura do HIV.&lt;/p&gt;
 
@@ -248,7 +263,16 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
   &lt;li&gt;Site do Icistem com a publicação do CROI 2019. &lt;a href=&quot;https://www.icistem.org/publication/croi-2019&quot;&gt;link aqui&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Kou J, Kuang YQ. Mutations in chemokine receptors and AIDS. Prog Mol Biol Transl Sci. 2019;161:113-124. doi: 10.1016/bs.pmbts.2018.10.001. Epub 2018 Nov 20.&lt;/li&gt;
   &lt;li&gt;Khaddour K, Mewawalla P. Hematopoietic Stem Cell Transplantation. [Updated 2019 Mar 2]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2019 Jan-. Available from: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK536951/&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="aids" /><category term="hiv" /><summary type="html">Esse mês, dois novos casos de remissão do HIV foram divulgados. Se confirmados com o tempo, já serão três pacientes “curados” do HIV. Claro que a noticia agitou tanto o mundo acadêmico como toda sociedade. A cura do HIV parece estar cada vez mais tangivel.</summary></entry><entry><title type="html">A via láctea do reino animal e por que o leite é tão importante</title><link href="https://mosquildo.com.br/medicina/24/02/2019/a-via-lactea-no-reino-animal" rel="alternate" type="text/html" title="A via láctea do reino animal e por que o leite é tão importante" /><published>2019-02-24T00:00:00-03:00</published><updated>2019-02-24T00:00:00-03:00</updated><id>https://mosquildo.com.br/medicina/24/02/2019/a-via-lactea-no-reino-animal</id><content type="html" xml:base="https://mosquildo.com.br/medicina/24/02/2019/a-via-lactea-no-reino-animal">&lt;p&gt;Fui atraído pelo simples e curioso título de &lt;a href=&quot;https://www.nytimes.com/2019/02/11/science/milk-animals-evolution.html&quot;&gt;uma matéria&lt;/a&gt; do &lt;em&gt;New York Times&lt;/em&gt;:  “Everywhere in the Animal Kingdom, Followers of the Milky Way”. De ínicio fiquei logo interessado em entender o que “followers of the milky way” queria dizer, curioso com a associação ao nome de nossa galáxia.&lt;/p&gt;
+&lt;/ol&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">A via láctea do reino animal e por que o leite é tão importante</title>
+            <link href="https://mosquildo.com.br/medicina/24/02/2019/a-via-lactea-no-reino-animal"/>
+            <published>2019-02-24T00:00:00-03:00</published>
+            <id>/medicina/24/02/2019/a-via-lactea-no-reino-animal</id>
+            <content type="html">&lt;p&gt;Fui atraído pelo simples e curioso título de &lt;a href=&quot;https://www.nytimes.com/2019/02/11/science/milk-animals-evolution.html&quot;&gt;uma matéria&lt;/a&gt; do &lt;em&gt;New York Times&lt;/em&gt;:  “Everywhere in the Animal Kingdom, Followers of the Milky Way”. De ínicio fiquei logo interessado em entender o que “followers of the milky way” queria dizer, curioso com a associação ao nome de nossa galáxia.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Tradução livre:&lt;/strong&gt; &lt;em&gt;Em todo lugar no Reino Animal, Seguidores da Via Láctea: À medida que os cientistas aprendem mais sobre a evolução do leite e as variações de composição, eles estão redefinindo o que costumava ser uma característica característica dos mamíferos.&lt;/em&gt;&lt;/p&gt;
 
@@ -319,136 +343,16 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
   &lt;li&gt;SBP: A importância do aleitamento materno. &lt;a href=&quot;http://www.sbp.com.br/especiais/pediatria-para-familias/nutricao/a-importancia-do-aleitamento-materno/&quot;&gt;Disponível aqui&lt;/a&gt;, Acessado em 24 de fevereiro de 2019.&lt;/li&gt;
   &lt;li&gt;Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect,  publicado na revista The Lancet, v. 387, Jan 30, 201.&lt;/li&gt;
   &lt;li&gt;Saúde da criança: nutrição infantil: aleitamento materno e alimentação complementar / Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica. – Brasília: Editora do Ministério da Saúde, 2009.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="leite" /><category term="maternidade" /><summary type="html">Fui atraído pelo simples e curioso título de uma matéria do New York Times: “Everywhere in the Animal Kingdom, Followers of the Milky Way”. De ínicio fiquei logo interessado em entender o que “followers of the milky way” queria dizer, curioso com a associação ao nome de nossa galáxia.</summary></entry><entry><title type="html">Como contribuir com a Wikipédia</title><link href="https://mosquildo.com.br/tecnologia/18/02/2019/como-contribuir-com-a-wikipedia" rel="alternate" type="text/html" title="Como contribuir com a Wikipédia" /><published>2019-02-18T00:00:00-03:00</published><updated>2019-02-18T00:00:00-03:00</updated><id>https://mosquildo.com.br/tecnologia/18/02/2019/como-contribuir-com-a-wikipedia</id><content type="html" xml:base="https://mosquildo.com.br/tecnologia/18/02/2019/como-contribuir-com-a-wikipedia">&lt;p&gt;A Wikipédia é um site criado em 2001 por Jimmy Wales e Larry Sanger que segue o modelo de wiki, uma plataforma destinada a agregar conteúdo onde qualquer usuário pode editar e contribuir. Surgiu como uma ideia ambiciosa de difundir o conhecimento e torna-lo acessível. Eu particularmente acho a Wikipédia uma das melhores coisas que a internet pôde nos proporcionar.&lt;/p&gt;
-
-&lt;p&gt;Hoje já são mais de 1 milhão de artigos disponíveis em português. Contudo, ainda estamos muito atrás da versão em inglês que possui 5 vezes mais que isso. Importante salientar que a Wikipédia em português inclui todos os países lusófonos como Portugal, Angola, Moçambique, o próprio Brasil, etc.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/posts/2019/wikipedia/wikipedia-total-articles.png&quot; alt=&quot;imagem com total de artigos por língua na wikipedia&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Neste artigo vou listar algumas características e funções da Wikipédia (muitas delas você nem deve imaginar que existe) e, em seguida, vou explicar brevemente como você pode se tornar um contribuidor.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-wikipédia-não-é-perfeita&quot;&gt;A Wikipédia não é perfeita!&lt;/h2&gt;
-
-&lt;p&gt;Acho que antes de tudo é preciso deixar isso bem claro. Muitas pessoas criticam a Wikipédia quando na verdade estão atribuindo uma função que a ela não pertence. Ela não é uma plataforma de criação de conteúdo, muito menos de publicação. A Wikipédia funciona como uma agregadora de informações, ou seja, uma enciclopédia! E como tudo é editado por voluntários, muitos artigos podem ser extremamente bem escritos e embasados enquanto que outros são péssimos. Isso corrobora o que eu já disse acima. A Wikipédia não é uma fonte de conteúdo, é uma agregadora.&lt;/p&gt;
-
-&lt;p&gt;Então, pelo amor de Deus! Se você estiver fazendo um trabalho escolar ou acadêmico, não cite a Wikipédia como uma fonte! o que você pode fazer é citar as mesmas fonte que a Wikipédia usa, claro que depois de conferí-las. A própria Wikipédia mantêm uma página deixando bem claro que não garante a validade dos artigos e você pode acessa-lá &lt;a href=&quot;https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Aviso_geral&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Sabendo dessa particularidade os usuários da wikipedia mantêm uma lista de “artigos destacados”. Essa lista contêm os artigos mais bem avaliados da plataforma. São artigos muito bem embasados e ricos de informação. Atualmente a lista possui 1.116 artigos e você pode &lt;a href=&quot;https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Artigos_destacados&quot;&gt;acessá-la aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;política-dentro-da-wikipédia&quot;&gt;Política dentro da Wikipédia&lt;/h2&gt;
-
-&lt;p&gt;Quando eu descobri que existiam votações e até cargos na Wikipédia, foi uma revelação muito louca. Na época, eu, um jovem idealista, achava que tinha encontrado o exemplo perfeito de anarquismo acontecendo e dando certo. Uma rede de voluntários, sem fins lucrativos, sem uma organização central dizendo as regras, tomando decisões pelo bem comum.&lt;/p&gt;
-
-&lt;p&gt;O centro das discussões “políticas” é a chamada &lt;em&gt;Esplanada&lt;/em&gt;, uma espécie de ágora pública da Wikipédia. Uma praça para se discutir sobre diversos assuntos referentes à plataforma. Eu entendo a esplanada como a “casa legislativa” da Wikipédia. Mas ela é muito mais do que isso. A Esplanada pode ser &lt;a href=&quot;https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Esplanada&quot;&gt;acessada aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Mas antes que comessem a dizer que a Wikipédia é partidária ou ideológica ou seja lá o que for, entendam que estou usando o sentido aristotélico da palavra política.  Ela possui um ambiente político uma vez que possui uma organização em que regras são discutidas e votadas por seus integrantes.&lt;/p&gt;
-
-&lt;h3 id=&quot;administradores&quot;&gt;Administradores&lt;/h3&gt;
-
-&lt;p&gt;Existem vários cargos que podem ser ocupados dentro da Wikipédia. Dentre eles vou destacar o cargo de administrador. Administradores são usuários que possuem recursos extras para manter o conteúdo da wiki. Eles podem bloquear edições em artigos, bloquear e desbloquear usuários, eliminar e restaurar páginas, etc. Eles são realmente responsáveis por administrar tudo.&lt;/p&gt;
-
-&lt;p&gt;Como qualquer cargo importante, não é qualquer um que pode ser um administrador. Existem dois pré requisitos e, além disso, o candidato ainda deve solicitar o cargo e passar por uma espécie de “sufrágio”. Isso mesmo, existem eleições dentro da wikipedia, veja que loucura. O candidato passa por um período de 7 dias de votação e só assume o cargo se obtiver ao menos 75% dos votos a favor. Se forem obtidos apenas 50% dos votos a votação é prorrogada. Mais informações podem ser acessadas na página &lt;a href=&quot;https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Pol%C3%ADtica_de_administradores&quot;&gt;política dos administradores&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Atualmente existem 81 administradores na Wikipédia lusófona e a lista deles pode ser &lt;a href=&quot;https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Administradores/Lista&quot;&gt;acessada aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;votações&quot;&gt;Votações&lt;/h3&gt;
-
-&lt;p&gt;E como qualquer bom meio político existem muitas votações na plataforma. Apesar e a Wikipédia sempre prezar pelo consenso dos usuários as opiniões podem divergir e aí entram as votações.&lt;/p&gt;
-
-&lt;p&gt;Várias coisas pode ser votadas. Se determinada página deve ser excluída, se um artigo deve ir para o destaque, os cargos, e muito mais. Para mais informação sobre as votações você pode &lt;a href=&quot;https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Vota%C3%A7%C3%B5es&quot;&gt;acessar aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Para adquirir o direito de votar é necessário cumprir alguns requisitos. São eles: ser um usuário registrado, ter uma contribuição válida a mais de 90 dias e ter mais de 300 edições de artigos. Para mais informações sobre o &lt;a href=&quot;https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Direito_ao_voto&quot;&gt;direito ao voto, acesse aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;o-histórico&quot;&gt;O histórico&lt;/h2&gt;
-
-&lt;p&gt;Talvez muita gente não saiba mas a Wikipédia registra todas alterações feitas em suas páginas. Elas ficam disponíveis para visualização na aba &lt;em&gt;ver histórico&lt;/em&gt; que costuma ficar logo após o botão de editar. Lá é possível rastrear se usuários fizeram alterações indevidas ou se contribuíram genuinamente com o conteúdo.&lt;/p&gt;
-
-&lt;p&gt;Então, se vandalizar ficará tudo salvo lá.&lt;/p&gt;
-
-&lt;h2 id=&quot;como-contribuir&quot;&gt;Como contribuir&lt;/h2&gt;
-
-&lt;p&gt;Primeiro é interessante criar uma conta. Assim todas suas alterações ficam registradas e podem ser vistas por outras usuários. Mas também é possível editar artigos sem nenhum registro.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Boas-vindas&quot;&gt;Aqui está um pequeno guia de boas vindas a colabores&lt;/a&gt;. Neste guia você encontra mais informações sobre como se tornar um editor da plataforma. Por ora vou falar brevemente algumas das formas que você pode contribuir para a rede.&lt;/p&gt;
-
-&lt;h3 id=&quot;narrando-artigos&quot;&gt;Narrando artigos&lt;/h3&gt;
-
-&lt;p&gt;Isso mesmo! Você pode emprestar sua bela voz a um artigo da wiki. Esse é um recurso fundamental para deficientes visuais e também bem interessante para quem está com preguiça de ler. &lt;a href=&quot;https://pt.wikipedia.org/wiki/Apartheid&quot;&gt;Este artigo sobre o Apartheid&lt;/a&gt; é um exemplo de artigo narrado. Se interessou? [veja aqui como narrar um artigo].&lt;/p&gt;
-
-&lt;h3 id=&quot;traduzindo-artigos&quot;&gt;Traduzindo artigos&lt;/h3&gt;
-
-&lt;p&gt;Se você domina outra língua além do português então pode contribuir também dessa forma. Uma boa ideia é escolher um artigo destacado (os mais bem escritos) de outras línguas que não possuem a versão completa na Wikipédia lusófona. Um bom artigo aliado a uma boa tradução com certeza irá produzir um bom resultado.&lt;/p&gt;
-
-&lt;h3 id=&quot;pequenas-edições&quot;&gt;Pequenas edições&lt;/h3&gt;
-
-&lt;p&gt;Você não precisa gastar dias escrevendo um artigo super completo para a Wikipédia. Você pode simplesmente ir fazendo pequenas contribuições, como editar parágrafos ou corrigir frases e edicionar novas fontes. Cada pequena ateração feita por um usuário diferente já vai somando na construção da Wikipédia.&lt;/p&gt;
-
-&lt;h3 id=&quot;discutir-sobre-os-artigos&quot;&gt;Discutir sobre os artigos&lt;/h3&gt;
-
-&lt;p&gt;Cada artigo também possui uma página de discussão. Nelas os usuários podem discutir seu conteúdo. Se quiser sugerir algo ou questionar alguma alteração, esse é o lugar.&lt;/p&gt;
-
-&lt;h3 id=&quot;fiscal-de-qualidade-e-antivandalismo&quot;&gt;Fiscal de qualidade e antivandalismo&lt;/h3&gt;
-
-&lt;p&gt;Você também pode dedicar parte do seu tempo lendo os últimos artigos editados da wikipedia e conferindo sua qualidade. Assim você pode recusar más edições e também evitar vandalismos nas páginas. Você só precisa acompanhar as atualizações da &lt;a href=&quot;https://pt.wikipedia.org/wiki/Especial:Mudan%C3%A7as_recentes?hidebots=1&amp;amp;hidecategorization=1&amp;amp;hideWikibase=1&amp;amp;limit=50&amp;amp;days=7&amp;amp;urlversion=2&quot;&gt;página de mudanças recentes&lt;/a&gt; que se atualiza a cada nova alteação.&lt;/p&gt;
-
-&lt;h2 id=&quot;detalhes-para-seguir-quando-for-contribuir&quot;&gt;Detalhes para seguir quando for contribuir&lt;/h2&gt;
-
-&lt;p&gt;Quando escrever ou criar um novo artigo, é muito importante se atentar na linguagem usada. É preciso sempre ter em mente que a wikipedia é uma enciclopedia e requer concordância na escrita. Também é preciso procurar ser o mais parcial possível.&lt;/p&gt;
-
-&lt;p&gt;Claro que poderíamos entrar numa acalorada discussão sobre o que é parcialidade e até chegar à conclusão de que ela não existe. Mas como tantas pessoas diferentes editam a Wikipédia, e como cada artigo já passou por diversas mãos, é realmente muito improvável que o conteúdo siga ideologias particulares. Precisamos escrever sempre focando na imparcialidade, pelo menos tentando ao máximo.&lt;/p&gt;
-
-&lt;h2 id=&quot;programa-de-tutoria&quot;&gt;Programa de tutoria&lt;/h2&gt;
-
-&lt;p&gt;Se você estiver realmente interessado em fazer parte da wikipedia, pode contar com a ajuda de um tutor, um usuário mais experiente que vai lhe guiar pela wikipedia. A pagina de tutoria pode ser &lt;a href=&quot;https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Tutoria&quot;&gt;acessada aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;como-eu-uso-a-wikipédia&quot;&gt;Como eu uso a Wikipédia&lt;/h2&gt;
-
-&lt;p&gt;Quando quero estudar um assunto novo a primeira coisa que faço é ler a sua página na Wikipédia. É lá que eu obtenho a primeira impressão do tema. Mas preste atenção que eu não paro por aí. Em seguida vou dar uma olhada nas fontes usadas pela Wikipédia, para checar se as informações realmente existem e se as fontes possuem alguma credibilidade.&lt;/p&gt;
-
-&lt;p&gt;Após isso, eu já tenho uma boa base para começar a procurar mais conteúdo pela internet, como livros, vídeos e artigos acadêmicos.&lt;/p&gt;
-
-&lt;p&gt;Em seguida, após ter estudado mais sobre o assunto, se eu perceber que na wikipedia faltavam informações ou que lá tinha coisa errada, eu simplesmente vou lá e corrijo.&lt;/p&gt;
-
-&lt;p&gt;Contribuir para a Wikipédia é uma forma de ensinar e aprender ao mesmo tempo.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="tecnologia" /><category term="wikipedia" /><summary type="html">A Wikipédia é um site criado em 2001 por Jimmy Wales e Larry Sanger que segue o modelo de wiki, uma plataforma destinada a agregar conteúdo onde qualquer usuário pode editar e contribuir. Surgiu como uma ideia ambiciosa de difundir o conhecimento e torna-lo acessível. Eu particularmente acho a Wikipédia uma das melhores coisas que a internet pôde nos proporcionar.</summary></entry><entry><title type="html">Problema do brilho travado no linux</title><link href="https://mosquildo.com.br/problema-brilho-linux" rel="alternate" type="text/html" title="Problema do brilho travado no linux" /><published>2019-02-18T00:00:00-03:00</published><updated>2019-02-18T00:00:00-03:00</updated><id>https://mosquildo.com.br/Problema-do-brilho-travado-no-linux</id><content type="html" xml:base="https://mosquildo.com.br/problema-brilho-linux">&lt;p&gt;Esse é um problema que sempre enfrento não importa a distro instalada. Porém, tem vezes que o brilho trava no mínimo e tem vezes que trava no máximo. “Trava”, pois os botões de controle do brilho não funcionam e nem os comandos no terminal.&lt;/p&gt;
-
-&lt;p&gt;A primeira vez que aconteceu foi muito difícil achar a solução porque a tela ficou sem brilho e era quase impossível ver algo na tela. Tive que ficar pesquisando com o celular. Felizmente encontrei a solução para o problema, tanto para o brilho máximo como do mínimo.&lt;/p&gt;
-
-&lt;h2 id=&quot;solução&quot;&gt;Solução:&lt;/h2&gt;
-
-&lt;p&gt;É bastante simples. Vamos precisar alterar alguns elementos no arquivo de configuração do grub, localizado em &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/default/grub&lt;/code&gt;. Para isso, vamos usar o programa &lt;em&gt;nano&lt;/em&gt; pois acredito que ele já vem instalado em todas as distros. Caso contrário você pode usar qualquer um. Só preste atenção que é necessário privilégios de administrador para editar este arquivo e é por isso vamos usar o comando sudo.&lt;/p&gt;
-
-&lt;p&gt;Então digite no terminal:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /etc/default/grub
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Vai aparecer uma tela de edição do nano. É só localizar a linha com o elemento &lt;code class=&quot;highlighter-rouge&quot;&gt;GRUB_CMDLINE_LINUX_DEFAULT=&lt;/code&gt;. A minha é assim:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;GRUB_CMDLINE_LINUX_DEFAULT=&quot;quiet&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Nela você pode adicionar uma série de valores que podem resolver esse problema. Pesquisando nos fórums o valor que resolve acaba dependendo de usuário para usuário. Para mim o valor &lt;code class=&quot;highlighter-rouge&quot;&gt;acpi_osi='!Windows 2012'&lt;/code&gt; foi o efetivo. Mas você pode tentar outros como:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;acpi_osi=
-acpi_osi=Linux
-acpi_osi='!Windows 2012'
-acpi_osi='!Windows 2012' acpi_backlight=vendor
-acpi_backlight=vendor
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Se eu souber de mais vou editando esse post. Esse valor deve ser adicionado dentro dos parenteses, separado por um espaço dos outros elementos. Editando a minha linha vai ficar assim:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;GRUB_CMDLINE_LINUX_DEFAULT=&quot;quiet acpi_osi='!Windows 2012'&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;A sua deve ficar semelhante. Perceba que eu inclui os apóstrofos e respeitei as aspas. Se escrever errado não vai funcionar então preste atenção. Lembrando que se não der certo você pode tentar adicionar um dos outros valores no mesmo lugar.&lt;/p&gt;
-
-&lt;p&gt;Em seguida é só salvar as alterações e fechar o editor. No nano isso pode ser feito com &lt;kbd&gt;Ctrl + O&lt;/kbd&gt; para salvar e &lt;kbd&gt;Ctrl + X&lt;/kbd&gt; para sair. Depois é necessário atualizar o arquivo de configuração de boot do grub, execute:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo update-grub
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;E pronto! É só reiniciar o computador e verá que consegue mudar o brilho. Se você souber de mais valores que funcionam, seria muito legal se pudesse me mandar uma email com eles. Ou também me manda um email se o tutorial foi útil para você. O endereço é &lt;a href=&quot;mailto:filipemosca@canalionico.com.br&quot;&gt;filipemosca@canalionico.com.br&lt;/a&gt;, e será usado para contato enquanto eu não coloco uma sessão de comentários.&lt;/p&gt;
-
-&lt;p&gt;Obrigado pela atenção!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="linux" /><summary type="html">Esse é um problema que sempre enfrento não importa a distro instalada. Porém, tem vezes que o brilho trava no mínimo e tem vezes que trava no máximo. “Trava”, pois os botões de controle do brilho não funcionam e nem os comandos no terminal.</summary></entry><entry><title type="html">O que são superbactérias e um pouco sobre evolução</title><link href="https://mosquildo.com.br/medicina/03/02/2019/o-que-sao-superbacterias" rel="alternate" type="text/html" title="O que são superbactérias e um pouco sobre evolução" /><published>2019-02-03T00:00:00-03:00</published><updated>2019-02-03T00:00:00-03:00</updated><id>https://mosquildo.com.br/medicina/03/02/2019/o-que-sao-superbacterias</id><content type="html" xml:base="https://mosquildo.com.br/medicina/03/02/2019/o-que-sao-superbacterias">&lt;p&gt;O termo superbactéria é amplamente usado para ser referir a bactérias com uma intensa capacidade de provocar doenças graves e de difícil tratamento. O “superpoder” delas é a sua capacidade de resistir a vários tipos de antibióticos, o que para nós não é nada bom.&lt;/p&gt;
+&lt;/ol&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">O que são superbactérias e um pouco sobre evolução</title>
+            <link href="https://mosquildo.com.br/medicina/03/02/2019/o-que-sao-superbacterias"/>
+            <published>2019-02-03T00:00:00-03:00</published>
+            <id>/medicina/03/02/2019/o-que-sao-superbacterias</id>
+            <content type="html">&lt;p&gt;O termo superbactéria é amplamente usado para ser referir a bactérias com uma intensa capacidade de provocar doenças graves e de difícil tratamento. O “superpoder” delas é a sua capacidade de resistir a vários tipos de antibióticos, o que para nós não é nada bom.&lt;/p&gt;
 
 &lt;p&gt;As bactérias super resistentes costumam receber siglas dependendo de sua espécie e da droga com a qual possuem resistência. Como são muitas, vou utilizar o  &lt;em&gt;Staphylococcus aureus&lt;/em&gt; como exemplo.&lt;/p&gt;
 
@@ -555,7 +459,16 @@ acpi_backlight=vendor
   &lt;li&gt;WHO: Antimicrobial resistance: global report on surveillance. 2014, ISBN 978 92 4 156474 8.&lt;/li&gt;
   &lt;li&gt;Anvisa: Superbactérias: de onde vêm, como vivem e se reproduzem (&lt;a href=&quot;http://portal.anvisa.gov.br/rss/-/asset_publisher/Zk4q6UQCj9Pn/content/superbacterias-de-onde-vem-como-vivem-e-se-reproduzem/219201?inheritRedirect=false&quot;&gt;link&lt;/a&gt;)&lt;/li&gt;
   &lt;li&gt;Anvisa: Hora de ajudar na luta contra superbactérias (&lt;a href=&quot;http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/hora-de-ajudar-na-luta-contra-superbacterias/219201?p_p_auth=IyRI936i&amp;amp;inheritRedirect=false&amp;amp;redirect=http%3A%2F%2Fportal.anvisa.gov.br%2Fnoticias%3Fp_p_auth%3DIyRI936i%26p_p_id%3D101_INSTANCE_FXrpx9qY7FbU%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_dKu0997DQuKh__column-2%26p_p_col_count%3D1&quot;&gt;link&lt;/a&gt;)&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="antibióticos" /><category term="bactérias" /><category term="evolução" /><summary type="html">O termo superbactéria é amplamente usado para ser referir a bactérias com uma intensa capacidade de provocar doenças graves e de difícil tratamento. O “superpoder” delas é a sua capacidade de resistir a vários tipos de antibióticos, o que para nós não é nada bom.</summary></entry><entry><title type="html">O sarampo está de volta? Entendendo o surto no Brasil</title><link href="https://mosquildo.com.br/medicina/25/01/2019/entendendo-o-surto-de-sarampo-no-brasil" rel="alternate" type="text/html" title="O sarampo está de volta? Entendendo o surto no Brasil" /><published>2019-01-25T00:00:00-03:00</published><updated>2019-01-25T00:00:00-03:00</updated><id>https://mosquildo.com.br/medicina/25/01/2019/entendendo-o-surto-de-sarampo-no-brasil</id><content type="html" xml:base="https://mosquildo.com.br/medicina/25/01/2019/entendendo-o-surto-de-sarampo-no-brasil">&lt;p&gt;Em 2016, o sarampo foi considerado uma doença eliminada no Brasil. Com 95% da população alvo vacinada e 12 meses sem novos casos, a &lt;a href=&quot;https://www.paho.org/bra/&quot;&gt;OPAS&lt;/a&gt; nos concedeu essa conquista. Contudo, se você acompanha os noticiários já deve estar por dentro da mais nova preocupação. O sarampo parece está voltando ao Brasil. Dois anos após a eliminação o nosso título está ameaçado? Ao longo do artigo vou tentar explicar os fatores que levaram ao surto e também responder essa pergunta.&lt;/p&gt;
+&lt;/ol&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">O sarampo está de volta? Entendendo o surto no Brasil</title>
+            <link href="https://mosquildo.com.br/medicina/25/01/2019/entendendo-o-surto-de-sarampo-no-brasil"/>
+            <published>2019-01-25T00:00:00-03:00</published>
+            <id>/medicina/25/01/2019/entendendo-o-surto-de-sarampo-no-brasil</id>
+            <content type="html">&lt;p&gt;Em 2016, o sarampo foi considerado uma doença eliminada no Brasil. Com 95% da população alvo vacinada e 12 meses sem novos casos, a &lt;a href=&quot;https://www.paho.org/bra/&quot;&gt;OPAS&lt;/a&gt; nos concedeu essa conquista. Contudo, se você acompanha os noticiários já deve estar por dentro da mais nova preocupação. O sarampo parece está voltando ao Brasil. Dois anos após a eliminação o nosso título está ameaçado? Ao longo do artigo vou tentar explicar os fatores que levaram ao surto e também responder essa pergunta.&lt;/p&gt;
 
 &lt;h2 id=&quot;breve-descrição-da-doença&quot;&gt;Breve descrição da doença&lt;/h2&gt;
 
@@ -685,4 +598,10 @@ acpi_backlight=vendor
   &lt;li&gt;Site o ministério da saúde. Ministério da Saúde atualiza casos de sarampo. Acessado em 25 de janeiro de 2019.&lt;/li&gt;
   &lt;li&gt;Miller M, Barrett S, Henderson DA. Control and Eradication. In: Jamison DT, Breman JG, Measham AR, et al., editors. Disease Control Priorities in Developing Countries. 2nd edition. Washington (DC): The International Bank for Reconstruction and Development / The World Bank; 2006. Chapter 62. &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK11763/&quot;&gt;Available here&lt;/a&gt;. Co-published by Oxford University Press, New York.&lt;/li&gt;
   &lt;li&gt;Papania MJ, Wallace GS, Rota PA, et al. Elimination of Endemic Measles, Rubella, and Congenital Rubella Syndrome From the Western Hemisphere: The US Experience. &lt;em&gt;JAMA Pediatr.&lt;/em&gt; 2014;168(2):148–155.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="epidemiologia" /><category term="sarampo" /><category term="vacinas" /><summary type="html">Em 2016, o sarampo foi considerado uma doença eliminada no Brasil. Com 95% da população alvo vacinada e 12 meses sem novos casos, a OPAS nos concedeu essa conquista. Contudo, se você acompanha os noticiários já deve estar por dentro da mais nova preocupação. O sarampo parece está voltando ao Brasil. Dois anos após a eliminação o nosso título está ameaçado? Ao longo do artigo vou tentar explicar os fatores que levaram ao surto e também responder essa pergunta.</summary></entry></feed>
+&lt;/ol&gt;
+</content>
+        </entry>
+    
+
+  </channel>
+</rss>

@@ -1,12 +1,6 @@
 ---
 title: O que são superbactérias e um pouco sobre evolução
-layout: post
-permalink: /2019/02/03/o-que-sao-superbacterias.html
-comments: true
-feat-image: /assets/images/posts/2019/superbacterias/thumb-sb.jpg
-image: /assets/images/posts/2019/superbacterias/thumb-sb.jpg
-categories:
-  - medicina
+category: medicina
 tags:
   - antibióticos
   - bactérias

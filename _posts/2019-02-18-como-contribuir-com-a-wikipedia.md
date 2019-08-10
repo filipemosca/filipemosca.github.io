@@ -1,8 +1,7 @@
 ---
 title: Como contribuir com a Wikipédia
 comments: true
-categories:
-  - tecnologia
+category: tecnologia
 tags:
   - wikipedia
 ---

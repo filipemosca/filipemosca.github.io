@@ -1,6 +1,6 @@
 ---
 title: O efeito placebo e a humanização da medicina
-categories: medicina
+category: medicina
 tags: placebo
 ---
 

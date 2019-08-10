@@ -19,6 +19,11 @@ defaults:
     values:
       layout: "default"
 
+feed:
+  categories:
+    - medicina
+    - linux
+
 # para o SEO tag:
 lang: pt_BR
 

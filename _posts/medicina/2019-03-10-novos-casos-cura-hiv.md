@@ -1,7 +1,6 @@
 ---
 title: Os dois novos casos de cura do HIV
-categories:
-  - medicina
+category: medicina
 tags:
   - aids
   - hiv

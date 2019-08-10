@@ -1,7 +1,6 @@
 ---
 title: A via láctea do reino animal e por que o leite é tão importante
-categories:
-- medicina
+category: medicina
 tags:
 - leite
 - maternidade

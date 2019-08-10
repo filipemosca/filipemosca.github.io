@@ -1,7 +1,6 @@
 ---
 title: O sarampo está de volta? Entendendo o surto no Brasil
-categories:
-  - medicina
+category: medicina
 tags:
   - epidemiologia
   - sarampo
