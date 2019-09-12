@@ -207,7 +207,7 @@ kbd {
     list-style-type: none; }
 
 .footer-col1 {
-  width: 100%; }
+  width: 90%; }
   .footer-col1 .contato {
     list-style-type: none; }
     .footer-col1 .contato li {
@@ -276,7 +276,7 @@ kbd {
     padding-left: 0; }
 
   .footer-col1 {
-    width: calc(34%); }
+    width: calc(40%); }
 
   .footer-col2 {
     width: calc(25%); }
