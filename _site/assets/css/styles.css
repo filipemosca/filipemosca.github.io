@@ -36,6 +36,8 @@ body {
 .botao:hover {
   background-color: #d40000;
   color: white; }
+  .botao:hover svg {
+    fill: white; }
 
 /* Barra de navegaçao */
 nav {
@@ -58,12 +60,8 @@ nav {
   background-color: #b80000;
   color: white; }
 
-.fa {
+.fa, .fas, .fab {
   padding-right: 5px; }
-
-.fab {
-  padding-right: 5px;
-  color: #828282; }
 
 #face, #git {
   font-size: 20px; }
@@ -95,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 400; }
 
-p, a, li {
+p, a, li, caption {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   line-height: 1.2;
@@ -108,6 +106,9 @@ a {
 
 p {
   line-height: 1.5; }
+
+img {
+  max-width: 100%; }
 
 ::selection {
   background: yellow;
@@ -127,8 +128,7 @@ p {
 .post-date {
   font-size: 16px;
   color: gray;
-  margin-bottom: 0;
-  text-align: right; }
+  margin-bottom: 0; }
 
 .post-author {
   font-size: 16px;
@@ -252,6 +252,11 @@ kbd {
 #creditos {
   color: gray;
   font-size: 16px; }
+
+.svg {
+  padding-right: 5px;
+  width: 14px;
+  fill: #2a7ae2; }
 
 .svg-icon {
   height: 16px;

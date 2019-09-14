@@ -1,7 +1,19 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1><p class="post-date"><time>{{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
+<h1>{{ page.title }}</h1>
+
+{% for category in page.categories %}
+{% capture category_name %}{{ category }}{% endcapture %}
+<a href="/{{ category_name }}"><code class="highligher-rouge"><nobr>{{ category_name }}</nobr></code>&nbsp;</a>
+{% endfor %}
+
+{% for tag in page.tags %}
+{% capture tag_name %}{{ tag }}{% endcapture %}
+<span><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</span>
+{% endfor %}
+
+<p class="post-date"><time>{{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}janeiro
   {% when '2' %}fevereiro
