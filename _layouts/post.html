@@ -13,7 +13,7 @@ layout: default
 <span class="pseudobotao2">{{ tag_name }}</span>
 {% endfor %}
 
-<p class="post-date"><time>{{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
+<p class="post-date"><i class="far fa-calendar-alt"></i><time>{{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}janeiro
   {% when '2' %}fevereiro
@@ -27,7 +27,7 @@ layout: default
   {% when '10' %}outubro
   {% when '11' %}novembro
   {% when '12' %}dezembro
-{% endcase %}{{ page.date | date: "%Y"}}</time><i class="far fa-calendar-alt"></i></p>
+{% endcase %}{{ page.date | date: "%Y"}}</time></p>
 
 {{ content }}
 
