@@ -25,12 +25,12 @@ layout: default
 
         {% for category in post.categories %}
         {% capture category_name %}{{ category }}{% endcapture %}
-        <a href="/{{ category_name }}"><code class="highligher-rouge"><nobr>{{ category_name }}</nobr></code>&nbsp;</a>
+        <a class="pseudobotao {{ category_name }}" href="/{{ category_name }}" >{{ category_name }}</a>
         {% endfor %}
 
         {% for tag in post.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
-        <span><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</span>
+        <span class="pseudobotao2">{{ tag_name }}</span>
         {% endfor %}
 
         <span id="post-info"><i id="calendar-index" class="far fa-calendar-alt"></i><time>{{ post.date | date: "%-d" }} de {% assign m = post.date | date: "%-m" %}

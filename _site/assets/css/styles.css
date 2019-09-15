@@ -14,13 +14,17 @@
   padding-left: 20px; }
 
 body {
-  margin: 0 0 0 0; }
+  margin: 0 0 0 0;
+  font-family: Palatino, serif;
+  font-size: 1.2em; }
 
 /* Header */
 #logo {
   margin: 0 auto;
   padding-top: 20px;
   color: #727272; }
+  #logo h1 {
+    font-weight: normal; }
 
 .botao {
   text-decoration: none;
@@ -29,20 +33,61 @@ body {
   padding: 4px 6px 4px 6px;
   border-radius: 0.5rem;
   display: inline-block;
-  margin-bottom: 0;
   padding-right: 5px;
-  margin-right: 5px; }
+  margin-right: 2px;
+  margin-bottom: 5px; }
 
 .botao:hover {
-  background-color: #d40000;
+  background-color: black;
   color: white; }
   .botao:hover svg {
     fill: white; }
 
+.pseudobotao {
+  text-decoration: none;
+  font-size: medium;
+  background-color: #2a7ae2;
+  color: white;
+  padding: 4px 6px 4px 6px;
+  border-radius: 0.5rem;
+  display: inline-block;
+  padding-right: 5px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  margin-top: 5px; }
+
+.pseudobotao:hover {
+  background-color: black;
+  color: white; }
+  .pseudobotao:hover svg {
+    fill: white; }
+
+.pseudobotao2 {
+  text-decoration: none;
+  font-size: medium;
+  border: 1px solid;
+  color: #2a7ae2;
+  padding: 4px 6px 4px 6px;
+  border-radius: 0.5rem;
+  display: inline-block;
+  padding-right: 5px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  margin-top: 5px; }
+
+.medicina {
+  background-color: green; }
+
+.linux {
+  background-color: red; }
+
+.tecnologia {
+  background-color: yellow;
+  color: black; }
+
 /* Barra de navegaçao */
 nav {
   padding-top: 5px;
-  line-height: 30px;
   margin: 0 auto; }
   nav a {
     text-decoration: none;
@@ -51,13 +96,13 @@ nav {
     padding: 4px 6px 4px 6px;
     border-radius: 0.5rem;
     display: inline-block;
-    margin-bottom: 0; }
+    margin-bottom: 5px; }
   nav a:hover {
-    background-color: #d40000;
+    background-color: black;
     color: white; }
 
 .current {
-  background-color: #b80000;
+  background-color: black;
   color: white; }
 
 .fa, .fas, .fab {
@@ -89,13 +134,7 @@ h1 {
   text-align: left;
   margin-bottom: 0; }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 400; }
-
 p, a, li, caption {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 18px;
   line-height: 1.2;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
@@ -105,7 +144,7 @@ a {
   color: #2a7ae2; }
 
 p {
-  line-height: 1.5; }
+  line-height: 1.6; }
 
 img {
   max-width: 100%; }
