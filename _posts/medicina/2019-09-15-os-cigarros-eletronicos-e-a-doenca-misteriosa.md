@@ -1,5 +1,5 @@
 ---
-title: Os cigarros eletrônicos e as mortes misteriosas
+title: Os cigarros eletrônicos e a doença misteriosa
 category: medicina
 tags: [cigarro, pneumologia]
 ---
