@@ -225,6 +225,11 @@ kbd {
   padding: 2px 4px;
   white-space: nowrap; }
 
+.instagram-div {
+  max-width: 500px;
+  margin-right: auto;
+  margin-left: auto; }
+
 /* footer */
 .footer {
   border-top: 1px solid #e8e8e8;
