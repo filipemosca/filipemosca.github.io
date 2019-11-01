@@ -5,10 +5,28 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Sep 2019 18:02:37 -0300</pubDate>
-    <lastBuildDate>Sun, 15 Sep 2019 18:02:37 -0300</lastBuildDate>
+    <pubDate>Sun, 27 Oct 2019 23:55:08 -0300</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2019 23:55:08 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
+    
+    <entry>
+            <title type="html">Leptospirose</title>
+            <link href="http://localhost:4000/medicina/20/10/2019/leptospirose"/>
+            <published>2019-10-20T00:00:00-03:00</published>
+            <id>/medicina/20/10/2019/leptospirose</id>
+            <content type="html">
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Cirúrgias também pode funcionar como placebo?</title>
+            <link href="http://localhost:4000/medicina/20/10/2019/cirurgias-tambem-podem-funcionar-como-placebo"/>
+            <published>2019-10-20T00:00:00-03:00</published>
+            <id>/medicina/20/10/2019/cirurgias-tambem-podem-funcionar-como-placebo</id>
+            <content type="html">
+</content>
+        </entry>
     
     <entry>
             <title type="html">Os cigarros eletrônicos e a doença misteriosa</title>
