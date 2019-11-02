@@ -5,8 +5,13 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Sun, 27 Oct 2019 23:55:08 -0300</pubDate>
     <lastBuildDate>Sun, 27 Oct 2019 23:55:08 -0300</lastBuildDate>
+=======
+    <pubDate>Tue, 29 Oct 2019 09:37:34 -0300</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2019 09:37:34 -0300</lastBuildDate>
+>>>>>>> 68788170109c6a4707a029653645dd76325ef0a2
     <generator>Jekyll v3.8.5</generator>
 
     
@@ -40,9 +45,9 @@
 	&lt;figcaption&gt;Ilustração do conteúdo de um cigarro eletrônico — DEF. (Fonte: INCA 2016)&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Nos Estados Unidos, a primeira morte aparentemente ligada ao novo cigarro foi relatada em 23 de agosto desse ano. Na época, já haviam 193 casos de atendimentos médicos por doenças relacionadas ao cigarro eletrônico.&lt;sup id=&quot;fnref:nyt2019&quot;&gt;&lt;a href=&quot;#fn:nyt2019&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Agora, até o momento em que publico esse artigo, parece que já houveram 6 mortes e 450 pessoas hospitalizadas com estes quadros clínicos sugestivos, nos EUA.&lt;sup id=&quot;fnref:theguardian2019&quot;&gt;&lt;a href=&quot;#fn:theguardian2019&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; A suspeita de os DEFs serem os culpados começou porque ele é o único ponto em comum entre todos os doentes.&lt;/p&gt;
+&lt;p&gt;Nos Estados Unidos, a primeira morte aparentemente ligada ao novo cigarro foi relatada em 23 de agosto desse ano. Na época, já haviam 193 casos de atendimentos médicos por doenças relacionadas ao cigarro eletrônico.&lt;sup id=&quot;fnref:nyt2019&quot;&gt;&lt;a href=&quot;#fn:nyt2019&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Agora, até o momento em que publico esse artigo, parece que já houveram 6 mortes e 450 pessoas hospitalizadas com estes quadros clínicos sugestivos, nos EUA.&lt;sup id=&quot;fnref:theguardian2019&quot;&gt;&lt;a href=&quot;#fn:theguardian2019&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; A suspeita de os DEFs serem os culpados começou pois ele é o único ponto em comum entre todos os doentes.&lt;/p&gt;
 
-&lt;p&gt;Um artigo do &lt;em&gt;New England Journal of Medicine&lt;/em&gt; compilou 53 casos de afecção pulmonar muito semelhantes ocorridos nos estados de Wisconsin e Illinois. Todos os casos não tinham uma explicação definida para o quadro, sendo excluidas causas infectocontagiosas (todos que fizeram uso de antibióticos mantiveram a progressão do quadro pulmonar), reumatológicas e oncológicas. O que todos os pacientes apresentavam em comum era justamente o fato de serem usuários dos cigarros eletrônicos há pelo menos algumas semanas. Foram adimitidos nos hospitais com sintomas progressivos de dispńeia, dor no peito, tosse, fadiga e hipoxemia. Também apresentaram sintomas constitucionais como febre, e acometimento de outros sistemas, como o gastrointestinal.&lt;sup id=&quot;fnref:nejm2019&quot;&gt;&lt;a href=&quot;#fn:nejm2019&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; 6 dos 53 pacientes chegaram a apresentar episódios de hemoptise, 30% já possuiam diagnóstico de asma e todos tinham alterações radiográficos na tomografia computadorizada de tórax, evidenciamento acometimento nos pulmões. Destes 53, um evoluiu para óbito.&lt;/p&gt;
+&lt;p&gt;Um artigo do &lt;em&gt;New England Journal of Medicine&lt;/em&gt; compilou 53 casos de afecção pulmonar muito semelhantes ocorridos nos estados de Wisconsin e Illinois. Todos os casos não tinham uma explicação definida para o quadro, sendo excluidas causas infecto-contagiosas (todos que fizeram uso de antibióticos mantiveram a progressão do quadro pulmonar), reumatológicas e oncológicas. O que todos os pacientes apresentavam em comum era justamente o fato de serem usuários dos cigarros eletrônicos há pelo menos algumas semanas. Foram adimitidos nos hospitais com sintomas progressivos de dispńeia, dor no peito, tosse, fadiga e hipoxemia. Também apresentaram sintomas constitucionais como febre, e acometimento de outros sistemas, como o gastrointestinal.&lt;sup id=&quot;fnref:nejm2019&quot;&gt;&lt;a href=&quot;#fn:nejm2019&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; 6 dos 53 pacientes chegaram a apresentar episódios de hemoptise, 30% já possuiam diagnóstico de asma e todos tinham alterações radiográficos na tomografia computadorizada de tórax, evidenciamento acometimento nos pulmões. Dos 53, um evoluiu para óbito.&lt;/p&gt;
 
 &lt;p&gt;Para termos uma noção da gravidade dos casos, 38% dos pacientes tiveram uma saturação (sob ar ambiente) de oxigênio entre 89-94%, e 31% estavam saturando menos que 89%. 4 pacientes tiveram pneumomediastino, 5 tiveram derrame pleural e 1 teve pneumotórax.&lt;/p&gt;
 
@@ -64,7 +69,7 @@
 
 &lt;p&gt;O curioso é que esses produtos já são vendidos nos EUA a 15 anos e recentemente começaram a aparecer os casos de doenças pulmonares agudas em pessoas que começaram a fumar a poucos meses. Parece que houve alguma mudança nos cigarros nos últimos anos.&lt;/p&gt;
 
-&lt;p&gt;Um relato de caso de 2012 já apresentava um caso de pneumonia lipoide por uso de cigarros eletrônicos em uma  mulher de 42 anos que fumava a 7 meses.&lt;sup id=&quot;fnref:mccauley2012&quot;&gt;&lt;a href=&quot;#fn:mccauley2012&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; Essa pneumonia é causada pela aspiração de lipídios e iniciailemente imaginaram que a causa do quadro poderia ter sido a exposição aos óleos de glicerina que compoem os DEFs. Não cheguei a pesquisar novos casos após esse de 2012 até por que não tenho muito tempo para isso (mas adoraria, quem sabe depois). Queria postar aqui as radiografias desse caso de 2012 mas a licensa da revista não permite. Felizmente as imagens podem ser vistas no &lt;a href=&quot;https://journal.chestnet.org/article/S0012-3692(12)60238-4/fulltext&quot;&gt;site da revista&lt;/a&gt; sem necessidade de assinatura.&lt;/p&gt;
+&lt;p&gt;Um relato de caso de 2012 já apresentava um caso de pneumonia lipoide por uso de cigarros eletrônicos em uma  mulher de 42 anos que fumava a 7 meses.&lt;sup id=&quot;fnref:mccauley2012&quot;&gt;&lt;a href=&quot;#fn:mccauley2012&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; Essa pneumonia é causada pela aspiração de lipídios e inicialmente imaginaram que a causa do quadro poderia ter sido a exposição aos óleos de glicerina que compoem os DEFs. Não cheguei a pesquisar novos casos após esse de 2012 até por que não tenho muito tempo para isso (mas adoraria, quem sabe depois). Queria postar aqui as radiografias desse caso de 2012 mas a licensa da revista não permite. Felizmente as imagens podem ser vistas no &lt;a href=&quot;https://journal.chestnet.org/article/S0012-3692(12)60238-4/fulltext&quot;&gt;site da revista&lt;/a&gt; sem necessidade de assinatura.&lt;/p&gt;
 
 &lt;p&gt;Enfim, existem vários outros compostos que podem estar associados a esses quadros pulmonares. E, provavelmente, ainda há a associação e combinaçao de todos esses fatores. Fica até difícil tentar estudar o efeito isolado de cada um pra saber qual ou quais os verdadeiros culpados.&lt;/p&gt;
 
@@ -103,6 +108,34 @@
     &lt;/li&gt;
     &lt;li id=&quot;fn:mccauley2012&quot;&gt;
       &lt;p&gt;McCauley L, Markin C, Hosmer D. An unexpected consequence of electronic cigarette use. Chest. 2012;141(4):1110-1113. doi:10.1378/chest.11-1334 &lt;a href=&quot;#fnref:mccauley2012&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Escala de coma de Glasgow</title>
+            <link href="http://localhost:4000/medicina/15/09/2019/escala-de-coma-de-glasgow"/>
+            <published>2019-09-15T01:24:40-03:00</published>
+            <id>/medicina/15/09/2019/escala-de-coma-de-glasgow</id>
+            <content type="html">&lt;p&gt;Existem muitas escalas na medicina. Uma das mais antigas e ainda amplamente utilizada é a escala de coma de Glagow (ECG). Simplemente não dá para não saber a ECG. Ela foi criada em 1974 na tentativa de tentar categorizar de forma prática o nível de consciência dos pacientes.&lt;sup id=&quot;fnref:tesdale2014&quot;&gt;&lt;a href=&quot;#fn:tesdale2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Antes da ECG era muito difícil de se comunicar entre os médicos o grau de rebaixamento de consciência dos pacientes. Também não havia uma quantificação para saber se o paciente estava melhorando ou piorando o seu estado mental. E, além disso, era muito difícil fazer pesquisas sem conseguir dividir os pacientes em grupos e avaliar os resultados do acordo com eles.&lt;/p&gt;
+
+&lt;p&gt;Então, 45 anos atrás a &lt;em&gt;Glasgow coma scale&lt;/em&gt; era publicada no períodico &lt;em&gt;The Lancet&lt;/em&gt;. O artigo original em questão &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(74)91639-0/fulltext&quot; target=&quot;_blank&quot;&gt;pode ser acessado aqui&lt;/a&gt;&lt;sup id=&quot;fnref:tesdale1974&quot;&gt;&lt;a href=&quot;#fn:tesdale1974&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;A ECG começou a ser desenvolvida já em 1971, na busca por melhorar o atendimento de paciebtes vítimas de traumatismos encefálicos e estabelecer um critério de prognóstico.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:tesdale2014&quot;&gt;
+      &lt;p&gt;Teasdale G, Maas A, Lecky F, Manley G, Stocchetti N, Murray G. The Glasgow Coma Scale at 40 years: standing the test of time. The Lancet Neurology. 2014;13(8):844-854. doi:10.1016/S1474-4422(14)70120-6 &lt;a href=&quot;#fnref:tesdale2014&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:tesdale1974&quot;&gt;
+      &lt;p&gt;Teasdale G, Jennett B. Assessment of coma and impaired consciousness. The Lancet. 1974;304(7872):81-84. doi:10.1016/S0140-6736(74)91639-0 &lt;a href=&quot;#fnref:tesdale1974&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;

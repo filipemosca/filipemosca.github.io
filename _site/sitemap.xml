@@ -33,6 +33,10 @@
 <lastmod>2019-04-18T00:00:00-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/03/07/2019/como-customizei-o-kde</loc>
+<lastmod>2019-07-03T00:00:00-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/linux/03/08/2019/trocando-headerbars-por-titlebars-kde</loc>
 <lastmod>2019-08-03T00:00:00-03:00</lastmod>
 </url>
@@ -41,10 +45,15 @@
 <lastmod>2019-09-11T00:00:00-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/medicina/15/09/2019/escala-de-coma-de-glasgow</loc>
+<lastmod>2019-09-15T01:24:40-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/medicina/15/09/2019/os-cigarros-eletronicos-e-a-doenca-misteriosa</loc>
 <lastmod>2019-09-15T17:57:00-03:00</lastmod>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/medicina/20/10/2019/cirurgias-tambem-podem-funcionar-como-placebo</loc>
 <lastmod>2019-10-20T00:00:00-03:00</lastmod>
 </url>
@@ -59,6 +68,14 @@
 <url>
 <loc>http://localhost:4000/cinema/27/10/2019/blade-runner-2049</loc>
 <lastmod>2019-10-27T00:00:00-03:00</lastmod>
+=======
+<loc>http://localhost:4000/cinema/27/10/2019/criticas-de-cinema</loc>
+<lastmod>2019-10-27T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/cinema/29/10/2019/novo-vicio-por-filmes-e-criticas</loc>
+<lastmod>2019-10-29T00:00:00-03:00</lastmod>
+>>>>>>> 68788170109c6a4707a029653645dd76325ef0a2
 </url>
 <url>
 <loc>http://localhost:4000/arquivo.html</loc>
