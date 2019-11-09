@@ -1,3 +1,90 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-27T23:55:08-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">Blade runner 1982</title><link href="http://localhost:4000/cinema/27/10/2019/bladde-runner-1982" rel="alternate" type="text/html" title="Blade runner 1982" /><published>2019-10-27T00:00:00-03:00</published><updated>2019-10-27T00:00:00-03:00</updated><id>http://localhost:4000/cinema/27/10/2019/bladde-runner-1982</id><content type="html" xml:base="http://localhost:4000/cinema/27/10/2019/bladde-runner-1982">&lt;p&gt;Blade Runner é uma distopia &lt;em&gt;noir&lt;/em&gt; futurista. Realmente o melhor filme de ficçao científica já produzido. Os diálogos foram friamente escritos, a ambientação é de tirar o fólego, os efeitos visuais são impecáeis até nos dias de hoje.&lt;/p&gt;
+
+&lt;p&gt;O filme se passa nas Los Angeles de Novembro de 2019, ou seja, se pasaria nos tempos de hoje.&lt;/p&gt;
+
+&lt;p&gt;5 replicantes Nexus 6 fugiram das colônias extra-terrestres. Eles então fogem para a Terra.&lt;/p&gt;
+
+&lt;p&gt;Tempo de vida de 4 anos. Eles vem para a Terra em busca de seu criador para coneguir mais tempo de vida.&lt;/p&gt;
+
+&lt;h2 id=&quot;ambientação&quot;&gt;Ambientação&lt;/h2&gt;
+
+&lt;h3 id=&quot;cadê-os-animais&quot;&gt;Cadê os animais?&lt;/h3&gt;
+
+&lt;p&gt;Durante todo o filme não aparece um animal sequer. Na verdade aparece apenas um, a coruja. E qual a primeira pergunta que o Deckard faz ao vê-la?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;— Você gostou da nossa coruja?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;— It’s artificial??&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;— Of course it is.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;— Must be expensive.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;— Very.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;— I’m Rachael.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;— Deckard.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;— It seems you feel our work is not a benefit to the public.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;— Replicants are like any other machine - they’re either a benefit or a hazard. If they’re a benefit, it’s not my problem.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Será que nessa distopia futurista todos os animais foram extintos?&lt;/p&gt;
+
+&lt;p&gt;Nós também não vemos natureza. A cidade é apenas concreto e metal. Não existem mais árvores ou plantas. Além disso, o céu é sempre escuro, não vemos mais um céu azul.&lt;/p&gt;
+
+&lt;h2 id=&quot;por-que-roy-não-mata-deckard&quot;&gt;Por que Roy não mata Deckard?&lt;/h2&gt;
+
+&lt;h2 id=&quot;deckard-é-um-replicante&quot;&gt;Deckard é um replicante?&lt;/h2&gt;
+
+&lt;p&gt;Sinceramente, eu nem cheguei a cogitar isso durante o filme. Na verdade, eu até pensei nisso rapidamente na cena em que Rachael pergunta se ele já aplicou o teste nele mesmo. Mas foi um pensamento rápido que nem dei muito valor.&lt;/p&gt;
+
+&lt;p&gt;Contudo, lendo análises e interpretações do filme, vi que muitos pontos do filme vão jogando essa possibilidade, de Deckard ser um replicante.&lt;/p&gt;
+
+&lt;p&gt;A principal “deixa” se refere ao sonho do policial com um unicórnio. Essa foi uma cena completamente jogada durante o filme. Se pararmos para pensar no roteiro, e supormos que toda cena que está no filme, está lá por um motivo; então qual o objetivo da cena do sonho?&lt;/p&gt;
+
+&lt;p&gt;Lá no fim do filme o Gaff deixa um unicornio de origami. Ora! Será que o colega sabia dos sonhos de Deckard? Se sim, então o Deckard realmente pode ser um replicante.&lt;/p&gt;
+
+&lt;p&gt;Outra coisa é a última fala do colega, que é um pouco curiosa.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It’s too bad she won’t live! But then again, who does?&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Filipe Mosca</name></author><category term="cinema" /><summary type="html">Blade Runner é uma distopia noir futurista. Realmente o melhor filme de ficçao científica já produzido. Os diálogos foram friamente escritos, a ambientação é de tirar o fólego, os efeitos visuais são impecáeis até nos dias de hoje.</summary></entry><entry><title type="html">Blade runner 2049</title><link href="http://localhost:4000/cinema/27/10/2019/blade-runner-2049" rel="alternate" type="text/html" title="Blade runner 2049" /><published>2019-10-27T00:00:00-03:00</published><updated>2019-10-27T00:00:00-03:00</updated><id>http://localhost:4000/cinema/27/10/2019/blade-runner-2049</id><content type="html" xml:base="http://localhost:4000/cinema/27/10/2019/blade-runner-2049">&lt;h2 id=&quot;joi&quot;&gt;Joi&lt;/h2&gt;
+
+&lt;p&gt;Será que a Joi realmente amava o K? Ela chamaria qualquer proprietário de Joe? São questões muito delicadas que o filme traz.&lt;/p&gt;
+
+&lt;p&gt;Minha interpretação sobre o momento que o K vê o holograma gigante da Joi, ele percebe que não só perdeu tudo o que tinha, como o único vínculo emocional que tinha era falso, tal qual suas lembranças. O holograma o chama de Joe, assim como chamaria qualquer um.&lt;/p&gt;
+
+&lt;p&gt;Mesmo assim, eu fiquei com a sensação que a Joi do K tinha algo de diferente. Que talvez de alguma forma ela tenha aprendido a realmente amar seu “proprietário”. Será que todas as Jois comercializadas amavam tão intensamente como a Joi que vimos? Amar a ponto de morrer pelo seu “dono”? Eu pelo menos prefiro acreditar que sim.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Todos faltam a ironia do final: no final, o K reproduzido era o único, que tinha uma vida real, enquanto sua irmã “original” só tinha uma vida reproduzida. K sentiu abelhas reais e flocos de neve reais, enquanto sua irmã apenas sentia insetos reproduzidos e flocos de neve. Não importa qual seja sua origem, o viver define a vida.&lt;/p&gt;
+
+&lt;h2 id=&quot;achei-a-mesma-coisa-no-proprio-outdoor-esta-escrito-tudo-oq-vc-quer-ouvir-ela-não-tinha-emoções-apenas-se-adaptava-ao-usuário-e-falava-oq-ele-mais-queria-ouvir-ela-sempre-falava-que-ele-era-especial-pq-era-oq-ele-queria-ser-e-que-o-amava-pq-ele-queeia-ser-amado-e-o-holograma-gigante-tb-fala-que-ele-é-especial-mesmo-sem-conhece-lo-até-a-abordagem-é-igual-perguntando-sobre-dia-difícil-chama-lo-de-joe-prova-em-definitivo-isso-pois-seria-um-zé-um-diminutivo-mais-genérico-possivel-não-algo-elaborado-por-uma-personalidade-individual-da-joy&quot;&gt;Achei a mesma coisa. No proprio outdoor esta escrito “tudo oq vc quer ouvir”. Ela não tinha emoções, apenas se adaptava ao usuário e falava oq ele mais queria ouvir. Ela sempre falava que ele era especial, pq era oq ele queria ser, e que o amava pq ele queeia ser amado. E o holograma gigante tb fala que ele é especial, mesmo sem conhece-lo, até a abordagem é igual, perguntando sobre “dia difícil”. Chama-lo de Joe prova em definitivo isso, pois seria um “Zé”, um diminutivo mais genérico possivel, não algo elaborado por uma personalidade individual da Joy.&lt;/h2&gt;
+
+&lt;h2 id=&quot;então-deckard-é-um-replicante&quot;&gt;Então Deckard é um replicante?&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><category term="cinema" /><summary type="html">Joi</summary></entry><entry><title type="html">Cirúrgias também pode funcionar como placebo?</title><link href="http://localhost:4000/medicina/20/10/2019/cirurgias-tambem-podem-funcionar-como-placebo" rel="alternate" type="text/html" title="Cirúrgias também pode funcionar como placebo?" /><published>2019-10-20T00:00:00-03:00</published><updated>2019-10-20T00:00:00-03:00</updated><id>http://localhost:4000/medicina/20/10/2019/cirurgias-tambem-podem-funcionar-como-placebo</id><content type="html" xml:base="http://localhost:4000/medicina/20/10/2019/cirurgias-tambem-podem-funcionar-como-placebo"></content><author><name>Filipe Mosca</name></author><category term="medicina" /><summary type="html"></summary></entry><entry><title type="html">Leptospirose</title><link href="http://localhost:4000/medicina/20/10/2019/leptospirose" rel="alternate" type="text/html" title="Leptospirose" /><published>2019-10-20T00:00:00-03:00</published><updated>2019-10-20T00:00:00-03:00</updated><id>http://localhost:4000/medicina/20/10/2019/leptospirose</id><content type="html" xml:base="http://localhost:4000/medicina/20/10/2019/leptospirose"></content><author><name>Filipe Mosca</name></author><category term="[&quot;medicina&quot;]" /><category term="infecções" /><summary type="html"></summary></entry><entry><title type="html">Os cigarros eletrônicos e a doença misteriosa</title><link href="http://localhost:4000/medicina/15/09/2019/os-cigarros-eletronicos-e-a-doenca-misteriosa" rel="alternate" type="text/html" title="Os cigarros eletrônicos e a doença misteriosa" /><published>2019-09-15T17:57:00-03:00</published><updated>2019-09-15T17:57:00-03:00</updated><id>http://localhost:4000/medicina/15/09/2019/os-cigarros-eletronicos-e-a-doenca-misteriosa</id><content type="html" xml:base="http://localhost:4000/medicina/15/09/2019/os-cigarros-eletronicos-e-a-doenca-misteriosa">&lt;p&gt;Os cigarros eletrônicos (ou DEFs — dispositivos eletrônicos para fumar) são aparelhos que funcionam a base de baterias e que aquecem compostos químicos gerando aerosois, uma fumaça, que é inalada pelo usuário. Foram inicialmente projetados em 1963, mas só começaram a ser comercializados nos Estados Unidos em 2007. A partir daí, foram ganhando cada vez mais popularidade entre os jovens que nem chegam a se considerar fumantes, mas sim &lt;em&gt;vapori  zadores&lt;/em&gt; (ou &lt;em&gt;vapers&lt;/em&gt;). Os DEFs costumam conter menos compostos tóxicos ou em menores concentrações que os cigarros convencionais, mas ainda assim não estão isentos de riscos, continuam possuindo compostos já conhecidos pelo seu potencial carcinogênico. Os cigarros eletrônicos também são muito usados para a inalação de compostos como  o canabidiol (CBD), tetrahidrocanabinol (THC) e outros óleos.&lt;sup id=&quot;fnref:inca2016&quot;&gt;&lt;a href=&quot;#fn:inca2016&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+=======
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-29T09:37:34-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">Meu novo vício por filmes e críticas</title><link href="http://localhost:4000/cinema/29/10/2019/novo-vicio-por-filmes-e-criticas" rel="alternate" type="text/html" title="Meu novo vício por filmes e críticas" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>http://localhost:4000/cinema/29/10/2019/novo-vicio-por-filmes-e-criticas</id><content type="html" xml:base="http://localhost:4000/cinema/29/10/2019/novo-vicio-por-filmes-e-criticas">&lt;p&gt;Claro que eu sempre gostei de assitir filmes. Desde pequenos nós assistimos filmes. Contudo, recentemente comecei a perceber que a contemplação das obras fora das salas do cinema é tão prazerosa quanto o próprio ato de assistir o filme. Claro que sempre execemos um pouco dessa atividade quando comentamos os filmes com amigos e parentes. Mas ainda assim é um espaço amostral pequeno de sentimentos e sensações sobre os filmes. Depois eu descobri os podcasts, em especial o Nerdcast, um canal de entretenimento que costuma trazer episódios sobre muitos filmes, comentando as obras e fazendo críticas.&lt;/p&gt;
 
 &lt;p&gt;Recentemente descobri a plataforma que estava me fazendo falta: o Letterboxd. Uma rede social de cinéfilos, uma espécie de &lt;em&gt;Skoob&lt;/em&gt; (ou &lt;em&gt;Goodreads&lt;/em&gt;) para filmes. Nesse aplicativo os usuários avaliam os filmes em notas de 1 a 5 estrelas, fazem comentários e compartilham críticas. Uma das ferramentas que acho das mais legais é a possibilidade de criar &lt;em&gt;listas&lt;/em&gt; de filmes, reunindo-os sob alguma característica ou aspécto em comum.&lt;/p&gt;
@@ -42,6 +129,7 @@
 &lt;p&gt;O mais legal é que sair avaliando filmes feito um doido funciona como um grande estímulo para assistir cada vez mais e mais filmes. Inclusive ver clássicos que eu nunca tive a oportunidade de assistir.&lt;/p&gt;
 
 &lt;p&gt;Meu perfil no Letterboxd é: &lt;a href=&quot;https://letterboxd.com/filipemosca/&quot;&gt;https://letterboxd.com/filipemosca/&lt;/a&gt;&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="cinema" /><category term="geek" /><category term="internet" /><category term="aplicativos" /><summary type="html">Claro que eu sempre gostei de assitir filmes. Desde pequenos nós assistimos filmes. Contudo, recentemente comecei a perceber que a contemplação das obras fora das salas do cinema é tão prazerosa quanto o próprio ato de assistir o filme. Claro que sempre execemos um pouco dessa atividade quando comentamos os filmes com amigos e parentes. Mas ainda assim é um espaço amostral pequeno de sentimentos e sensações sobre os filmes. Depois eu descobri os podcasts, em especial o Nerdcast, um canal de entretenimento que costuma trazer episódios sobre muitos filmes, comentando as obras e fazendo críticas.</summary></entry><entry><title type="html">Os cigarros eletrônicos e a doença misteriosa</title><link href="http://localhost:4000/medicina/15/09/2019/os-cigarros-eletronicos-e-a-doenca-misteriosa" rel="alternate" type="text/html" title="Os cigarros eletrônicos e a doença misteriosa" /><published>2019-09-15T17:57:00-03:00</published><updated>2019-09-15T17:57:00-03:00</updated><id>http://localhost:4000/medicina/15/09/2019/os-cigarros-eletronicos-e-a-doenca-misteriosa</id><content type="html" xml:base="http://localhost:4000/medicina/15/09/2019/os-cigarros-eletronicos-e-a-doenca-misteriosa">&lt;p&gt;Os cigarros eletrônicos (ou DEFs — dispositivos eletrônicos para fumar) são aparelhos que funcionam a base de baterias e que aquecem compostos químicos gerando aerosois, uma fumaça, que é inalada pelo usuário. Foram inicialmente projetados em 1963, mas só começaram a ser comercializados nos Estados Unidos em 2007. A partir daí, foram ganhando cada vez mais popularidade entre os jovens que nem chegam a se considerar fumantes, mas sim &lt;em&gt;vapori  zadores&lt;/em&gt; (ou &lt;em&gt;vapers&lt;/em&gt;). Os DEFs costumam conter menos compostos tóxicos ou em menores concentrações que os cigarros convencionais, mas ainda assim não estão isentos de riscos, continuam possuindo compostos já conhecidos pelo seu potencial carcinogênico. Os cigarros eletrônicos também são muito usados para a inalação de compostos como  o canabidiol (CBD), tetrahidrocanabinol (THC) e outros óleos.&lt;sup id=&quot;fnref:inca2016&quot;&gt;&lt;a href=&quot;#fn:inca2016&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+>>>>>>> 68788170109c6a4707a029653645dd76325ef0a2
 
 &lt;figure&gt;
 	&lt;img src=&quot;/assets/images/vapers/def.jpeg&quot; alt=&quot;Ilustração do conteúdo de um cigarro eletrônico (DEF)&quot; /&gt;
@@ -401,6 +489,9 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
   &lt;li&gt;Site do Icistem com a publicação do CROI 2019. &lt;a href=&quot;https://www.icistem.org/publication/croi-2019&quot;&gt;link aqui&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Kou J, Kuang YQ. Mutations in chemokine receptors and AIDS. Prog Mol Biol Transl Sci. 2019;161:113-124. doi: 10.1016/bs.pmbts.2018.10.001. Epub 2018 Nov 20.&lt;/li&gt;
   &lt;li&gt;Khaddour K, Mewawalla P. Hematopoietic Stem Cell Transplantation. [Updated 2019 Mar 2]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2019 Jan-. Available from: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK536951/&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+<<<<<<< HEAD
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="aids" /><category term="hiv" /><summary type="html">Esse mês, dois novos casos de remissão do HIV foram divulgados. Se confirmados com o tempo, já serão três pacientes “curados” do HIV. Claro que a noticia agitou tanto o mundo acadêmico como toda sociedade. A cura do HIV parece estar cada vez mais tangivel.</summary></entry></feed>
+=======
 &lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="aids" /><category term="hiv" /><summary type="html">Esse mês, dois novos casos de remissão do HIV foram divulgados. Se confirmados com o tempo, já serão três pacientes “curados” do HIV. Claro que a noticia agitou tanto o mundo acadêmico como toda sociedade. A cura do HIV parece estar cada vez mais tangivel.</summary></entry><entry><title type="html">A via láctea do reino animal e por que o leite é tão importante</title><link href="http://localhost:4000/medicina/24/02/2019/a-via-lactea-no-reino-animal" rel="alternate" type="text/html" title="A via láctea do reino animal e por que o leite é tão importante" /><published>2019-02-24T00:00:00-03:00</published><updated>2019-02-24T00:00:00-03:00</updated><id>http://localhost:4000/medicina/24/02/2019/a-via-lactea-no-reino-animal</id><content type="html" xml:base="http://localhost:4000/medicina/24/02/2019/a-via-lactea-no-reino-animal">&lt;p&gt;Fui atraído pelo simples e curioso título de &lt;a href=&quot;https://www.nytimes.com/2019/02/11/science/milk-animals-evolution.html&quot;&gt;uma matéria&lt;/a&gt; do &lt;em&gt;New York Times&lt;/em&gt;:  “Everywhere in the Animal Kingdom, Followers of the Milky Way”. De ínicio fiquei logo interessado em entender o que “followers of the milky way” queria dizer, curioso com a associação ao nome de nossa galáxia.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Tradução livre:&lt;/strong&gt; &lt;em&gt;Em todo lugar no Reino Animal, Seguidores da Via Láctea: À medida que os cientistas aprendem mais sobre a evolução do leite e as variações de composição, eles estão redefinindo o que costumava ser uma característica característica dos mamíferos.&lt;/em&gt;&lt;/p&gt;
@@ -602,3 +693,4 @@ acpi_backlight=vendor
 &lt;p&gt;E pronto! É só reiniciar o computador e verá que consegue mudar o brilho. Se você souber de mais valores que funcionam, seria muito legal se pudesse me mandar uma email com eles. Ou também me manda um email se o tutorial foi útil para você. O endereço é &lt;a href=&quot;mailto:filipemosca@canalionico.com.br&quot;&gt;filipemosca@canalionico.com.br&lt;/a&gt;, e será usado para contato enquanto eu não coloco uma sessão de comentários.&lt;/p&gt;
 
 &lt;p&gt;Obrigado pela atenção!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="linux" /><summary type="html">Esse é um problema que sempre enfrento não importa a distro instalada. Porém, tem vezes que o brilho trava no mínimo e tem vezes que trava no máximo. “Trava”, pois os botões de controle do brilho não funcionam e nem os comandos no terminal.</summary></entry></feed>
+>>>>>>> 68788170109c6a4707a029653645dd76325ef0a2
