@@ -199,6 +199,7 @@ img {
   font-size: 16px;
   color: gray;
   margin-top: 5px;
+  display: block;
 }
 pre {
   padding: 8px 12px;
@@ -335,6 +336,9 @@ kbd {
 
 /* Aqui é pra computador */
 @media only screen and (min-width: 800px) {
+  #post-info,{
+    display: inline-block;
+  }
   .footer-col {
     float: left;
     margin-bottom: 15px;
