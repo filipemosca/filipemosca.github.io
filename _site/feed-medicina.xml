@@ -5,61 +5,60 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Nov 2019 17:45:21 -0300</pubDate>
-    <lastBuildDate>Sun, 10 Nov 2019 17:45:21 -0300</lastBuildDate>
+    <pubDate>Fri, 15 Nov 2019 14:40:13 -0300</pubDate>
+    <lastBuildDate>Fri, 15 Nov 2019 14:40:13 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
     
     <entry>
-            <title type="html">Betabloqueadores no tratamento da insuficiência cardíaca</title>
-            <link href="http://localhost:4000/medicina/10/11/2019/betabloqueadores-na-insuficiencia-cardiaca"/>
-            <published>2019-11-10T17:45:21-03:00</published>
-            <id>/medicina/10/11/2019/betabloqueadores-na-insuficiencia-cardiaca</id>
-            <content type="html">&lt;p&gt;Este semestre comecei a pagar a cadeira de cardiologia no curso médico. A faculdade logo de início nos coloca para ter atividades práticas no ambulatório de cardiologia, antes mesmo de efetvamente começarmos a ter as aulas teóricas. Então, comecei a frequentar o ambulatório levando apenas o meu conhecimento basal, adquirido nos períodos anteriores, sobre cardiologia.&lt;/p&gt;
+            <title type="html">O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca</title>
+            <link href="http://localhost:4000/medicina/15/11/2019/betabloqueadores-na-insuficiencia-cardiaca"/>
+            <published>2019-11-15T00:00:00-03:00</published>
+            <id>/medicina/15/11/2019/betabloqueadores-na-insuficiencia-cardiaca</id>
+            <content type="html">&lt;p&gt;Este semestre comecei a pagar a cadeira de cardiologia no curso médico. Já comecei a acompanhar  ambulatório de cardiologia antes mesmo de começar a ter as aulas teóricas. Então, acompanhei as consultas apenas com meu conhecimento basal, adquirido nos períodos anteriores, sobre cardiologia.&lt;/p&gt;
 
-&lt;p&gt;Atendendo inúmeros pacientes com insuficiência cardíaca (IC), não pude deixar de reparar na prevalência das prescrições de &lt;a href=&quot;https://pt.wikipedia.org/wiki/Bloqueador_beta-adren%C3%A9rgico&quot;&gt;betabloqueadores&lt;/a&gt; (BBs — como o &lt;em&gt;propanolol&lt;/em&gt;) para esses pacientes. Logo de cara tentei começar a entender qual seria a importância dessa classe de fármacos para os pacientes portadores de IC. De início eu estranhei o uso desses fármacos para esse pacientes pois fiz um raciocínio intuitívo muito simples:&lt;/p&gt;
+&lt;p&gt;Atendendo inúmeros pacientes com insuficiência cardíaca (IC), não pude deixar de reparar na quantidade das prescrições de &lt;a href=&quot;https://pt.wikipedia.org/wiki/Bloqueador_beta-adren%C3%A9rgico&quot;&gt;betabloqueadores&lt;/a&gt; (BBs — como o &lt;em&gt;carvedilol&lt;/em&gt;) para esses pacientes. De início eu estranhei o uso desses fármacos pois fiz um raciocínio intuitívo muito simples:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Betabloqueadores são drogas que reduzem a frequência (cronotropismo) e a capacidade de contração do coração (inotropismo);&lt;/li&gt;
   &lt;li&gt;A insuficiência cardíaca é uma doença em que o coração não funciona corretamente;&lt;/li&gt;
-  &lt;li&gt;Logo: se o coração desses individuos não está conseguindo suprir as demandas do corpo, qual a lógica de fazer com que ele funcione mais lentamente? Isso não pioraria os sintomas dos pacientes?&lt;/li&gt;
+  &lt;li&gt;Logo, se o coração desses individuos não está conseguindo suprir as demandas do corpo, qual a lógica de fazer com que ele funcione mais lentamente e com menos capacidade de contração? Isso não pioraria os sintomas dos pacientes?&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Mas realmente, lendo as diretrizes e a literatura atual, os betabloqueadores, quando usados em pacientes com IC, são fármacos que conseguem comprovadamente aumentar o tempo de vida destes. Contudo, nem sempre foi assim. Da mesma forma que eu rapidamente elaborei este raciocínio intuitívo de que BBs piorariam o quadro de IC, o paradigma científico até os 90 assumia a mesma ideia.&lt;sup id=&quot;fnref:lancet-therapeutic-paradox&quot;&gt;&lt;a href=&quot;#fn:lancet-therapeutic-paradox&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Na época, os BBs eram totalmente contraindicados para pacientes com alteração da função cardíaca. E na verdade, um médico que os prescrevessem estaria sendo extremamente imprudente. O tratamento padrão destes pacientes era baseado em ditiálicos e diuréticos, mas sem grandes resultados.&lt;/p&gt;
+&lt;p&gt;Lendo as diretrizes e a literatura atual, os betabloqueadores, quando usados em pacientes com IC, são fármacos que conseguem comprovadamente aumentar o tempo de vida destes. Contudo, nem sempre foi assim. Da mesma forma que eu rapidamente elaborei o raciocínio intuitívo de que BBs piorariam o quadro da doença, o paradigma científico até os 90 assumia a mesma ideia.&lt;sup id=&quot;fnref:lancet-therapeutic-paradox&quot;&gt;&lt;a href=&quot;#fn:lancet-therapeutic-paradox&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Na época, os betabloqueadores eram totalmente contraindicados para pacientes com alteração da função cardíaca. Na verdade, um médico que os prescrevessem estaria sendo extremamente imprudente. Para o conhecimento da época, era bastante claro que essas drogas seriam prejudiciais para estes pacientes. E, então, ninguém cogitava usar para fazer o teste. O tratamento padrão destes pacientes era baseado em digitálicos e diuréticos, mas sem grandes resultados.&lt;/p&gt;
 
-&lt;p&gt;Na resposta compensatória a uma insuficiência cardíaca, o corpo dos portadores dessa doença ativam um sistema neuro-humoral que começa a liberar catecolaminas (substâncias que aumentam a frequência com que o coração bate para compensar o grau de disfunção na contratilidade). Aos poucos, estudos começaram a perceber que as concentrações plasmáticas das catecolaminas pareciam correlacionar-se diretamente com o grau de falha cardíaca, conforme julgado pelas variáveis hemodinâmicas e sinais clínicos. Além disso, observou-se também que quanto maiores as concentrações de noradrenalina nestes pacientes, menor era a sobrevida deles.&lt;sup id=&quot;fnref:lancet-therapeutic-paradox:1&quot;&gt;&lt;a href=&quot;#fn:lancet-therapeutic-paradox&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Na resposta compensatória a uma insuficiência cardíaca, o corpo dos portadores dessa doença ativa um sistema neuro-humoral que começa a liberar catecolaminas, substâncias que aumentam a frequência com que o coração bate para compensar o grau de disfunção na contratilidade. Aos poucos, estudos começaram a perceber que as concentrações plasmáticas das catecolaminas pareciam correlacionar-se diretamente com o grau de falha cardíaca, conforme julgado pelas variáveis hemodinâmicas e sinais clínicos. Além disso, observou-se também que quanto maiores as concentrações de noradrenalina nestes pacientes, menor era a sobrevida deles.&lt;sup id=&quot;fnref:lancet-therapeutic-paradox:1&quot;&gt;&lt;a href=&quot;#fn:lancet-therapeutic-paradox&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:catecolaminas&quot;&gt;&lt;a href=&quot;#fn:catecolaminas&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Será que a elevação das catecolaminas estava apenas correlacionada à maior mortalidade ou seria um fator causal de piora da doença?&lt;/p&gt;
 
-&lt;p&gt;Com o tempo, começou a cogitar-se que o mecanismo compensatório de ativação do sistema neuro-humoral seria justamente o responsável pela piora progressiva da doença. No fim das contas fica um raciocínio muito confuso pois, basicamente, o que o corpo tentava fazer para que o quadro não piorasse era o que estava fazendo o quadro piorar a longo prazo.&lt;/p&gt;
+&lt;p&gt;Com o tempo, começou a cogitar-se que esse mecanismo compensatório seria justamente o responsável pela piora progressiva. No fim das contas fica um raciocínio um tanto paradoxal pois, basicamente, o que o corpo tentava fazer para que o quadro não piorasse a curto prazo era o que estava fazendo o quadro piorar a longo prazo.&lt;/p&gt;
 
-&lt;p&gt;Começou-se a cogitar se não seria a vacoscontricção periférica causada pelas catecolaminas a responsável pela piora dos pacientes. Pois, com a redução no diâmetro dos vasos, o coração precisaria se contrair cada vez mais forte para vencer a pressão das arteríolas, fazendo com que se desgastasse cada vez mais.&lt;/p&gt;
+&lt;p&gt;Muitas hipoteses foram elaboradas para tentar explicar essa descoberta. Talvez a vacoscontricção periférica causada pelas catecolaminas fosse a responsável pela piora dos pacientes. Pois, com a redução no diâmetro dos vasos, o coração precisaria se contrair cada vez mais forte para vencer a pressão das arteríolas, fazendo com que se desgastasse cada vez mais.&lt;/p&gt;
 
-&lt;p&gt;Desde da década de 80 já se sabia do efeito benéfico na redução da mortalidade com o uso dos inibidores da enzima conversora de angiotensina ( IECAs — como o &lt;em&gt;enalapril&lt;/em&gt;), graças ao estudo CONSENSUS. Será que algo semelhante poderia explicar o efeitos beneficos dos betabloqueadores?&lt;/p&gt;
-
-&lt;p&gt;Um estudo de 1975 relatou a experiência de tratar 7 pacientes com insuficiência cardíaca congestiva e taquicardia basal usando betabloqueadores.&lt;sup id=&quot;fnref:Waagstein&quot;&gt;&lt;a href=&quot;#fn:Waagstein&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; O resultados relatados foram bastante promissores. Os pacientes apresentaram melhora clínica, melhorando suas capacidades físicas, reduzindo a falta de ar e o desconforto no peito. Os exames complementares nesses pacientes (como o ecocardiograma) também demonstraram melhora da função ventricular. A conclusão foi de que, ao menos para alguns pacientes selecionados, o uso de betabloqueadores pode sim ser benéfico.&lt;/p&gt;
+&lt;p&gt;Então, será que usar um betabloqueador para inibir a liberação de catecolaminas pelo sistema nervoso simpático não traria efeitos benéficos a longo prazo? Um estudo de 1975 relatou a experiência de tratar 7 pacientes com insuficiência cardíaca congestiva e taquicardia basal usando betabloqueadores.&lt;sup id=&quot;fnref:Waagstein&quot;&gt;&lt;a href=&quot;#fn:Waagstein&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; O resultados relatados foram bastante promissores. Os pacientes apresentaram melhora clínica, melhorando suas capacidades físicas, reduzindo a falta de ar e o desconforto no peito. Os exames complementares nesses pacientes (como o ecocardiograma) também demonstraram melhora da função ventricular. A conclusão foi de que, ao menos para alguns pacientes selecionados, o uso de betabloqueadores pode sim ser benéfico.&lt;/p&gt;
 
 &lt;h2 id=&quot;os-grandes-estudos&quot;&gt;Os grandes estudos&lt;/h2&gt;
 
-&lt;p&gt;No início dos anos 2000 começaram a surgir os grandes estudos clínicos sobre os benefícios do uso dos betabloqueadores. Em 2002, uma metanálise de dois grandes estudos, CIBIS I e CIBIS II, com 3288 pacientes demonstrou uma redução de 29.3% na mortalidade com o uso do bisoprolol.&lt;sup id=&quot;fnref:cibis&quot;&gt;&lt;a href=&quot;#fn:cibis&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Inclusive, o estudo CIBIS II teve de ser interrompido antes do prazo estipulado, pois os benefícios já eram evidentes e seria antiético continuar dando placebos ao grupo de paciente com a maior mortalidade.&lt;/p&gt;
+&lt;p&gt;No fim dos anos 90 começaram a surgir os grandes estudos clínicos sobre os benefícios do uso dos betabloqueadores. O primeiro grande estudo a tentar mensurar a mortalidade de pacientes tratados com betabloqueadores foi o &lt;em&gt;US Caverdilol Trial&lt;/em&gt; (USCT) de 1966.&lt;sup id=&quot;fnref:USCT&quot;&gt;&lt;a href=&quot;#fn:USCT&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; Neste, foram estudados 1094 pacientes, dividos num grupo de controle, fazendo uso de placebo, e num grupo de teste que fazia uso de Carvedilol. Ao fim do estudo, o grupo de pacientes que faziam uso do Carvedilol obteve uma redução de 65% na mortalidade e de 27% nos internamentos por causas cardiovasculares, em relação ao grupo placebo. Na verdade, o estudo teve de ser interrompido antes do tempo programado, pois os resultados já eram muito satisfatórios e seria antiético continuar dando placebos ao grupo que estava com maior mortalidade.&lt;/p&gt;
 
-&lt;p&gt;Também é preciso ter muito cuidado na hora de interpretar o resultados dos estudos. Mesmo sabendo que o caverdilol, o bisoprolol e o metoprolol são medicações que reduzem a mortalidade na insuficiência cardíaca, não podemos concluir que de forma geral os betabloqueadores diminuem a mortalidade. Estudos com outros medicamentos da mesma classe, como o atenolol, o xamoterol e o bucindolol mostraram não haver benefício ou, até mesmo, haver maior risco.&lt;sup id=&quot;fnref:Cleland&quot;&gt;&lt;a href=&quot;#fn:Cleland&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Em 2002, uma metanálise de dois grandes estudos, CIBIS I e CIBIS II, com 3288 pacientes no total demonstrou uma redução de 29.3% na mortalidade com o uso do bisoprolol.&lt;sup id=&quot;fnref:CIBIS&quot;&gt;&lt;a href=&quot;#fn:CIBIS&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; Inclusive, o estudo CIBIS II também teve de ser interrompido antes do prazo estipulado, pelo mesmo motivo do USCT. Em seguida, o estudo MERIT-HF demosntrou também uma redução na mortalidade quando o metoprolol era usado.&lt;/p&gt;
+
+&lt;p&gt;Mas é preciso ter muito cuidado na hora de interpretar o resultados destes estudos. Mesmo sabendo que o caverdilol, o bisoprolol e o metoprolol são medicações que reduzem a mortalidade na insuficiência cardíaca, não podemos concluir que, de forma geral, todos betabloqueadores diminuem a mortalidade. Estudos com outros medicamentos da mesma classe, como o atenolol, o xamoterol e o bucindolol mostraram não haver benefício ou, até mesmo, haver maior risco.&lt;sup id=&quot;fnref:Cleland&quot;&gt;&lt;a href=&quot;#fn:Cleland&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-paradigma-atual&quot;&gt;O paradigma atual&lt;/h2&gt;
 
-&lt;p&gt;Hoje o uso dos betabloqueadores para os pacientes com insuficiência cardíaca é um grande pilar da cardiologia. Atualmente, todo paciente com IC de fração reduzida já inicia terapia com um betabloqueador, um inibidor da enzima conversora de angiotensina e a espironolactona. Estas três classes de medicamentos são as que comprovadamente reduzem a mortalidade desses pacientes.&lt;/p&gt;
+&lt;p&gt;Hoje o uso dos betabloqueadores Carvedilol, Bisoprolol e Metoprolol para os pacientes com insuficiência cardíaca é um grande pilar da cardiologia. Atualmente, todo paciente com fração de ejeção reduzida já deve iniciar terapia com um desses betabloqueadores, um inibidor da enzima conversora de angiotensina e a espironolactona. Estas três classes de medicamentos são as que comprovadamente reduzem a mortalidade desses pacientes.&lt;/p&gt;
 
-&lt;p&gt;Toda essa história é muito interessante. Uma classe de medicamentos que já foi considerada totalmente proscrita hoje é um dos elementos mais importantes do tratamento. O que era considerado uma prescrição imprudente hoje é se não prescrito é considerado negligência médica.&lt;/p&gt;
+&lt;p&gt;Toda essa história é muito interessante. Uma classe de medicamentos que já foi considerada totalmente proibida hoje é um dos elementos mais importantes do tratamento. O que era considerado uma prescrição imprudente hoje, se não prescrito, é considerado negligência médica.&lt;/p&gt;
 
-&lt;p&gt;Esse é um grande exemplo de situação em que postulações teóricas não são suficientes para predizermos se um tratamento será efetivo ou não. Isso, pois, nosso conhecimento fisiológico sempre poderá estar incompleto, como estava no caso dos betabloqueadores. O conhecimento da época parecia deixar claro que seu uso pioraria os sintomas dos pacientes, mas foi o oposto do demonstrado pelos estudos empíricos. Ou seja, nosso entendimento sobre o funcionamento do coração e da fisiopatologia da insuficiência cardíaca estava incompleto.&lt;/p&gt;
+&lt;p&gt;Esse é um grande exemplo de situação para mostrar-nos que postulações teóricas não são suficientes para predizermos se um tratamento será efetivo ou não. Isso, pois, nosso conhecimento fisiológico sempre poderá estar incompleto, como estava no caso dos betabloqueadores. O conhecimento da época parecia deixar claro que seu uso pioraria os sintomas dos pacientes, mas o oposto foi demonstrado pelos estudos empíricos. Ou seja, nosso entendimento sobre o funcionamento do coração e da fisiopatologia da insuficiência cardíaca estava incompleto.&lt;/p&gt;
 
-&lt;p&gt;Parafraseando John Cleland em seu artigo &lt;em&gt;“b-Blockers for heart failure: why, which, when, and where”&lt;/em&gt;&lt;sup id=&quot;fnref:Cleland:1&quot;&gt;&lt;a href=&quot;#fn:Cleland&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, o tratamento baseado unicamente em principios teóricos possui dois problemas: 1) Se o conhecimento atual da fisiopatologia estiver errado, o tratamento será inefetivo ou talvez até mesmo maléfico; 2) Se o tratamento se disseminar e for considerado um paradigma médico, pode mascarar a aquisição de novos conhecimentos por anos e se tornar um mito médico.&lt;/p&gt;
+&lt;p&gt;Parafraseando John Cleland em seu artigo &lt;em&gt;“b-Blockers for heart failure: why, which, when, and where”&lt;/em&gt;&lt;sup id=&quot;fnref:Cleland:1&quot;&gt;&lt;a href=&quot;#fn:Cleland&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;, o tratamento baseado unicamente em principios teóricos possui dois problemas:&lt;/p&gt;
 
-&lt;p&gt;Fica evidente a necessidade da adoção da medicina baseada em evidencia e não em opiniões.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Se o conhecimento atual da fisiopatologia estiver errado, o tratamento será inefetivo ou, talvez, até mesmo maléfico;&lt;/li&gt;
+  &lt;li&gt;Se o tratamento se disseminar e for considerado um paradigma científico, pode mascarar a aquisição de novos conhecimentos por anos e se tornar um mito médico.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Aspirin [1–5], re-
-vascularisation [6], and nitrates [7] are current examples of unproven yet
-theoretically logical therapies for many patients with heart failure, always
-providing one line of theoretical reasoning is followed and not another.
-These are opinion-based interventions.&lt;/p&gt;
+&lt;p&gt;Fica evidente a necessidade da adoção da medicina baseada em evidencia e não em opiniões. Por mais que acreditamos entender a fisiopatologia de uma doença e o mecanismo de ação de um tratamento, a comprovação empírica do benefício deste tratamento é fundamental. Chamamos de paradoxos os fenônemos naturais que não conseguimos entender e explicar. Por muito tempo a boa resposta clínica pelo o tratamento com betabloqueadores foi considerada um paradoxo. Na verdade, ainda continua sendo parcialmente um paradoxo, pois não conseguimos explicar totalmente a fisiologia por trás do seu benefício.&lt;/p&gt;
 
 &lt;h2 id=&quot;leitura-recomendada&quot;&gt;Leitura recomendada&lt;/h2&gt;
 
@@ -74,63 +73,23 @@ These are opinion-based interventions.&lt;/p&gt;
     &lt;li id=&quot;fn:lancet-therapeutic-paradox&quot;&gt;
       &lt;p&gt;Barnett DB. Beta-blockers in heart failure: a therapeutic paradox. The Lancet. 1994;343(8897):557-558. doi:10.1016/S0140-6736(94)91518-0. &lt;a href=&quot;#fnref:lancet-therapeutic-paradox&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:lancet-therapeutic-paradox:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
+    &lt;li id=&quot;fn:catecolaminas&quot;&gt;
+      &lt;p&gt;Cohn JN, Levine TB, Olivari MT, et al. Plasma norepinephrine as a guide to prognosis in patients with chronic congestive heart failure. N Engl J Med. 1984;311(13):819-823. doi:10.1056/NEJM198409273111303 &lt;a href=&quot;#fnref:catecolaminas&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
     &lt;li id=&quot;fn:Waagstein&quot;&gt;
       &lt;p&gt;Waagstein F, Hjalmarson A, Varnauskas E, Wallentin I. Effect of chronic beta-adrenergic receptor blockade in congestive cardiomyopathy. Heart. 1975;37(10):1022-1036. doi:10.1136/hrt.37.10.1022. &lt;a href=&quot;#fnref:Waagstein&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:cibis&quot;&gt;
-      &lt;p&gt;Leizorovicz A, Lechat P, Cucherat M, Bugnard F. Bisoprolol for the treatment of chronic heart failure: A meta-analysis on individual data of two placebo-controlled studies—CIBIS and CIBIS II. American Heart Journal. 2002;143(2):301-307. doi:10.1067/mhj.2002.120768. &lt;a href=&quot;#fnref:cibis&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:USCT&quot;&gt;
+      &lt;p&gt;Packer M, Bristow MR, Cohn JN, et al. The effect of carvedilol on morbidity and mortality in patients with chronic heart failure. N Engl J Med. 1996;334(21):1349-1355. doi:10.1056/NEJM199605233342101. &lt;a href=&quot;#fnref:USCT&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:CIBIS&quot;&gt;
+      &lt;p&gt;Leizorovicz A, Lechat P, Cucherat M, Bugnard F. Bisoprolol for the treatment of chronic heart failure: A meta-analysis on individual data of two placebo-controlled studies—CIBIS and CIBIS II. American Heart Journal. 2002;143(2):301-307. doi:10.1067/mhj.2002.120768. &lt;a href=&quot;#fnref:CIBIS&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:Cleland&quot;&gt;
       &lt;p&gt;Cleland JGF. β-Blockers for heart failure: why, which, when, and where. Medical Clinics of North America. 2003;87(2):339-371. doi:10.1016/S0025-7125(02)00173-6. &lt;a href=&quot;#fnref:Cleland&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Cleland:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Escala de coma de Glasgow</title>
-            <link href="http://localhost:4000/medicina/20/10/2019/escala-de-coma-de-glasgow"/>
-            <published>2019-10-20T13:47:11-03:00</published>
-            <id>/medicina/20/10/2019/escala-de-coma-de-glasgow</id>
-            <content type="html">&lt;p&gt;Existem muitas escalas na medicina. Uma das mais antigas e ainda amplamente utilizada é a escala de coma de Glagow (ECG). Simplemente não dá para não saber a ECG. Ela foi criada em 1974 na tentativa de tentar categorizar de forma prática o nível de consciência dos pacientes.&lt;sup id=&quot;fnref:tesdale2014&quot;&gt;&lt;a href=&quot;#fn:tesdale2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Antes da ECG era muito difícil de se comunicar entre os médicos o grau de rebaixamento de consciência dos pacientes. Também não havia uma quantificação para saber se o paciente estava melhorando ou piorando o seu estado mental. E, além disso, era muito difícil fazer pesquisas sem conseguir dividir os pacientes em grupos e avaliar os resultados do acordo com eles.&lt;/p&gt;
-
-&lt;p&gt;Então, 45 anos atrás a &lt;em&gt;Glasgow coma scale&lt;/em&gt; era publicada no períodico &lt;em&gt;The Lancet&lt;/em&gt;. O artigo original em questão &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(74)91639-0/fulltext&quot; target=&quot;_blank&quot;&gt;pode ser acessado aqui&lt;/a&gt;&lt;sup id=&quot;fnref:tesdale1974&quot;&gt;&lt;a href=&quot;#fn:tesdale1974&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;A ECG começou a ser desenvolvida já em 1971, na busca por melhorar o atendimento de paciebtes vítimas de traumatismos encefálicos e estabelecer um critério de prognóstico.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:tesdale2014&quot;&gt;
-      &lt;p&gt;Teasdale G, Maas A, Lecky F, Manley G, Stocchetti N, Murray G. The Glasgow Coma Scale at 40 years: standing the test of time. The Lancet Neurology. 2014;13(8):844-854. doi:10.1016/S1474-4422(14)70120-6 &lt;a href=&quot;#fnref:tesdale2014&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:tesdale1974&quot;&gt;
-      &lt;p&gt;Teasdale G, Jennett B. Assessment of coma and impaired consciousness. The Lancet. 1974;304(7872):81-84. doi:10.1016/S0140-6736(74)91639-0 &lt;a href=&quot;#fnref:tesdale1974&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Leptospirose</title>
-            <link href="http://localhost:4000/medicina/20/10/2019/leptospirose"/>
-            <published>2019-10-20T00:00:00-03:00</published>
-            <id>/medicina/20/10/2019/leptospirose</id>
-            <content type="html">
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Cirúrgias também pode funcionar como placebo?</title>
-            <link href="http://localhost:4000/medicina/20/10/2019/cirurgias-tambem-podem-funcionar-como-placebo"/>
-            <published>2019-10-20T00:00:00-03:00</published>
-            <id>/medicina/20/10/2019/cirurgias-tambem-podem-funcionar-como-placebo</id>
-            <content type="html">
 </content>
         </entry>
     

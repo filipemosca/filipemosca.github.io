@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-10T17:45:21-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">Meu novo vício por filmes e críticas</title><link href="http://localhost:4000/cinema/29/10/2019/novo-vicio-por-filmes-e-criticas" rel="alternate" type="text/html" title="Meu novo vício por filmes e críticas" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>http://localhost:4000/cinema/29/10/2019/novo-vicio-por-filmes-e-criticas</id><content type="html" xml:base="http://localhost:4000/cinema/29/10/2019/novo-vicio-por-filmes-e-criticas">&lt;p&gt;Claro que eu sempre gostei de assitir filmes. Desde pequenos nós assistimos filmes. Contudo, recentemente comecei a perceber que a contemplação das obras fora das salas do cinema é tão prazerosa quanto o próprio ato de assistir o filme. Claro que sempre execemos um pouco dessa atividade quando comentamos os filmes com amigos e parentes. Mas ainda assim é um espaço amostral pequeno de sentimentos e sensações sobre os filmes. Depois eu descobri os podcasts, em especial o Nerdcast, um canal de entretenimento que costuma trazer episódios sobre muitos filmes, comentando as obras e fazendo críticas.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-15T14:40:13-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca</title><link href="http://localhost:4000/medicina/15/11/2019/betabloqueadores-na-insuficiencia-cardiaca" rel="alternate" type="text/html" title="O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca" /><published>2019-11-15T00:00:00-03:00</published><updated>2019-11-15T00:00:00-03:00</updated><id>http://localhost:4000/medicina/15/11/2019/betabloqueadores-na-insuficiencia-cardiaca</id><content type="html" xml:base="http://localhost:4000/medicina/15/11/2019/betabloqueadores-na-insuficiencia-cardiaca">&lt;p&gt;Este semestre comecei a pagar a cadeira de cardiologia no curso médico. Já comecei a acompanhar  ambulatório de cardiologia antes mesmo de começar a ter as aulas teóricas. Então, acompanhei as consultas apenas com meu conhecimento basal, adquirido nos períodos anteriores, sobre cardiologia.&lt;/p&gt;
+
+&lt;p&gt;Atendendo inúmeros pacientes com insuficiência cardíaca (IC), não pude deixar de reparar na quantidade das prescrições de &lt;a href=&quot;https://pt.wikipedia.org/wiki/Bloqueador_beta-adren%C3%A9rgico&quot;&gt;betabloqueadores&lt;/a&gt; (BBs — como o &lt;em&gt;carvedilol&lt;/em&gt;) para esses pacientes. De início eu estranhei o uso desses fármacos pois fiz um raciocínio intuitívo muito simples:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Betabloqueadores são drogas que reduzem a frequência (cronotropismo) e a capacidade de contração do coração (inotropismo);&lt;/li&gt;
+  &lt;li&gt;A insuficiência cardíaca é uma doença em que o coração não funciona corretamente;&lt;/li&gt;
+  &lt;li&gt;Logo, se o coração desses individuos não está conseguindo suprir as demandas do corpo, qual a lógica de fazer com que ele funcione mais lentamente e com menos capacidade de contração? Isso não pioraria os sintomas dos pacientes?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Lendo as diretrizes e a literatura atual, os betabloqueadores, quando usados em pacientes com IC, são fármacos que conseguem comprovadamente aumentar o tempo de vida destes. Contudo, nem sempre foi assim. Da mesma forma que eu rapidamente elaborei o raciocínio intuitívo de que BBs piorariam o quadro da doença, o paradigma científico até os 90 assumia a mesma ideia.&lt;sup id=&quot;fnref:lancet-therapeutic-paradox&quot;&gt;&lt;a href=&quot;#fn:lancet-therapeutic-paradox&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Na época, os betabloqueadores eram totalmente contraindicados para pacientes com alteração da função cardíaca. Na verdade, um médico que os prescrevessem estaria sendo extremamente imprudente. Para o conhecimento da época, era bastante claro que essas drogas seriam prejudiciais para estes pacientes. E, então, ninguém cogitava usar para fazer o teste. O tratamento padrão destes pacientes era baseado em digitálicos e diuréticos, mas sem grandes resultados.&lt;/p&gt;
+
+&lt;p&gt;Na resposta compensatória a uma insuficiência cardíaca, o corpo dos portadores dessa doença ativa um sistema neuro-humoral que começa a liberar catecolaminas, substâncias que aumentam a frequência com que o coração bate para compensar o grau de disfunção na contratilidade. Aos poucos, estudos começaram a perceber que as concentrações plasmáticas das catecolaminas pareciam correlacionar-se diretamente com o grau de falha cardíaca, conforme julgado pelas variáveis hemodinâmicas e sinais clínicos. Além disso, observou-se também que quanto maiores as concentrações de noradrenalina nestes pacientes, menor era a sobrevida deles.&lt;sup id=&quot;fnref:lancet-therapeutic-paradox:1&quot;&gt;&lt;a href=&quot;#fn:lancet-therapeutic-paradox&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:catecolaminas&quot;&gt;&lt;a href=&quot;#fn:catecolaminas&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Será que a elevação das catecolaminas estava apenas correlacionada à maior mortalidade ou seria um fator causal de piora da doença?&lt;/p&gt;
+
+&lt;p&gt;Com o tempo, começou a cogitar-se que esse mecanismo compensatório seria justamente o responsável pela piora progressiva. No fim das contas fica um raciocínio um tanto paradoxal pois, basicamente, o que o corpo tentava fazer para que o quadro não piorasse a curto prazo era o que estava fazendo o quadro piorar a longo prazo.&lt;/p&gt;
+
+&lt;p&gt;Muitas hipoteses foram elaboradas para tentar explicar essa descoberta. Talvez a vacoscontricção periférica causada pelas catecolaminas fosse a responsável pela piora dos pacientes. Pois, com a redução no diâmetro dos vasos, o coração precisaria se contrair cada vez mais forte para vencer a pressão das arteríolas, fazendo com que se desgastasse cada vez mais.&lt;/p&gt;
+
+&lt;p&gt;Então, será que usar um betabloqueador para inibir a liberação de catecolaminas pelo sistema nervoso simpático não traria efeitos benéficos a longo prazo? Um estudo de 1975 relatou a experiência de tratar 7 pacientes com insuficiência cardíaca congestiva e taquicardia basal usando betabloqueadores.&lt;sup id=&quot;fnref:Waagstein&quot;&gt;&lt;a href=&quot;#fn:Waagstein&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; O resultados relatados foram bastante promissores. Os pacientes apresentaram melhora clínica, melhorando suas capacidades físicas, reduzindo a falta de ar e o desconforto no peito. Os exames complementares nesses pacientes (como o ecocardiograma) também demonstraram melhora da função ventricular. A conclusão foi de que, ao menos para alguns pacientes selecionados, o uso de betabloqueadores pode sim ser benéfico.&lt;/p&gt;
+
+&lt;h2 id=&quot;os-grandes-estudos&quot;&gt;Os grandes estudos&lt;/h2&gt;
+
+&lt;p&gt;No fim dos anos 90 começaram a surgir os grandes estudos clínicos sobre os benefícios do uso dos betabloqueadores. O primeiro grande estudo a tentar mensurar a mortalidade de pacientes tratados com betabloqueadores foi o &lt;em&gt;US Caverdilol Trial&lt;/em&gt; (USCT) de 1966.&lt;sup id=&quot;fnref:USCT&quot;&gt;&lt;a href=&quot;#fn:USCT&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; Neste, foram estudados 1094 pacientes, dividos num grupo de controle, fazendo uso de placebo, e num grupo de teste que fazia uso de Carvedilol. Ao fim do estudo, o grupo de pacientes que faziam uso do Carvedilol obteve uma redução de 65% na mortalidade e de 27% nos internamentos por causas cardiovasculares, em relação ao grupo placebo. Na verdade, o estudo teve de ser interrompido antes do tempo programado, pois os resultados já eram muito satisfatórios e seria antiético continuar dando placebos ao grupo que estava com maior mortalidade.&lt;/p&gt;
+
+&lt;p&gt;Em 2002, uma metanálise de dois grandes estudos, CIBIS I e CIBIS II, com 3288 pacientes no total demonstrou uma redução de 29.3% na mortalidade com o uso do bisoprolol.&lt;sup id=&quot;fnref:CIBIS&quot;&gt;&lt;a href=&quot;#fn:CIBIS&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; Inclusive, o estudo CIBIS II também teve de ser interrompido antes do prazo estipulado, pelo mesmo motivo do USCT. Em seguida, o estudo MERIT-HF demosntrou também uma redução na mortalidade quando o metoprolol era usado.&lt;/p&gt;
+
+&lt;p&gt;Mas é preciso ter muito cuidado na hora de interpretar o resultados destes estudos. Mesmo sabendo que o caverdilol, o bisoprolol e o metoprolol são medicações que reduzem a mortalidade na insuficiência cardíaca, não podemos concluir que, de forma geral, todos betabloqueadores diminuem a mortalidade. Estudos com outros medicamentos da mesma classe, como o atenolol, o xamoterol e o bucindolol mostraram não haver benefício ou, até mesmo, haver maior risco.&lt;sup id=&quot;fnref:Cleland&quot;&gt;&lt;a href=&quot;#fn:Cleland&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;o-paradigma-atual&quot;&gt;O paradigma atual&lt;/h2&gt;
+
+&lt;p&gt;Hoje o uso dos betabloqueadores Carvedilol, Bisoprolol e Metoprolol para os pacientes com insuficiência cardíaca é um grande pilar da cardiologia. Atualmente, todo paciente com fração de ejeção reduzida já deve iniciar terapia com um desses betabloqueadores, um inibidor da enzima conversora de angiotensina e a espironolactona. Estas três classes de medicamentos são as que comprovadamente reduzem a mortalidade desses pacientes.&lt;/p&gt;
+
+&lt;p&gt;Toda essa história é muito interessante. Uma classe de medicamentos que já foi considerada totalmente proibida hoje é um dos elementos mais importantes do tratamento. O que era considerado uma prescrição imprudente hoje, se não prescrito, é considerado negligência médica.&lt;/p&gt;
+
+&lt;p&gt;Esse é um grande exemplo de situação para mostrar-nos que postulações teóricas não são suficientes para predizermos se um tratamento será efetivo ou não. Isso, pois, nosso conhecimento fisiológico sempre poderá estar incompleto, como estava no caso dos betabloqueadores. O conhecimento da época parecia deixar claro que seu uso pioraria os sintomas dos pacientes, mas o oposto foi demonstrado pelos estudos empíricos. Ou seja, nosso entendimento sobre o funcionamento do coração e da fisiopatologia da insuficiência cardíaca estava incompleto.&lt;/p&gt;
+
+&lt;p&gt;Parafraseando John Cleland em seu artigo &lt;em&gt;“b-Blockers for heart failure: why, which, when, and where”&lt;/em&gt;&lt;sup id=&quot;fnref:Cleland:1&quot;&gt;&lt;a href=&quot;#fn:Cleland&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;, o tratamento baseado unicamente em principios teóricos possui dois problemas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Se o conhecimento atual da fisiopatologia estiver errado, o tratamento será inefetivo ou, talvez, até mesmo maléfico;&lt;/li&gt;
+  &lt;li&gt;Se o tratamento se disseminar e for considerado um paradigma científico, pode mascarar a aquisição de novos conhecimentos por anos e se tornar um mito médico.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Fica evidente a necessidade da adoção da medicina baseada em evidencia e não em opiniões. Por mais que acreditamos entender a fisiopatologia de uma doença e o mecanismo de ação de um tratamento, a comprovação empírica do benefício deste tratamento é fundamental. Chamamos de paradoxos os fenônemos naturais que não conseguimos entender e explicar. Por muito tempo a boa resposta clínica pelo o tratamento com betabloqueadores foi considerada um paradoxo. Na verdade, ainda continua sendo parcialmente um paradoxo, pois não conseguimos explicar totalmente a fisiologia por trás do seu benefício.&lt;/p&gt;
+
+&lt;h2 id=&quot;leitura-recomendada&quot;&gt;Leitura recomendada&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cleland JGF. β-Blockers for heart failure: why, which, when, and where. Medical Clinics of North America. 2003;87(2):339-371. doi:10.1016/S0025-7125(02)00173-6.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:lancet-therapeutic-paradox&quot;&gt;
+      &lt;p&gt;Barnett DB. Beta-blockers in heart failure: a therapeutic paradox. The Lancet. 1994;343(8897):557-558. doi:10.1016/S0140-6736(94)91518-0. &lt;a href=&quot;#fnref:lancet-therapeutic-paradox&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:lancet-therapeutic-paradox:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:catecolaminas&quot;&gt;
+      &lt;p&gt;Cohn JN, Levine TB, Olivari MT, et al. Plasma norepinephrine as a guide to prognosis in patients with chronic congestive heart failure. N Engl J Med. 1984;311(13):819-823. doi:10.1056/NEJM198409273111303 &lt;a href=&quot;#fnref:catecolaminas&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Waagstein&quot;&gt;
+      &lt;p&gt;Waagstein F, Hjalmarson A, Varnauskas E, Wallentin I. Effect of chronic beta-adrenergic receptor blockade in congestive cardiomyopathy. Heart. 1975;37(10):1022-1036. doi:10.1136/hrt.37.10.1022. &lt;a href=&quot;#fnref:Waagstein&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:USCT&quot;&gt;
+      &lt;p&gt;Packer M, Bristow MR, Cohn JN, et al. The effect of carvedilol on morbidity and mortality in patients with chronic heart failure. N Engl J Med. 1996;334(21):1349-1355. doi:10.1056/NEJM199605233342101. &lt;a href=&quot;#fnref:USCT&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:CIBIS&quot;&gt;
+      &lt;p&gt;Leizorovicz A, Lechat P, Cucherat M, Bugnard F. Bisoprolol for the treatment of chronic heart failure: A meta-analysis on individual data of two placebo-controlled studies—CIBIS and CIBIS II. American Heart Journal. 2002;143(2):301-307. doi:10.1067/mhj.2002.120768. &lt;a href=&quot;#fnref:CIBIS&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Cleland&quot;&gt;
+      &lt;p&gt;Cleland JGF. β-Blockers for heart failure: why, which, when, and where. Medical Clinics of North America. 2003;87(2):339-371. doi:10.1016/S0025-7125(02)00173-6. &lt;a href=&quot;#fnref:Cleland&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Cleland:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="medicamentos" /><category term="cardiologia" /><summary type="html">Este semestre comecei a pagar a cadeira de cardiologia no curso médico. Já comecei a acompanhar ambulatório de cardiologia antes mesmo de começar a ter as aulas teóricas. Então, acompanhei as consultas apenas com meu conhecimento basal, adquirido nos períodos anteriores, sobre cardiologia.</summary></entry><entry><title type="html">Meu novo vício por filmes e críticas</title><link href="http://localhost:4000/cinema/29/10/2019/novo-vicio-por-filmes-e-criticas" rel="alternate" type="text/html" title="Meu novo vício por filmes e críticas" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>http://localhost:4000/cinema/29/10/2019/novo-vicio-por-filmes-e-criticas</id><content type="html" xml:base="http://localhost:4000/cinema/29/10/2019/novo-vicio-por-filmes-e-criticas">&lt;p&gt;Claro que eu sempre gostei de assitir filmes. Desde pequenos nós assistimos filmes. Contudo, recentemente comecei a perceber que a contemplação das obras fora das salas do cinema é tão prazerosa quanto o próprio ato de assistir o filme. Claro que sempre execemos um pouco dessa atividade quando comentamos os filmes com amigos e parentes. Mas ainda assim é um espaço amostral pequeno de sentimentos e sensações sobre os filmes. Depois eu descobri os podcasts, em especial o Nerdcast, um canal de entretenimento que costuma trazer episódios sobre muitos filmes, comentando as obras e fazendo críticas.&lt;/p&gt;
 
 &lt;p&gt;Recentemente descobri a plataforma que estava me fazendo falta: o Letterboxd. Uma rede social de cinéfilos, uma espécie de &lt;em&gt;Skoob&lt;/em&gt; (ou &lt;em&gt;Goodreads&lt;/em&gt;) para filmes. Nesse aplicativo os usuários avaliam os filmes em notas de 1 a 5 estrelas, fazem comentários e compartilham críticas. Uma das ferramentas que acho das mais legais é a possibilidade de criar &lt;em&gt;listas&lt;/em&gt; de filmes, reunindo-os sob alguma característica ou aspécto em comum.&lt;/p&gt;
 
@@ -564,41 +638,4 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
 
 &lt;p&gt;Em seguida, após ter estudado mais sobre o assunto, se eu perceber que na wikipedia faltavam informações ou que lá tinha coisa errada, eu simplesmente vou lá e corrijo.&lt;/p&gt;
 
-&lt;p&gt;Contribuir para a Wikipédia é uma forma de ensinar e aprender ao mesmo tempo.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="tecnologia" /><category term="wikipedia" /><summary type="html">A Wikipédia é um site criado em 2001 por Jimmy Wales e Larry Sanger que segue o modelo de wiki, uma plataforma destinada a agregar conteúdo onde qualquer usuário pode editar e contribuir. Surgiu como uma ideia ambiciosa de difundir o conhecimento e torna-lo acessível. Eu particularmente acho a Wikipédia uma das melhores coisas que a internet pôde nos proporcionar.</summary></entry><entry><title type="html">Problema do brilho travado no linux</title><link href="http://localhost:4000/problema-brilho-linux" rel="alternate" type="text/html" title="Problema do brilho travado no linux" /><published>2019-02-18T00:00:00-03:00</published><updated>2019-02-18T00:00:00-03:00</updated><id>http://localhost:4000/Problema-do-brilho-travado-no-linux</id><content type="html" xml:base="http://localhost:4000/problema-brilho-linux">&lt;p&gt;Esse é um problema que sempre enfrento não importa a distro instalada. Porém, tem vezes que o brilho trava no mínimo e tem vezes que trava no máximo. “Trava”, pois os botões de controle do brilho não funcionam e nem os comandos no terminal.&lt;/p&gt;
-
-&lt;p&gt;A primeira vez que aconteceu foi muito difícil achar a solução porque a tela ficou sem brilho e era quase impossível ver algo na tela. Tive que ficar pesquisando com o celular. Felizmente encontrei a solução para o problema, tanto para o brilho máximo como do mínimo.&lt;/p&gt;
-
-&lt;h2 id=&quot;solução&quot;&gt;Solução:&lt;/h2&gt;
-
-&lt;p&gt;É bastante simples. Vamos precisar alterar alguns elementos no arquivo de configuração do grub, localizado em &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/default/grub&lt;/code&gt;. Para isso, vamos usar o programa &lt;em&gt;nano&lt;/em&gt; pois acredito que ele já vem instalado em todas as distros. Caso contrário você pode usar qualquer um. Só preste atenção que é necessário privilégios de administrador para editar este arquivo e é por isso vamos usar o comando sudo.&lt;/p&gt;
-
-&lt;p&gt;Então digite no terminal:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /etc/default/grub
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Vai aparecer uma tela de edição do nano. É só localizar a linha com o elemento &lt;code class=&quot;highlighter-rouge&quot;&gt;GRUB_CMDLINE_LINUX_DEFAULT=&lt;/code&gt;. A minha é assim:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;GRUB_CMDLINE_LINUX_DEFAULT=&quot;quiet&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Nela você pode adicionar uma série de valores que podem resolver esse problema. Pesquisando nos fórums o valor que resolve acaba dependendo de usuário para usuário. Para mim o valor &lt;code class=&quot;highlighter-rouge&quot;&gt;acpi_osi='!Windows 2012'&lt;/code&gt; foi o efetivo. Mas você pode tentar outros como:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;acpi_osi=
-acpi_osi=Linux
-acpi_osi='!Windows 2012'
-acpi_osi='!Windows 2012' acpi_backlight=vendor
-acpi_backlight=vendor
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Se eu souber de mais vou editando esse post. Esse valor deve ser adicionado dentro dos parenteses, separado por um espaço dos outros elementos. Editando a minha linha vai ficar assim:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;GRUB_CMDLINE_LINUX_DEFAULT=&quot;quiet acpi_osi='!Windows 2012'&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;A sua deve ficar semelhante. Perceba que eu inclui os apóstrofos e respeitei as aspas. Se escrever errado não vai funcionar então preste atenção. Lembrando que se não der certo você pode tentar adicionar um dos outros valores no mesmo lugar.&lt;/p&gt;
-
-&lt;p&gt;Em seguida é só salvar as alterações e fechar o editor. No nano isso pode ser feito com &lt;kbd&gt;Ctrl + O&lt;/kbd&gt; para salvar e &lt;kbd&gt;Ctrl + X&lt;/kbd&gt; para sair. Depois é necessário atualizar o arquivo de configuração de boot do grub, execute:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo update-grub
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;E pronto! É só reiniciar o computador e verá que consegue mudar o brilho. Se você souber de mais valores que funcionam, seria muito legal se pudesse me mandar uma email com eles. Ou também me manda um email se o tutorial foi útil para você. O endereço é &lt;a href=&quot;mailto:filipemosca@canalionico.com.br&quot;&gt;filipemosca@canalionico.com.br&lt;/a&gt;, e será usado para contato enquanto eu não coloco uma sessão de comentários.&lt;/p&gt;
-
-&lt;p&gt;Obrigado pela atenção!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="linux" /><summary type="html">Esse é um problema que sempre enfrento não importa a distro instalada. Porém, tem vezes que o brilho trava no mínimo e tem vezes que trava no máximo. “Trava”, pois os botões de controle do brilho não funcionam e nem os comandos no terminal.</summary></entry></feed>
+&lt;p&gt;Contribuir para a Wikipédia é uma forma de ensinar e aprender ao mesmo tempo.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="tecnologia" /><category term="wikipedia" /><summary type="html">A Wikipédia é um site criado em 2001 por Jimmy Wales e Larry Sanger que segue o modelo de wiki, uma plataforma destinada a agregar conteúdo onde qualquer usuário pode editar e contribuir. Surgiu como uma ideia ambiciosa de difundir o conhecimento e torna-lo acessível. Eu particularmente acho a Wikipédia uma das melhores coisas que a internet pôde nos proporcionar.</summary></entry></feed>
