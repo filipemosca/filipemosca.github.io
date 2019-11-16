@@ -131,6 +131,7 @@ nav {
 h1  {
   text-align: left;
   margin-bottom: 0;
+  max-width: 600px;
 }
 a {
   text-decoration: none;
@@ -141,6 +142,9 @@ p, li {
 }
 img {
   max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 ::selection {
   background: yellow; /* WebKit/Blink Browsers */
