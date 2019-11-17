@@ -37,6 +37,7 @@ body {
   padding-right: 5px;
   margin-right: 2px;
   margin-bottom: 5px;
+  line-height: 1.2;
 }
 .botao:hover {
   background-color: black;
@@ -56,6 +57,7 @@ body {
   margin-right: 2px;
   margin-bottom: 2px;
   margin-top: 5px;
+  line-height: 1.2;
 }
 .pseudobotao:hover {
   background-color: black;
@@ -75,6 +77,7 @@ body {
   margin-right: 2px;
   margin-bottom: 2px;
   margin-top: 5px;
+  line-height: 1.2;
 }
 .medicina {background-color: green;}
 .linux {background-color: red;}
@@ -128,16 +131,20 @@ nav {
 h1  {
   text-align: left;
   margin-bottom: 0;
+  max-width: 600px;
 }
 a {
   text-decoration: none;
   color: #2a7ae2;
 }
-p {
+p, li {
   line-height: 1.6;
 }
 img {
   max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 ::selection {
   background: yellow; /* WebKit/Blink Browsers */
@@ -196,6 +203,7 @@ img {
   font-size: 16px;
   color: gray;
   margin-top: 5px;
+  display: block;
 }
 pre {
   padding: 8px 12px;
@@ -332,6 +340,9 @@ kbd {
 
 /* Aqui é pra computador */
 @media only screen and (min-width: 800px) {
+  #post-info,{
+    display: inline-block;
+  }
   .footer-col {
     float: left;
     margin-bottom: 15px;

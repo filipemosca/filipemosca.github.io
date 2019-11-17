@@ -6,6 +6,20 @@ layout: default
 <h2>Medicina</h2>
 <ol reversed>
   {% for post in site.categories.medicina %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a>  <span id="post-info"><i id="calendar-index" class="far fa-calendar-alt"></i><time>{{ post.date | date: "%-d" }} de {% assign m = post.date | date: "%-m" %}
+      {% case m %}
+        {% when '1' %}janeiro
+        {% when '2' %}fevereiro
+        {% when '3' %}março
+        {% when '4' %}abril
+        {% when '5' %}maio
+        {% when '6' %}junho
+        {% when '7' %}julho
+        {% when '8' %}agosto
+        {% when '9' %}setembro
+        {% when '10' %}outubro
+        {% when '11' %}novembro
+        {% when '12' %}dezembro
+      {% endcase %}{{ post.date | date: "%Y"}}</time></span></li>
   {% endfor %}
 </ol>
