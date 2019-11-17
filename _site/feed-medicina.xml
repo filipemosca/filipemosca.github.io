@@ -5,16 +5,16 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Nov 2019 17:45:21 -0300</pubDate>
-    <lastBuildDate>Sun, 10 Nov 2019 17:45:21 -0300</lastBuildDate>
+    <pubDate>Sat, 16 Nov 2019 21:06:50 -0300</pubDate>
+    <lastBuildDate>Sat, 16 Nov 2019 21:06:50 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
     
     <entry>
             <title type="html">Betabloqueadores no tratamento da insuficiência cardíaca</title>
-            <link href="http://localhost:4000/medicina/10/11/2019/betabloqueadores-na-insuficiencia-cardiaca"/>
-            <published>2019-11-10T17:45:21-03:00</published>
-            <id>/medicina/10/11/2019/betabloqueadores-na-insuficiencia-cardiaca</id>
+            <link href="http://localhost:4000/medicina/11/11/2019/betabloqueadores-na-insuficiencia-cardiaca"/>
+            <published>2019-11-11T13:57:00-03:00</published>
+            <id>/medicina/11/11/2019/betabloqueadores-na-insuficiencia-cardiaca</id>
             <content type="html">&lt;p&gt;Este semestre comecei a pagar a cadeira de cardiologia no curso médico. A faculdade logo de início nos coloca para ter atividades práticas no ambulatório de cardiologia, antes mesmo de efetvamente começarmos a ter as aulas teóricas. Então, comecei a frequentar o ambulatório levando apenas o meu conhecimento basal, adquirido nos períodos anteriores, sobre cardiologia.&lt;/p&gt;
 
 &lt;p&gt;Atendendo inúmeros pacientes com insuficiência cardíaca (IC), não pude deixar de reparar na prevalência das prescrições de &lt;a href=&quot;https://pt.wikipedia.org/wiki/Bloqueador_beta-adren%C3%A9rgico&quot;&gt;betabloqueadores&lt;/a&gt; (BBs — como o &lt;em&gt;propanolol&lt;/em&gt;) para esses pacientes. Logo de cara tentei começar a entender qual seria a importância dessa classe de fármacos para os pacientes portadores de IC. De início eu estranhei o uso desses fármacos para esse pacientes pois fiz um raciocínio intuitívo muito simples:&lt;/p&gt;
@@ -90,9 +90,9 @@ These are opinion-based interventions.&lt;/p&gt;
     
     <entry>
             <title type="html">Escala de coma de Glasgow</title>
-            <link href="http://localhost:4000/medicina/20/10/2019/escala-de-coma-de-glasgow"/>
-            <published>2019-10-20T13:47:11-03:00</published>
-            <id>/medicina/20/10/2019/escala-de-coma-de-glasgow</id>
+            <link href="http://localhost:4000/medicina/10/11/2019/escala-de-coma-de-glasgow"/>
+            <published>2019-11-10T01:16:45-03:00</published>
+            <id>/medicina/10/11/2019/escala-de-coma-de-glasgow</id>
             <content type="html">&lt;p&gt;Existem muitas escalas na medicina. Uma das mais antigas e ainda amplamente utilizada é a escala de coma de Glagow (ECG). Simplemente não dá para não saber a ECG. Ela foi criada em 1974 na tentativa de tentar categorizar de forma prática o nível de consciência dos pacientes.&lt;sup id=&quot;fnref:tesdale2014&quot;&gt;&lt;a href=&quot;#fn:tesdale2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Antes da ECG era muito difícil de se comunicar entre os médicos o grau de rebaixamento de consciência dos pacientes. Também não havia uma quantificação para saber se o paciente estava melhorando ou piorando o seu estado mental. E, além disso, era muito difícil fazer pesquisas sem conseguir dividir os pacientes em grupos e avaliar os resultados do acordo com eles.&lt;/p&gt;
