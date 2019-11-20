@@ -31,6 +31,7 @@ body {
   text-decoration: none;
   font-size: medium;
   background-color: #dedede;
+  border-color: black;
   padding: 4px 6px 3px 6px;
   border-radius: 0.5rem;
   display: inline-block;
@@ -120,6 +121,11 @@ nav {
 #portrait-index {
   padding-right: 5px;
 }
+#feedlyFollow {
+  float: left;
+  margin-right: 5px;
+}
+
 
 
 /* conteúdo principal */
@@ -179,6 +185,7 @@ img {
   }
   li h2 {
     margin-bottom: 0;
+    line-height: 1.2;
   }
   li h2 a {
     text-decoration: none;

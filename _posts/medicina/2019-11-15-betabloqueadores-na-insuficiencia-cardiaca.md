@@ -47,18 +47,18 @@ Fica evidente a necessidade da adoção da medicina baseada em evidencia e não 
 
 ## Leitura recomendada
 
-1. Cleland JGF. β-Blockers for heart failure: why, which, when, and where. Medical Clinics of North America. 2003;87(2):339-371. doi:10.1016/S0025-7125(02)00173-6.
+1. Cleland JGF. β-Blockers for heart failure: why, which, when, and where. Medical Clinics of North America. 2003;87(2):339-371. doi:[10.1016/S0025-7125(02)00173-6](https://doi.org/10.1016/S0025-7125(02)00173-6).
 
 ## Referências
 
-[^lancet-therapeutic-paradox]: Barnett DB. Beta-blockers in heart failure: a therapeutic paradox. The Lancet. 1994;343(8897):557-558. doi:10.1016/S0140-6736(94)91518-0.
+[^lancet-therapeutic-paradox]: Barnett DB. Beta-blockers in heart failure: a therapeutic paradox. The Lancet. 1994;343(8897):557-558. doi:[10.1016/S0140-6736(94)91518-0](https://doi.org/10.1016/S0140-6736(94)91518-0).
 
-[^Waagstein]: Waagstein F, Hjalmarson A, Varnauskas E, Wallentin I. Effect of chronic beta-adrenergic receptor blockade in congestive cardiomyopathy. Heart. 1975;37(10):1022-1036. doi:10.1136/hrt.37.10.1022.
+[^Waagstein]: Waagstein F, Hjalmarson A, Varnauskas E, Wallentin I. Effect of chronic beta-adrenergic receptor blockade in congestive cardiomyopathy. Heart. 1975;37(10):1022-1036. doi:[10.1136/hrt.37.10.1022](https://heart.bmj.com/content/37/10/1022).
 
-[^CIBIS]: Leizorovicz A, Lechat P, Cucherat M, Bugnard F. Bisoprolol for the treatment of chronic heart failure: A meta-analysis on individual data of two placebo-controlled studies—CIBIS and CIBIS II. American Heart Journal. 2002;143(2):301-307. doi:10.1067/mhj.2002.120768.
+[^CIBIS]: Leizorovicz A, Lechat P, Cucherat M, Bugnard F. Bisoprolol for the treatment of chronic heart failure: A meta-analysis on individual data of two placebo-controlled studies—CIBIS and CIBIS II. American Heart Journal. 2002;143(2):301-307. doi:[10.1067/mhj.2002.120768](https://www.sciencedirect.com/science/article/abs/pii/S0002870302437301?via%3Dihub).
 
-[^Cleland]: Cleland JGF. β-Blockers for heart failure: why, which, when, and where. Medical Clinics of North America. 2003;87(2):339-371. doi:10.1016/S0025-7125(02)00173-6.
+[^Cleland]: Cleland JGF. β-Blockers for heart failure: why, which, when, and where. Medical Clinics of North America. 2003;87(2):339-371. doi:[10.1016/S0025-7125(02)00173-6](https://www.sciencedirect.com/science/article/abs/pii/S0025712502001736?via%3Dihub).
 
-[^USCT]: Packer M, Bristow MR, Cohn JN, et al. The effect of carvedilol on morbidity and mortality in patients with chronic heart failure. N Engl J Med. 1996;334(21):1349-1355. doi:10.1056/NEJM199605233342101.
+[^USCT]: Packer M, Bristow MR, Cohn JN, et al. The effect of carvedilol on morbidity and mortality in patients with chronic heart failure. N Engl J Med. 1996;334(21):1349-1355. doi:[10.1056/NEJM199605233342101](https://www.nejm.org/doi/full/10.1056/NEJM199605233342101).
 
-[^catecolaminas]: Cohn JN, Levine TB, Olivari MT, et al. Plasma norepinephrine as a guide to prognosis in patients with chronic congestive heart failure. N Engl J Med. 1984;311(13):819-823. doi:10.1056/NEJM198409273111303
+[^catecolaminas]: Cohn JN, Levine TB, Olivari MT, et al. Plasma norepinephrine as a guide to prognosis in patients with chronic congestive heart failure. N Engl J Med. 1984;311(13):819-823. doi:[10.1056/NEJM198409273111303](https://www.nejm.org/doi/full/10.1056/NEJM198409273111303).
