@@ -1,0 +1,12 @@
+---
+title: Medicina
+layout: default
+---
+
+<h2>Medicina</h2>
+<ol reversed>
+  {% for post in site.categories.medicina %}
+  <li><span id="post-info"><time>{{ post.date | date: "%-d.%-m.%-y" }}</time></span>
+    <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ol>

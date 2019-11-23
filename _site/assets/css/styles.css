@@ -30,6 +30,7 @@ body {
   text-decoration: none;
   font-size: medium;
   background-color: #dedede;
+  border-color: black;
   padding: 4px 6px 3px 6px;
   border-radius: 0.5rem;
   display: inline-block;
@@ -112,6 +113,9 @@ nav {
 #face, #git {
   font-size: 20px; }
 
+.fa-rss {
+  font-size: 18px; }
+
 #face {
   padding-left: 3px;
   padding-right: 3px; }
@@ -121,6 +125,10 @@ nav {
 
 #portrait-index {
   padding-right: 5px; }
+
+#feedlyFollow {
+  float: left;
+  margin-right: 5px; }
 
 /* conteúdo principal */
 .main {
@@ -176,7 +184,8 @@ img {
   list-style-type: none;
   padding-left: 0; }
 .post-list li h2 {
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  line-height: 1.2; }
 .post-list li h2 a {
   text-decoration: none;
   font-size: 24px;
@@ -241,7 +250,7 @@ kbd {
 /* footer */
 .footer {
   border-top: 1px solid #e8e8e8;
-  padding: 30px; }
+  padding: 10px; }
 
 .footer-col ul {
   padding-left: 0; }

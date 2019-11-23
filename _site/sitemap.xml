@@ -53,7 +53,14 @@
 <lastmod>2019-11-15T00:00:00-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/cinema/16/11/2019/bladde-runner-1982</loc>
+<lastmod>2019-11-16T00:00:00-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/arquivo.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/eu.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -65,7 +72,7 @@
 <loc>http://localhost:4000/medicina.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/sobre.html</loc>
+<loc>http://localhost:4000/medicina2.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tecnologia.html</loc>
