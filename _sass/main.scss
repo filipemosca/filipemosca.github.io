@@ -256,29 +256,14 @@ kbd {
   list-style-type: none;
   }
 }
-.footer-col1 {
-  width: 90%;
-  .contato {
-    list-style-type: none;
-    li {
-      font-size: 16px;
-      color: gray;
-    }
-    li a {
-      text-decoration: none;
-      font-size: 14px;
-      color: #2a7ae2;
-    }
-    li a:hover {
-      color: black;
-    }
+.coisas {
+  margin: 0 auto;
+  font-size: 16px;
+  color: gray;
+  display: inline;
+  text-align: center;
+  a { color: #2a7ae2;
   }
-}
-.footer-col3 {
-  width: 60%;
-}
-.footer-col2 {
-  width: 100%;
 }
 .license {
   display: inline-block;
@@ -322,7 +307,7 @@ kbd {
 .svg-icon {
   height: 16px;
   padding-right: 5px;
-  fill: #828282;
+  fill: #2a7ae2;
 }
 
 /* Para tablet */
@@ -343,7 +328,8 @@ kbd {
   #post-info,{
     display: inline-block;
   }
-  .footer-col {
+/* 
+   .footer-col {
     float: left;
     margin-bottom: 15px;
     padding-left: 0;
@@ -356,5 +342,6 @@ kbd {
   }
   .footer-col3 {
     width: calc(35%);
-  }
+  } 
+*/
 }
