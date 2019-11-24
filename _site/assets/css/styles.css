@@ -247,6 +247,17 @@ kbd {
   margin-right: auto;
   margin-left: auto; }
 
+.footnote {
+  color: #0000EE; }
+  .footnote :visited {
+    color: #551A8B; }
+
+a.footnote:before {
+  content: "["; }
+
+a.footnote:after {
+  content: "]"; }
+
 /* footer */
 .footer {
   border-top: 1px solid #e8e8e8;
