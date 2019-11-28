@@ -19,8 +19,9 @@ body {
   font-size: 1.2em; }
 
 .applause {
-  float: right;
-  padding-top: 5px; }
+  padding-top: 25px;
+  margin: 0 auto;
+  float: right; }
 
 applause-button {
   color: red; }
@@ -28,10 +29,17 @@ applause-button {
 /* Header */
 #logo {
   margin: 0 auto;
-  padding-top: 20px;
-  color: #727272; }
+  padding-top: 0px;
+  color: #727272;
+  display: inline-block;
+  width: 100%;
+  margin: 0 auto; }
   #logo h1 {
-    font-weight: normal; }
+    max-width: 100%;
+    font-weight: normal;
+    font-size: 4em;
+    text-align: center;
+    margin-top: 0; }
 
 .botao {
   text-decoration: none;
@@ -99,16 +107,24 @@ applause-button {
 
 /* Barra de navegaçao */
 nav {
-  padding-top: 5px;
-  margin: 0 auto; }
+  padding-top: 0;
+  margin: 0 auto;
+  width: 100%;
+  display: block;
+  text-align: center;
+  margin-top: 0; }
   nav a {
     text-decoration: none;
     font-size: medium;
-    background-color: #dedede;
-    padding: 4px 6px 3px 6px;
-    border-radius: 0.5rem;
+    background-color: white;
+    border: 1px solid black;
+    padding: 4px 6px 2px 6px;
+    font-size: 16px;
+    border-radius: 0 0 0.5rem 0.5rem;
+    border-top: none;
     display: inline-block;
-    margin-bottom: 5px; }
+    margin-bottom: 5px;
+    margin-top: 0; }
   nav a:hover {
     background-color: black;
     color: white; }
@@ -145,10 +161,6 @@ nav {
 
 .email {
   border-radius: 1rem;
-  border-spacing: 0;
-  margin: 0 auto;
-  padding: 5px;
-  text-align: center;
   color: gray; }
   .email p {
     margin: 0;
