@@ -18,6 +18,13 @@ body {
   font-family: Palatino, serif;
   font-size: 1.2em; }
 
+.applause {
+  float: right;
+  padding-top: 5px; }
+
+applause-button {
+  color: red; }
+
 /* Header */
 #logo {
   margin: 0 auto;
@@ -83,6 +90,9 @@ body {
 .linux {
   background-color: red; }
 
+.aleatoriedades {
+  background-color: darkorchid; }
+
 .tecnologia {
   background-color: yellow;
   color: black; }
@@ -129,6 +139,9 @@ nav {
 #feedlyFollow {
   float: left;
   margin-right: 5px; }
+
+.fa-clock {
+  padding-right: 0px; }
 
 .email {
   border-radius: 1rem;

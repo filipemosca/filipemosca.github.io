@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-25T19:20:11-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">Escrevendo sobre Blade Runner em Novembro de 2019</title><link href="http://localhost:4000/cinema/16/11/2019/bladde-runner-1982" rel="alternate" type="text/html" title="Escrevendo sobre Blade Runner em Novembro de 2019" /><published>2019-11-16T00:00:00-03:00</published><updated>2019-11-16T00:00:00-03:00</updated><id>http://localhost:4000/cinema/16/11/2019/bladde-runner-1982</id><content type="html" xml:base="http://localhost:4000/cinema/16/11/2019/bladde-runner-1982">&lt;p&gt;Estamos em Novembro de 2019, exatamente o futuro no qual se passa a hitória de Blade Runner. E Infelizmente ainda não temos carros voadores.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-28T12:05:23-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">Blogs em pleno 2019</title><link href="http://localhost:4000/aleatoriedades/27/11/2019/blogs-em-pleno-2019" rel="alternate" type="text/html" title="Blogs em pleno 2019" /><published>2019-11-27T00:00:00-03:00</published><updated>2019-11-27T00:00:00-03:00</updated><id>http://localhost:4000/aleatoriedades/27/11/2019/blogs-em-pleno-2019</id><content type="html" xml:base="http://localhost:4000/aleatoriedades/27/11/2019/blogs-em-pleno-2019">&lt;p&gt;Quantos blogs você acompanha? Agora mudando um pouco a pergunta, quantos canais no YouTube ou páginas no Instagram/Facebook você segue? Com a popularização das redes sociais e novas plataformas de midia temos visto cada vez menos blogs pela internet. Muitos do blogueiros que eu acompanhava no passado abandanoram a plataforma e hoje produzem conteúdo apenas para o YouTube.&lt;/p&gt;
+
+&lt;p&gt;Claro que ainda existem muitos sites bons por aí. Mas eu estou me referindo aos blogs pessoais, em que os autores escreviam sobre os mais variados temas, seja sobre o seu dia a dia ou sobre algum conteúdo informativo interessante. Sinto falta desses tipos de blog. Na verdade o que vemos hoje é essa modalidade de conteúdo sendo publicada em redes sociais e agora chamada de “vlog”.&lt;/p&gt;
+
+&lt;p&gt;Por exemplo, eu acompanhava muitos blogs da rede &lt;a href=&quot;http://scienceblogs.com.br/&quot;&gt;Science Blogs Brasil&lt;/a&gt;, mas eles estão muito parados ultimamente. São poucos os blogs que ainda postam algo.&lt;/p&gt;
+
+&lt;p&gt;O YouTube realmente é uma plataforma muito legal de divulgação de conteúdo. Acompanho vários canais lá. Mas ainda sinto muita falta das postagens, de consumir conteúdo escrito e não apenas exibido. Já as demais redes sociais, como o Facebook e o Instagram, eu acho que são pessimas para essa finalidade. Primeiro que produzir um conteúdo embasado por referências no instagram é bem inviável pois o mesmo nem permite incluir links nos textos. No Facebook até dá pra organizar melhor as postagens mas é muito mais provável que você vá se distrair com alguma outra informação aleatória aparecendo na sua tela, como uma notificação, do que com o texto que está lendo. A magia do blog é justamente a sua sobriedade. A finalidade de um blog é publicar um conteúdo e nada mais, propiciando um ambiente amigável e sem distrações para a leitura.&lt;/p&gt;
+
+&lt;p&gt;Quando eu descobri a plataforma chamada &lt;em&gt;Medium&lt;/em&gt; fiquei bastante entusiasmado. O Medium é plataforma de blogs criada  pelo mesmo fundador do Twitter. Essa plataforma deu uma certa reerguida na cultura de blogar. Contudo, ainda não é muito famosa aqui no Brasil.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-motivação-para-criar-este-blog&quot;&gt;A motivação para criar este blog&lt;/h2&gt;
+
+&lt;p&gt;Vou logo aproveitar esse desafabo sobre a decorrada dos blogs para falar um pouco o que me motivou a criar o meu.  Como eu simplesmente adoro ler blogs e já venho sentindo falta de ter o que ler, resolvi fazer a minha parte para manter esta cultura viva e criar meu próprio blog. E aqui está ele.&lt;/p&gt;
+
+&lt;p&gt;Recentemente eu assisti um vídeo do Atila (que por sinal é um dos blogueiros que eu acompanhava e hoje só produz conteúdo para o youtube) muito bom, entitulado &lt;em&gt;“&lt;a href=&quot;https://www.youtube.com/watch?v=Ja6ZnJUQa_0&quot;&gt;Por que você DEVERIA se expor na Internet&lt;/a&gt;“&lt;/em&gt;. Esse vídeo reflete um pouco do que eu já pensava há muito tempo. Eu sempre quis de alguma forma contribuir para a comunidade com as coisas que eu aprendo. Já tentei várias vezes criar uum blog sobre divulgação científica na área de saúde e biologia. Entretanto, escrever sempre conteúdos informativos de qualidade era algo muito trabalhoso. Eu levava duas semanas lendo a literatura científica e pesquisando fontes para ter o embasamento mínimo para poder escrever algo. O resultado é que eu sempre postava muito pouco. Na verdade eu raramente postava algo, era impossível manter uma constância de publicações. Só essa pequena postagem passada sobre o uso de betabloqueadores me consumiu uma semana e meia de leituras. Claro que quando termino de escrever e publico eu me sinto muito bem por ter pesquisado a fundo e escrito um conteúdo, principalmente da minha área, mas nem sempre isso é viável.&lt;/p&gt;
+
+&lt;p&gt;Um nicho da internet que ainda produz bastantes blogs, mesmo nos dias de hoje, são os programadores. É muito comum ver programadores que possuem páginas na internet para escrever sobre os mais variados temas, seja relacionado à programação ou não. Aliás, muitos deles têm uma virtude muito interessante que admiro muito, eles costumam compartilhar seus conhecimentos e suas “invencionices” com o resto da comunidade. Por exemplo, se um usuário descobre uma solução para um &lt;em&gt;bug&lt;/em&gt; ou jeito mais fácil de realizar uma tarefa virtual, eles fazem postagens divulgando essa informação para os colegas. Gosto muito da cultura &lt;em&gt;Open Souce&lt;/em&gt; justamente por causa disso. Esse é inclusive um dos pontos abordados por Eric S. Raymond em seu texto “&lt;em&gt;&lt;a href=&quot;http://www.catb.org/esr/faqs/hacker-howto.html&quot;&gt;Como se tornar um Hacker&lt;/a&gt;&lt;/em&gt;”. O próprio Eric tem um &lt;a href=&quot;http://esr.ibiblio.org/&quot;&gt;blog pessoal&lt;/a&gt; com atualizações constantes.&lt;/p&gt;
+
+&lt;p&gt;Aos poucos eu fui desenvolvendo a ideia de querer fazer o mesmo que os programadores fazem só que em relação à área de saúde que é a minha área. Fui matutando a ideia de criar um blog pessoal e escrever sobre tudo nele. Desde meus artigos informativos até artigos mais pessoais sobre a minha vida ou sobre minhas opiniões, ou mesmo aleatoriedades. Dessa forma, eu poderia manter sempre o hábito de escrever postagens sem que todas elas fossem extremamente trabalhosas e extenuantes.&lt;/p&gt;
+
+&lt;p&gt;A principio eu não escrevo para ninguém.  A princípio não direciono meu conteúdo para um determinado público. Quero continuar escrevendo para manter o hábito de escrever.  Outra para razão para escrever um blog pessoal é para acompanhar a evolução da minha forma de pensar. Com o tempo posso ir lendo minhas postagens mais antigas e só assim perceber o quanto a gente muda com o tempo. É uma boa forma de guardar um pouco de nossas memórias e compartilhá-las.&lt;/p&gt;
+
+&lt;h2 id=&quot;será-que-ainda-existem-bons-blogs-pela-internet&quot;&gt;Será que ainda existem bons blogs pela internet?&lt;/h2&gt;
+
+&lt;p&gt;Claro que sim. Ainda hoje eu acompanho vários. Utilizo o Feedly como agregador de Feed, desse modo nunca perco uma nova postagem de cada blog que acompanho. Inclusive, se você também usa o Feedly, o &lt;a href=&quot;https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fmosquildo.com.br%2Ffeed.xml&quot;&gt;Mosquildo está disponível para ser seguido lá&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Eu sinceramente adoraria conhecer blogs pequenos de pessoas comuns como eu. Saber se ainda existem pessoas que nadam contra a maré do fim dos blogs e continuam postando conteúdo na internet. Se você que está lendo esse artigo conhece algum blog interessante, comenta aqui embaixo. Na verdade eu acho que todos deveriam ter um. Cada pessoa sempre tem algo interessante para falar ou uma história para contar. Claro que dá para fazer exatamente isso nas redes sociais, mas o blog é uma plataforma mais convidativa (eu pelo menos acho isso) e que facilita o acesso e o acompanhamento dos artigos.&lt;/p&gt;
+
+&lt;p&gt;Gostei bastante da frase de Mel Campbell em seu artigo “&lt;a href=&quot;https://www.theguardian.com/commentisfree/2014/jul/17/should-we-mourn-the-end-of-blogs&quot;&gt;&lt;em&gt;Should we mourn the end of blogs?&lt;/em&gt;&lt;/a&gt;”. Faço das palavras dela, as minhas:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“We all want to feel we’re being creative, declaring that we exist and our thoughts and feelings  matter. Some might say it in a Snapchat. I’ll keep bashing the keyboard to update my lonely, uncool blog.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“&lt;em&gt;Todos queremos sentir que estamos sendo criativos, declarando que existimos e que nossos pensamentos e sentimentos são importantes. Alguns podem dizer isso em um Snapchat. Continuarei pressionando o teclado para atualizar meu blog solitário e não legal.&lt;/em&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A única diferença é que o “Snapchat” de quando ela escreveu esse artigo é o Instagram dos dias de hoje.&lt;/p&gt;
+
+&lt;p&gt;E você, já pensou em começar um blog ou acompanha algum?&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="blog" /><category term="internet" /><summary type="html">Quantos blogs você acompanha? Agora mudando um pouco a pergunta, quantos canais no YouTube ou páginas no Instagram/Facebook você segue? Com a popularização das redes sociais e novas plataformas de midia temos visto cada vez menos blogs pela internet. Muitos do blogueiros que eu acompanhava no passado abandanoram a plataforma e hoje produzem conteúdo apenas para o YouTube.</summary></entry><entry><title type="html">Escrevendo sobre Blade Runner em Novembro de 2019</title><link href="http://localhost:4000/cinema/16/11/2019/bladde-runner-1982" rel="alternate" type="text/html" title="Escrevendo sobre Blade Runner em Novembro de 2019" /><published>2019-11-16T00:00:00-03:00</published><updated>2019-11-16T00:00:00-03:00</updated><id>http://localhost:4000/cinema/16/11/2019/bladde-runner-1982</id><content type="html" xml:base="http://localhost:4000/cinema/16/11/2019/bladde-runner-1982">&lt;p&gt;Estamos em Novembro de 2019, exatamente o futuro no qual se passa a hitória de Blade Runner. E Infelizmente ainda não temos carros voadores.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://pt.wikipedia.org/wiki/Blade_Runner&quot;&gt;Blade Runner&lt;/a&gt; é uma distopia &lt;em&gt;noir&lt;/em&gt; futurista. Para mim o melhor filme de ficçao científica já produzido. O filme se passa nas Los Angeles de Novembro de 2019 (ou seja, se pasaria nos tempos de hoje). Tendo em vista a decadência do planeta Terra, a humanidade começa a explorar e fundar colônias extra-terrestres. Para auxiliar na exploração do espaço, a empresa Tyrell Corporation começa a produzir seres biológicos humanoides chamados de &lt;em&gt;replicantes&lt;/em&gt; que passam a executar ordens e comandos dos humanos. Quatro desses replicantes conseguem fugir das colônias extra-terrestres em direção à Terra, vindo até a cidade de Los Angeles, na busca de encontrar o seu criador. O Blade Runner (caçador de replicantes), Rick Deckarcd, é então convocado para caçar e “aposentar” os elementos desse grupo fugitivo.&lt;/p&gt;
 
@@ -585,75 +625,4 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
   &lt;li&gt;Site do Icistem com a publicação do CROI 2019. &lt;a href=&quot;https://www.icistem.org/publication/croi-2019&quot;&gt;link aqui&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Kou J, Kuang YQ. Mutations in chemokine receptors and AIDS. Prog Mol Biol Transl Sci. 2019;161:113-124. doi: 10.1016/bs.pmbts.2018.10.001. Epub 2018 Nov 20.&lt;/li&gt;
   &lt;li&gt;Khaddour K, Mewawalla P. Hematopoietic Stem Cell Transplantation. [Updated 2019 Mar 2]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2019 Jan-. Available from: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK536951/&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="aids" /><category term="hiv" /><summary type="html">Esse mês, dois novos casos de remissão do HIV foram divulgados. Se confirmados com o tempo, já serão três pacientes “curados” do HIV. Claro que a noticia agitou tanto o mundo acadêmico como toda sociedade. A cura do HIV parece estar cada vez mais tangivel.</summary></entry><entry><title type="html">A via láctea do reino animal e por que o leite é tão importante</title><link href="http://localhost:4000/medicina/24/02/2019/a-via-lactea-no-reino-animal" rel="alternate" type="text/html" title="A via láctea do reino animal e por que o leite é tão importante" /><published>2019-02-24T00:00:00-03:00</published><updated>2019-02-24T00:00:00-03:00</updated><id>http://localhost:4000/medicina/24/02/2019/a-via-lactea-no-reino-animal</id><content type="html" xml:base="http://localhost:4000/medicina/24/02/2019/a-via-lactea-no-reino-animal">&lt;p&gt;Fui atraído pelo simples e curioso título de &lt;a href=&quot;https://www.nytimes.com/2019/02/11/science/milk-animals-evolution.html&quot;&gt;uma matéria&lt;/a&gt; do &lt;em&gt;New York Times&lt;/em&gt;:  “Everywhere in the Animal Kingdom, Followers of the Milky Way”. De ínicio fiquei logo interessado em entender o que “followers of the milky way” queria dizer, curioso com a associação ao nome de nossa galáxia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tradução livre:&lt;/strong&gt; &lt;em&gt;Em todo lugar no Reino Animal, Seguidores da Via Láctea: À medida que os cientistas aprendem mais sobre a evolução do leite e as variações de composição, eles estão redefinindo o que costumava ser uma característica característica dos mamíferos.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;O artigo fala sobre espécies de insetos produzem líquidos nutritivos para seus filhotes. E como esse padrão se estende além dos mamíferos, de uma forma bastante interessante pela natureza, discutindo a &lt;em&gt;escolha&lt;/em&gt; evolutiva pelos “leites”.&lt;/p&gt;
-
-&lt;p&gt;A mosca &lt;em&gt;Tse-Tse&lt;/em&gt; é o grande exemplo. Diferentemente de outras moscas, ela produz ovos e gesta apenas uma larva. Se a larva for espremida, sai um líquido branco de seu interior. Esse líquido é nada mais nada menos que leite! A larva não passa de “uma grande bolsa de leite”, usando as palavras do autor do NYT.&lt;/p&gt;
-
-&lt;p&gt;Com tantos nutrientes e os componentes imunológicos necessários ao seu crescimento e desenvolvimento, a larva da Tsé-Tsé se torna uma mosca adulta em 30 dias. Quando adultas, elas já estão prontas para carregar protozoários tripanosoma e sair transmitindo a doença do sono através de suas picadas.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Glossina_palpalis_morsitans.jpg/800px-Glossina_palpalis_morsitans.jpg&quot; alt=&quot;mosca tsé-tsé&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Do ponto de vista biológico o leite é considerado um líquido nutritivo que, além de proteínas, carboidratos, lipídios e vitaminas, também carrega anticorpos e até enzimas. É a principal fonte de alimento para os filhotes das espécies que o produzem.&lt;/p&gt;
-
-&lt;p&gt;Os mamíferos são os animais com a capacidade de produzir leite. &lt;em&gt;mamífero&lt;/em&gt; vem justamente de &lt;em&gt;mama&lt;/em&gt;, caracterizando a presença de glândulas mamárias. E é agora que vem o entendimento do título usado, mesmo em não mamíferos há alguma forma de “seguidores do caminho do leite”.&lt;/p&gt;
-
-&lt;p&gt;Se apenas mamíferos produzem leite é uma discussão interessante. Ainda mais quando estudos notaram a incrível semelhança do leite das moscas com o leite dos mamíferos. Muitos compostos são análogos nos dois leites, como a proteína caseína [3].&lt;/p&gt;
-
-&lt;p&gt;Na natureza muitos animais produzem líquidos nutritivos como alimentos para seus filhotes. A mosca tsé-tsé é mais um deles. Outros animais sem mamas também produzem leite, como: aranhas, baratas, besouros, tubarões brancos, pinguins e flamingos [1].&lt;/p&gt;
-
-&lt;p&gt;No caso dos flamingos, uma das poucas aves que produzem leite, é muito interessante notar que a prolactina está envolvida. O mesmo hormônio presente nos mamíferos e que estimula as glândulas mamárias. No caso dos flamingos, esse hormônio estimula células presentes na garganta a produzirem o leite. E outra curiosidade: ambos flamingos, machos e fêmeas, produzem leite.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img alt=&quot;flamingo alimentando filhote&quot; src=&quot;/assets/images/posts/2019/milky-way/flamingo-milk.jpg&quot; /&gt;
-	&lt;figcaption&gt;créditos da imagem: &lt;a href=&quot;https://www.maxpixel.net/Feather-Birds-Pink-Bird-Plumage-Flamingo-Bill-2528543&quot;&gt;MaxPixel's contributors&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Assim podemos perceber a fundamental importância que o leite teve na evolução das espécies. E a sua importância para o saudável desenvolvimento e crescimento de animais. Não vou me estender muito falando sobre a produção de leite em outros animais pois não é a minha área de estudo.&lt;/p&gt;
-
-&lt;h2 id=&quot;na-espécie-humana&quot;&gt;Na espécie humana&lt;/h2&gt;
-
-&lt;p&gt;Vendo como diversos animais na natureza utilizam de análogos do nosso leite, fica mais fácil entender a sua importância.&lt;/p&gt;
-
-&lt;p&gt;O aleitamento materno é extremamente importante para o desenvolvimento dos bebês. A recomendação é amamentar desde o parto até pelo menos  6 os meses, de forma exclusiva. Ou seja, após esse período a dieta já pode conter comida em conjunto ao leite. E a duração da amamentação deve ir até os 2-3 anos da criança.&lt;/p&gt;
-
-&lt;p&gt;Quando não for possível amamentar é muito importante procurar ajuda médica profissional, para estabelecer uma conduta personalizada e ideal a cada caso.&lt;/p&gt;
-
-&lt;p&gt;A amamentação materna previne infecções e favorece todo o desenvolvimento e crescimento da criança. Também existem estudos associando a amamentação com a menor prevalência de obesidade e diabetes [7].&lt;/p&gt;
-
-&lt;p&gt;Benefícios da amamentação, segundo o caderno da atenção básica da saúde de 2009 [8]:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Evita mortes infantis&lt;/li&gt;
-  &lt;li&gt;Evita diarréia&lt;/li&gt;
-  &lt;li&gt;Evita infecções&lt;/li&gt;
-  &lt;li&gt;Diminui o risco de alergias&lt;/li&gt;
-  &lt;li&gt;Diminui o risco de  hipertensão, colesterol alto e diabetes&lt;/li&gt;
-  &lt;li&gt;Reduz a chance de obesidade&lt;/li&gt;
-  &lt;li&gt;Melhor nutrição&lt;/li&gt;
-  &lt;li&gt;Efeito positivo na inteligência&lt;/li&gt;
-  &lt;li&gt;Melhor desenvolvimento da cavidade bucal&lt;/li&gt;
-  &lt;li&gt;Evita nova gravidez&lt;/li&gt;
-  &lt;li&gt;Promoção do vínculo afetivo entre a mãe e o filho&lt;/li&gt;
-  &lt;li&gt;Melhor qualidade de vida&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Obs&lt;/strong&gt;: Com relação à &lt;em&gt;“diminuição do risco de alergias”&lt;/em&gt; e &lt;em&gt;“diminuição do risco de hipertensão, colesterol alto e diabetes”&lt;/em&gt; encontrei fontes questionando essa evidência,  como a referência [7] que é bem mais recente que o caderno de 2009 [8]. Vou estudar mais sobre esses detalhes e escrever uma nova postagem em breve.&lt;/p&gt;
-
-&lt;p&gt;Além dos benefícios ao bebê, o aleitamento também é benéfico para as mães. É capaz de reduzir a prevalência de câncer de mama e de ovário em mulheres.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nota:&lt;/strong&gt; Queria aproveitar esse momento para elogiar este artigo do NYT. Muitíssimo bem escrito, citando todos os artigos científicos com links para suas páginas no pubmed. Quero algum dia conseguir divulgar ciência com essa proficiễncia.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;New York Times: &lt;a href=&quot;https://www.nytimes.com/2019/02/11/science/milk-animals-evolution.html&quot;&gt;Everywhere in the Animal Kingdom, Followers of the Milky Way&lt;/a&gt;. Acessado em 24 de fevereiro de 2019.&lt;/li&gt;
-  &lt;li&gt;Fiozcruz, página na internet informando sobre moscas. &lt;a href=&quot;http://www.fiocruz.br/biosseguranca/Bis/infantil/moscas.htm&quot;&gt;Disponível aqui&lt;/a&gt;. Acessado em 24 de fevereiro de 2019.&lt;/li&gt;
-  &lt;li&gt;Benoit JB, Attardo GM, Baumann AA, Michalkova V, Aksoy S. Adenotrophic viviparity in tsetse flies: potential for population control and as an insect model for lactation. Annu Rev Entomol. 2014;60:351-71.&lt;/li&gt;
-  &lt;li&gt;Silver, R. (1984), Prolactin and parenting in the pigeon family. J. Exp. Zool., 232: 617-625. doi:10.1002/jez.1402320330&lt;/li&gt;
-  &lt;li&gt;Skibiel, A. L., Downing, L. M., Orr, T. J. and Hood, W. R. (2013), The evolution of the nutrient composition of mammalian milks. J Anim Ecol, 82: 1254-1264. doi:10.1111/1365-2656.12095&lt;/li&gt;
-  &lt;li&gt;SBP: A importância do aleitamento materno. &lt;a href=&quot;http://www.sbp.com.br/especiais/pediatria-para-familias/nutricao/a-importancia-do-aleitamento-materno/&quot;&gt;Disponível aqui&lt;/a&gt;, Acessado em 24 de fevereiro de 2019.&lt;/li&gt;
-  &lt;li&gt;Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect,  publicado na revista The Lancet, v. 387, Jan 30, 201.&lt;/li&gt;
-  &lt;li&gt;Saúde da criança: nutrição infantil: aleitamento materno e alimentação complementar / Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica. – Brasília: Editora do Ministério da Saúde, 2009.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="leite" /><category term="maternidade" /><summary type="html">Fui atraído pelo simples e curioso título de uma matéria do New York Times: “Everywhere in the Animal Kingdom, Followers of the Milky Way”. De ínicio fiquei logo interessado em entender o que “followers of the milky way” queria dizer, curioso com a associação ao nome de nossa galáxia.</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="aids" /><category term="hiv" /><summary type="html">Esse mês, dois novos casos de remissão do HIV foram divulgados. Se confirmados com o tempo, já serão três pacientes “curados” do HIV. Claro que a noticia agitou tanto o mundo acadêmico como toda sociedade. A cura do HIV parece estar cada vez mais tangivel.</summary></entry></feed>

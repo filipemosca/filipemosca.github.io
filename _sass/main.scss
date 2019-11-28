@@ -18,6 +18,12 @@ body {
   font-size: 1.2em;
 }
 
+.applause {
+  float: right;
+  padding-top: 5px;
+}
+applause-button {color: red;}
+
 /* Header */
 #logo {
   margin: 0 auto;
@@ -82,6 +88,7 @@ body {
 }
 .medicina {background-color: green;}
 .linux {background-color: red;}
+.aleatoriedades {background-color: darkorchid;}
 .tecnologia {background-color: yellow; color: black;}
 /* Barra de navegaçao */
 nav {
@@ -99,7 +106,7 @@ nav {
   a:hover {
     background-color: black;
     color: white;
-  }
+    }
 }
 .current {
   background-color: black;
@@ -128,6 +135,7 @@ nav {
   float: left;
   margin-right: 5px;
 }
+.fa-clock {padding-right: 0px;}
 .email {
   border-radius: 1rem;
   border-spacing: 0;
