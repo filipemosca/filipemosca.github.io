@@ -9,13 +9,14 @@ layout: default
 <a class="pseudobotao {{ category_name}}" href="/{{ category_name }}">{{ category_name }}</a>
 {% endfor %}
 
-<span class="applause"><applause-button style="width: 58px; height: 58px;" color="red" multiclap="true"/></span>
 
 
 {% for tag in page.tags %}
 {% capture tag_name %}{{ tag }}{% endcapture %}
 <span class="pseudobotao2">{{ tag_name }}</span>
 {% endfor %}
+
+<span class="applause"><applause-button style="width: 58px; height: 58px;" color="red" multiclap="true"/></span>
 
 <p class="post-date"><i class="far fa-calendar-alt"></i><time>{{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
 {% case m %}
@@ -32,7 +33,6 @@ layout: default
   {% when '11' %}novembro
   {% when '12' %}dezembro
 {% endcase %}{{ page.date | date: "%Y"}}</time> <br> <i class="far fa-clock"></i></i>{% include read-time.html content=content %}</p>
-
 
 {{ content }}
 

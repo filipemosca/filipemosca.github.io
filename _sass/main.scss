@@ -19,11 +19,12 @@ body {
 }
 
 .applause {
-  padding-top: 25px;
-  margin: 0 auto;
+  padding-top: 30px;
+  max-width: 200px;
+  display: inline-block;
   float: right;
 }
-applause-button {color: red;}
+.count {max-width: 100%;}
 
 /* Header */
 #logo {
@@ -145,9 +146,6 @@ nav {
   display: inline-block;
   }
 }
-#submit {
-}
-
 
 
 /* conteúdo principal */

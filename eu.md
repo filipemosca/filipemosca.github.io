@@ -11,3 +11,5 @@ Também sou um entusiasta do mundo [GNU/Linux](https://pt.wikipedia.org/wiki/GNU
 A Wikipédia também é uma paixão minha. Contríbuo para a Wiki sempre que possível.
 
 Além disso gosto de escrever sobre entretenimento, como filmes, livros e séries.
+
+
