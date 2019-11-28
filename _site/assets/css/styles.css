@@ -29,17 +29,10 @@ applause-button {
 /* Header */
 #logo {
   margin: 0 auto;
-  padding-top: 0px;
-  color: #727272;
-  display: inline-block;
-  width: 100%;
-  margin: 0 auto; }
+  padding-top: 20px;
+  color: #727272; }
   #logo h1 {
-    max-width: 100%;
-    font-weight: normal;
-    font-size: 4em;
-    text-align: center;
-    margin-top: 0; }
+    font-weight: normal; }
 
 .botao {
   text-decoration: none;
@@ -107,24 +100,16 @@ applause-button {
 
 /* Barra de navegaçao */
 nav {
-  padding-top: 0;
-  margin: 0 auto;
-  width: 100%;
-  display: block;
-  text-align: center;
-  margin-top: 0; }
+  padding-top: 5px;
+  margin: 0 auto; }
   nav a {
     text-decoration: none;
     font-size: medium;
-    background-color: white;
-    border: 1px solid black;
-    padding: 4px 6px 2px 6px;
-    font-size: 16px;
-    border-radius: 0 0 0.5rem 0.5rem;
-    border-top: none;
+    background-color: #dedede;
+    padding: 4px 6px 3px 6px;
+    border-radius: 0.5rem;
     display: inline-block;
-    margin-bottom: 5px;
-    margin-top: 0; }
+    margin-bottom: 5px; }
   nav a:hover {
     background-color: black;
     color: white; }
