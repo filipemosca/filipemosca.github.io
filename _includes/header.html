@@ -1,16 +1,11 @@
 <header>
   <div class="wrapper">
-    <div class="bar">
-      <div class="bar1">
-        <a id="logo" href="/"><h1>Mosquildo</h1></a>
-      </div>
-      <div class="bar2">
-        <nav>
+      <a id="logo" href="/"><h1>Mosquildo</h1></a>
+      <nav>
           {% for item in site.data.navigation %}
             <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}><i class="fa fa-{{ item.icon }}"></i>{{ item.name }}</a>
           {% endfor %}
           </nav>
-      </div>
-    </div>
+ 
   </div>
 </header>
