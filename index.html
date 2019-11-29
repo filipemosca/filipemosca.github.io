@@ -29,7 +29,7 @@ layout: default
 
         {% for category in post.categories %}
         {% capture category_name %}{{ category }}{% endcapture %}
-        <a class="pseudobotao {{ category_name }}" href="/{{ category_name }}" >{{ category_name }}</a>
+        <a class="pseudobotao {{ category_name }}" href="/{{ category_name }}" >{{ category_name | capitalize }}</a>
         {% endfor %}
 
         {% for tag in post.tags %}
