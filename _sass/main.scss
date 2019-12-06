@@ -1,7 +1,6 @@
 .wrapper {
   max-width: 800px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 0 auto;
   padding-right: 20px;
   padding-left: 20px;
 }
@@ -14,10 +13,9 @@
 }
 body {
   margin: 0 0 0 0;
-  font-family: Palatino, serif;
+  font-family: 'LS', Palatino, serif;
   font-size: 1.2em;
 }
-
 .applause {
   padding-top: 30px;
   max-width: 200px;
@@ -27,21 +25,25 @@ body {
 .count {max-width: 100%;}
 
 /* Header */
-#logo {
-  margin: 0 auto;
-  padding-top: 20px;
-  color: #727272;
+#header {
   h1 {
+  margin-top: 10px;
   font-weight: normal;
+  text-align: left;
+  max-width: 100%;
+  font-size: 3em;
+    a { color: black;
+    }
   }
 }
 .botao {
   text-decoration: none;
   font-size: medium;
   background-color: #dedede;
-  border-color: black;
+  color: black;
+  font-weight: normal;
   padding: 4px 6px 3px 6px;
-  border-radius: 0.5rem;
+  border-radius: 4px;
   display: inline-block;
   padding-right: 5px;
   margin-right: 2px;
@@ -61,7 +63,7 @@ body {
   background-color: #2a7ae2;
   color: white;
   padding: 4px 6px 3px 6px;
-  border-radius: 0.5rem;
+  border-radius: 4px;
   display: inline-block;
   margin-right: 2px;
   margin-bottom: 2px;
@@ -81,7 +83,7 @@ body {
   border: 1px solid;
   color: #2a7ae2;
   padding: 4px 6px 3px 6px;
-  border-radius: 0.5rem;
+  border-radius: 4px;
   display: inline-block;
   margin-right: 2px;
   margin-bottom: 2px;
@@ -94,24 +96,28 @@ body {
 .tecnologia {background-color: yellow; color: black;}
 /* Barra de navegaçao */
 nav {
-  padding-top: 5px;
+  padding-top: 0px;
   margin: 0 auto;
+  text-align: left;
+  width: 100%;
   a {
     text-decoration: none;
-    font-size: medium;
-    background-color: #dedede;
-    padding: 4px 6px 3px 6px;
-    border-radius: 0.5rem;
+    font-size: 16px;
+    border: 1px solid black;
+    border-top: none;
+    padding: 4px 6px 2px 6px;
+    border-radius: 0 0 0.5rem 0.5rem;
+    color: blue;
     display: inline-block;
-    margin-bottom: 5px;
+    margin-bottom: 0;
   }
   a:hover {
     background-color: black;
     color: white;
-    }
+  }
 }
 .current {
-  background-color: black;
+  background-color: #000000;
   color: white;
 }
 .fa, .fas, .fab, .far {
@@ -154,6 +160,11 @@ nav {
   width: 100%;
   margin-bottom: 30px;
 }
+@font-face {
+  font-family: "LS";
+  src: url('/assets/fonts/liberation_serif/lsregular.ttf');
+}
+
 h1  {
   text-align: left;
   margin-bottom: 0;
@@ -161,7 +172,7 @@ h1  {
 }
 a {
   text-decoration: none;
-  color: #2a7ae2;
+  color: blue;
 }
 p, li {
   line-height: 1.6;
@@ -300,7 +311,7 @@ a.footnote:after {
   color: gray;
   display: inline;
   text-align: center;
-  a { color: #2a7ae2;
+  a { color: blue;
   }
 }
 .license {
@@ -313,7 +324,7 @@ a.footnote:after {
     color: gray;
     a {
       font-size: 14px;
-      color: #2a7ae2;
+      color: blue;
       text-decoration: none;
     }
   }
@@ -340,12 +351,12 @@ a.footnote:after {
 .svg {
   padding-right: 5px;
   width: 14px;
-  fill: #2a7ae2;
+  fill: blue;
 }
 .svg-icon {
   height: 16px;
   padding-right: 5px;
-  fill: #2a7ae2;
+  fill: blue;
 }
 
 /* Para tablet */
