@@ -2,6 +2,7 @@
 title: Mosquildo
 layout: default
 ---
+{% include header.html %}
 
 <div class="abertura">
   <h2>Seja bem vindo!</h2>
@@ -38,7 +39,7 @@ layout: default
         <span class="pseudobotao2">{{ tag_name }}</span>
         {% endfor %}
 
-        <span id="post-info"><i id="calendar-index" class="far fa-calendar-alt"></i><time>{{ post.date | date: "%-d" }} de {% assign m = post.date | date: "%-m" %}
+        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>{{ post.date | date: "%-d" }} de {% assign m = post.date | date: "%-m" %}
         {% case m %}
           {% when '1' %}janeiro
           {% when '2' %}fevereiro
@@ -52,7 +53,7 @@ layout: default
           {% when '10' %}outubro
           {% when '11' %}novembro
           {% when '12' %}dezembro
-        {% endcase %}{{ post.date | date: "%Y"}}</time>&nbsp&nbsp<i class="far fa-clock"></i>{% include read-time.html content=post.content %}</span>
+        {% endcase %}{{ post.date | date: "%Y"}}</time>&nbsp&nbsp<i class="picol_clock"></i>{% include read-time.html content=post.content %}</span>
 
         <!--
         <p class="excerpt">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>

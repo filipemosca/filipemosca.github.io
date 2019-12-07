@@ -2,11 +2,13 @@
 layout: default
 ---
 
+{% include header_posts.html %}
+
 <h1>{{ page.title }}</h1>
 
 {% for category in page.categories %}
 {% capture category_name %}{{ category }}{% endcapture %}
-<a class="pseudobotao {{ category_name}}" href="/{{ category_name }}">{{ category_name }}</a>
+<a class="pseudobotao {{ category_name}}" href="/{{ category_name }}">{{ category_name  | capitalize }}</a>
 {% endfor %}
 
 

@@ -60,7 +60,7 @@ body {
 .pseudobotao {
   text-decoration: none;
   font-size: medium;
-  background-color: #2a7ae2;
+  background-color: blue;
   color: white;
   padding: 4px 6px 3px 6px;
   border-radius: 4px;
@@ -81,7 +81,7 @@ body {
   text-decoration: none;
   font-size: medium;
   border: 1px solid;
-  color: #2a7ae2;
+  color: blue;
   padding: 4px 6px 3px 6px;
   border-radius: 4px;
   display: inline-block;
@@ -100,6 +100,7 @@ nav {
   margin: 0 auto;
   text-align: left;
   width: 100%;
+  display: inline-block;
   a {
     text-decoration: none;
     font-size: 16px;
@@ -128,6 +129,7 @@ nav {
 }
 .fa-rss {
   font-size: 18px;
+  color: gray;
 }
 #face {
   padding-left: 3px;
@@ -225,7 +227,7 @@ img {
     font-weight: 600;
   }
   li h2 a:hover {
-    color: #2a7ae2;
+    color: blue;
   }
 }
 .excerpt {
@@ -298,6 +300,7 @@ a.footnote:after {
 .footer {
   border-top: 1px solid #e8e8e8;
   padding: 10px;
+  text-align: right;
 }
 .footer-col ul {
   padding-left: 0;
@@ -311,8 +314,6 @@ a.footnote:after {
   color: gray;
   display: inline;
   text-align: center;
-  a { color: blue;
-  }
 }
 .license {
   display: inline-block;
@@ -356,7 +357,7 @@ a.footnote:after {
 .svg-icon {
   height: 16px;
   padding-right: 5px;
-  fill: blue;
+  fill: gray;
 }
 
 /* Para tablet */

@@ -1,10 +1,10 @@
 - name: Início
   link: /
-  icon: home
+  icon: picol_home
 - name: Arquivo
   link: /arquivo.html
-  icon: archive
+  icon: picol_folder_text
 - name: Sobre
   link: /eu.html
-  icon: portrait
+  icon: picol_avatar
 

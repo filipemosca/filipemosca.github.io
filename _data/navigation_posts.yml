@@ -1,0 +1,10 @@
+- name: Voltar
+  link: /
+  icon: picol_arrow_full_left
+- name: Arquivo
+  link: /arquivo.html
+  icon: picol_folder_text
+- name: Sobre
+  link: /eu.html
+  icon: picol_avatar
+
