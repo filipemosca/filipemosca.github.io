@@ -40,11 +40,9 @@ GRUB_CMDLINE_LINUX_DEFAULT="quiet acpi_osi='!Windows 2012'"
 ```
 A sua deve ficar semelhante. Perceba que eu inclui os apóstrofos e respeitei as aspas. Se escrever errado não vai funcionar então preste atenção. Lembrando que se não der certo você pode tentar adicionar um dos outros valores no mesmo lugar.
 
-Em seguida é só salvar as alterações e fechar o editor. No nano isso pode ser feito com <kbd>Ctrl + O</kbd> para salvar e <kbd>Ctrl + X</kbd> para sair. Depois é necessário atualizar o arquivo de configuração de boot do grub, execute:
+Em seguida é só salvar as alterações e fechar o editor. No nano isso pode ser feito com <kbd>Ctrl</kbd> + <kbd>O</kbd> para salvar e <kbd>Ctrl</kbd> + <kbd>X</kbd> para sair. Depois é necessário atualizar o arquivo de configuração de boot do grub, execute:
 
 ```
 sudo update-grub
 ```
-E pronto! É só reiniciar o computador e verá que consegue mudar o brilho. Se você souber de mais valores que funcionam, seria muito legal se pudesse me mandar uma email com eles. Ou também me manda um email se o tutorial foi útil para você. O endereço é <filipemosca@canalionico.com.br>, e será usado para contato enquanto eu não coloco uma sessão de comentários.
-
-Obrigado pela atenção!
+E pronto! É só reiniciar o computador e verá que consegue mudar o brilho. Obrigado pela atenção!

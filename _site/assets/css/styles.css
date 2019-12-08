@@ -113,18 +113,18 @@ nav {
     font-size: 16px;
     border: 1px solid black;
     border-top: none;
-    padding: 4px 6px 2px 6px;
+    padding: 4px 6px 4px 6px;
     border-radius: 0 0 0.5rem 0.5rem;
     color: blue;
     display: inline-block;
-    margin-bottom: 0; }
+    margin-bottom: 10px; }
   nav a:hover {
-    background-color: black;
-    color: white; }
+    padding-bottom: 10px;
+    margin-bottom: 0px; }
 
 .current {
-  background-color: #000000;
-  color: white; }
+  padding-bottom: 10px;
+  margin-bottom: 0px; }
 
 .fa, .fas, .fab, .far {
   padding-right: 5px; }
@@ -145,10 +145,6 @@ nav {
 
 #portrait-index {
   padding-right: 5px; }
-
-#feedlyFollow {
-  float: left;
-  margin-right: 5px; }
 
 .fa-clock {
   padding-right: 0px; }
@@ -196,11 +192,38 @@ img {
   /* Gecko Browsers */ }
 
 .abertura {
-  color: gray; }
+  color: gray;
+  display: block; }
   .abertura h2 {
     margin-bottom: 1px; }
   .abertura p {
     margin-top: 6px; }
+
+.redes {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  padding-top: 20px; }
+
+#feedly-img {
+  align-content: center;
+  display: inline-block;
+  margin: 0 auto; }
+
+#ultimas {
+  padding-top: 30px; }
+
+.item {
+  flex: 1; }
+
+.foto {
+  border-radius: 50%;
+  max-width: 100px;
+  margin: 0 auto; }
+
+#assinar-email input {
+  margin-top: 0;
+  padding-top: 0; }
 
 .post-date {
   font-size: 16px;
@@ -227,9 +250,6 @@ img {
 .post-list li h2 a:hover {
   color: blue; }
 
-.excerpt {
-  font-size: 90%; }
-
 #post-page-info {
   font-size: 16px;
   color: gray;
@@ -243,24 +263,16 @@ img {
   display: block; }
 
 pre {
-  padding: 8px 12px;
-  overflow-x: auto; }
-
-pre > code {
-  border: 0;
-  padding-right: 0;
-  padding-left: 0; }
-
-pre, code {
-  font-size: 15px;
-  border: 1px solid #e8e8e8;
-  border-radius: 3px;
-  background-color: #eef; }
-
-code {
-  padding: 1px 5px;
-  padding-right: 5px;
-  padding-left: 5px; }
+  margin: 20px;
+  padding: 20px;
+  color: #aaa;
+  background-color: #222;
+  white-space: pre;
+  text-shadow: 0 1px 0 #000;
+  border-radius: 15px;
+  border-bottom: 1px solid #555;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4) inset, 0 0 20px rgba(0, 0, 0, 0.2) inset;
+  font: 16px/24px 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace; }
 
 kbd {
   background-color: #eee;
@@ -291,7 +303,7 @@ a.footnote:before {
 a.footnote:after {
   content: "]"; }
 
-/* footer */
+/* Aqui começa o footer */
 .footer {
   border-top: 1px solid #e8e8e8;
   padding: 10px;
@@ -346,34 +358,11 @@ a.footnote:after {
   padding-right: 5px;
   fill: gray; }
 
-/* Para tablet */
-@media screen and (min-width: 600px) {
-  .footer-col {
-    float: left; }
-
-  .footer-col1, .footer-col2 {
-    width: calc(50% - (30px / 2)); }
-
-  .footer-col3 {
-    width: calc(100% - (30px / 2)); } }
 /* Aqui é pra computador */
 @media only screen and (min-width: 800px) {
   #post-info {
-    display: inline-block; }
-
-  /* 
-     .footer-col {
-      float: left;
-      margin-bottom: 15px;
-      padding-left: 0;
-    }
-    .footer-col1 {
-      width: calc(40%);
-      }
-    .footer-col2 {
-      width: calc(25%);
-    }
-    .footer-col3 {
-      width: calc(35%);
-    } 
-  */ }
+    display: inline-block; } }
+/* Aqui é para tablet */
+@media only screen and (min-width: 600px) {
+  .abertura {
+    display: flex; } }

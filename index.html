@@ -5,23 +5,35 @@ layout: default
 {% include header.html %}
 
 <div class="abertura">
-  <h2>Seja bem vindo!</h2>
-  <p>Eu sou Filipe Mosca e esse é o meu cantinho na internet. Aqui escrevo sobre assuntos como medicina baseada em evidências, tecnologia, linux, cultura nerd, filmes, <em>etc</em>. <br>
-    <form class="email" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=Mosquildo', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">Informe seu email para receber as últimas postagens: <input type="text" style="width:140px" name="email"/><input type="hidden" value="Mosquildo" name="uri"/><input type="hidden" name="loc" value="pt_BR"/><input id="submit" type="submit" value="Subscribe" /></form></p>
-  <a class="github-button" href="https://github.com/filipemosca" data-size="large" aria-label="Follow @filipemosca on GitHub">Follow</a>
-  <a href="https://twitter.com/moscafilipe" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-size="large">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fmosquildo.com.br%2Ffeed.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+  <div class="item">
+    <h2>Seja bem vindo!</h2>
+    <p>Eu sou Filipe Mosca e esse é o meu cantinho na internet. Aqui escrevo sobre assuntos como medicina baseada em evidências, tecnologia, linux, cultura nerd, filmes <em>etc</em>.</p>
+ 
+  </div>
+  <div class="item">
+    <img src="/assets/images/eu.jpg" alt="" class="foto">
+
+    <div class="redes">
+      <a class="github-button" href="https://github.com/filipemosca" data-size="large" aria-label="Follow @filipemosca on GitHub">Follow</a>
+
+      <a href="https://twitter.com/moscafilipe" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-size="large">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      
+      <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fmosquildo.com.br%2Ffeed.xml'  target='blank'><img id='feedly-img' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a> 
+      <br>
+
+      <form id="assinar-email" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=Mosquildo', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><span><input type="text" style="width:140px" name="email" placeholder="Informe seu email" /></span><input type="hidden" value="Mosquildo" name="uri"/><input type="hidden" name="loc" value="pt_BR"/><input type="submit" value="Assinar" /></form>
+    </div>
+  </div>
 </div>
 
 
-
 <p>Categorias:
-  <a class="botao "href="/medicina.html"><i class="fas fa-stethoscope"></i>Medicina</a>
+  <a class="botao "href="/medicina.html"><i class="fas fa-heartbeat"></i>Medicina</a>
   <a class="botao" href="/linux.html"><i class="fab fa-linux"></i>Linux</a>
-  <a class="botao" href="/tecnologia.html"><i class="fas fa-robot"></i>Tecnologia</a>
+  <a class="botao" href="/tecnologia.html"><i class="picol_computer"></i> Tecnologia</a>
 </p>
 
-<h2>Últimas postagens <a href="/arquivo.html" class="botao">Ver todas</a></h2>
+<h2 id="ultimas">Últimas postagens <a href="/arquivo.html" class="botao">Ver todas</a></h2>
 
 <div class="post-list">
   <ul>

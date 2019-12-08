@@ -32,7 +32,7 @@ Contato: filipemosca@disroot.org
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="/assets/picol/css/picol.css">
     <link rel="icon" href="/favicon2.png"/>
-    <meta name="theme-color" content="#000000">
+    <meta name="theme-color" content="blue">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <link rel="stylesheet" href="/assets/applause-button.css" />
      <script src="/assets/applause-button.js"></script>
@@ -51,7 +51,7 @@ Contato: filipemosca@disroot.org
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-02-18T00:00:00-03:00" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","headline":"Problema do brilho travado no linux","dateModified":"2019-02-18T00:00:00-03:00","datePublished":"2019-02-18T00:00:00-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/problema-brilho-linux"},"url":"http://localhost:4000/problema-brilho-linux","author":{"@type":"Person","name":"Filipe Mosca"},"description":"Esse é um problema que sempre enfrento não importa a distro instalada. Porém, tem vezes que o brilho trava no mínimo e tem vezes que trava no máximo. “Trava”, pois os botões de controle do brilho não funcionam e nem os comandos no terminal.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","headline":"Problema do brilho travado no linux","dateModified":"2019-02-18T00:00:00-03:00","datePublished":"2019-02-18T00:00:00-03:00","url":"http://localhost:4000/problema-brilho-linux","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/problema-brilho-linux"},"author":{"@type":"Person","name":"Filipe Mosca"},"description":"Esse é um problema que sempre enfrento não importa a distro instalada. Porém, tem vezes que o brilho trava no mínimo e tem vezes que trava no máximo. “Trava”, pois os botões de controle do brilho não funcionam e nem os comandos no terminal.","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -83,7 +83,7 @@ Contato: filipemosca@disroot.org
 
 
 
-<span class="applause"><applause-button style="width: 58px; height: 58px;" color="red" multiclap="true"/></span>
+<span class="applause"><applause-button style="width: 58px; height: 58px;" color="blue" multiclap="true"/></span>
 
 <p class="post-date"><i class="far fa-calendar-alt"></i><time>18 de 
 fevereiro
@@ -123,13 +123,11 @@ acpi_backlight=vendor
 </code></pre></div></div>
 <p>A sua deve ficar semelhante. Perceba que eu inclui os apóstrofos e respeitei as aspas. Se escrever errado não vai funcionar então preste atenção. Lembrando que se não der certo você pode tentar adicionar um dos outros valores no mesmo lugar.</p>
 
-<p>Em seguida é só salvar as alterações e fechar o editor. No nano isso pode ser feito com <kbd>Ctrl + O</kbd> para salvar e <kbd>Ctrl + X</kbd> para sair. Depois é necessário atualizar o arquivo de configuração de boot do grub, execute:</p>
+<p>Em seguida é só salvar as alterações e fechar o editor. No nano isso pode ser feito com <kbd>Ctrl</kbd> + <kbd>O</kbd> para salvar e <kbd>Ctrl</kbd> + <kbd>X</kbd> para sair. Depois é necessário atualizar o arquivo de configuração de boot do grub, execute:</p>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo update-grub
 </code></pre></div></div>
-<p>E pronto! É só reiniciar o computador e verá que consegue mudar o brilho. Se você souber de mais valores que funcionam, seria muito legal se pudesse me mandar uma email com eles. Ou também me manda um email se o tutorial foi útil para você. O endereço é <a href="mailto:filipemosca@canalionico.com.br">filipemosca@canalionico.com.br</a>, e será usado para contato enquanto eu não coloco uma sessão de comentários.</p>
-
-<p>Obrigado pela atenção!</p>
+<p>E pronto! É só reiniciar o computador e verá que consegue mudar o brilho. Obrigado pela atenção!</p>
 
 
 
