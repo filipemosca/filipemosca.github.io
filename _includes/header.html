@@ -3,6 +3,8 @@
       {% for item in site.data.navigation %}
         <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}><i class="{{ item.icon }}"></i>{{ item.name }}</a>
       {% endfor %}
+      <button id="theme-toggle" onclick="modeSwitcher()">Trocar tema</button>
+
   </nav>
   <div id="header">
       <h1><a href="/">Mosquildo</a></h1>

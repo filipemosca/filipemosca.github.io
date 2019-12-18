@@ -4,7 +4,7 @@
 - name: Arquivo
   link: /arquivo.html
   icon: picol_folder_text
-- name: Sobre
+- name: Eu
   link: /eu.html
   icon: picol_avatar
 

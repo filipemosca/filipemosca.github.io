@@ -8,7 +8,7 @@ layout: default
 
 {% for category in page.categories %}
 {% capture category_name %}{{ category }}{% endcapture %}
-<a class="pseudobotao {{ category_name}}" href="/{{ category_name }}">{{ category_name  | capitalize }}</a>
+<a class="botao categorias {{ category_name}}" href="/{{ category_name }}">{{ category_name  | capitalize }}</a>
 {% endfor %}
 
 
@@ -18,7 +18,7 @@ layout: default
 <span class="pseudobotao2">{{ tag_name }}</span>
 {% endfor %}
 
-<span class="applause"><applause-button style="width: 58px; height: 58px;" color="blue" multiclap="true"/></span>
+<span class="applause"><applause-button style="width: 58px; height: 58px;" color="var(--link-color)" multiclap="true"/></span>
 
 <p class="post-date"><i class="far fa-calendar-alt"></i><time>{{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
 {% case m %}
@@ -38,14 +38,22 @@ layout: default
 
 {{ content }}
 
+
+<div class="comments">
+<h2>Comentários</h2>
+<h3>Envie um comentário por email!</h3> 
+<p>Mande um email para <a href="mailto:filipemosca@disroot.org?subject=Comentário do artigo: {{ page.title }}">filipemosca@disroot.org</a> com o assunto: <em style="color: var(--comments-subject);">"Comentário do artigo: {{ page.title }}"</em>. Em breve o comentário aparecerá aqui! &#128516; Caso não queira que a mensagem seja exibida aqui, basta mencionar no email.</p>
+
+
+</div>
+
+<!-- 
 {% if jekyll.environment == "production" %}
 
 <div id="disqus_thread"></div>
 <script>
-
-/*
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
 
 var disqus_config = function () {
 this.page.url = "https://mosquildo.com.br{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
@@ -60,4 +68,6 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 {% endif %}
+-->

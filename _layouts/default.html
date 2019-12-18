@@ -1,7 +1,7 @@
 <!--
-Criado por Filipe Mosca
-Acesse meu site: https://mosquildo.com.br
-Contato: filipemosca@disroot.org
+Created by Filipe Mosca
+Homepage: https://mosquildo.com.br
+Contact: filipemosca@disroot.org
 
   -. (#)(#) .-
    '\.';;'./'
@@ -14,15 +14,25 @@ Contato: filipemosca@disroot.org
 <!doctype html>
 <html lang="pt-BR" dir="ltr">
   <head>
-
+    
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58629913-5"></script>
     <script>
+      // Google analytcs
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
       gtag('config', 'UA-58629913-5');
+      // End of google
+
+      // Start Code of theme switcher
+      const theme = localStorage.getItem('theme');
+        if (theme === "dark") {
+          document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      // End of theme switcher
+
     </script>
 
     <meta charset="utf-8">
@@ -33,9 +43,9 @@ Contato: filipemosca@disroot.org
     <link rel="stylesheet" type="text/css" href="{{ '/assets/picol/css/picol.css' | relative_url }}">
     <link rel="icon" href="/favicon2.png"/>
     <meta name="theme-color" content="blue">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-status-bar-style" content="blue">
     <link rel="stylesheet" href="/assets/applause-button.css" />
-     <script src="/assets/applause-button.js"></script>
+    <script src="/assets/applause-button.js"></script>
     {% feed_meta %}
     {% seo %}
   </head>
