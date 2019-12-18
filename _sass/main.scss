@@ -4,7 +4,6 @@
   padding-right: 20px;
   padding-left: 20px;
 }
-
 .wrapper-footer {
   max-width: 700px;
   margin-right: auto;
@@ -39,6 +38,7 @@ html, html[data-theme="light"] {
   --hover-bg-color: #b3b3b3;
   --comments-subject: green;
   --light: black;
+  --blockquote-color: rgb(238, 238, 238);
 }
 
 html[data-theme="dark"] {
@@ -51,6 +51,7 @@ html[data-theme="dark"] {
   --hover-bg-color: #303030;
   --comments-subject: orange;
   --light: yellow;
+  --blockquote-color: #181818;
 }
 @media (prefers-color-scheme: dark) { // This configure the dark theme to default
   html {
@@ -72,12 +73,13 @@ html[data-theme="dark"] {
     padding-bottom: 10px;
     margin-bottom: 0px;
 }
-.picol_light_off, .picol_light {
-  color: var(--light);
-}
 // End of themes definition
 
-
+.icon {
+  width: 16px;
+  height: 16px;
+  fill: var(--font-color);
+}
 
 
 // Start Header
@@ -94,6 +96,14 @@ html[data-theme="dark"] {
 }
 // End Header
 
+.icon-abertura {
+  fill: gray;
+  padding-right: 5px;
+}
+.icon-feedly {
+  width: 20px;
+  height: 20px;
+}
 
 // buttons layout for blog
 .botao {
@@ -112,9 +122,10 @@ html[data-theme="dark"] {
 }
 .botao:hover {
   background-color: var(--hover-bg-color);
-  svg {
-    fill: var(--link-color);
-  }
+  text-decoration: none;
+}
+.botao:visited {
+  color: var(--font-color);
 }
 .pseudobotao2 {
   text-decoration: none;
@@ -129,16 +140,20 @@ html[data-theme="dark"] {
   margin-top: 5px;
   line-height: 1.2;
 }
+
+
 // End buttons layout
 
 // Categories colors
-.medicina {background-color: rgb(171, 202, 171); color: #202020;}
-.linux {background-color: rgb(255, 103, 103); color: #202020;}
-.aleatoriedades {background-color: rgb(202, 161, 223); color: #202020;}
-.tecnologia {background-color: rgb(255, 255, 151); color: #202020;}
-.cinema {background-color: rgb(159, 159, 247); color: #202020;}
-.categorias:visited {color: #202020;}
-.categorias:hover {background-color: #919191;}
+.medicina {background-color: rgb(14, 129, 14); color: #f1f1f1;}
+.linux {background-color: rgb(197, 37, 37); color: #f1f1f1;}
+.aleatoriedades {background-color: rgb(117, 34, 158); color: #f1f1f1;}
+.tecnologia {background-color: rgb(207, 88, 19); color: #f1f1f1;}
+.cinema {background-color: rgb(31, 95, 233); color: #f1f1f1;}
+.xadrez {background-color: rgb(158, 28, 93); color: #f1f1f1;}
+.livros {background-color: rgb(12, 112, 126); color: #f1f1f1;}
+.categorias:visited {color: #f1f1f1;}
+.categorias:hover {background-color: #000000;}
 
 /* Barra de navegaçao */
 nav {
@@ -161,7 +176,14 @@ nav {
   a:hover {
     padding-bottom: 10px;
     margin-bottom: 0px;
+    text-decoration: none;
   }
+  a:visited {
+    color: var(--link-color);
+  }
+}
+.nav-icons {
+  fill: var(--link-color);
 }
 .current {
   padding-bottom: 10px;
@@ -234,6 +256,9 @@ a {
 a:visited {
   color: var(--link-visited-color);
 }
+a:hover {
+  text-decoration: underline;
+}
 p, li {
   line-height: 1.8;
   color: var(--font-color);
@@ -272,6 +297,9 @@ img {
   p {
     margin-bottom: 0;
     margin-top: 0;
+    a {
+     text-decoration: none; 
+    }
   }
 }
 .svg-seguir {
@@ -344,6 +372,7 @@ img {
   }
   li h2 a:hover {
     color: var(--link-color);
+    text-decoration: underline;
   }
 }
 
@@ -383,7 +412,25 @@ kbd {
   padding: 2px 4px;
   white-space: nowrap;
 }
-
+blockquote {
+  position: relative;
+  font-family: 'Sanchez', serif;
+  font-style: italic;
+  text-align: center;
+  &:before {
+      content: '\201C';
+      position: absolute;
+      top: -0.30em;
+      left: -0.2em;
+      color: var(--blockquote-color);
+      font-size: 8em;
+      z-index: -1;
+   }
+}
+q {
+  font-family: 'Sanchez', serif;
+  font-style: italic;
+}
 
 
 // for instagram embed in posts

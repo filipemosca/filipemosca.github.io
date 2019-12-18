@@ -32,17 +32,17 @@
 const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');	
 
 if (theme === "dark") {
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light_off'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
 } else if (theme === "light") {
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
 } else if  (userPrefers === "dark") {
 	document.documentElement.setAttribute('data-theme', 'dark');
 	window.localStorage.setItem('theme', 'dark');
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light_off'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
 } else {
 	document.documentElement.setAttribute('data-theme', 'light');
 	window.localStorage.setItem('theme', 'light');
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
 }
 
 function modeSwitcher() {
@@ -50,11 +50,11 @@ function modeSwitcher() {
 	if (currentMode === "dark") {
 		document.documentElement.setAttribute('data-theme', 'light');
 		window.localStorage.setItem('theme', 'light');
-		document.getElementById("theme-toggle").innerHTML = "<i class='picol_light'></i>";
+		document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
 	} else {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		window.localStorage.setItem('theme', 'dark');
-		document.getElementById("theme-toggle").innerHTML = "<i class='picol_light_off'></i>";
+		document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
 	}
 }
 // End theme switcher

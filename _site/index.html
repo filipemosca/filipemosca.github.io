@@ -42,7 +42,7 @@ Contact: filipemosca@disroot.org
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="/assets/picol/css/picol.css">
     <link rel="icon" href="/favicon2.png"/>
-    <meta name="theme-color" content="blue">
+    <meta name="theme-color" content="#202020">
     <meta name="apple-mobile-web-app-status-bar-style" content="blue">
     <link rel="stylesheet" href="/assets/applause-button.css" />
     <script src="/assets/applause-button.js"></script>
@@ -70,11 +70,20 @@ Contact: filipemosca@disroot.org
         <header>
   <nav>
       
-        <a href="/" class="current"><i class="picol_home"></i>Início</a>
+        <a href="/" class="current">
+          <svg class="icon nav-icons">
+            <use xlink:href="/assets/svgs/sprite.svg#picol-icon-home"></use>
+          </svg> Início</a>
       
-        <a href="/arquivo.html" ><i class="picol_folder_text"></i>Arquivo</a>
+        <a href="/arquivo.html" >
+          <svg class="icon nav-icons">
+            <use xlink:href="/assets/svgs/sprite.svg#icon-folder-open"></use>
+          </svg> Arquivo</a>
       
-        <a href="/eu.html" ><i class="picol_avatar"></i>Eu</a>
+        <a href="/eu.html" >
+          <svg class="icon nav-icons">
+            <use xlink:href="/assets/svgs/sprite.svg#icon-avatar"></use>
+          </svg> Eu</a>
       
       <button id="theme-toggle" onclick="modeSwitcher()">Trocar tema</button>
 
@@ -98,14 +107,13 @@ Contact: filipemosca@disroot.org
     <div class="redes">
       
       <p>          
-        <a href="https://twitter.com/moscafilipe" target="_blank"><svg class="svg-icon" width="20" heigth="20" aria-hidden="true"><path d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.37-1.337.64-2.085.79-.598-.64-1.45-1.04-2.396-1.04-1.812 0-3.282 1.47-3.282 3.28 0 .26.03.51.085.75-2.728-.13-5.147-1.44-6.766-3.42C.83 2.58.67 3.14.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.41-.02-.61-.058.42 1.304 1.63 2.253 3.07 2.28-1.12.88-2.54 1.404-4.07 1.404-.26 0-.52-.015-.78-.045 1.46.93 3.18 1.474 5.04 1.474 6.04 0 9.34-5 9.34-9.33 0-.14 0-.28-.01-.42.64-.46 1.2-1.04 1.64-1.7z" fill-rule="nonzero"/></svg></a>
+        <a href="https://twitter.com/moscafilipe" target="_blank"><svg class="icon icon-abertura"><use xlink:href="/assets/svgs/sprite.svg#icon-twitter"></use></svg></a>
   
-        <a href="https://github.com/filipemosca" target="_blank"><svg class="svg-icon" height="20" version="1.1" width="20" aria-hidden="true">
-        <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg></a>
+        <a href="https://github.com/filipemosca" target="_blank"><svg class="icon icon-abertura"><use xlink:href="/assets/svgs/sprite.svg#icon-github"></use></svg></a>
 
-        <a href="https://mosquildo.com.br/feed.xml" target="_blank" aria-hidden="true"><i class="fas fa-rss"></i></a>
+        <a href="https://mosquildo.com.br/feed.xml" target="_blank" aria-hidden="true"><svg class="icon icon-abertura"><use xlink:href="/assets/svgs/sprite.svg#icon-rss"></use></svg> </a> 
       
-        <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fmosquildo.com.br%2Ffeed.xml' target='blank' class="svg-icon feedly" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="20" height="20"><path d="M 20.027344 45 L 29.96875 45 C 31.5625 45 33.085938 44.367188 34.214844 43.242188 L 46.214844 31.242188 C 48.554688 28.898438 48.554688 25.101563 46.214844 22.757813 L 29.242188 5.785156 C 26.898438 3.445313 23.101563 3.445313 20.757813 5.785156 L 3.785156 22.757813 C 1.445313 25.101563 1.445313 28.898438 3.785156 31.242188 L 15.785156 43.242188 C 16.910156 44.367188 18.4375 45 20.027344 45 Z M 17.464844 33.605469 L 16.515625 32.65625 C 16.121094 32.265625 16.121094 31.632813 16.515625 31.242188 L 23.585938 24.171875 C 23.976563 23.78125 24.609375 23.78125 25 24.171875 L 27.121094 26.292969 C 27.511719 26.683594 27.511719 27.316406 27.121094 27.707031 L 21.21875 33.605469 C 21.03125 33.792969 20.777344 33.898438 20.511719 33.898438 L 18.171875 33.898438 C 17.90625 33.898438 17.652344 33.792969 17.464844 33.605469 Z M 27.828125 38.3125 L 26.878906 39.265625 C 26.691406 39.453125 26.4375 39.558594 26.171875 39.558594 L 23.828125 39.558594 C 23.5625 39.558594 23.308594 39.453125 23.121094 39.265625 L 22.171875 38.3125 C 21.78125 37.921875 21.78125 37.289063 22.171875 36.898438 L 24.292969 34.777344 C 24.683594 34.386719 25.316406 34.386719 25.707031 34.777344 L 27.828125 36.898438 C 28.21875 37.289063 28.21875 37.921875 27.828125 38.3125 Z M 10.859375 25.585938 L 23.585938 12.859375 C 23.976563 12.46875 24.609375 12.46875 25 12.859375 L 27.121094 14.980469 C 27.511719 15.371094 27.511719 16.003906 27.121094 16.394531 L 15.566406 27.949219 C 15.378906 28.136719 15.121094 28.242188 14.859375 28.242188 L 12.515625 28.242188 C 12.25 28.242188 11.996094 28.136719 11.808594 27.949219 L 10.859375 27 C 10.46875 26.609375 10.46875 25.976563 10.859375 25.585938 Z"/></svg></a> 
+        <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fmosquildo.com.br%2Ffeed.xml' target='blank' class="svg-icon feedly" aria-hidden="true"><svg class="icon icon-feedly icon-abertura"><use xlink:href="/assets/svgs/sprite.svg#icon-feedly"></use></svg></a> 
 	</p>
      
     
@@ -118,8 +126,8 @@ Contact: filipemosca@disroot.org
 
 <p>Categorias:
   <a class="botao "href="/medicina.html"><i class="fas fa-heartbeat"></i>Medicina</a>
-  <a class="botao" href="/linux.html"><i class="fab fa-linux"></i>Linux</a>
-  <a class="botao" href="/tecnologia.html"><i class="picol_computer"></i> Tecnologia</a>
+  <a class="botao" href="/linux.html"><svg class="icon botoes-icons"><use xlink:href="/assets/svgs/sprite.svg#icon-tux"></use></svg> Linux</a>
+  <a class="botao" href="/tecnologia.html"><svg class="icon botoes-icons"><use xlink:href="/assets/svgs/sprite.svg#icon-computer"></use></svg> Tecnologia</a>
 </p>
 
 <h2 id="ultimas">Últimas postagens <a href="/arquivo.html" class="botao">Ver todas</a></h2>
@@ -143,9 +151,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">internet</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>28 de 
-        novembro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp28 
+        nov
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     7 min
 </span></span>
@@ -174,9 +182,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">geek</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>16 de 
-        novembro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp16 
+        nov
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     8 min
 </span></span>
@@ -204,9 +212,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">cardiologia</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>15 de 
-        novembro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp15 
+        nov
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     8 min
 </span></span>
@@ -237,9 +245,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">aplicativos</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>29 de 
-        outubro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp29 
+        out
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     5 min
 </span></span>
@@ -265,9 +273,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">pneumologia</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>15 de 
-        setembro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp15 
+        set
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     8 min
 </span></span>
@@ -299,9 +307,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">livros</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>11 de 
-        setembro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp11 
+        set
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     7 min
 </span></span>
@@ -321,9 +329,9 @@ Contact: filipemosca@disroot.org
 
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>3 de 
-        agosto
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp3 
+        ago
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     2 min
 </span></span>
@@ -346,9 +354,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">gripe</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>18 de 
-        abril
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp18 
+        abr
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     8 min
 </span></span>
@@ -371,9 +379,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">placebo</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>13 de 
-        abril
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp13 
+        abr
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     6 min
 </span></span>
@@ -399,9 +407,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">hiv</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>10 de 
-        março
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp10 
+        mar
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     6 min
 </span></span>
@@ -429,9 +437,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">maternidade</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>24 de 
-        fevereiro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp24 
+        fev
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     6 min
 </span></span>
@@ -453,9 +461,9 @@ Contact: filipemosca@disroot.org
 
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>18 de 
-        fevereiro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp18 
+        fev
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     3 min
 </span></span>
@@ -480,9 +488,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">wikipedia</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>18 de 
-        fevereiro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp18 
+        fev
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     8 min
 </span></span>
@@ -511,9 +519,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">evolução</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>3 de 
-        fevereiro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp3 
+        fev
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     11 min
 </span></span>
@@ -544,9 +552,9 @@ Contact: filipemosca@disroot.org
         <span class="pseudobotao2">vacinas</span>
         
 
-        <span id="post-info"><i id="calendar-index" class="picol_calendar"></i><time>25 de 
-        janeiro
-          2019</time>&nbsp&nbsp<i class="picol_clock"></i><span class="reading-time" title="Estimated read time">
+        <span id="post-info"> <span>&nbsp25 
+        jan
+          2019</span>&nbsp /&nbsp<span class="reading-time" title="Estimated read time">
     
     12 min
 </span></span>
@@ -595,17 +603,17 @@ Contact: filipemosca@disroot.org
 const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');	
 
 if (theme === "dark") {
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light_off'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
 } else if (theme === "light") {
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
 } else if  (userPrefers === "dark") {
 	document.documentElement.setAttribute('data-theme', 'dark');
 	window.localStorage.setItem('theme', 'dark');
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light_off'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
 } else {
 	document.documentElement.setAttribute('data-theme', 'light');
 	window.localStorage.setItem('theme', 'light');
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
 }
 
 function modeSwitcher() {
@@ -613,11 +621,11 @@ function modeSwitcher() {
 	if (currentMode === "dark") {
 		document.documentElement.setAttribute('data-theme', 'light');
 		window.localStorage.setItem('theme', 'light');
-		document.getElementById("theme-toggle").innerHTML = "<i class='picol_light'></i>";
+		document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
 	} else {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		window.localStorage.setItem('theme', 'dark');
-		document.getElementById("theme-toggle").innerHTML = "<i class='picol_light_off'></i>";
+		document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
 	}
 }
 // End theme switcher

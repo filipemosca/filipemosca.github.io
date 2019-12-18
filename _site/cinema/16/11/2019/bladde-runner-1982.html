@@ -42,7 +42,7 @@ Contact: filipemosca@disroot.org
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="/assets/picol/css/picol.css">
     <link rel="icon" href="/favicon2.png"/>
-    <meta name="theme-color" content="blue">
+    <meta name="theme-color" content="#202020">
     <meta name="apple-mobile-web-app-status-bar-style" content="blue">
     <link rel="stylesheet" href="/assets/applause-button.css" />
     <script src="/assets/applause-button.js"></script>
@@ -72,11 +72,17 @@ Contact: filipemosca@disroot.org
         <header>
   <nav>
       
-        <a href="/" ><i class="picol_arrow_full_left"></i>Voltar</a>
+        <a href="/" ><svg class="icon nav-icons">
+          <use xlink:href="/assets/svgs/sprite.svg#icon-arrow_full_left"></use>
+        </svg> Voltar</a>
       
-        <a href="/arquivo.html" ><i class="picol_folder_text"></i>Arquivo</a>
+        <a href="/arquivo.html" ><svg class="icon nav-icons">
+          <use xlink:href="/assets/svgs/sprite.svg#icon-folder-open"></use>
+        </svg> Arquivo</a>
       
-        <a href="/eu.html" ><i class="picol_avatar"></i>Eu</a>
+        <a href="/eu.html" ><svg class="icon nav-icons">
+          <use xlink:href="/assets/svgs/sprite.svg#icon-avatar"></use>
+        </svg> Eu</a>
       
       <button id="theme-toggle" onclick="modeSwitcher()">Trocar tema</button>
 
@@ -106,9 +112,18 @@ Contact: filipemosca@disroot.org
 
 <span class="applause"><applause-button style="width: 58px; height: 58px;" color="var(--link-color)" multiclap="true"/></span>
 
-<p class="post-date"><i class="far fa-calendar-alt"></i><time>16 de 
+<p class="post-date">
+  <svg class="icon">
+    <use xlink:href="/assets/svgs/sprite.svg#icon-calendar"></use>
+  </svg>  
+ 16 de 
 novembro
-  2019</time> <br> <i class="far fa-clock"></i></i><span class="reading-time" title="Estimated read time">
+  2019 <br>
+<svg class="icon">
+  <use xlink:href="/assets/svgs/sprite.svg#icon-clock"></use>
+</svg> 
+
+<span class="reading-time" title="Estimated read time">
     
     8 min
 </span></p>
@@ -229,15 +244,13 @@ novembro
 
 <div class="comments">
 <h2>Comentários</h2>
-<h3>Envie um comentário por email!</h3> 
+<h3>Ei, diga alguma coisa! <br>
+Envie um comentário por email!</h3> 
 <p>Mande um email para <a href="mailto:filipemosca@disroot.org?subject=Comentário do artigo: Escrevendo sobre Blade Runner em Novembro de 2019">filipemosca@disroot.org</a> com o assunto: <em style="color: var(--comments-subject);">"Comentário do artigo: Escrevendo sobre Blade Runner em Novembro de 2019"</em>. Em breve o comentário aparecerá aqui! &#128516; Caso não queira que a mensagem seja exibida aqui, basta mencionar no email.</p>
 
 
 </div>
 
-<!-- 
-
--->
       </div>
     </div>
     <div class="footer">
@@ -274,17 +287,17 @@ novembro
 const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');	
 
 if (theme === "dark") {
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light_off'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
 } else if (theme === "light") {
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
 } else if  (userPrefers === "dark") {
 	document.documentElement.setAttribute('data-theme', 'dark');
 	window.localStorage.setItem('theme', 'dark');
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light_off'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
 } else {
 	document.documentElement.setAttribute('data-theme', 'light');
 	window.localStorage.setItem('theme', 'light');
-	document.getElementById("theme-toggle").innerHTML = "<i class='picol_light'></i>";
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
 }
 
 function modeSwitcher() {
@@ -292,11 +305,11 @@ function modeSwitcher() {
 	if (currentMode === "dark") {
 		document.documentElement.setAttribute('data-theme', 'light');
 		window.localStorage.setItem('theme', 'light');
-		document.getElementById("theme-toggle").innerHTML = "<i class='picol_light'></i>";
+		document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
 	} else {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		window.localStorage.setItem('theme', 'dark');
-		document.getElementById("theme-toggle").innerHTML = "<i class='picol_light_off'></i>";
+		document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
 	}
 }
 // End theme switcher

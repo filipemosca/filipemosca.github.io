@@ -20,7 +20,11 @@ layout: default
 
 <span class="applause"><applause-button style="width: 58px; height: 58px;" color="var(--link-color)" multiclap="true"/></span>
 
-<p class="post-date"><i class="far fa-calendar-alt"></i><time>{{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
+<p class="post-date">
+  <svg class="icon">
+    <use xlink:href="/assets/svgs/sprite.svg#icon-calendar"></use>
+  </svg>  
+ {{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}janeiro
   {% when '2' %}fevereiro
@@ -34,40 +38,21 @@ layout: default
   {% when '10' %}outubro
   {% when '11' %}novembro
   {% when '12' %}dezembro
-{% endcase %}{{ page.date | date: "%Y"}}</time> <br> <i class="far fa-clock"></i></i>{% include read-time.html content=content %}</p>
+{% endcase %}{{ page.date | date: "%Y"}} <br>
+<svg class="icon">
+  <use xlink:href="/assets/svgs/sprite.svg#icon-clock"></use>
+</svg> 
+
+{% include read-time.html content=content %}</p>
 
 {{ content }}
 
 
 <div class="comments">
 <h2>Comentários</h2>
-<h3>Envie um comentário por email!</h3> 
+<h3>Ei, diga alguma coisa! <br>
+Envie um comentário por email!</h3> 
 <p>Mande um email para <a href="mailto:filipemosca@disroot.org?subject=Comentário do artigo: {{ page.title }}">filipemosca@disroot.org</a> com o assunto: <em style="color: var(--comments-subject);">"Comentário do artigo: {{ page.title }}"</em>. Em breve o comentário aparecerá aqui! &#128516; Caso não queira que a mensagem seja exibida aqui, basta mencionar no email.</p>
 
 
 </div>
-
-<!-- 
-{% if jekyll.environment == "production" %}
-
-<div id="disqus_thread"></div>
-<script>
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-
-var disqus_config = function () {
-this.page.url = "https://mosquildo.com.br{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = "https://mosquildo.com.br{{ page.url }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://blog-tf0tbphof0.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-{% endif %}
--->

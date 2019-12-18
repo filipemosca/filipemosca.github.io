@@ -1,7 +1,10 @@
 <header>
   <nav>
       {% for item in site.data.navigation %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}><i class="{{ item.icon }}"></i>{{ item.name }}</a>
+        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+          <svg class="icon nav-icons">
+            <use xlink:href="/assets/svgs/sprite.svg#{{ item.icon }}"></use>
+          </svg> {{ item.name }}</a>
       {% endfor %}
       <button id="theme-toggle" onclick="modeSwitcher()">Trocar tema</button>
 
