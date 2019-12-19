@@ -202,15 +202,31 @@ novembro
 </div>
 
 
-
+<!-- 
 <div class="comments">
 <h2>Comentários</h2>
 <h3>Ei, diga alguma coisa! <br>
 Envie um comentário por email!</h3> 
 <p>Mande um email para <a href="mailto:filipemosca@disroot.org?subject=Comentário do artigo: O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca">filipemosca@disroot.org</a> com o assunto: <em style="color: var(--comments-subject);">"Comentário do artigo: O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca"</em>. Em breve o comentário aparecerá aqui! &#128516; Caso não queira que a mensagem seja exibida aqui, basta mencionar no email.</p>
-
-
 </div>
+-->
+
+<div class="ei">
+  <h1>Comentários</h1>
+  <p>Ei, diga alguma coisa! &#128516;</p>
+</div>
+
+
+<form action="https://formspree.io/xdoakwzl" method="POST">
+  <label><input type="text" name="name" style="width:400px" placeholder="* Nome"></label><br>
+  <label><input type="text" name="_replyto" style="width:400px" placeholder="* Email (não será exibido)"></label><br>
+  <input type="hidden" name="_subject" value="Comentário do artigo: O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca" />
+  <label><input type="text" name="site" style="width:400px" placeholder="Site ou rede social (opcional)"></label><br>  
+  <label><textarea name="message" style="width:400px; height: 200px;" placeholder="* Comentário"></textarea></label><br>
+  <p id="aprovacao">* O comentário será publicado após aprovação</p>
+  <button class="botao" type="submit">Enviar <svg class="icon icon-bubble"><use xlink:href="/assets/svgs/sprite.svg#icon-bubble"></use></svg></button>
+</form>
+
 
       </div>
     </div>

@@ -39,13 +39,13 @@ html, html[data-theme="light"] {
   --hover-bg-color: #b3b3b3;
   --comments-subject: green;
   --light: black;
-  --blockquote-color: rgb(238, 238, 238); }
+  --blockquote-color: rgb(221, 221, 221); }
 
 html[data-theme="dark"] {
   --font-color: #b3b9c5;
   --bg-color: #202020;
   --link-color: #81a5f8;
-  --link-visited-color: #b1a0ff;
+  --link-visited-color: #c197f8;
   --botao-color: #3d3d3d;
   --marked-color: #3560d4;
   --hover-bg-color: #303030;
@@ -153,6 +153,10 @@ html[data-theme="dark"] {
 
 .livros {
   background-color: #0c707e;
+  color: #f1f1f1; }
+
+.webdev {
+  background-color: #754200;
   color: #f1f1f1; }
 
 .categorias:visited {
@@ -303,7 +307,7 @@ img {
   max-width: 100px;
   margin: 0 auto; }
 
-#assinar-email input {
+input, textarea {
   margin-top: 0;
   padding-top: 0;
   background-color: var(--botao-color);
@@ -316,12 +320,29 @@ img {
   padding-right: 5px;
   margin-right: 2px;
   margin-bottom: 5px;
-  line-height: 1.2; }
-#assinar-email input:hover {
+  line-height: 1.2;
+  max-width: 90%; }
+
+input:hover, textarea:hover {
   background-color: var(--hover-bg-color);
   color: var(--link-color); }
-  #assinar-email input:hover svg {
+  input:hover svg, textarea:hover svg {
     fill: var(--link-color); }
+
+button {
+  border: none; }
+
+.ei {
+  margin-top: 80px; }
+  .ei h1 {
+    margin-bottom: 0; }
+  .ei p {
+    margin-top: 0; }
+
+#aprovacao {
+  font-size: small;
+  margin-top: 0;
+  margin-bottom: 0; }
 
 .post-date {
   font-size: 16px;
