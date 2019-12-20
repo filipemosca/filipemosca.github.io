@@ -24,7 +24,7 @@ layout: default
   <svg class="icon">
     <use xlink:href="/assets/svgs/sprite.svg#icon-calendar"></use>
   </svg>  
- {{ page.date | date: "%-d" }} de {% assign m = page.date | date: "%-m" %}
+ {{ page.date | date: "%-d" }} {% assign m = page.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}janeiro
   {% when '2' %}fevereiro

@@ -11,7 +11,7 @@ defaults:
     values:
       layout: "post"
       author: "Filipe Mosca"
-      permalink: "/:categories/:day/:month/:year/:title"
+      permalink: "/:year/:categories/:title"
 #defaults para todo o resto
   - scope:
       path: ""
@@ -22,7 +22,6 @@ defaults:
 feed:
   categories:
     - medicina
-    - linux
 
 # para o SEO tag:
 lang: pt_BR

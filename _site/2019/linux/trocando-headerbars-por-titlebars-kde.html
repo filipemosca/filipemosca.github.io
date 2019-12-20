@@ -1,0 +1,243 @@
+<!--
+Created by Filipe Mosca
+Homepage: https://mosquildo.com.br
+Contact: filipemosca@disroot.org
+
+  -. (#)(#) .-
+   '\.';;'./'
+.-\.'  ;;  './-.
+  ;    ;;    ;
+  ;   .''.   ;
+   '''    '''
+-->
+
+<!doctype html>
+<html lang="pt-BR" dir="ltr">
+  <head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58629913-5"></script>
+    <script>
+      // Google analytcs
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-58629913-5');
+      // End of google
+
+      // Start Code of theme switcher
+      const theme = localStorage.getItem('theme');
+        if (theme === "dark") {
+          document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      // End of theme switcher
+
+    </script>
+
+    <meta charset="utf-8">
+    <title>Como desativar as headerbars e usar titlebars nos apps do Gnome</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/assets/picol/css/picol.css">
+    <link rel="icon" href="/favicon2.png"/>
+    <meta name="theme-color" content="#202020">
+    <meta name="apple-mobile-web-app-status-bar-style" content="blue">
+    <link rel="stylesheet" href="/assets/applause-button.css" />
+    <script src="/assets/applause-button.js"></script>
+    <link type="application/atom+xml" rel="alternate" href="https://mosquildo.com.br/feed.xml" title="Mosquildo" />
+    <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Como desativar as headerbars e usar titlebars nos apps do Gnome | Mosquildo</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Como desativar as headerbars e usar titlebars nos apps do Gnome" />
+<meta name="author" content="Filipe Mosca" />
+<meta property="og:locale" content="pt_BR" />
+<meta name="description" content="A partir do Gnome 3, o Gnome começou a usar a tecnologia de client side decorations (CSD), ou headerbars. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica titlebar gerada pelo server side decoration (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS." />
+<meta property="og:description" content="A partir do Gnome 3, o Gnome começou a usar a tecnologia de client side decorations (CSD), ou headerbars. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica titlebar gerada pelo server side decoration (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS." />
+<link rel="canonical" href="https://mosquildo.com.br/2019/linux/trocando-headerbars-por-titlebars-kde" />
+<meta property="og:url" content="https://mosquildo.com.br/2019/linux/trocando-headerbars-por-titlebars-kde" />
+<meta property="og:site_name" content="Mosquildo" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-08-03T00:00:00-03:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","headline":"Como desativar as headerbars e usar titlebars nos apps do Gnome","dateModified":"2019-08-03T00:00:00-03:00","datePublished":"2019-08-03T00:00:00-03:00","url":"https://mosquildo.com.br/2019/linux/trocando-headerbars-por-titlebars-kde","mainEntityOfPage":{"@type":"WebPage","@id":"https://mosquildo.com.br/2019/linux/trocando-headerbars-por-titlebars-kde"},"author":{"@type":"Person","name":"Filipe Mosca"},"description":"A partir do Gnome 3, o Gnome começou a usar a tecnologia de client side decorations (CSD), ou headerbars. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica titlebar gerada pelo server side decoration (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS.","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    
+    <div class="wrapper">
+      <div class="main">
+        <header>
+  <nav>
+      
+        <a href="/" ><svg class="icon nav-icons">
+          <use xlink:href="/assets/svgs/sprite.svg#icon-arrow_full_left"></use>
+        </svg> Voltar</a>
+      
+        <a href="/arquivo.html" ><svg class="icon nav-icons">
+          <use xlink:href="/assets/svgs/sprite.svg#icon-folder-open"></use>
+        </svg> Arquivo</a>
+      
+        <a href="/eu.html" ><svg class="icon nav-icons">
+          <use xlink:href="/assets/svgs/sprite.svg#icon-avatar"></use>
+        </svg> Eu</a>
+      
+      <button id="theme-toggle" onclick="modeSwitcher()"><svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg></button>
+
+  </nav>
+</header>
+
+
+<h1>Como desativar as headerbars e usar titlebars nos apps do Gnome</h1>
+
+
+
+<a class="botao categorias linux" href="/linux">Linux</a>
+
+
+
+
+
+
+<span class="pseudobotao2">tema</span>
+
+
+<span class="pseudobotao2">kde</span>
+
+
+<span class="pseudobotao2">plasma</span>
+
+
+<span class="applause"><applause-button style="width: 58px; height: 58px;" color="var(--link-color)" multiclap="true"/></span>
+
+<p class="post-date">
+  <svg class="icon">
+    <use xlink:href="/assets/svgs/sprite.svg#icon-calendar"></use>
+  </svg>  
+ 3 
+agosto
+  2019 <br>
+<svg class="icon">
+  <use xlink:href="/assets/svgs/sprite.svg#icon-clock"></use>
+</svg> 
+
+<span class="reading-time" title="Estimated read time">
+    
+    2 min
+</span></p>
+
+<p>A partir do Gnome 3, o Gnome começou a usar a tecnologia de <em>client side decorations</em> (CSD), ou <em>headerbars</em>. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica <em>titlebar</em>  gerada pelo <em>server side decoration</em> (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS.</p>
+
+<p>Contudo, no KDE Plasma essa funcionalidade fica muito mal integrada. O KWin não atua nesses aplicativos e o resultado é uma inconsistência visual no desktop, o que é suficiente para me gerar uma crise de TOC. Por sorte, é possível desabilitar o CSD dos apps GTK3 graças ao pacote <code class="highlighter-rouge">gtk3-nocsd</code>.</p>
+
+<p>Olha a diferença que faz. Na imagem abaixo temos o gnome-calendar padrão.
+<img src="/assets/apps-screenshot/gnome-csd.png" alt="gnome-calendar com CSD" /></p>
+
+<p>E essa outra imagem é o mesmo gnome-calendar mas com o CSD desabilitado.
+<img src="/assets/apps-screenshot/gnome-nocsd.png" alt="gnome-calendar sem CSD" /></p>
+
+<p>Perceba que a janela do app com CSD não possui sombras e ainda têm as bordas quadradas. Além disso ele não responde às animações do KWin e nem possui bordas. Já o app sem o CSD, que é gerenciado pelo KWin, apresenta essas funcionalidades.</p>
+
+<h2 id="como-instalar">Como instalar</h2>
+<p>No Ubuntu e Debian, o pacote está disponível nos repositórios oficiais. Basta instalar e ele já passa a funcionar.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt install gtk3-nocsd
+</code></pre></div></div>
+
+<p>Ou você pode baixar diretamente no Github do desenvolvedor: <a href="https://github.com/PCMan/gtk3-nocsd">gtk3-nocsd</a></p>
+
+<p>Nesse artigo não quero entrar muito no merito se as CSDs são boas ou ruins. Existe uma discussão muito acalorada sobre isso. Será assunto para uma próxima postagem. Até!</p>
+
+
+<!-- 
+<div class="comments">
+<h2>Comentários</h2>
+<h3>Ei, diga alguma coisa! <br>
+Envie um comentário por email!</h3> 
+<p>Mande um email para <a href="mailto:filipemosca@disroot.org?subject=Comentário do artigo: Como desativar as headerbars e usar titlebars nos apps do Gnome">filipemosca@disroot.org</a> com o assunto: <em style="color: var(--comments-subject);">"Comentário do artigo: Como desativar as headerbars e usar titlebars nos apps do Gnome"</em>. Em breve o comentário aparecerá aqui! &#128516; Caso não queira que a mensagem seja exibida aqui, basta mencionar no email.</p>
+</div>
+-->
+
+<div class="ei">
+  <h1>Comentários</h1>
+  <p>Ei, diga alguma coisa! &#128516;</p>
+</div>
+
+
+<form action="https://formspree.io/xdoakwzl" method="POST">
+  <label><input type="text" name="name" style="width:400px" placeholder="* Nome"></label><br>
+  <label><input type="text" name="_replyto" style="width:400px" placeholder="* Email (não será exibido)"></label><br>
+  <input type="hidden" name="_subject" value="Comentário do artigo: Como desativar as headerbars e usar titlebars nos apps do Gnome" />
+  <label><input type="text" name="site" style="width:400px" placeholder="Site ou rede social (opcional)"></label><br>  
+  <label><textarea name="message" style="width:400px; height: 200px;" placeholder="* Comentário"></textarea></label><br>
+  <p id="aprovacao">* O comentário será publicado após aprovação</p>
+  <button class="botao" type="submit">Enviar <svg class="icon icon-bubble"><use xlink:href="/assets/svgs/sprite.svg#icon-bubble"></use></svg></button>
+</form>
+
+
+      </div>
+    </div>
+    <div class="footer">
+  <div class="wrapper">
+      <div class="coisas">
+       
+        
+    <p>          
+        <a href="https://twitter.com/moscafilipe" target="_blank"><svg class="icon icon-abertura"><use xlink:href="/assets/svgs/sprite.svg#icon-twitter"></use></svg></a>
+  
+        <a href="https://github.com/filipemosca" target="_blank"><svg class="icon icon-abertura"><use xlink:href="/assets/svgs/sprite.svg#icon-github"></use></svg></a>
+
+		<a href="https://mosquildo.com.br/feed.xml" target="_blank" aria-hidden="true"><svg class="icon icon-abertura"><use xlink:href="/assets/svgs/sprite.svg#icon-rss"></use></svg> </a>
+	</p>
+     
+
+        <p class="picol_mail"></i><a href="mailto:filipemosca@disroot.org">filipemosca@disroot.org</a> <br>
+          <i class=" picol_security_closed"></i>PGP: CDD0 E240 698E 3A10 BBD0 B704 ACB6 9010 C5BE 0DE7 <br>
+          <i class="picol_attachment"></i><a href="/assets/key.asc">key.asc</a> </p>
+        </div>     
+
+    <div class="license">
+      <p >Esta obra está licenciada com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>. <br> Mosquildo © 2019 Filipe Mosca</p>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/assets/images/cc-by-sa.png"/></a>
+    </div>
+  </div>
+</div>
+
+
+<script>
+
+// Start Theme Switcher 
+const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');	
+
+if (theme === "dark") {
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
+} else if (theme === "light") {
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
+} else if  (userPrefers === "dark") {
+	document.documentElement.setAttribute('data-theme', 'dark');
+	window.localStorage.setItem('theme', 'dark');
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
+} else {
+	document.documentElement.setAttribute('data-theme', 'light');
+	window.localStorage.setItem('theme', 'light');
+	document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
+}
+
+function modeSwitcher() {
+	let currentMode = document.documentElement.getAttribute('data-theme');
+	if (currentMode === "dark") {
+		document.documentElement.setAttribute('data-theme', 'light');
+		window.localStorage.setItem('theme', 'light');
+		document.getElementById("theme-toggle").innerHTML = "<svg class='icon on-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light'></use></svg>";
+	} else {
+		document.documentElement.setAttribute('data-theme', 'dark');
+		window.localStorage.setItem('theme', 'dark');
+		document.getElementById("theme-toggle").innerHTML = "<svg class='icon off-icon nav-icons'><use xlink:href='/assets/svgs/sprite.svg#icon-light_off'></use></svg>";
+	}
+}
+// End theme switcher
+
+</script>
+  </body>
+</html>

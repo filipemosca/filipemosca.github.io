@@ -36,10 +36,11 @@ html, html[data-theme="light"] {
   --link-visited-color: purple;
   --botao-color: #dedede;
   --marked-color: yellow;
-  --hover-bg-color: #b3b3b3;
+  --hover-bg-color: #cccccc;
   --comments-subject: green;
   --light: black;
-  --blockquote-color: rgb(221, 221, 221); }
+  --blockquote-color: rgb(221, 221, 221);
+  --icon-color: rgb(131, 128, 127); }
 
 html[data-theme="dark"] {
   --font-color: #b3b9c5;
@@ -51,7 +52,8 @@ html[data-theme="dark"] {
   --hover-bg-color: #303030;
   --comments-subject: orange;
   --light: yellow;
-  --blockquote-color: #181818; }
+  --blockquote-color: #181818;
+  --icon-color: #b3b9c5; }
 
 @media (prefers-color-scheme: dark) {
   html {
@@ -86,12 +88,15 @@ html[data-theme="dark"] {
     color: var(--font-color); }
 
 .icon-abertura {
-  fill: gray;
+  fill: var(--icon-color);
   padding-right: 5px; }
 
 .icon-feedly {
   width: 20px;
   height: 20px; }
+
+.mosca {
+  display: inline-block; }
 
 .botao {
   text-decoration: none;
@@ -266,6 +271,15 @@ img {
   margin-left: auto;
   margin-right: auto; }
 
+figure {
+  margin-bottom: 3em;
+  margin-top: 3em; }
+
+figcaption {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 0.8em; }
+
 ::selection {
   background: var(--marked-color);
   /* WebKit/Blink Browsers */ }
@@ -275,7 +289,7 @@ img {
   /* Gecko Browsers */ }
 
 .abertura {
-  color: #b3b3b3;
+  color: var(--font-color);
   display: block; }
   .abertura h2 {
     margin-bottom: 1px; }
@@ -345,8 +359,7 @@ button {
   margin-bottom: 0; }
 
 .post-date {
-  font-size: 16px;
-  color: gray;
+  font-size: 0.9em;
   margin-bottom: 0; }
 
 .post-author {
@@ -424,6 +437,11 @@ blockquote {
 q {
   font-family: 'Sanchez', serif;
   font-style: italic; }
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(189, 189, 189, 0), rgba(211, 211, 211, 0.75), rgba(201, 201, 201, 0)); }
 
 .instagram-div {
   max-width: 500px;

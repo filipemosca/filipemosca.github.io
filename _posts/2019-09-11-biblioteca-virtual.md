@@ -1,6 +1,6 @@
 ---
 title: Minha biblioteca virtual e como abandonei o papel
-category: [medicina, linux]
+category: aleatoriedades
 tags: internet servidores livros
 ---
 

@@ -127,6 +127,17 @@
 <symbol id="icon-bubble" viewBox="0 0 32 32">
 <title>bubble</title>
 <path d="M16 2c8.837 0 16 5.82 16 13s-7.163 13-16 13c-0.849 0-1.682-0.054-2.495-0.158-3.437 3.437-7.539 4.053-11.505 4.144v-0.841c2.142-1.049 4-2.961 4-5.145 0-0.305-0.024-0.604-0.068-0.897-3.619-2.383-5.932-6.024-5.932-10.103 0-7.18 7.163-13 16-13z"></path>
+<symbol id="icon-aid-kit" viewBox="0 0 32 32">
+<title>aid-kit</title>
+<path d="M28 8h-6v-4c0-1.1-0.9-2-2-2h-8c-1.1 0-2 0.9-2 2v4h-6c-2.2 0-4 1.8-4 4v16c0 2.2 1.8 4 4 4h24c2.2 0 4-1.8 4-4v-16c0-2.2-1.8-4-4-4zM12 4h8v4h-8v-4zM24 22h-6v6h-4v-6h-6v-4h6v-6h4v6h6v4z"></path>
+</symbol>
+<symbol id="icon-mosca" viewBox="0 0 32 32">
+<title>mosca</title>
+<path fill="#fff" style="fill: var(--color1, #fff); stroke: var(--color2, #000)" stroke="#000" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.537" d="M28.563 13.933c-0.917 6.291-4.754 10.791-8.57 10.052s-6.167-6.438-5.25-12.729c0.917-6.291 4.754-10.791 8.57-10.052s6.167 6.438 5.25 12.729z"></path>
+<path fill="#fff" style="fill: var(--color1, #fff); stroke: var(--color2, #000)" stroke="#000" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.591" d="M16.085 10.47c2.742 5.636 2.115 11.894-1.401 13.976s-8.589-0.799-11.331-6.435c-2.742-5.636-2.115-11.894 1.401-13.976s8.589 0.799 11.331 6.435z"></path>
+<path fill="#000" style="fill: var(--color2, #000); stroke: var(--color1, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.1551" d="M30.498 20.167c0 5.971-4.918 10.812-10.985 10.812s-10.985-4.841-10.985-10.812c0-5.971 4.918-10.812 10.985-10.812s10.985 4.841 10.985 10.812z"></path>
+<path fill="none" stroke="#000" style="stroke: var(--color2, #000)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6206" d="M6.474 8.935l6.606 9.962"></path>
+<path fill="none" stroke="#000" style="stroke: var(--color2, #000)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6206" d="M22.896 3.638l-1.734 11.827"></path>
 </symbol>
 </defs>
 </svg>

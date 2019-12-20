@@ -1,8 +1,8 @@
 ---
 title: Problema do brilho travado no linux
 author: Filipe Mosca
-permalink: /problema-brilho-linux
 category: linux
+tags: workaround notebook
 ---
 
 Esse é um problema que sempre enfrento não importa a distro instalada. Porém, tem vezes que o brilho trava no mínimo e tem vezes que trava no máximo. "Trava", pois os botões de controle do brilho não funcionam e nem os comandos no terminal.
