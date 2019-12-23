@@ -4,7 +4,7 @@ category: cinema
 tags: [Star Wars, criticas, sci-fi]
 ---
 
-Acabei de voltar do cinema e já sentei para escrever o que achei do filme. Quero contar quais foram as minhas primeiras impressões logo após asssistir o filme, antes que minha opinião inicial seja afetada ou influenciada por críticas de terceiros.
+Acabei de voltar do cinema e já sentei para escrever o que achei da *A Ascensão Skywalker*. Quero contar quais foram as minhas primeiras impressões logo após asssistir o filme, antes que minha opinião inicial seja afetada ou influenciada por críticas de terceiros.
 
 Claramente, haverá muitos ***spoilers*** nesse texto. Na verdade eu vou soltar os principais eventos do filme, então só leia se já tiver assistido!
 
