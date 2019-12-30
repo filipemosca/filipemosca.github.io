@@ -99,8 +99,8 @@ html[data-theme="dark"] {
   padding-right: 5px; }
 
 .icon-feedly {
-  width: 20px;
-  height: 20px; }
+  width: 19px;
+  height: 19px; }
 
 .mosca {
   display: inline-block; }
@@ -274,11 +274,13 @@ p, li {
 
 img {
   max-width: 100%;
-  width: 100%;
   height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto; }
+
+img > article {
+  width: 100%; }
 
 figure {
   margin-bottom: 3em;

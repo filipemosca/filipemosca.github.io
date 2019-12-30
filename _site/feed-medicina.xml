@@ -3,16 +3,16 @@
   <channel>
     <title>Mosquildo</title>
     <description>Blog sobre medicina, geek e Linux</description>
-    <link>https://mosquildo.com.br/</link>
-    <atom:link href="https://mosquildo.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Dec 2019 01:38:16 -0300</pubDate>
-    <lastBuildDate>Mon, 30 Dec 2019 01:38:16 -0300</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 30 Dec 2019 20:42:23 -0300</pubDate>
+    <lastBuildDate>Mon, 30 Dec 2019 20:42:23 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
     
     <entry>
             <title type="html">O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca</title>
-            <link href="https://mosquildo.com.br/2019/medicina/betabloqueadores-na-insuficiencia-cardiaca"/>
+            <link href="http://localhost:4000/2019/medicina/betabloqueadores-na-insuficiencia-cardiaca"/>
             <published>2019-11-15T00:00:00-03:00</published>
             <id>/2019/medicina/betabloqueadores-na-insuficiencia-cardiaca</id>
             <content type="html">&lt;p&gt;Este semestre comecei a pagar a cadeira de cardiologia no curso médico. Já comecei a acompanhar  ambulatório de cardiologia antes mesmo de começar a ter as aulas teóricas. Então, acompanhei as consultas apenas com meu conhecimento basal, adquirido nos períodos anteriores, sobre cardiologia.&lt;/p&gt;
@@ -95,7 +95,7 @@
     
     <entry>
             <title type="html">Os cigarros eletrônicos e a doença misteriosa</title>
-            <link href="https://mosquildo.com.br/2019/medicina/os-cigarros-eletronicos-e-a-doenca-misteriosa"/>
+            <link href="http://localhost:4000/2019/medicina/os-cigarros-eletronicos-e-a-doenca-misteriosa"/>
             <published>2019-09-15T17:57:00-03:00</published>
             <id>/2019/medicina/os-cigarros-eletronicos-e-a-doenca-misteriosa</id>
             <content type="html">&lt;p&gt;Os cigarros eletrônicos (ou DEFs — dispositivos eletrônicos para fumar) são aparelhos que funcionam a base de baterias e que aquecem compostos químicos gerando aerosois, uma fumaça, que é inalada pelo usuário. Foram inicialmente projetados em 1963, mas só começaram a ser comercializados nos Estados Unidos em 2007. A partir daí, foram ganhando cada vez mais popularidade entre os jovens que nem chegam a se considerar fumantes, mas sim &lt;em&gt;vapori  zadores&lt;/em&gt; (ou &lt;em&gt;vapers&lt;/em&gt;). Os DEFs costumam conter menos compostos tóxicos ou em menores concentrações que os cigarros convencionais, mas ainda assim não estão isentos de riscos, continuam possuindo compostos já conhecidos pelo seu potencial carcinogênico. Os cigarros eletrônicos também são muito usados para a inalação de compostos como  o canabidiol (CBD), tetrahidrocanabinol (THC) e outros óleos.&lt;sup id=&quot;fnref:inca2016&quot;&gt;&lt;a href=&quot;#fn:inca2016&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -176,7 +176,7 @@
     
     <entry>
             <title type="html">Por que os casos de gripe aumentam no inverno?</title>
-            <link href="https://mosquildo.com.br/2019/medicina/por-que-os-casos-de-gripe-aumentam-no-inverno"/>
+            <link href="http://localhost:4000/2019/medicina/por-que-os-casos-de-gripe-aumentam-no-inverno"/>
             <published>2019-04-18T00:00:00-03:00</published>
             <id>/2019/medicina/por-que-os-casos-de-gripe-aumentam-no-inverno</id>
             <content type="html">&lt;p&gt;Chega o inverno e o frio começa a atacar.
@@ -303,7 +303,7 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
     
     <entry>
             <title type="html">O efeito placebo e a humanização da medicina</title>
-            <link href="https://mosquildo.com.br/2019/medicina/efeito-placebo-e-a-humanizacao-da-medicina"/>
+            <link href="http://localhost:4000/2019/medicina/efeito-placebo-e-a-humanizacao-da-medicina"/>
             <published>2019-04-13T00:00:00-03:00</published>
             <id>/2019/medicina/efeito-placebo-e-a-humanizacao-da-medicina</id>
             <content type="html">&lt;p&gt;Placebo é qualquer medicamento ou procedimento inerte e desprovido de valor terapêutico conhecido, mas que induz algum tipo de resposta quando administrado em pacientes que acreditam estar sendo medicados.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Por exemplo, pacientes com dores que ingerem pílulas de açúcar achando que estão tomando um analgésico podem sentir redução na dor. Sabidamente as pílulas de açúcar não deveriam provocar uma resposta terapêutica mas isso ocorre devido a mecanismos psicológicos. A resposta ou efeito provocado pela administração do placebo é chamada de &lt;em&gt;efeito placebo&lt;/em&gt;.&lt;/p&gt;
@@ -368,7 +368,7 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
     
     <entry>
             <title type="html">Os dois novos casos de cura do HIV</title>
-            <link href="https://mosquildo.com.br/2019/medicina/novos-casos-cura-hiv"/>
+            <link href="http://localhost:4000/2019/medicina/novos-casos-cura-hiv"/>
             <published>2019-03-10T00:00:00-03:00</published>
             <id>/2019/medicina/novos-casos-cura-hiv</id>
             <content type="html">&lt;p&gt;Esse mês, dois novos casos de remissão do HIV foram divulgados. Se confirmados com o tempo, já serão três pacientes “curados” do HIV. Claro que a noticia agitou tanto o mundo acadêmico como toda sociedade. A cura do HIV parece estar cada vez mais tangivel.&lt;/p&gt;
@@ -433,7 +433,7 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
     
     <entry>
             <title type="html">A via láctea do reino animal e por que o leite é tão importante</title>
-            <link href="https://mosquildo.com.br/2019/medicina/a-via-lactea-no-reino-animal"/>
+            <link href="http://localhost:4000/2019/medicina/a-via-lactea-no-reino-animal"/>
             <published>2019-02-24T00:00:00-03:00</published>
             <id>/2019/medicina/a-via-lactea-no-reino-animal</id>
             <content type="html">&lt;p&gt;Fui atraído pelo simples e curioso título de &lt;a href=&quot;https://www.nytimes.com/2019/02/11/science/milk-animals-evolution.html&quot;&gt;uma matéria&lt;/a&gt; do &lt;em&gt;New York Times&lt;/em&gt;:  “Everywhere in the Animal Kingdom, Followers of the Milky Way”. De ínicio fiquei logo interessado em entender o que “followers of the milky way” queria dizer, curioso com a associação ao nome de nossa galáxia.&lt;/p&gt;
@@ -513,7 +513,7 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
     
     <entry>
             <title type="html">O que são superbactérias e um pouco sobre evolução</title>
-            <link href="https://mosquildo.com.br/2019/medicina/o-que-sao-superbacterias"/>
+            <link href="http://localhost:4000/2019/medicina/o-que-sao-superbacterias"/>
             <published>2019-02-03T00:00:00-03:00</published>
             <id>/2019/medicina/o-que-sao-superbacterias</id>
             <content type="html">&lt;p&gt;O termo superbactéria é amplamente usado para ser referir a bactérias com uma intensa capacidade de provocar doenças graves e de difícil tratamento. O “superpoder” delas é a sua capacidade de resistir a vários tipos de antibióticos, o que para nós não é nada bom.&lt;/p&gt;
@@ -629,7 +629,7 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
     
     <entry>
             <title type="html">O sarampo está de volta? Entendendo o surto no Brasil</title>
-            <link href="https://mosquildo.com.br/2019/medicina/entendendo-o-surto-de-sarampo-no-brasil"/>
+            <link href="http://localhost:4000/2019/medicina/entendendo-o-surto-de-sarampo-no-brasil"/>
             <published>2019-01-25T00:00:00-03:00</published>
             <id>/2019/medicina/entendendo-o-surto-de-sarampo-no-brasil</id>
             <content type="html">&lt;p&gt;Em 2016, o sarampo foi considerado uma doença eliminada no Brasil. Com 95% da população alvo vacinada e 12 meses sem novos casos, a &lt;a href=&quot;https://www.paho.org/bra/&quot;&gt;OPAS&lt;/a&gt; nos concedeu essa conquista. Contudo, se você acompanha os noticiários já deve estar por dentro da mais nova preocupação. O sarampo parece está voltando ao Brasil. Dois anos após a eliminação o nosso título está ameaçado? Ao longo do artigo vou tentar explicar os fatores que levaram ao surto e também responder essa pergunta.&lt;/p&gt;
