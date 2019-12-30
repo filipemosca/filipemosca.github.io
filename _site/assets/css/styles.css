@@ -267,13 +267,17 @@ p, li {
 
 img {
   max-width: 100%;
+  width: 100%;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto; }
 
 figure {
   margin-bottom: 3em;
-  margin-top: 3em; }
+  margin-top: 3em;
+  margin-inline-start: 0;
+  margin-inline-end: 0; }
 
 figcaption {
   text-align: center;
@@ -533,4 +537,7 @@ a.footnote:after {
 /* Aqui é para tablet */
 @media only screen and (min-width: 600px) {
   .abertura {
-    display: flex; } }
+    display: flex; }
+
+  img {
+    width: inherit; } }
