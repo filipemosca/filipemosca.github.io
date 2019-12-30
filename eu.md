@@ -1,7 +1,8 @@
 ---
 title: Eu
-layout: default
+layout: wrapped
 ---
+
 {% include header_posts.html %}
 
 # Sobre mim

@@ -1,8 +1,18 @@
 .wrapper {
   max-width: 800px;
-  margin: 0 auto;
-  padding-right: 20px;
-  padding-left: 20px;
+    margin: 0 auto;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.wrapper-post {
+  max-width: 100%;
+}
+
+article {
+  p, h1, h2, h3, h4, h5, h6 {
+    margin-right: 0.8em;
+    margin-left: 0.8em;
+  }
 }
 .wrapper-footer {
   max-width: 700px;
@@ -585,6 +595,18 @@ a.footnote:after {
 
 /* Aqui é para tablet */
 @media only screen and (min-width: 600px) {
+  .wrapper-post {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  article {
+  p, h1, h2, h3, h4, h5, h6 {
+    margin-right: 0;
+    margin-left: 0;
+    }
+  }
   .abertura {
     display: flex;
   }
