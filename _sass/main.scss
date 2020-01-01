@@ -9,9 +9,9 @@
 }
 
 article {
-  p, h1, h2, h3, h4, h5, h6 {
-    margin-right: 0.8em;
-    margin-left: 0.8em;
+  p, h1, h2, h3, h4, h5, h6, figcaption {
+    margin-right: 20px;
+    margin-left: 20px;
   }
 }
 .wrapper-footer {
@@ -296,12 +296,20 @@ figure {
   margin-inline-start: 0;
   margin-inline-end: 0;
 }
-
 figcaption {
   text-align: center;
   margin-top: 10px;
   font-size: 0.8em;
 }
+
+article > ol li {
+  padding-bottom: 0.8em;
+}
+/* article a[target="_blank"]:after {
+  content: url(http://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png);
+  margin: 0 0 0 5px;
+}
+*/
 
 // select marked text
 ::selection {

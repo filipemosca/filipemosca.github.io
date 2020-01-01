@@ -1,16 +1,23 @@
 ---
 title: Star Wars episódio IX é muito bom!
 category: cinema
-tags: [Star Wars, criticas, sci-fi]
+tags: [star wars, critica, sci-fi]
 ---
 
 Acabei de voltar do cinema e já sentei para escrever o que achei da *A Ascensão Skywalker*. Quero contar quais foram as minhas primeiras impressões logo após asssistir o filme, antes que minha opinião inicial seja afetada ou influenciada por críticas de terceiros.
 
 Claramente, haverá muitos ***spoilers*** nesse texto. Na verdade eu vou soltar os principais eventos do filme, então só leia se já tiver assistido!
 
+
 ## Muitas emoções
 
+
 De fato foi um filme que trouxe muitas referências para os fans. Principalmente com Han Solo e Luke aparecendo novamente. O enredo conseguiu trazer uma certa nostalgia da trilogia original. A batalha final, a rebelião se jogando com tudo que tinha pra um ataque de vida ou morte, Endor aparecendo novamente (inclusive os Ewoks), planetas sendo destruídos, as ruínas da estrela da morte e até a sala do imperador. E o melhor, não foi necessário uma quarta estrela da morte pra trazer esse gostinho de lembrança (cutucada no episódio VII).
+
+<figure>
+    <img width="600" src="/assets/images/posts/star-wars/babu-frik.jpeg" alt="Babu Frik">
+    <figcaption>Babu Frink resgatando a memória de C3PO</figcaption>
+</figure>
 
 O significado do filme como um todo foi muito bonito. Sempre foi meio óbvio que haveria uma redenção para Kylo Ren e acho que da forma que foi feito ficou muito digno. A forma como as pessoas comuns se juntaram à rebelião no final também foi de tirar o fólego. 
 
@@ -29,10 +36,7 @@ Gostei muito dos arcos no planeta Kijimi e no planeta da festa a cada 42 anos qu
 
 O personagem Babu Frik foi muito divertido, e cativou os telespectadores, arracando risos na sala de cinema. A Zorri Bliss, ex-colega do Poe, também foi bem elaborada e relevante para a história. Tanto por trazer à tona um pouco do passado de Poe como pela fala "os inimigos querem que pensemos que estamos sozinhos". Uma frase muito bonita e que vai impactar diretamente no otimismo de Poe e na confiança de realizar o ataque em Exogel (além de ter dado o artefato que permitiu eles entrarem no Destroyer). Em seguida ela, claro, aparece junto dos civis que se juntaram na batalha final à rebelião, representando a esperança.
 
-<figure>
-    <img src="/assets/images/posts/star-wars/babu-frik.jpeg" alt="Babu Frik">
-    <figcaption>Babu Frink resgatando a memória de C3PO</figcaption>
-</figure>
+
 
 <figure>
     <img src="/assets/images/posts/star-wars/zorri.jpg" alt="Zorri Bliss">

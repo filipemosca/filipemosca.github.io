@@ -8,9 +8,9 @@
 .wrapper-post {
   max-width: 100%; }
 
-article p, article h1, article h2, article h3, article h4, article h5, article h6 {
-  margin-right: 0.8em;
-  margin-left: 0.8em; }
+article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption {
+  margin-right: 20px;
+  margin-left: 20px; }
 
 .wrapper-footer {
   max-width: 700px;
@@ -293,6 +293,14 @@ figcaption {
   margin-top: 10px;
   font-size: 0.8em; }
 
+article > ol li {
+  padding-bottom: 0.8em; }
+
+/* article a[target="_blank"]:after {
+  content: url(http://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png);
+  margin: 0 0 0 5px;
+}
+*/
 ::selection {
   background: var(--marked-color);
   /* WebKit/Blink Browsers */ }
