@@ -92,6 +92,11 @@ html[data-theme="dark"] {
   height: 16px;
   fill: var(--font-color);
 }
+.icon-background {
+  width: 100px;
+  height: 100px;
+  fill: var(--font-color);
+}
 
 
 // Start Header
@@ -481,6 +486,13 @@ blockquote {
       font-size: 8em;
       z-index: -1;
    }
+}
+.back {
+  background-image: url(/cam.svg);
+  background-position: right top; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: contain; /* Resize the background image to cover the entire container */
+
 }
 q {
   font-family: 'Sanchez', serif;
