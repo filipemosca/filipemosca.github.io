@@ -75,7 +75,7 @@ layout: wrapped
         <span class="pseudobotao2">{{ tag_name }}</span>
         {% endfor %}
 
-        <span id="post-info"> <span>&nbsp{{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
+        <span class="post-info"> <span>&nbsp{{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
         {% case m %}
           {% when '1' %}jan
           {% when '2' %}fev
