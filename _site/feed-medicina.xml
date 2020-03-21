@@ -5,8 +5,8 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Jan 2020 19:28:53 -0300</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2020 19:28:53 -0300</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2020 16:17:03 -0300</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2020 16:17:03 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
     
@@ -90,52 +90,6 @@
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Escala de coma de Glasgow</title>
-            <link href="http://localhost:4000/2019/medicina/escala-de-coma-de-glasgow"/>
-            <published>2019-10-20T13:47:11-03:00</published>
-            <id>/2019/medicina/escala-de-coma-de-glasgow</id>
-            <content type="html">&lt;p&gt;Existem muitas escalas na medicina. Uma das mais antigas e ainda amplamente utilizada é a escala de coma de Glagow (ECG). Simplemente não dá para não saber a ECG. Ela foi criada em 1974 na tentativa de tentar categorizar de forma prática o nível de consciência dos pacientes.&lt;sup id=&quot;fnref:tesdale2014&quot;&gt;&lt;a href=&quot;#fn:tesdale2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Antes da ECG era muito difícil de se comunicar entre os médicos o grau de rebaixamento de consciência dos pacientes. Também não havia uma quantificação para saber se o paciente estava melhorando ou piorando o seu estado mental. E, além disso, era muito difícil fazer pesquisas sem conseguir dividir os pacientes em grupos e avaliar os resultados do acordo com eles.&lt;/p&gt;
-
-&lt;p&gt;Então, 45 anos atrás a &lt;em&gt;Glasgow coma scale&lt;/em&gt; era publicada no períodico &lt;em&gt;The Lancet&lt;/em&gt;. O artigo original em questão &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(74)91639-0/fulltext&quot; target=&quot;_blank&quot;&gt;pode ser acessado aqui&lt;/a&gt;&lt;sup id=&quot;fnref:tesdale1974&quot;&gt;&lt;a href=&quot;#fn:tesdale1974&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;A ECG começou a ser desenvolvida já em 1971, na busca por melhorar o atendimento de paciebtes vítimas de traumatismos encefálicos e estabelecer um critério de prognóstico.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:tesdale2014&quot;&gt;
-      &lt;p&gt;Teasdale G, Maas A, Lecky F, Manley G, Stocchetti N, Murray G. The Glasgow Coma Scale at 40 years: standing the test of time. The Lancet Neurology. 2014;13(8):844-854. doi:10.1016/S1474-4422(14)70120-6 &lt;a href=&quot;#fnref:tesdale2014&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:tesdale1974&quot;&gt;
-      &lt;p&gt;Teasdale G, Jennett B. Assessment of coma and impaired consciousness. The Lancet. 1974;304(7872):81-84. doi:10.1016/S0140-6736(74)91639-0 &lt;a href=&quot;#fnref:tesdale1974&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Leptospirose</title>
-            <link href="http://localhost:4000/2019/medicina/leptospirose"/>
-            <published>2019-10-20T00:00:00-03:00</published>
-            <id>/2019/medicina/leptospirose</id>
-            <content type="html">
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Cirúrgias também pode funcionar como placebo?</title>
-            <link href="http://localhost:4000/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo"/>
-            <published>2019-10-20T00:00:00-03:00</published>
-            <id>/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo</id>
-            <content type="html">
 </content>
         </entry>
     
