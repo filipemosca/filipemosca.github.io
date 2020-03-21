@@ -32,14 +32,3 @@ Assisti o filme [*Hungry Soul*](https://letterboxd.com/film/hungry-soul/) no [MU
 
 ![Hungry Souls cena da histerectomia](/assets/2020/histerectomia-hungry-souls.jpeg)
 
-### A live do Atila
-
-
-![Gráfico de evolução da mortalidade](/assets/2020/evolucao-mortes-corona-china-italia.jpeg)
-
-
-
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
-
