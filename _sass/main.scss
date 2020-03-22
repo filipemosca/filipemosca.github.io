@@ -276,6 +276,35 @@ nav {
 }
 
 
+
+
+
+// Adding 'Contents' headline to the TOC
+#markdown-toc::before {
+  content: "Sumário";
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+#markdown-toc {
+max-width: 300px;
+padding: 1.5em;
+padding-left: 2rem;
+margin-left: 1.5rem;
+display: inline-block;
+border-color: black;
+border: 1px solid;
+border-radius: 1rem;
+font-size: 1rem;
+a:hover {
+  color: #686868;
+}
+}
+
+
+
+
+
+
 h1  {
   text-align: left;
   margin-bottom: 0;
@@ -646,6 +675,9 @@ a.footnote:after {
 @media only screen and (min-width: 800px) {
   #post-info,{
     display: inline-block;
+  }
+  #markdown-toc {
+    float: right;
   }
 }
 
