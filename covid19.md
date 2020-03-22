@@ -6,18 +6,16 @@ seo:
     date_modified: 2020-03-21
 ---
 
-**Última atualização:** 21 de março às 21:10.
+
 
 
 * Sumário
 {:toc}
 
-
-<a href="https://drive.google.com/open?id=11deHp79sScc9CnJUOZRkAz5N3hmgL3Nn"><img src="/assets/2020/blue-folder-vector-clipart.png" height="42"></a>
-
-<p align="center">Link para pasta com os arquivos no Google Drive: <a href="https://drive.google.com/open?id=11deHp79sScc9CnJUOZRkAz5N3hmgL3Nn">COVID-19</a>.</p>
-
-
+<p><b>Última atualização:</b> 21 de março às 21:10. <br>
+<span style="color: red; font-size:20pt">
+Link para pasta com os arquivos no Google Drive: <a href="https://drive.google.com/open?id=11deHp79sScc9CnJUOZRkAz5N3hmgL3Nn">COVID-19 <i class="picol_folder_sans"></i></a>
+</span></p>
 
 
 ## Introdução
@@ -27,6 +25,7 @@ O coronavírus (COVID-19) é uma doença infecciosa causada por um novo vírus q
 
 ## Links úteis
 
+* [Atualização de casos pelo MS](http://saude.gov.br/);
 * **Boletins:**
   * [Informes da SES-PE](https://www.cievspe.com/novo-coronavirus-2019-ncov);
   * [Boletins epidemiológicos do MS](https://www.saude.gov.br/boletins-epidemiologicos);
@@ -39,6 +38,9 @@ O coronavírus (COVID-19) é uma doença infecciosa causada por um novo vírus q
 * Dossiês:
   * [Artigo na Wikipédia inglesa](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic);
   * [Artigo na Wikipédia lusófona](https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19).
+* [Plano nacional de contingência](https://portalarquivos2.saude.gov.br/images/pdf/2020/fevereiro/13/plano-contingencia-coronavirus-COVID19.pdf)
+
+
 
 
 ## Últimos boletins
@@ -46,6 +48,21 @@ O coronavírus (COVID-19) é uma doença infecciosa causada por um novo vírus q
 * [Boletim **SES-PE** 20/03/20](https://12ad4c92-89c7-4218-9e11-0ee136fa4b92.filesusr.com/ugd/3293a8_8e4bb04140aa4f5d94fd1cdc219905ad.pdf);
 * [**WHO** SR 60 de 20/03/20](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200320-sitrep-60-covid-19.pdf?sfvrsn=d2bb4f1f_2);
 * [Boletim **MS** 14/03/20](https://12ad4c92-89c7-4218-9e11-0ee136fa4b92.filesusr.com/ugd/3293a8_3777e9db9e1e49099b5ec06dfe18d20d.pdf).
+
+
+## Casos no Brasil
+
+Estou disponibilizando aqui os gráficos desenvolvidos pela equipe do UOL que podem ser vistos [nessa postagem aqui](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/21/brasil-mais-casos-italia-20-dias-curva-crescimento.htm). O primeiro gráfico (abaixo) representa o total de casos no Brasil por cada dia.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/1573183"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+O segundo gráfico (abaixo), compara os 20 primeiros dias de circulação do Coronavirus com outros países. 
+
+> Segundo especialistas ouvidos pelo UOL, os países tiveram seus primeiros casos em momentos distintos da pandemia e as reações também tendem a ser diferentes. Ter mais números no início que a Europa ou outros países que apresentam uma situação complicada agora, como Estados Unidos, não necessariamente aponta para um futuro sombrio.... - [Veja mais em UOL](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/21/brasil-mais-casos-italia-20-dias-curva-crescimento.htm?cmpid=copiaecola)
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/1623200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 
 ## Noticias
@@ -59,6 +76,7 @@ O coronavírus (COVID-19) é uma doença infecciosa causada por um novo vírus q
 
 ## Linha do tempo
 
+* **09 mar 2020**: Itália inicia o *lock down*;
 * 14 fev 2020: 1ª morte na França;
 * 11 fev 2020: a doença causada pelo Novo Coronarvirus recebe o nome de COVID-19;
 * 07 fev 2020: Morre o médico Chines, Dr. Li Wenliang, que alertou para os riscos da nova epidemia;
@@ -101,10 +119,49 @@ Evolução e curva da mortalidade China x Itália. Retirado da Live do Atila de 
 ![Gráfico de evolução da mortalidade](/assets/2020/evolucao-mortes-corona-china-italia.jpeg)
 
 
+## Manejo da COVID-19
+
+![Fluxograma de manejo](/assets/2020/manejo-covid.jpeg)
+
+## Distânciamento social
+
+O número básico de reprodução do SARS-CoV-2 foi estimado em 2,74 (2,47 – 3,23), o que significa que, para cada caso, espera-se que ocorram em média de 2 a 3 casos secundários, quando
+introduzido em uma população totalmente susceptível. Outro parâmetro relevante é o tempo para
+duplicação da epidemia, que no momento encontra-se entre 1,7 a 2,93 dias. Considerando o
+elevado R0 e o curto tempo de duplicação quando comparado a Influenza, a epidemia tende a
+apresentar uma concentração expressiva de casos um um curto espaço de tempo. Em países como
+Itália, China e Espanha, em poucas semanas o crescimento do número de casos foi suficiente para
+colapsar os sistemas de saúde local.
+
+Atualmente observamos um declínio no número de casos em todas as províncias na China. Esse
+declínio é decorrente das medidas de intervenção estabelecidas, que, estima-se, tenham evitado
+cerca de 94,5% dos casos que poderiam ter ocorrido. Entre as intervenções adotadas em Wuhan
+destaca-se: o estabelecimento de um cordão sanitário na cidade de Wuhan, suspensão dos
+transportes públicos e táxi por aplicativos, restrição do tráfego nas áreas urbanas, proibição de
+viagens na região interna da cidade, fechamento de espaços públicos, cancelamento de eventos,
+uso obrigatório de máscaras cirúrgicas em público, quarentena domiciliar para toda população.
+
+![Meta de ação](/assets/2020/meta-covid19.jpeg)
+
+As medidas não farmacológicas visam reduzir a transmissibilidade do vírus na comunidade e
+portanto retardar a progressão da epidemia. Ações como essa, além de reduzirem o número de
+casos, tem o potencial de reduzir o impacto para os serviços de saúde, por reduzir o pico
+epidêmico. Em estudos de modelagem matemática estima-se que uma redução de cerca de 50%
+dos contatos entre as pessoas teriam impacto significativo no número total de casos, uma vez que
+reduziram o R0 do COVID-19 para próximo de 1. Além disso, as medidas não farmacológicas
+atrasam o pico da epidemia e reduzem a altura do pico, permitindo, dessa forma, uma melhor
+distribuição dos casos ao longo do tempo e o esgotamento dos serviços de saúde (​Figura acima).
+
+
+
+
 ## Papers
 
 1. Sahraei Z, Shabani M, Shokouhi S, Saffaei A. **Aminoquinolines Against Coronavirus Disease 2019 (COVID-19): Chloroquine or Hydroxychloroquine** [published online ahead of print, 2020 Mar 16]. Int J Antimicrob Agents. 2020;105945. doi:[10.1016/j.ijantimicag.2020.105945](https://www.mediterranee-infection.com/hydroxychloroquine-and-azithromycin-as-a-treatment-of-covid-19/).
     * **[Texto do blog *Medicina Baseada em Evidências*](http://medicinabaseadaemevidencias.blogspot.com/2020/03/hidroxicloroquina-o-dia-em-que-ciencia.html) criticando os viéses desse artigo**.
 2. Guo YR, Cao QD, Hong ZS, et al. **The origin, transmission and clinical therapies on coronavirus disease 2019 (COVID-19) outbreak - an update on the status**. Mil Med Res. 2020;7(1):11. Published 2020 Mar 13. doi:10.1186/s40779-020-00240-0.
 3. Cheng, V. C., Lau, S. K., Woo, P. C., & Yuen, K. Y. (2007). **Severe acute respiratory syndrome coronavirus as an agent of emerging and reemerging infection**. Clinical microbiology reviews, 20(4), 660-694. https://doi.org10.1128/CMR.00023-07.
-4. Menachery, V. D., Yount Jr, B. L., Debbink, K., Agnihothram, S., Gralinski, L. E., Plante, J. A., ... & Randell, S. H. (2015). **A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence**. Nature medicine, 21(12), 1508. https://doi.org/10.1038/nm.3985
+4. Menachery, V. D., Yount Jr, B. L., Debbink, K., Agnihothram, S., Gralinski, L. E., Plante, J. A., ... & Randell, S. H. (2015). **A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence**. Nature medicine, 21(12), 1508. https://doi.org/10.1038/nm.3985.
+5. Liu Y, Gayle AA, Wilder-Smith A, Rocklöv J. The reproductive number of COVID-19 is higher compared to SARS coronavirus. J Travel Med. 2020;(February):1–6.
+6. Muniz-Rodriguez K, Chowell G, Cheung C-H, Jia D, Lai P-Y, Lee Y, et al. **Epidemic doubling time of the COVID-19 epidemic by Chinese province**. medRxiv Prepr. 2020;
+7. Wang C, Liu L, Hao X, Guo H, Wang Q, Huang J, et al. **Evolving Epidemiology and Impact of Non-pharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China**. medRxiv. 2020;

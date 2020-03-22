@@ -286,18 +286,18 @@ nav {
   font-size: 1.2rem;
 }
 #markdown-toc {
-max-width: 300px;
-padding: 1.5em;
-padding-left: 2rem;
-margin-left: 1.5rem;
-display: inline-block;
-border-color: black;
-border: 1px solid;
-border-radius: 1rem;
-font-size: 1rem;
-a:hover {
-  color: #686868;
-}
+  max-width: 300px;
+  padding: 1.5em;
+  padding-left: 2rem;
+  margin-left: 1.5rem;
+  display: inline-block;
+  border-color: black;
+  border: 1px solid;
+  border-radius: 1rem;
+  font-size: 1rem;
+  a:hover {
+    color: #686868;
+  }
 }
 
 
@@ -312,6 +312,9 @@ h1  {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--header-font);
+}
+h2, h3, h4, h5, h6 {
+  margin-top: 50px;
 }
 a {
   text-decoration: none;
