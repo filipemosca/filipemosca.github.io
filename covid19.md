@@ -6,26 +6,29 @@ seo:
     date_modified: 2020-03-22
 ---
 
-
-
-
 * Sumário
 {:toc}
 
-<p><b>Última atualização:</b> 22 de março. <br>
-<span style="color: red; font-size:20pt">
-Link para pasta com os arquivos no Google Drive: <a href="https://drive.google.com/open?id=11deHp79sScc9CnJUOZRkAz5N3hmgL3Nn">COVID-19 <i class="picol_folder_sans"></i></a>
+<p><b>Última atualização:</b> 23 de março. <br>
+<span>
+Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79sScc9CnJUOZRkAz5N3hmgL3Nn">COVID-19 <i class="picol_folder_sans"></i></a>
 </span></p>
 
 
 ## Introdução
 
-O coronavírus (COVID-19) é uma doença infecciosa causada por um novo vírus que nunca havia sido identificado em humanos. O vírus causa uma doença respiratória semelhante à gripe e tem sintomas como tosse, febre e, em casos mais graves, pneumonia. É possível se proteger ao lavar as mãos com frequência e evitar tocar no rosto.
+Os coronavírus são um grupo de vírus de genoma de RNA simples de sentido positivo (serve diretamente para a síntese proteica), conhecidos desde meados dos anos 1960. Pertencem à subfamília taxonómica *Orthocoronavirinae* da família *Coronaviridae*, da ordem *Nidovirales*.
+
+A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. Eles são uma causa comum de infecções respiratórias brandas a moderadas de curta duração. Entre os coronavírus encontra-se o vírus causador da forma de pneumonia atípica grave conhecida por SARS, e o vírus  **SARS-CoV-2**, causador da **COVID-19**, responsável pela pandemia de COVID-19 em 2019 e 2020.
+
+
+<iframe src="https://olhardigital.com.br/site/frontend/padrao/templates/paginas/outras/corona/brasil.html" style="display: block; width: 760px; height:760px; max-width: 100%; margin: 0 auto; border: none;"></iframe>
 
 
 ## Links úteis
 
 * [Atualização de casos pelo MS](http://saude.gov.br/);
+* [Site do CDC sobre o Coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/index.html);
 * **Boletins:**
   * [Informes da SES-PE](https://www.cievspe.com/novo-coronavirus-2019-ncov);
   * [Boletins epidemiológicos do MS](https://www.saude.gov.br/boletins-epidemiologicos);
