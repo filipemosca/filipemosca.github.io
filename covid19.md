@@ -73,6 +73,7 @@ O segundo gráfico (abaixo), compara os 20 primeiros dias de circulação do Cor
 
 ## Noticias
 
+* 23 mar 2020: [Itália chega em mais de 6.000 mortes](https://www.aljazeera.com/news/2020/03/italy-bans-internal-travel-stop-virus-spread-live-updates-200322235532945.html);
 * 21 mar 2020:
   * [Brasil compra 5 milhões de testes para Covid-19](https://www.gazetadopovo.com.br/republica/breves/brasil-compra-5-milhoes-de-testes-para-covid-19/?utm_source=twitter&utm_medium=midia-social&utm_campaign=gazeta-do-povo);
   * [800 mortes em 24h na Itália](https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/21/italia-bate-de-novo-recorde-de-mortos-por-coronavirus-793-em-24-horas.ghtml);

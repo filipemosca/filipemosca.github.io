@@ -5,25 +5,10 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Mar 2020 15:01:37 -0300</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2020 15:01:37 -0300</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2020 16:31:00 -0300</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2020 16:31:00 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
-    
-    <entry>
-            <title type="html">Dá pra reutilizar máscaras N95/PFF2 no surto de Coronavirus?</title>
-            <link href="http://localhost:4000/2020/medicina/reutilizar-n95"/>
-            <published>2020-03-23T00:00:00-03:00</published>
-            <id>/2020/medicina/reutilizar-n95</id>
-            <content type="html">&lt;p&gt;Em tempos de pandemia do Novo Coronavirus, os equipamentos de EPI estãos e tornando escassos. Muita gente se pergunta se dá pra reutilizar as máscaras por vários dias.&lt;/p&gt;
-
-&lt;p&gt;Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precusar usar mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica).&lt;/p&gt;
-
-&lt;p&gt;Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-</content>
-        </entry>
     
     <entry>
             <title type="html">O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca</title>

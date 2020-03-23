@@ -298,9 +298,6 @@ h1 {
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--header-font); }
 
-h2, h3, h4, h5, h6 {
-  margin-top: 50px; }
-
 a {
   text-decoration: none;
   color: var(--link-color); }
@@ -317,6 +314,8 @@ p, li {
 
 img {
   max-width: 100%;
+  margin-top: 40px;
+  margin-bottom: 40px;
   height: auto;
   display: block;
   margin-left: auto;
