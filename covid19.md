@@ -1,9 +1,9 @@
 ---
-title: Agregado sobre a COVID-19
+title: Agregado sobre o Novo Coronavirus e a COVID-19
 layout: post
 date: 2020-03-20T16:00:00-03:00
 seo:
-    date_modified: 2020-03-21
+    date_modified: 2020-03-22
 ---
 
 
@@ -12,7 +12,7 @@ seo:
 * Sumário
 {:toc}
 
-<p><b>Última atualização:</b> 21 de março às 21:10. <br>
+<p><b>Última atualização:</b> 22 de março. <br>
 <span style="color: red; font-size:20pt">
 Link para pasta com os arquivos no Google Drive: <a href="https://drive.google.com/open?id=11deHp79sScc9CnJUOZRkAz5N3hmgL3Nn">COVID-19 <i class="picol_folder_sans"></i></a>
 </span></p>
@@ -34,17 +34,22 @@ O coronavírus (COVID-19) é uma doença infecciosa causada por um novo vírus q
   * [Live do Atila de 20/03/20](https://www.youtube.com/watch?v=zF2pXXJIAGM);
 * **Mapas:**
   * [Livemap de casos do Google](https://google.org/crisisresponse/covid19-map);
-  * [Livemap de casos do Bing/Microsoft](https://www.bing.com/covid).
+  * [Livemap de casos do Bing/Microsoft](https://www.bing.com/covid);
+  * [Mapa do Johns Hopkins](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6);
+  * [Painel - Registros de Coronavírus (desatualizado)](https://imagem-govfed.maps.arcgis.com/apps/opsdashboard/index.html#/9c7ab592067f4a72929bfef5cd027a26);
+  * [Worldometers Brasil](https://www.worldometers.info/coronavirus/country/brazil/);
+  * [Worldometers Itália](https://www.worldometers.info/coronavirus/country/italy/);
+  * [Worldometers mundo](https://www.worldometers.info/coronavirus/);
+  * [Universidade de Washington](https://hgis.uw.edu/virus/).
 * Dossiês:
   * [Artigo na Wikipédia inglesa](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic);
   * [Artigo na Wikipédia lusófona](https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19).
 * [Plano nacional de contingência](https://portalarquivos2.saude.gov.br/images/pdf/2020/fevereiro/13/plano-contingencia-coronavirus-COVID19.pdf)
 
 
-
-
 ## Últimos boletins
 
+* [**WHO** SR 61 de 21/03/20](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200321-sitrep-61-covid-19.pdf?sfvrsn=f201f85c_2);
 * [Boletim **SES-PE** 20/03/20](https://12ad4c92-89c7-4218-9e11-0ee136fa4b92.filesusr.com/ugd/3293a8_8e4bb04140aa4f5d94fd1cdc219905ad.pdf);
 * [**WHO** SR 60 de 20/03/20](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200320-sitrep-60-covid-19.pdf?sfvrsn=d2bb4f1f_2);
 * [Boletim **MS** 14/03/20](https://12ad4c92-89c7-4218-9e11-0ee136fa4b92.filesusr.com/ugd/3293a8_3777e9db9e1e49099b5ec06dfe18d20d.pdf).
@@ -59,8 +64,6 @@ Estou disponibilizando aqui os gráficos desenvolvidos pela equipe do UOL que po
 
 O segundo gráfico (abaixo), compara os 20 primeiros dias de circulação do Coronavirus com outros países. 
 
-> Segundo especialistas ouvidos pelo UOL, os países tiveram seus primeiros casos em momentos distintos da pandemia e as reações também tendem a ser diferentes. Ter mais números no início que a Europa ou outros países que apresentam uma situação complicada agora, como Estados Unidos, não necessariamente aponta para um futuro sombrio.... - [Veja mais em UOL](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/21/brasil-mais-casos-italia-20-dias-curva-crescimento.htm?cmpid=copiaecola)
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/1623200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
@@ -70,8 +73,11 @@ O segundo gráfico (abaixo), compara os 20 primeiros dias de circulação do Cor
 * 21 mar 2020:
   * [Brasil compra 5 milhões de testes para Covid-19](https://www.gazetadopovo.com.br/republica/breves/brasil-compra-5-milhoes-de-testes-para-covid-19/?utm_source=twitter&utm_medium=midia-social&utm_campaign=gazeta-do-povo);
   * [800 mortes em 24h na Itália](https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/21/italia-bate-de-novo-recorde-de-mortos-por-coronavirus-793-em-24-horas.ghtml);
-* 20 mar 2020: [Mais de 600 mortes em menos de 24h na Itália](https://www.foxnews.com/world/italys-coronavirus-death-toll-rises);
+* 20 mar 2020: 
+  * [Mais de 600 mortes em menos de 24h na Itália](https://www.foxnews.com/world/italys-coronavirus-death-toll-rises);
+  * [Coronavirus latest: Italy death toll overtakes China’s](https://www.nature.com/articles/d41586-020-00154-w);
 * 19 mar 2020: [Coronavírus: o que diz modelo matemático que levou Reino Unido a mudar radicalmente combate à covid-19](https://www.bbc.com/portuguese/internacional-51944800).
+* 18 mar 2020: [Younger Adults Make Up Big Portion of Coronavirus Hospitalizations in U.S.](https://www.nytimes.com/2020/03/18/health/coronavirus-young-people.html)
 
 
 ## Linha do tempo
