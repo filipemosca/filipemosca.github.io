@@ -5,8 +5,8 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Mar 2020 16:31:00 -0300</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2020 16:31:00 -0300</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2020 18:33:49 -0300</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2020 18:33:49 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
     

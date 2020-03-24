@@ -9,7 +9,7 @@ seo:
 * Sumário
 {:toc}
 
-<p><b>Última atualização:</b> 23 de março. <br>
+<p><b>Última atualização:</b> 24 de março.<br>
 <span>
 Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79sScc9CnJUOZRkAz5N3hmgL3Nn">COVID-19 <i class="picol_folder_sans"></i></a>
 </span></p>
@@ -21,8 +21,10 @@ Os coronavírus são um grupo de vírus de genoma de RNA simples de sentido posi
 
 A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. Eles são uma causa comum de infecções respiratórias brandas a moderadas de curta duração. Entre os coronavírus encontra-se o vírus causador da forma de pneumonia atípica grave conhecida por SARS, e o vírus  **SARS-CoV-2**, causador da **COVID-19**, responsável pela pandemia de COVID-19 em 2019 e 2020.
 
+**Mapa desenvolvido pelo [Olhardigital](https://olhardigital.com.br):**
 
 <iframe src="https://olhardigital.com.br/site/frontend/padrao/templates/paginas/outras/corona/brasil.html" style="display: block; width: 760px; height:760px; max-width: 100%; margin: 0 auto; border: none;"></iframe>
+
 
 
 ## Links úteis
@@ -34,6 +36,7 @@ A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. El
   * [Boletins epidemiológicos do MS](https://www.saude.gov.br/boletins-epidemiologicos);
   * [WHO *situation reports*](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/).
 * **Vídeos:**
+  * [Live do Atila de 21/03/20](https://www.youtube.com/watch?v=HXmt0j1gtDU);
   * [Live do Atila de 20/03/20](https://www.youtube.com/watch?v=zF2pXXJIAGM);
 * **Mapas:**
   * [Livemap de casos do Google](https://google.org/crisisresponse/covid19-map);
@@ -52,6 +55,7 @@ A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. El
 
 ## Últimos boletins
 
+* [Boletim **SES-PE** 24/03/20](https://12ad4c92-89c7-4218-9e11-0ee136fa4b92.filesusr.com/ugd/3293a8_f82331550f9547bb8f4c41773bfa914a.pdf);
 * [**WHO** SR 61 de 21/03/20](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200321-sitrep-61-covid-19.pdf?sfvrsn=f201f85c_2);
 * [Boletim **SES-PE** 20/03/20](https://12ad4c92-89c7-4218-9e11-0ee136fa4b92.filesusr.com/ugd/3293a8_8e4bb04140aa4f5d94fd1cdc219905ad.pdf);
 * [**WHO** SR 60 de 20/03/20](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200320-sitrep-60-covid-19.pdf?sfvrsn=d2bb4f1f_2);
@@ -73,6 +77,7 @@ O segundo gráfico (abaixo), compara os 20 primeiros dias de circulação do Cor
 
 ## Noticias
 
+* 24 mar 2020: [Olimpíadas e Paralimpíadas de Tóquio adiadas](https://globoesporte.globo.com/rj/olimpiadas/noticia/olimpiadas-e-paralimpiadas-de-toquio-2020-sao-adiadas.ghtml);
 * 23 mar 2020: [Itália chega em mais de 6.000 mortes](https://www.aljazeera.com/news/2020/03/italy-bans-internal-travel-stop-virus-spread-live-updates-200322235532945.html);
 * 21 mar 2020:
   * [Brasil compra 5 milhões de testes para Covid-19](https://www.gazetadopovo.com.br/republica/breves/brasil-compra-5-milhoes-de-testes-para-covid-19/?utm_source=twitter&utm_medium=midia-social&utm_campaign=gazeta-do-povo);
@@ -124,10 +129,17 @@ Fonte dos dados: [https://coronavirus.saude.gov.br/linha-do-tempo](https://coron
 
 ## Gráficos
 
-Evolução e curva da mortalidade China x Itália. Retirado da Live do Atila de 20/03/20:
+
+![Curva mundial](/assets/2020/curva-mundial-covid.png)
+
+**Evolução e curva da mortalidade China x Itália. Retirado da Live do Atila de 20/03/20:**
 
 ![Gráfico de evolução da mortalidade](/assets/2020/evolucao-mortes-corona-china-italia.jpeg)
 
+**Distribuição dos casos em Pernambuco:**
+
+![Casos PE](/assets/2020/casos-pe-covid.png)
+![Casos PE](/assets/2020/casos-pe-covid2.png)
 
 ## Manejo da COVID-19
 
