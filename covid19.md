@@ -3,7 +3,7 @@ title: Agregado sobre o Novo Coronavirus e a COVID-19
 layout: post
 date: 2020-03-20T16:00:00-03:00
 seo:
-    date_modified: 2020-03-22
+    date_modified: 2020-03-25
 ---
 
 * Sumário
@@ -77,6 +77,7 @@ O segundo gráfico (abaixo), compara os 20 primeiros dias de circulação do Cor
 
 ## Noticias
 
+* 25 mar 2020: [Pernambuco registra primeira morte pelo novo coronavírus](https://jc.ne10.uol.com.br/colunas/saude-e-bem-estar/2020/03/5603612-pernambuco-registra-primeira-morte-pelo-novo-coronavirus.html);
 * 24 mar 2020: [Olimpíadas e Paralimpíadas de Tóquio adiadas](https://globoesporte.globo.com/rj/olimpiadas/noticia/olimpiadas-e-paralimpiadas-de-toquio-2020-sao-adiadas.ghtml);
 * 23 mar 2020: [Itália chega em mais de 6.000 mortes](https://www.aljazeera.com/news/2020/03/italy-bans-internal-travel-stop-virus-spread-live-updates-200322235532945.html);
 * 21 mar 2020:
