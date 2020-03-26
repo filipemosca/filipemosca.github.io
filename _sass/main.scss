@@ -471,18 +471,17 @@ button {
   }
 }
 .archive-list {
-  ol {
-    font-size: 1em;
-  }
   li {
     line-height: 1em;
   }
   li a {
     text-decoration: none;
     font-weight: 600;
+    font-size: 1.2em;
     margin-bottom: 0;
     padding-bottom: 0;
     line-height: 1.6em;
+    font-family: var(--header-font);
   }
   li a:hover {
     text-decoration: underline;

@@ -12,7 +12,7 @@ layout: wrapped
   <div class="archive-list">
     <ol reversed>
       {% for post in site.categories.medicina %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-info-archive"><i id="calendar-index" class="far fa-calendar-alt"></i>{{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-info-archive">{{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
           {% case m %}
             {% when '1' %}jan
             {% when '2' %}fev

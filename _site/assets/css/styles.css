@@ -433,16 +433,16 @@ button {
   color: var(--link-color);
   text-decoration: underline; }
 
-.archive-list ol {
-  font-size: 1em; }
 .archive-list li {
   line-height: 1em; }
 .archive-list li a {
   text-decoration: none;
   font-weight: 600;
+  font-size: 1.2em;
   margin-bottom: 0;
   padding-bottom: 0;
-  line-height: 1.6em; }
+  line-height: 1.6em;
+  font-family: var(--header-font); }
 .archive-list li a:hover {
   text-decoration: underline; }
 
