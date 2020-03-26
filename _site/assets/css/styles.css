@@ -21,20 +21,11 @@ article p, article h1, article h2, article h3, article h4, article h5, article h
 
 body {
   margin: 0 0 0 0;
-  font-family: 'Liberation sans', -apple-system,BlinkMacSystemFont,"Segoe UI","Segoe UI Symbol","Segoe UI Emoji","Apple Color Emoji",Roboto,Helvetica,Arial,sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 1.1em;
   background-color: var(--bg-color);
   color: var(--font-color);
-  --header-font: 'Liberation serif'; }
-
-.applause {
-  padding-top: 30px;
-  max-width: 200px;
-  display: inline-block;
-  float: right; }
-
-.count {
-  max-width: 100%; }
+  --header-font: "Times New Roman", Times, serif; }
 
 html, html[data-theme="light"] {
   --font-color: #202020;
@@ -102,10 +93,6 @@ html[data-theme="dark"] {
 .icon-abertura {
   fill: var(--icon-color);
   padding-right: 5px; }
-
-.icon-feedly {
-  width: 19px;
-  height: 19px; }
 
 .mosca {
   display: inline-block; }

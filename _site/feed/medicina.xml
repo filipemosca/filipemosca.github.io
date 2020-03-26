@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed/medicina.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-03-25T16:31:11-03:00</updated><id>http://localhost:4000/feed/medicina.xml</id><title type="html">Mosquildo | Medicina</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca</title><link href="http://localhost:4000/2019/medicina/betabloqueadores-na-insuficiencia-cardiaca" rel="alternate" type="text/html" title="O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca" /><published>2019-11-15T00:00:00-03:00</published><updated>2019-11-15T00:00:00-03:00</updated><id>http://localhost:4000/2019/medicina/betabloqueadores-na-insuficiencia-cardiaca</id><content type="html" xml:base="http://localhost:4000/2019/medicina/betabloqueadores-na-insuficiencia-cardiaca">&lt;p&gt;Este semestre comecei a pagar a cadeira de cardiologia no curso médico. Já comecei a acompanhar  ambulatório de cardiologia antes mesmo de começar a ter as aulas teóricas. Então, acompanhei as consultas apenas com meu conhecimento basal, adquirido nos períodos anteriores, sobre cardiologia.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed/medicina.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-03-26T08:19:31-03:00</updated><id>http://localhost:4000/feed/medicina.xml</id><title type="html">Mosquildo | Medicina</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?</title><link href="http://localhost:4000/2020/medicina/reutilizar-n95" rel="alternate" type="text/html" title="Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?" /><published>2020-03-26T00:00:00-03:00</published><updated>2020-03-26T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/reutilizar-n95</id><content type="html" xml:base="http://localhost:4000/2020/medicina/reutilizar-n95">&lt;p&gt;Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.&lt;/p&gt;
+
+&lt;p&gt;Sempre importante lembrar que não é recomendado o uso de respiradores N95 pela população geral. Esses equipamentos devem ser reservados apenas para uso por profissionais de saúde em situação de risco de exposição.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2020/n95.jpeg&quot; alt=&quot;N95&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reutilização-dos-respiradores&quot;&gt;Reutilização dos respiradores&lt;/h2&gt;
+
+&lt;p&gt;A reutilização é definida como a prática de usar o mesmo respirador N95 em mais de uma ocasião, mas removendo-o a cada ocasião. O respirador é armazenado entre os encontros para ser colocado novamente antes do próximo encontro com um paciente.&lt;/p&gt;
+
+&lt;h2 id=&quot;de-acordo-com-o-cdc&quot;&gt;De acordo com o CDC&lt;/h2&gt;
+
+&lt;p&gt;O CDC (Centros de Controle e Prevenção de Doenças) é uma agência do Departamento de Saúde e Serviços Humanos dos Estados Unidos. Esse órgão estabelece algumas normas e recomendações quanto ao uso de respiradores N95.&lt;/p&gt;
+
+&lt;p&gt;Para patógenos em que a transmissão ocorre por contato (por exemplo, fomites), o reuso não é uma preocupação, já sendo praticado há décadas, por exemplo, para prevenção da aquisição de &lt;strong&gt;tuberculose&lt;/strong&gt;. O CDC recomenda que um respirador classificado como descartável possa ser reutilizado pelo mesmo trabalhador enquanto ele permanecer funcional e for usado de acordo com os procedimentos locais de controle de infecção.&lt;/p&gt;
+
+&lt;p&gt;Alguns serviços costumam limitar o número de vezes que um respirador desses pode ser reutilizado. Por exemplo, algo em torno de 7 dias, desde que o dispositivo não apresente nenhuma avaria. Contudo, não há um número exato de vezes que o respirador pode ser usado e que garanta segurança.&lt;/p&gt;
+
+&lt;p&gt;Isso era o que eu já vinha fazendo. Quando estagiei em um hospital de infectologia, o serviço parou de disponibilizar respiradores aos estudantes e eu tive que ficar comprando do meu próprio bolso. Comecei a reutilizar várias vezes o mesmo, afinal esses respiradores são bem carinhos.&lt;/p&gt;
+
+&lt;p&gt;Apesar de não haver estudos que indiquem a segurança na reutilização frente ao contágio pelo Novo Coronavirus, essa prática pode ser adotada frente ao risco iminente de escassez destes equipamentos.&lt;/p&gt;
+
+&lt;h2 id=&quot;aumentar-a-vida-útil-dos-respiradores&quot;&gt;Aumentar a vida útil dos respiradores&lt;/h2&gt;
+
+&lt;p&gt;Aqui vou frisar algumas recomendações do CDC para aumentar a vida útil dessas máscaras e também aumentar a segurança da prevenção do contágio. O mais básico e fundamental a se fazer é tocar o mínimo possível na máscara, incluindo lavar sempre as mãos antes de manuseá-la.&lt;/p&gt;
+
+&lt;p&gt;Usar uma barreira mecânica para minimizar a quantidade de gotículas e &lt;em&gt;sprays&lt;/em&gt; que entram em contato com o respirador também é uma boa prática. Por exemplo, o CDC recomendo o uso de máscaras cirúrgicas por cima dos respiradores, e trocá-las com certa frequência. As máscaras cirúrgicas vão barrar a maioria das gotículas de alcançar o respirador.&lt;/p&gt;
+
+&lt;p&gt;Recomendações para a reutilização dos respiradores N95/PFF2:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Guarde os respiradores usados em um recipiente limpo e respirável como um saco de papel;&lt;/li&gt;
+  &lt;li&gt;Evitar tocar na superfície do respirador e, quando for necessário, lavar bem as mãos antes;&lt;/li&gt;
+  &lt;li&gt;Usar um part de luvas limpas para vestir e descalçar o respirador;&lt;/li&gt;
+  &lt;li&gt;Seguir as orientações de uso do produtor do respirador, incluindo, se informado, o número máximo de reutilizações;&lt;/li&gt;
+  &lt;li&gt;Rotular o recipiente em que o respirador está armazenado com o nome de seu usuário.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;riscos-da-reutilização-de-respiradores&quot;&gt;Riscos da reutilização de respiradores&lt;/h2&gt;
+
+&lt;p&gt;O maior risco envolve a contaminação da superfície das máscaras. Um estudo demonstrou que enfermeiros tocam em média 25 vezes nos respiradores a cada plantão.&lt;sup id=&quot;fnref:tocar&quot;&gt;&lt;a href=&quot;#fn:tocar&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; E permanecer usando máscaras contaminadas pode ser um risco, permitindo a inoculação dos patógenos através das mucosas que deveriam estar sendo protegidas.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Centers for Disease Control and Prevention (CDC). The National Institute for Occupational Safety and Health (NIOSH). &lt;a href=&quot;https://www.cdc.gov/niosh/topics/hcwcontrols/recommendedguidanceextuse.html&quot;&gt;&lt;strong&gt;Recommended Guidance for Extended Use and Limited Reuse of N95 Filtering Facepiece Respirators in Healthcare Settings&lt;/strong&gt;&lt;/a&gt;. Acessado em 25 de Março de 2020.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:tocar&quot;&gt;
+      &lt;p&gt;Rebmann, T., R. Carrico, and J. Wang: &lt;strong&gt;Physiologic and other effects and compliance with long-term respirator use among medical intensive care unit nurses&lt;/strong&gt;. American Journal of Infection Control 41(12):1218-1223(2013). &lt;a href=&quot;#fnref:tocar&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="coronavirus" /><category term="covid-19" /><category term="epi" /><summary type="html">Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.</summary></entry><entry><title type="html">O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca</title><link href="http://localhost:4000/2019/medicina/betabloqueadores-na-insuficiencia-cardiaca" rel="alternate" type="text/html" title="O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca" /><published>2019-11-15T00:00:00-03:00</published><updated>2019-11-15T00:00:00-03:00</updated><id>http://localhost:4000/2019/medicina/betabloqueadores-na-insuficiencia-cardiaca</id><content type="html" xml:base="http://localhost:4000/2019/medicina/betabloqueadores-na-insuficiencia-cardiaca">&lt;p&gt;Este semestre comecei a pagar a cadeira de cardiologia no curso médico. Já comecei a acompanhar  ambulatório de cardiologia antes mesmo de começar a ter as aulas teóricas. Então, acompanhei as consultas apenas com meu conhecimento basal, adquirido nos períodos anteriores, sobre cardiologia.&lt;/p&gt;
 
 &lt;p&gt;Atendendo inúmeros pacientes com insuficiência cardíaca (IC), não pude deixar de reparar na quantidade das prescrições de &lt;a href=&quot;https://pt.wikipedia.org/wiki/Bloqueador_beta-adren%C3%A9rgico&quot;&gt;betabloqueadores&lt;/a&gt; (BBs — como o &lt;em&gt;carvedilol&lt;/em&gt;) para esses pacientes. De início eu estranhei o uso desses fármacos pois fiz um raciocínio intuitívo muito simples:&lt;/p&gt;
 

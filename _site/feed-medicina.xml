@@ -5,51 +5,17 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Mar 2020 16:31:11 -0300</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2020 16:31:11 -0300</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2020 08:19:31 -0300</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2020 08:19:31 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
     
     <entry>
-            <title type="html">Máscaras cirúrgicas protegem contra o Novo Coronavirus?</title>
-            <link href="http://localhost:4000/2020/medicina/mascaras-cirurgicas-protegem-coronavirus"/>
-            <published>2020-03-25T00:00:00-03:00</published>
-            <id>/2020/medicina/mascaras-cirurgicas-protegem-coronavirus</id>
-            <content type="html">&lt;p&gt;Um estudo do JAMA não identificou diferença estatística entre os grupos usando máscaras cirúrgicas e o grupo que usava N95 na prevenção da infecção por Influenza.&lt;sup id=&quot;fnref:jama&quot;&gt;&lt;a href=&quot;#fn:jama&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;faz-diferença-usar-ou-não-uma-máscara-cirúrgica&quot;&gt;Faz diferença usar ou não uma máscara cirúrgica?&lt;/h2&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Smart Air Filters. &lt;a href=&quot;https://smartairfilters.com/en/blog/n95-mask-surgical-prevent-transmission-coronavirus/&quot;&gt;&lt;strong&gt;N95 Masks vs. Surgical Masks: Which Is Better at Preventing The Coronavirus?&lt;/strong&gt;&lt;/a&gt;. Publicado em 03 de Março de 2020. Acessado em 25 de Março de 2020;&lt;/li&gt;
-  &lt;li&gt;Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. &lt;strong&gt;N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial&lt;/strong&gt;. JAMA. 2019;322(9):824–833. doi:10.1001/jama.2019.11645.&lt;/li&gt;
-  &lt;li&gt;Smith JD, MacDougall CC, Johnstone J, Copes RA, Schwartz B, Garber GE. &lt;strong&gt;Effectiveness of N95 respirators versus surgical masks in protecting health care workers from acute respiratory infection: a systematic review and meta-analysis&lt;/strong&gt;. CMAJ. 2016;188(8):567–574. doi:10.1503/cmaj.150835.&lt;/li&gt;
-  &lt;li&gt;Bin-Reza F, Lopez Chavarrias V, Nicoll A, Chamberland ME. &lt;strong&gt;The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence&lt;/strong&gt;. Influenza Other Respir Viruses. 2012;6(4):257–267. doi:10.1111/j.1750-2659.2011.00307.x.&lt;/li&gt;
-  &lt;li&gt;MacIntyre CR, Wang Q, Cauchemez S, et al. &lt;strong&gt;A cluster randomized clinical trial comparing fit-tested and non-fit-tested N95 respirators to medical masks to prevent respiratory virus infection in health care workers&lt;/strong&gt;. Influenza Other Respir Viruses. 2011;5(3):170–179. doi:10.1111/j.1750-2659.2011.00198.x.&lt;/li&gt;
-  &lt;li&gt;Killingley B. &lt;strong&gt;Respirators versus medical masks: evidence accumulates but the jury remains out&lt;/strong&gt;. Influenza Other Respir Viruses. 2011;5(3):143–145. doi:10.1111/j.1750-2659.2011.00237.x&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:jama&quot;&gt;
-      &lt;p&gt;Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. &lt;strong&gt;N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial&lt;/strong&gt;. JAMA. 2019;322(9):824–833. doi:10.1001/jama.2019.11645. &lt;a href=&quot;#fnref:jama&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
             <title type="html">Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?</title>
             <link href="http://localhost:4000/2020/medicina/reutilizar-n95"/>
-            <published>2020-03-23T00:00:00-03:00</published>
+            <published>2020-03-26T00:00:00-03:00</published>
             <id>/2020/medicina/reutilizar-n95</id>
-            <content type="html">&lt;p&gt;Em tempos de pandemia do Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.&lt;/p&gt;
-
-&lt;p&gt;Também existem situações não emergenciais (por exemplo, contato próximo com pacientes com tuberculose) em que a reutilização do respirador N95 foi recomendada em ambientes de assistência médica e é comumente praticada.&lt;/p&gt;
+            <content type="html">&lt;p&gt;Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.&lt;/p&gt;
 
 &lt;p&gt;Sempre importante lembrar que não é recomendado o uso de respiradores N95 pela população geral. Esses equipamentos devem ser reservados apenas para uso por profissionais de saúde em situação de risco de exposição.&lt;/p&gt;
 
@@ -57,22 +23,25 @@
 
 &lt;h2 id=&quot;reutilização-dos-respiradores&quot;&gt;Reutilização dos respiradores&lt;/h2&gt;
 
-&lt;p&gt;A reutilização é definica como a prática de usar o mesmo respirador N95 para vários encontros com pacientes, mas removê-lo após cada encontro. O respirador é armazenado entre os encontros para ser colocado novamente antes do próximo encontro com um paciente.&lt;/p&gt;
+&lt;p&gt;A reutilização é definida como a prática de usar o mesmo respirador N95 em mais de uma ocasião, mas removendo-o a cada ocasião. O respirador é armazenado entre os encontros para ser colocado novamente antes do próximo encontro com um paciente.&lt;/p&gt;
 
 &lt;h2 id=&quot;de-acordo-com-o-cdc&quot;&gt;De acordo com o CDC&lt;/h2&gt;
 
-&lt;p&gt;Para patógenos em que a transmissão por contato (por exemplo, fomites) não é uma preocupação, o reuso não emergencial é praticado há décadas. Por exemplo, para prevenção da &lt;strong&gt;tuberculose&lt;/strong&gt;, o CDC recomenda que um respirador classificado como descartável possa ser reutilizado pelo mesmo trabalhador enquanto ele permanecer funcional e for usado de acordo com os procedimentos locais de controle de infecção.&lt;/p&gt;
+&lt;p&gt;O CDC (Centros de Controle e Prevenção de Doenças) é uma agência do Departamento de Saúde e Serviços Humanos dos Estados Unidos. Esse órgão estabelece algumas normas e recomendações quanto ao uso de respiradores N95.&lt;/p&gt;
+
+&lt;p&gt;Para patógenos em que a transmissão ocorre por contato (por exemplo, fomites), o reuso não é uma preocupação, já sendo praticado há décadas, por exemplo, para prevenção da aquisição de &lt;strong&gt;tuberculose&lt;/strong&gt;. O CDC recomenda que um respirador classificado como descartável possa ser reutilizado pelo mesmo trabalhador enquanto ele permanecer funcional e for usado de acordo com os procedimentos locais de controle de infecção.&lt;/p&gt;
 
 &lt;p&gt;Alguns serviços costumam limitar o número de vezes que um respirador desses pode ser reutilizado. Por exemplo, algo em torno de 7 dias, desde que o dispositivo não apresente nenhuma avaria. Contudo, não há um número exato de vezes que o respirador pode ser usado e que garanta segurança.&lt;/p&gt;
 
 &lt;p&gt;Isso era o que eu já vinha fazendo. Quando estagiei em um hospital de infectologia, o serviço parou de disponibilizar respiradores aos estudantes e eu tive que ficar comprando do meu próprio bolso. Comecei a reutilizar várias vezes o mesmo, afinal esses respiradores são bem carinhos.&lt;/p&gt;
 
+&lt;p&gt;Apesar de não haver estudos que indiquem a segurança na reutilização frente ao contágio pelo Novo Coronavirus, essa prática pode ser adotada frente ao risco iminente de escassez destes equipamentos.&lt;/p&gt;
+
 &lt;h2 id=&quot;aumentar-a-vida-útil-dos-respiradores&quot;&gt;Aumentar a vida útil dos respiradores&lt;/h2&gt;
 
-&lt;p&gt;Tocar o mínimo possível na máscara, incluindo lavar sempre as mãos antes de manuseá-la.
-Usar uma barreira mecânica para minimizar a quantidade de gotículas e sparys que entram em contato com o respirador.&lt;/p&gt;
+&lt;p&gt;Aqui vou frisar algumas recomendações do CDC para aumentar a vida útil dessas máscaras e também aumentar a segurança da prevenção do contágio. O mais básico e fundamental a se fazer é tocar o mínimo possível na máscara, incluindo lavar sempre as mãos antes de manuseá-la.&lt;/p&gt;
 
-&lt;p&gt;Por exemplo, o CDC recomendo o uso de máscaras cirúrgicas por cima dos respiradores. E trocando as máscaras com certa frequência.&lt;/p&gt;
+&lt;p&gt;Usar uma barreira mecânica para minimizar a quantidade de gotículas e &lt;em&gt;sprays&lt;/em&gt; que entram em contato com o respirador também é uma boa prática. Por exemplo, o CDC recomendo o uso de máscaras cirúrgicas por cima dos respiradores, e trocá-las com certa frequência. As máscaras cirúrgicas vão barrar a maioria das gotículas de alcançar o respirador.&lt;/p&gt;
 
 &lt;p&gt;Recomendações para a reutilização dos respiradores N95/PFF2:&lt;/p&gt;
 
@@ -86,9 +55,7 @@ Usar uma barreira mecânica para minimizar a quantidade de gotículas e sparys q
 
 &lt;h2 id=&quot;riscos-da-reutilização-de-respiradores&quot;&gt;Riscos da reutilização de respiradores&lt;/h2&gt;
 
-&lt;p&gt;O maior risco envolve a contaminação da superfície das máscaras. Um estudo demonstrou que enfermeiros tocam em média 25 vezes nos respiradores a cada plantão.&lt;sup id=&quot;fnref:tocar&quot;&gt;&lt;a href=&quot;#fn:tocar&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; E permanecer usando máscaras contaminadas por ser um risco, permitindo a inoculação dos patógenos através das mucosas que deveriam estar sendo protegidas.&lt;/p&gt;
-
-&lt;p&gt;Os patógenos podem continuar infecciosos quando atingem a superfície do respirador.&lt;/p&gt;
+&lt;p&gt;O maior risco envolve a contaminação da superfície das máscaras. Um estudo demonstrou que enfermeiros tocam em média 25 vezes nos respiradores a cada plantão.&lt;sup id=&quot;fnref:tocar&quot;&gt;&lt;a href=&quot;#fn:tocar&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; E permanecer usando máscaras contaminadas pode ser um risco, permitindo a inoculação dos patógenos através das mucosas que deveriam estar sendo protegidas.&lt;/p&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 
@@ -188,52 +155,6 @@ Usar uma barreira mecânica para minimizar a quantidade de gotículas e sparys q
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Escala de coma de Glasgow</title>
-            <link href="http://localhost:4000/2019/medicina/escala-de-coma-de-glasgow"/>
-            <published>2019-10-20T13:47:11-03:00</published>
-            <id>/2019/medicina/escala-de-coma-de-glasgow</id>
-            <content type="html">&lt;p&gt;Existem muitas escalas na medicina. Uma das mais antigas e ainda amplamente utilizada é a escala de coma de Glagow (ECG). Simplemente não dá para não saber a ECG. Ela foi criada em 1974 na tentativa de tentar categorizar de forma prática o nível de consciência dos pacientes.&lt;sup id=&quot;fnref:tesdale2014&quot;&gt;&lt;a href=&quot;#fn:tesdale2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Antes da ECG era muito difícil de se comunicar entre os médicos o grau de rebaixamento de consciência dos pacientes. Também não havia uma quantificação para saber se o paciente estava melhorando ou piorando o seu estado mental. E, além disso, era muito difícil fazer pesquisas sem conseguir dividir os pacientes em grupos e avaliar os resultados do acordo com eles.&lt;/p&gt;
-
-&lt;p&gt;Então, 45 anos atrás a &lt;em&gt;Glasgow coma scale&lt;/em&gt; era publicada no períodico &lt;em&gt;The Lancet&lt;/em&gt;. O artigo original em questão &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(74)91639-0/fulltext&quot; target=&quot;_blank&quot;&gt;pode ser acessado aqui&lt;/a&gt;&lt;sup id=&quot;fnref:tesdale1974&quot;&gt;&lt;a href=&quot;#fn:tesdale1974&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;A ECG começou a ser desenvolvida já em 1971, na busca por melhorar o atendimento de paciebtes vítimas de traumatismos encefálicos e estabelecer um critério de prognóstico.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:tesdale2014&quot;&gt;
-      &lt;p&gt;Teasdale G, Maas A, Lecky F, Manley G, Stocchetti N, Murray G. The Glasgow Coma Scale at 40 years: standing the test of time. The Lancet Neurology. 2014;13(8):844-854. doi:10.1016/S1474-4422(14)70120-6 &lt;a href=&quot;#fnref:tesdale2014&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:tesdale1974&quot;&gt;
-      &lt;p&gt;Teasdale G, Jennett B. Assessment of coma and impaired consciousness. The Lancet. 1974;304(7872):81-84. doi:10.1016/S0140-6736(74)91639-0 &lt;a href=&quot;#fnref:tesdale1974&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Leptospirose</title>
-            <link href="http://localhost:4000/2019/medicina/leptospirose"/>
-            <published>2019-10-20T00:00:00-03:00</published>
-            <id>/2019/medicina/leptospirose</id>
-            <content type="html">
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Cirúrgias também pode funcionar como placebo?</title>
-            <link href="http://localhost:4000/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo"/>
-            <published>2019-10-20T00:00:00-03:00</published>
-            <id>/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo</id>
-            <content type="html">
 </content>
         </entry>
     
