@@ -3,13 +3,13 @@ title: Agregado sobre o Novo Coronavirus e a COVID-19
 layout: post
 date: 2020-03-20T16:00:00-03:00
 seo:
-    date_modified: 2020-03-25
+    date_modified: 2020-03-28
 ---
 
 * Sumário
 {:toc}
 
-<p><b>Última atualização:</b> 24 de março.<br>
+<p><b>Última atualização:</b> 28 de março.<br>
 <span>
 Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79sScc9CnJUOZRkAz5N3hmgL3Nn">COVID-19 <i class="picol_folder_sans"></i></a>
 </span></p>
@@ -24,7 +24,6 @@ A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. El
 **Mapa desenvolvido pelo [Olhardigital](https://olhardigital.com.br):**
 
 <iframe src="https://olhardigital.com.br/site/frontend/padrao/templates/paginas/outras/corona/brasil.html" style="display: block; width: 760px; height:840px; max-width: 100%; margin: 0 auto; border: none;"></iframe>
-
 
 
 
@@ -67,15 +66,9 @@ A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. El
 
 Estou disponibilizando aqui os gráficos desenvolvidos pela equipe do UOL que podem ser vistos [nessa postagem aqui](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/21/brasil-mais-casos-italia-20-dias-curva-crescimento.htm). O primeiro gráfico (abaixo) representa o total de casos no Brasil por cada dia.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/1573183"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<canvas id="ChartBrasil"></canvas>
+<canvas id="myChart"></canvas>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/1659423"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/1705947"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/1706110"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/1712405"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Noticias
 
@@ -139,10 +132,6 @@ Fonte dos dados: [https://coronavirus.saude.gov.br/linha-do-tempo](https://coron
 
 ![Gráfico de evolução da mortalidade](/assets/2020/evolucao-mortes-corona-china-italia.jpeg)
 
-**Distribuição dos casos em Pernambuco:**
-
-![Casos PE](/assets/2020/casos-pe-covid.png)
-![Casos PE](/assets/2020/casos-pe-covid2.png)
 
 ## Manejo da COVID-19
 
@@ -193,23 +182,25 @@ distribuição dos casos ao longo do tempo e o esgotamento dos serviços de saú
 
 
 
-<canvas id="myChart"></canvas>
+
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 <script>
-{% include casos.json %}
-var labels = jsonfile.legal.map(function(e) {
+var jsonfile = {
+  "casosbrasil": {% include casos-brasil.json %}
+  }
+var labels = jsonfile.casosbrasil.map(function(e) {
    return e.Data;
 });
-var pernambuco = jsonfile.legal.map(function(e) {
+var pernambuco = jsonfile.casosbrasil.map(function(e) {
    return e.PE;
 });;
-var saopaulo = jsonfile.legal.map(function(e) {
+var saopaulo = jsonfile.casosbrasil.map(function(e) {
    return e.SP;
 });;
-var riodejaneiro = jsonfile.legal.map(function(e) {
+var riodejaneiro = jsonfile.casosbrasil.map(function(e) {
    return e.RJ;
 });;
-var ceara = jsonfile.legal.map(function(e) {
+var ceara = jsonfile.casosbrasil.map(function(e) {
    return e.CE;
 });;
 var ctx = document.getElementById('myChart').getContext('2d');
@@ -245,6 +236,48 @@ var config = {
             borderColor: 'green',
             fill: false,
         },         
+      ]
+   }
+};
+var chart = new Chart(ctx, config);
+</script>
+
+
+<script>
+var jsonfile2 = {
+  "obitosbrasil": {% include obitos-brasil.json %}
+  }
+var labels = jsonfile.casosbrasil.map(function(e) {
+   return e.Data;
+});
+var brasil = jsonfile.casosbrasil.map(function(e) {
+   return e.Brasil;
+});;
+var brasilobitos = jsonfile2.obitosbrasil.map(function(e) {
+   return e.Brasil;
+});;
+
+console.log(brasil, brasilobitos)
+
+var ctx = document.getElementById('ChartBrasil').getContext('2d');
+var config = {
+   type: 'line',
+   data: {
+      labels: labels,
+      datasets: [{
+         label: 'Casos confirmados no Brasil',
+         data: brasil,
+         backgroundColor: 'blue',
+         borderColor: 'blue',
+         fill: false,
+        },
+        {
+         label: 'Óbitos confirmados no Brasil',
+         data: brasilobitos,
+         backgroundColor: 'red',
+         borderColor: 'red',
+         fill: false,
+        },
       ]
    }
 };
