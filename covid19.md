@@ -64,8 +64,17 @@ A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. El
 
 ## Casos no Brasil
 
+Número de casos e óbitos no Brasil:
+
 <canvas id="ChartBrasil"></canvas>
+
+Número de casos por estado federativo:
+
 <canvas id="myChart"></canvas>
+
+Número de óbitos por estado federativo:
+
+<canvas id="ChartObitoEstados"></canvas>
 
 
 ## Noticias
@@ -276,6 +285,65 @@ var config = {
          borderColor: 'red',
          fill: false,
         },
+      ]
+   }
+};
+var chart = new Chart(ctx, config);
+</script>
+
+
+<script>
+var labels = jsonfile.casosbrasil.map(function(e) {
+   return e.Data;
+});
+var saopaulo = jsonfile2.obitosbrasil.map(function(e) {
+   return e.SP;
+});;
+var pernambuco = jsonfile2.obitosbrasil.map(function(e) {
+   return e.PE;
+});;
+var riodejaneiro = jsonfile2.obitosbrasil.map(function(e) {
+   return e.RJ;
+});;
+var ceara = jsonfile2.obitosbrasil.map(function(e) {
+   return e.CE;
+});;
+
+console.log(brasil, brasilobitos)
+
+var ctx = document.getElementById('ChartObitoEstados').getContext('2d');
+var config = {
+   type: 'line',
+   data: {
+      labels: labels,
+      datasets: [{
+         label: 'Pernambuco',
+         data: pernambuco,
+         backgroundColor: 'blue',
+         borderColor: 'blue',
+         fill: false,
+        },
+        {
+         label: 'São Paulo',
+         data: saopaulo,
+         backgroundColor: 'red',
+         borderColor: 'red',
+         fill: false,
+        },
+        {
+         label: 'Rio de Janeiro',
+         data: riodejaneiro,
+         backgroundColor: 'orange',
+         borderColor: 'orange',
+         fill: false,
+        },        
+        {
+         label: 'Ceará',
+         data: ceara,
+         backgroundColor: 'green',
+         borderColor: 'green',
+         fill: false,
+        },        
       ]
    }
 };

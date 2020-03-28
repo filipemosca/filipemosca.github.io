@@ -195,10 +195,17 @@ Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79
 
 <h2 id="casos-no-brasil">Casos no Brasil</h2>
 
-<p>Estou disponibilizando aqui os gráficos desenvolvidos pela equipe do UOL que podem ser vistos <a href="https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/21/brasil-mais-casos-italia-20-dias-curva-crescimento.htm">nessa postagem aqui</a>. O primeiro gráfico (abaixo) representa o total de casos no Brasil por cada dia.</p>
+<p>Número de casos e óbitos no Brasil:</p>
 
 <canvas id="ChartBrasil"></canvas>
+
+<p>Número de casos por estado federativo:</p>
+
 <canvas id="myChart"></canvas>
+
+<p>Número de óbitos por estado federativo:</p>
+
+<canvas id="ChartObitoEstados"></canvas>
 
 <h2 id="noticias">Noticias</h2>
 
@@ -2404,6 +2411,64 @@ var config = {
          borderColor: 'red',
          fill: false,
         },
+      ]
+   }
+};
+var chart = new Chart(ctx, config);
+</script>
+
+<script>
+var labels = jsonfile.casosbrasil.map(function(e) {
+   return e.Data;
+});
+var saopaulo = jsonfile2.obitosbrasil.map(function(e) {
+   return e.SP;
+});;
+var pernambuco = jsonfile2.obitosbrasil.map(function(e) {
+   return e.PE;
+});;
+var riodejaneiro = jsonfile2.obitosbrasil.map(function(e) {
+   return e.RJ;
+});;
+var ceara = jsonfile2.obitosbrasil.map(function(e) {
+   return e.CE;
+});;
+
+console.log(brasil, brasilobitos)
+
+var ctx = document.getElementById('ChartObitoEstados').getContext('2d');
+var config = {
+   type: 'line',
+   data: {
+      labels: labels,
+      datasets: [{
+         label: 'Pernambuco',
+         data: pernambuco,
+         backgroundColor: 'blue',
+         borderColor: 'blue',
+         fill: false,
+        },
+        {
+         label: 'São Paulo',
+         data: saopaulo,
+         backgroundColor: 'red',
+         borderColor: 'red',
+         fill: false,
+        },
+        {
+         label: 'Rio de Janeiro',
+         data: riodejaneiro,
+         backgroundColor: 'orange',
+         borderColor: 'orange',
+         fill: false,
+        },        
+        {
+         label: 'Ceará',
+         data: ceara,
+         backgroundColor: 'green',
+         borderColor: 'green',
+         fill: false,
+        },        
       ]
    }
 };
