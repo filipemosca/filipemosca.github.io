@@ -75,6 +75,8 @@ Estou disponibilizando aqui os gráficos desenvolvidos pela equipe do UOL que po
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/1706110"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/1712405"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Noticias
 
 * 25 mar 2020: [Pernambuco registra primeira morte pelo novo coronavírus](https://jc.ne10.uol.com.br/colunas/saude-e-bem-estar/2020/03/5603612-pernambuco-registra-primeira-morte-pelo-novo-coronavirus.html);
@@ -191,3 +193,60 @@ distribuição dos casos ao longo do tempo e o esgotamento dos serviços de saú
 
 
 
+<canvas id="myChart"></canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script>
+{% include casos.json %}
+var labels = jsonfile.legal.map(function(e) {
+   return e.Data;
+});
+var pernambuco = jsonfile.legal.map(function(e) {
+   return e.PE;
+});;
+var saopaulo = jsonfile.legal.map(function(e) {
+   return e.SP;
+});;
+var riodejaneiro = jsonfile.legal.map(function(e) {
+   return e.RJ;
+});;
+var ceara = jsonfile.legal.map(function(e) {
+   return e.CE;
+});;
+var ctx = document.getElementById('myChart').getContext('2d');
+var config = {
+   type: 'line',
+   data: {
+      labels: labels,
+      datasets: [{
+         label: 'Pernambuco',
+         data: pernambuco,
+         backgroundColor: 'blue',
+         borderColor: 'blue',
+         fill: false,
+        },
+        {
+        label: 'São Paulo',
+            data: saopaulo,
+            backgroundColor: 'red',
+            borderColor: 'red',
+            fill: false,
+        },
+        {
+        label: 'Rio de Janeiro',
+            data: riodejaneiro,
+            backgroundColor: 'orange',
+            borderColor: 'orange',
+            fill: false,
+        },
+        {
+        label: 'Ceará',
+            data: ceara,
+            backgroundColor: 'green',
+            borderColor: 'green',
+            fill: false,
+        },         
+      ]
+   }
+};
+var chart = new Chart(ctx, config);
+</script>
