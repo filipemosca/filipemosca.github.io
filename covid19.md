@@ -23,7 +23,8 @@ A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. El
 
 **Mapa desenvolvido pelo [Olhardigital](https://olhardigital.com.br):**
 
-<iframe src="https://olhardigital.com.br/site/frontend/padrao/templates/paginas/outras/corona/brasil.html" style="display: block; width: 760px; height:760px; max-width: 100%; margin: 0 auto; border: none;"></iframe>
+<iframe src="https://olhardigital.com.br/site/frontend/padrao/templates/paginas/outras/corona/brasil.html" style="display: block; width: 760px; height:840px; max-width: 100%; margin: 0 auto; border: none;"></iframe>
+
 
 
 
@@ -68,12 +69,11 @@ Estou disponibilizando aqui os gráficos desenvolvidos pela equipe do UOL que po
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/1573183"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/1659423"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-O segundo gráfico (abaixo), compara os 20 primeiros dias de circulação do Coronavirus com outros países. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/1705947"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/1623200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/1706110"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Noticias
 
@@ -188,3 +188,6 @@ distribuição dos casos ao longo do tempo e o esgotamento dos serviços de saú
 5. Liu Y, Gayle AA, Wilder-Smith A, Rocklöv J. The reproductive number of COVID-19 is higher compared to SARS coronavirus. J Travel Med. 2020;(February):1–6.
 6. Muniz-Rodriguez K, Chowell G, Cheung C-H, Jia D, Lai P-Y, Lee Y, et al. **Epidemic doubling time of the COVID-19 epidemic by Chinese province**. medRxiv Prepr. 2020;
 7. Wang C, Liu L, Hao X, Guo H, Wang Q, Huang J, et al. **Evolving Epidemiology and Impact of Non-pharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China**. medRxiv. 2020;
+
+
+
