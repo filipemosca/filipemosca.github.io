@@ -64,8 +64,6 @@ A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. El
 
 ## Casos no Brasil
 
-Estou disponibilizando aqui os gráficos desenvolvidos pela equipe do UOL que podem ser vistos [nessa postagem aqui](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/21/brasil-mais-casos-italia-20-dias-curva-crescimento.htm). O primeiro gráfico (abaixo) representa o total de casos no Brasil por cada dia.
-
 <canvas id="ChartBrasil"></canvas>
 <canvas id="myChart"></canvas>
 
