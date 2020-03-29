@@ -19,10 +19,7 @@ Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79
 
 Os coronavírus são um grupo de vírus de genoma de RNA simples de sentido positivo (serve diretamente para a síntese proteica), conhecidos desde meados dos anos 1960. Pertencem à subfamília taxonómica *Orthocoronavirinae* da família *Coronaviridae*, da ordem *Nidovirales*.
 
-A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. Eles são uma causa comum de infecções respiratórias brandas a moderadas de curta duração. Entre os coronavírus encontra-se o vírus causador da forma de pneumonia atípica grave conhecida por SARS, e o vírus  **SARS-CoV-2**, causador da **COVID-19**, responsável pela pandemia de COVID-19 em 2019 e 2020.
-
-**Mapa desenvolvido pelo [Olhardigital](https://olhardigital.com.br):**
-
+A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. Eles são uma causa comum de infecções respiratórias brandas a moderadas de curta duração. Entre os coronavírus encontra-se o vírus causador da forma de pneumonia atípica grave conhecida por SARS, e o vírus  **SARS-CoV-2**, causador da **COVID-19**, responsável pela pandemia de 2019 a 2020.
 
 
 ## Links úteis
