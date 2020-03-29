@@ -21,14 +21,14 @@ article p, article h1, article h2, article h3, article h4, article h5, article h
 
 body {
   margin: 0 0 0 0;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.1em;
+  font: 18px/1.4 Helvetica, Arial, sans-serif;
   background-color: var(--bg-color);
   color: var(--font-color);
-  --header-font: "Times New Roman", Times, serif; }
+  --header-font: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 html, html[data-theme="light"] {
-  --font-color: #202020;
+  --font-color: #333;
+  --font-color-header: #222;
   --bg-color: white;
   --link-color: blue;
   --link-visited-color: purple;
@@ -42,6 +42,7 @@ html, html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --font-color: #b3b9c5;
+  --font-color-header: #b3b9c5;
   --bg-color: #202020;
   --link-color: #81a5f8;
   --link-visited-color: #c197f8;
@@ -300,7 +301,11 @@ h1 {
   max-width: 600px; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--header-font); }
+  font-family: var(--header-font);
+  color: var(--font-color-header);
+  font-weight: bold;
+  line-height: 1.7;
+  margin: 1em 0 15px; }
 
 a {
   text-decoration: none;
@@ -349,7 +354,8 @@ article > ol li {
 */
 ::selection {
   background: var(--marked-color);
-  /* WebKit/Blink Browsers */ }
+  /* WebKit/Blink Browsers */
+  color: #000; }
 
 ::-moz-selection {
   background: var(--marked-color);
@@ -451,12 +457,12 @@ button {
   text-decoration: underline; }
 
 .archive-list li {
-  line-height: 1em; }
+  line-height: 1em;
+  margin-bottom: 0.6em; }
 .archive-list li a {
   text-decoration: none;
   font-weight: 600;
   font-size: 1.2em;
-  margin-bottom: 0;
   padding-bottom: 0;
   line-height: 1.6em;
   font-family: var(--header-font); }

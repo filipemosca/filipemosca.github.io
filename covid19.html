@@ -12,8 +12,6 @@ Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79
 </span></p>
 
 
-<h2 id="introdução">Introdução</h2>
-
 <p>Os coronavírus são um grupo de vírus de genoma de RNA simples de sentido positivo (serve diretamente para a síntese proteica), conhecidos desde meados dos anos 1960. Pertencem à subfamília taxonómica <em>Orthocoronavirinae</em> da família <em>Coronaviridae</em>, da ordem <em>Nidovirales</em>.</p>
 
 <p>A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. Eles são uma causa comum de infecções respiratórias brandas a moderadas de curta duração. Entre os coronavírus encontra-se o vírus causador da forma de pneumonia atípica grave conhecida por SARS, e o vírus  <strong>SARS-CoV-2</strong>, causador da <strong>COVID-19</strong>, responsável pela pandemia de 2019 a 2020.</p>
@@ -165,7 +163,14 @@ Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79
 <canvas id="ChartCasosPaises"></canvas>
 <p>Comparação da curva de óbitos após o primeiro caso confirmado do Brasil com outros países:</p>
 <canvas id="ChartObitosPaises"></canvas>
-<!-- <canvas id="ChartBarrasEstados"></canvas> -->
+<canvas id="ChartPomber"></canvas>
+
+<p>Barras de casos por estado</p>
+<canvas id="ChartBarrasEstados"></canvas>
+
+
+
+
 <!-- 
 
 <p><img src="/assets/2020/curva-mundial-covid.png" alt="Curva mundial" /></p>
@@ -173,9 +178,6 @@ Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79
 <p><strong>Evolução e curva da mortalidade China x Itália. Retirado da Live do Atila de 20/03/20:</strong></p>
 
 <p><img src="/assets/2020/evolucao-mortes-corona-china-italia.jpeg" alt="Gráfico de evolução da mortalidade" /></p> -->
-
-
-
 
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
@@ -199,6 +201,15 @@ var riodejaneiro = jsonfile.casosbrasil.map(function(e) {
 });;
 var ceara = jsonfile.casosbrasil.map(function(e) {
    return e.CE;
+});;
+var bahia = jsonfile.casosbrasil.map(function(e) {
+   return e.BA;
+});;
+var amazonas = jsonfile.casosbrasil.map(function(e) {
+   return e.AM;
+});;
+var riograndedosul = jsonfile.casosbrasil.map(function(e) {
+   return e.RS;
 });;
 var ctx = document.getElementById('myChart').getContext('2d');
 var config = {
@@ -232,7 +243,28 @@ var config = {
             backgroundColor: 'green',
             borderColor: 'green',
             fill: false,
-        },         
+        },
+        {
+        label: 'Bahia',
+            data: bahia,
+            backgroundColor: 'purple',
+            borderColor: 'purple',
+            fill: false,
+        },    
+        {
+        label: 'Amazonas',
+            data: amazonas,
+            backgroundColor: '#a2e149',
+            borderColor: '#a2e149',
+            fill: false,
+        }, 
+        {
+        label: 'Rio Grande do Sul',
+            data: riograndedosul,
+            backgroundColor: '#49bfe1',
+            borderColor: '#49bfe1',
+            fill: false,
+        }                                
       ]
    }
 };
@@ -506,35 +538,124 @@ var chart = new Chart(ctx, config);
 
 
 
-<!-- Mapa total de casos por estado -->
+<!-- Mapa total de casos por estado BARRA -->
 <!-- <script>
-// var pernambuco = jsonfile.casosbrasil[jsonfile.casosbrasil.length-1].PE
-
-
-
+  
 var ctx = document.getElementById('ChartBarrasEstados').getContext('2d');
 var config = {
    type: 'bar',
    data: {
+   labels: ['PE',2,3,4,5,6,7],
    datasets: [{
          barPercentage: 0.5,
          barThickness: 6,
          maxBarThickness: 8,
          minBarLength: 2,
-         data: [10, 20, 30, 40, 50, 60, 70]
+         data: [52, 20, 30, 40, 50, 60, 70]
       }]
    }
 };
-// var chart = new Chart(ctx, config);
-
-var myBarChart = new Chart(ctx, {
-    type: 'bar',
-    data: 3,
-});
-
+var chart = new Chart(ctx, config);
 </script> -->
 
+<!-- Mapa de casos internacionais Pomber -->
+<!-- <script>
+// var jsonpomber
 
+// jsonpomber = fetch("https://pomber.github.io/covid19/timeseries.json")
+//   .then(response => return response.json()) 
+
+
+
+   var labels = jsonfile4.casospaisesobitos.map(function(e) {
+      return e.Dias;
+   });
+   var brazil = jsonfile4.casospaisesobitos.map(function(e) {
+      if (e.Brazil !== ""){
+         return e.Brazil
+      }
+   });;
+   
+   fetch("https://pomber.github.io/covid19/timeseries.json")
+  .then(response => response.json())
+  .then(data => {
+    data["Argentina"].forEach(({ date, confirmed, recovered, deaths }) =>
+      console.log(`${date} active cases: ${confirmed - recovered - deaths}`)
+    );
+  });
+
+   var italy = jsonfile4.casospaisesobitos.map(function(e) {
+      if (e.Italy !== ""){
+         return e.Italy
+      }
+   });;
+   var spain = jsonfile4.casospaisesobitos.map(function(e) {
+      if (e.Spain !== ""){
+         return e.Spain
+      }
+   });;
+   var iran = jsonfile4.casospaisesobitos.map(function(e) {
+      if (e.Iran !== ""){
+         return e.Iran
+      }
+   });;
+   var hubei = jsonfile4.casospaisesobitos.map(function(e) {
+      if (e.Hubei !== ""){
+         return e.Hubei
+      }
+   });;
+   
+   
+   var ctx = document.getElementById('ChartPomber').getContext('2d');
+   var config = {
+      type: 'line',
+      data: {
+         labels: labels,
+         datasets: [{
+            label: 'Brasil',
+            data: brazil,
+            backgroundColor: 'blue',
+            borderColor: 'blue',
+            fill: false,
+           },
+           {
+            label: 'Itália',
+            data: italy,
+            backgroundColor: 'red',
+            borderColor: 'red',
+            fill: false,
+           },
+           {
+            label: 'Espanha',
+            data: spain,
+            backgroundColor: 'orange',
+            borderColor: 'orange',
+            fill: false,
+           },        
+           {
+            label: 'Hubei (China)',
+            data: hubei,
+            backgroundColor: 'green',
+            borderColor: 'green',
+            fill: false,
+           },    
+           {
+            label: 'Iran',
+            data: iran,
+            backgroundColor: 'pink',
+            borderColor: 'pink',
+            fill: false,
+           },               
+         ]
+      }
+   };
+   var chart = new Chart(ctx, config);
+   </script> -->
+   
+   
+
+
+<!-- Collapsible -->
 <script>
    var coll = document.getElementsByClassName("collapsible");
    var i;
