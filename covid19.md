@@ -23,8 +23,6 @@ A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida. El
 
 **Mapa desenvolvido pelo [Olhardigital](https://olhardigital.com.br):**
 
-<iframe src="https://olhardigital.com.br/site/frontend/padrao/templates/paginas/outras/corona/brasil.html" style="display: block; width: 760px; height:840px; max-width: 100%; margin: 0 auto; border: none;"></iframe>
-
 
 
 ## Links úteis
@@ -76,6 +74,12 @@ Número de óbitos por estado federativo:
 
 <canvas id="ChartObitoEstados"></canvas>
 
+Comparação do total da curva casos após o primeiro caso confirmado no Brasil com outros países:
+
+<canvas id="ChartCasosPaises"></canvas>
+
+
+<!-- <canvas id="ChartBarrasEstados"></canvas> -->
 
 ## Noticias
 
@@ -90,6 +94,7 @@ Número de óbitos por estado federativo:
   * [Coronavirus latest: Italy death toll overtakes China’s](https://www.nature.com/articles/d41586-020-00154-w);
 * 19 mar 2020: [Coronavírus: o que diz modelo matemático que levou Reino Unido a mudar radicalmente combate à covid-19](https://www.bbc.com/portuguese/internacional-51944800).
 * 18 mar 2020: [Younger Adults Make Up Big Portion of Coronavirus Hospitalizations in U.S.](https://www.nytimes.com/2020/03/18/health/coronavirus-young-people.html)
+
 
 
 ## Linha do tempo
@@ -140,42 +145,6 @@ Fonte dos dados: [https://coronavirus.saude.gov.br/linha-do-tempo](https://coron
 ![Gráfico de evolução da mortalidade](/assets/2020/evolucao-mortes-corona-china-italia.jpeg)
 
 
-## Manejo da COVID-19
-
-![Fluxograma de manejo](/assets/2020/manejo-covid.jpeg)
-
-## Distânciamento social
-
-O número básico de reprodução do SARS-CoV-2 foi estimado em 2,74 (2,47 – 3,23), o que significa que, para cada caso, espera-se que ocorram em média de 2 a 3 casos secundários, quando
-introduzido em uma população totalmente susceptível. Outro parâmetro relevante é o tempo para
-duplicação da epidemia, que no momento encontra-se entre 1,7 a 2,93 dias. Considerando o
-elevado R0 e o curto tempo de duplicação quando comparado a Influenza, a epidemia tende a
-apresentar uma concentração expressiva de casos um um curto espaço de tempo. Em países como
-Itália, China e Espanha, em poucas semanas o crescimento do número de casos foi suficiente para
-colapsar os sistemas de saúde local.
-
-Atualmente observamos um declínio no número de casos em todas as províncias na China. Esse
-declínio é decorrente das medidas de intervenção estabelecidas, que, estima-se, tenham evitado
-cerca de 94,5% dos casos que poderiam ter ocorrido. Entre as intervenções adotadas em Wuhan
-destaca-se: o estabelecimento de um cordão sanitário na cidade de Wuhan, suspensão dos
-transportes públicos e táxi por aplicativos, restrição do tráfego nas áreas urbanas, proibição de
-viagens na região interna da cidade, fechamento de espaços públicos, cancelamento de eventos,
-uso obrigatório de máscaras cirúrgicas em público, quarentena domiciliar para toda população.
-
-![Meta de ação](/assets/2020/meta-covid19.jpeg)
-
-As medidas não farmacológicas visam reduzir a transmissibilidade do vírus na comunidade e
-portanto retardar a progressão da epidemia. Ações como essa, além de reduzirem o número de
-casos, tem o potencial de reduzir o impacto para os serviços de saúde, por reduzir o pico
-epidêmico. Em estudos de modelagem matemática estima-se que uma redução de cerca de 50%
-dos contatos entre as pessoas teriam impacto significativo no número total de casos, uma vez que
-reduziram o R0 do COVID-19 para próximo de 1. Além disso, as medidas não farmacológicas
-atrasam o pico da epidemia e reduzem a altura do pico, permitindo, dessa forma, uma melhor
-distribuição dos casos ao longo do tempo e o esgotamento dos serviços de saúde (​Figura acima).
-
-
-
-
 ## Papers
 
 1. Sahraei Z, Shabani M, Shokouhi S, Saffaei A. **Aminoquinolines Against Coronavirus Disease 2019 (COVID-19): Chloroquine or Hydroxychloroquine** [published online ahead of print, 2020 Mar 16]. Int J Antimicrob Agents. 2020;105945. doi:[10.1016/j.ijantimicag.2020.105945](https://www.mediterranee-infection.com/hydroxychloroquine-and-azithromycin-as-a-treatment-of-covid-19/).
@@ -188,9 +157,9 @@ distribuição dos casos ao longo do tempo e o esgotamento dos serviços de saú
 7. Wang C, Liu L, Hao X, Guo H, Wang Q, Huang J, et al. **Evolving Epidemiology and Impact of Non-pharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China**. medRxiv. 2020;
 
 
-
-
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+<!-- Mapa de casos por estado federativo do Brasil -->
 <script>
 var jsonfile = {
   "casosbrasil": {% include casos-brasil.json %}
@@ -249,7 +218,7 @@ var config = {
 var chart = new Chart(ctx, config);
 </script>
 
-
+<!-- Mapa de casos e óbitos totais no Brasil -->
 <script>
 var jsonfile2 = {
   "obitosbrasil": {% include obitos-brasil.json %}
@@ -264,7 +233,6 @@ var brasilobitos = jsonfile2.obitosbrasil.map(function(e) {
    return e.Brasil;
 });;
 
-console.log(brasil, brasilobitos)
 
 var ctx = document.getElementById('ChartBrasil').getContext('2d');
 var config = {
@@ -291,7 +259,7 @@ var config = {
 var chart = new Chart(ctx, config);
 </script>
 
-
+<!-- Mapa óbitos por estado federativo do Brasil -->
 <script>
 var labels = jsonfile.casosbrasil.map(function(e) {
    return e.Data;
@@ -349,3 +317,114 @@ var config = {
 };
 var chart = new Chart(ctx, config);
 </script>
+
+<!-- Mapa de casos internacionais -->
+<script>
+var jsonfile3 = {
+  "casospaises": {% include apos1casopaises.json %}
+  }
+var labels = jsonfile3.casospaises.map(function(e) {
+   return e.Dias;
+});
+var brazil = jsonfile3.casospaises.map(function(e) {
+   if (e.Brazil !== ""){
+      return e.Brazil
+   }
+});;
+
+var italy = jsonfile3.casospaises.map(function(e) {
+   if (e.Italy !== ""){
+      return e.Italy
+   }
+});;
+var spain = jsonfile3.casospaises.map(function(e) {
+   if (e.Spain !== ""){
+      return e.Spain
+   }
+});;
+var iran = jsonfile3.casospaises.map(function(e) {
+   if (e.Iran !== ""){
+      return e.Iran
+   }
+});;
+var hubei = jsonfile3.casospaises.map(function(e) {
+   if (e.Hubei !== ""){
+      return e.Hubei
+   }
+});;
+
+
+var ctx = document.getElementById('ChartCasosPaises').getContext('2d');
+var config = {
+   type: 'line',
+   data: {
+      labels: labels,
+      datasets: [{
+         label: 'Brasil',
+         data: brazil,
+         backgroundColor: 'blue',
+         borderColor: 'blue',
+         fill: false,
+        },
+        {
+         label: 'Itália',
+         data: italy,
+         backgroundColor: 'red',
+         borderColor: 'red',
+         fill: false,
+        },
+        {
+         label: 'Espanha',
+         data: spain,
+         backgroundColor: 'orange',
+         borderColor: 'orange',
+         fill: false,
+        },        
+        {
+         label: 'Hubei (China)',
+         data: hubei,
+         backgroundColor: 'green',
+         borderColor: 'green',
+         fill: false,
+        },    
+        {
+         label: 'Iran',
+         data: iran,
+         backgroundColor: 'pink',
+         borderColor: 'pink',
+         fill: false,
+        },               
+      ]
+   }
+};
+var chart = new Chart(ctx, config);
+</script>
+
+
+<!-- Mapa total de casos por estado -->
+<!-- <script>
+// var pernambuco = jsonfile.casosbrasil[jsonfile.casosbrasil.length-1].PE
+
+
+
+var ctx = document.getElementById('ChartBarrasEstados').getContext('2d');
+var config = {
+   type: 'bar',
+   data: {
+   datasets: [{
+         barPercentage: 0.5,
+         barThickness: 6,
+         maxBarThickness: 8,
+         minBarLength: 2,
+         data: [10, 20, 30, 40, 50, 60, 70]
+      }]
+   }
+};
+// var chart = new Chart(ctx, config);
+
+var myBarChart = new Chart(ctx, {
+    type: 'bar',
+    data: 3,
+});
+
+</script> -->

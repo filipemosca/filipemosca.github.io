@@ -1,0 +1,539 @@
+ 
+[
+  {
+    "Dias": 1,
+    "Brazil": 1,
+    "Italy": 2,
+    "Spain": 1,
+    "Iran": 2,
+    "Hubei": 444
+  },
+  {
+    "Dias": 2,
+    "Brazil": 1,
+    "Italy": 2,
+    "Spain": 1,
+    "Iran": 5,
+    "Hubei": 444
+  },
+  {
+    "Dias": 3,
+    "Brazil": 1,
+    "Italy": 2,
+    "Spain": 1,
+    "Iran": 18,
+    "Hubei": 549
+  },
+  {
+    "Dias": 4,
+    "Brazil": 2,
+    "Italy": 2,
+    "Spain": 1,
+    "Iran": 28,
+    "Hubei": 761
+  },
+  {
+    "Dias": 5,
+    "Brazil": 2,
+    "Italy": 2,
+    "Spain": 1,
+    "Iran": 43,
+    "Hubei": 1058
+  },
+  {
+    "Dias": 6,
+    "Brazil": 2,
+    "Italy": 2,
+    "Spain": 1,
+    "Iran": 61,
+    "Hubei": 1423
+  },
+  {
+    "Dias": 7,
+    "Brazil": 2,
+    "Italy": 2,
+    "Spain": 1,
+    "Iran": 95,
+    "Hubei": 3554
+  },
+  {
+    "Dias": 8,
+    "Brazil": 4,
+    "Italy": 3,
+    "Spain": 1,
+    "Iran": 139,
+    "Hubei": 3554
+  },
+  {
+    "Dias": 9,
+    "Brazil": 4,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 245,
+    "Hubei": 4903
+  },
+  {
+    "Dias": 10,
+    "Brazil": 13,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 388,
+    "Hubei": 5806
+  },
+  {
+    "Dias": 11,
+    "Brazil": 13,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 593,
+    "Hubei": 7153
+  },
+  {
+    "Dias": 12,
+    "Brazil": 20,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 978,
+    "Hubei": 11177
+  },
+  {
+    "Dias": 13,
+    "Brazil": 25,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 1501,
+    "Hubei": 13522
+  },
+  {
+    "Dias": 14,
+    "Brazil": 31,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 2336,
+    "Hubei": 16678
+  },
+  {
+    "Dias": 15,
+    "Brazil": 38,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 2922,
+    "Hubei": 19665
+  },
+  {
+    "Dias": 16,
+    "Brazil": 52,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 3513,
+    "Hubei": 22112
+  },
+  {
+    "Dias": 17,
+    "Brazil": 151,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 4747,
+    "Hubei": 24953
+  },
+  {
+    "Dias": 18,
+    "Brazil": 151,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 5823,
+    "Hubei": 27100
+  },
+  {
+    "Dias": 19,
+    "Brazil": 162,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 6566,
+    "Hubei": 29631
+  },
+  {
+    "Dias": 20,
+    "Brazil": 200,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 7161,
+    "Hubei": 31728
+  },
+  {
+    "Dias": 21,
+    "Brazil": 321,
+    "Italy": 3,
+    "Spain": 2,
+    "Iran": 8042,
+    "Hubei": 33366
+  },
+  {
+    "Dias": 22,
+    "Brazil": 372,
+    "Italy": 20,
+    "Spain": 2,
+    "Iran": 9000,
+    "Hubei": 33366
+  },
+  {
+    "Dias": 23,
+    "Brazil": 621,
+    "Italy": 62,
+    "Spain": 2,
+    "Iran": 10075,
+    "Hubei": 48206
+  },
+  {
+    "Dias": 24,
+    "Brazil": 793,
+    "Italy": 155,
+    "Spain": 2,
+    "Iran": 11364,
+    "Hubei": 54406
+  },
+  {
+    "Dias": 25,
+    "Brazil": 1021,
+    "Italy": 229,
+    "Spain": 6,
+    "Iran": 12729,
+    "Hubei": 56249
+  },
+  {
+    "Dias": 26,
+    "Brazil": 1546,
+    "Italy": 322,
+    "Spain": 13,
+    "Iran": 13938,
+    "Hubei": 58182
+  },
+  {
+    "Dias": 27,
+    "Brazil": 1924,
+    "Italy": 453,
+    "Spain": 15,
+    "Iran": 14991,
+    "Hubei": 59989
+  },
+  {
+    "Dias": 28,
+    "Brazil": 2247,
+    "Italy": 655,
+    "Spain": 32,
+    "Iran": 16169,
+    "Hubei": 61682
+  },
+  {
+    "Dias": 29,
+    "Brazil": 2554,
+    "Italy": 888,
+    "Spain": 45,
+    "Iran": 17361,
+    "Hubei": 62031
+  },
+  {
+    "Dias": 30,
+    "Brazil": 2985,
+    "Italy": 1128,
+    "Spain": 84,
+    "Iran": 18407,
+    "Hubei": 62442
+  },
+  {
+    "Dias": 31,
+    "Brazil": 3417,
+    "Italy": 1694,
+    "Spain": 120,
+    "Iran": 19644,
+    "Hubei": 62662
+  },
+  {
+    "Dias": 32,
+    "Brazil": 3904,
+    "Italy": 2036,
+    "Spain": 165,
+    "Iran": 20610,
+    "Hubei": 64084
+  },
+  {
+    "Dias": 33,
+    "Brazil": "",
+    "Italy": 2502,
+    "Spain": 222,
+    "Iran": 21638,
+    "Hubei": 64084
+  },
+  {
+    "Dias": 34,
+    "Brazil": "",
+    "Italy": 3089,
+    "Spain": 259,
+    "Iran": 23049,
+    "Hubei": 64287
+  },
+  {
+    "Dias": 35,
+    "Brazil": "",
+    "Italy": 3858,
+    "Spain": 400,
+    "Iran": 24811,
+    "Hubei": 64786
+  },
+  {
+    "Dias": 36,
+    "Brazil": "",
+    "Italy": 4636,
+    "Spain": 500,
+    "Iran": 27017,
+    "Hubei": 65187
+  },
+  {
+    "Dias": 37,
+    "Brazil": "",
+    "Italy": 5883,
+    "Spain": 673,
+    "Iran": 29406,
+    "Hubei": 65596
+  },
+  {
+    "Dias": 38,
+    "Brazil": "",
+    "Italy": 7375,
+    "Spain": 1073,
+    "Iran": 32332,
+    "Hubei": 65914
+  },
+  {
+    "Dias": 39,
+    "Brazil": "",
+    "Italy": 9172,
+    "Spain": 1695,
+    "Iran": 35408,
+    "Hubei": 66337
+  },
+  {
+    "Dias": 40,
+    "Brazil": "",
+    "Italy": 10149,
+    "Spain": 2277,
+    "Iran": "",
+    "Hubei": 66907
+  },
+  {
+    "Dias": 41,
+    "Brazil": "",
+    "Italy": 12462,
+    "Spain": 2277,
+    "Iran": "",
+    "Hubei": 67103
+  },
+  {
+    "Dias": 42,
+    "Brazil": "",
+    "Italy": 12462,
+    "Spain": 5232,
+    "Iran": "",
+    "Hubei": 67217
+  },
+  {
+    "Dias": 43,
+    "Brazil": "",
+    "Italy": 17660,
+    "Spain": 6391,
+    "Iran": "",
+    "Hubei": 67332
+  },
+  {
+    "Dias": 44,
+    "Brazil": "",
+    "Italy": 21157,
+    "Spain": 7798,
+    "Iran": "",
+    "Hubei": 67466
+  },
+  {
+    "Dias": 45,
+    "Brazil": "",
+    "Italy": 24747,
+    "Spain": 9942,
+    "Iran": "",
+    "Hubei": 67592
+  },
+  {
+    "Dias": 46,
+    "Brazil": "",
+    "Italy": 27980,
+    "Spain": 11748,
+    "Iran": "",
+    "Hubei": 67666
+  },
+  {
+    "Dias": 47,
+    "Brazil": "",
+    "Italy": 31506,
+    "Spain": 13910,
+    "Iran": "",
+    "Hubei": 67707
+  },
+  {
+    "Dias": 48,
+    "Brazil": "",
+    "Italy": 35713,
+    "Spain": 17963,
+    "Iran": "",
+    "Hubei": 67743
+  },
+  {
+    "Dias": 49,
+    "Brazil": "",
+    "Italy": 41035,
+    "Spain": 20410,
+    "Iran": "",
+    "Hubei": 67760
+  },
+  {
+    "Dias": 50,
+    "Brazil": "",
+    "Italy": 47021,
+    "Spain": 25374,
+    "Iran": "",
+    "Hubei": 67773
+  },
+  {
+    "Dias": 51,
+    "Brazil": "",
+    "Italy": 53578,
+    "Spain": 28768,
+    "Iran": "",
+    "Hubei": 67781
+  },
+  {
+    "Dias": 52,
+    "Brazil": "",
+    "Italy": 59138,
+    "Spain": 35136,
+    "Iran": "",
+    "Hubei": 67786
+  },
+  {
+    "Dias": 53,
+    "Brazil": "",
+    "Italy": 63927,
+    "Spain": 39885,
+    "Iran": "",
+    "Hubei": 67790
+  },
+  {
+    "Dias": 54,
+    "Brazil": "",
+    "Italy": 69176,
+    "Spain": 49515,
+    "Iran": "",
+    "Hubei": 67794
+  },
+  {
+    "Dias": 55,
+    "Brazil": "",
+    "Italy": 74386,
+    "Spain": 57786,
+    "Iran": "",
+    "Hubei": 67798
+  },
+  {
+    "Dias": 56,
+    "Brazil": "",
+    "Italy": 80589,
+    "Spain": 65719,
+    "Iran": "",
+    "Hubei": 67799
+  },
+  {
+    "Dias": 57,
+    "Brazil": "",
+    "Italy": 86498,
+    "Spain": 73235,
+    "Iran": "",
+    "Hubei": 67800
+  },
+  {
+    "Dias": 58,
+    "Brazil": "",
+    "Italy": 92472,
+    "Spain": "",
+    "Iran": "",
+    "Hubei": 67800
+  },
+  {
+    "Dias": 59,
+    "Brazil": "",
+    "Italy": "",
+    "Spain": "",
+    "Iran": "",
+    "Hubei": 67800
+  },
+  {
+    "Dias": 60,
+    "Brazil": "",
+    "Italy": "",
+    "Spain": "",
+    "Iran": "",
+    "Hubei": 67800
+  },
+  {
+    "Dias": 61,
+    "Brazil": "",
+    "Italy": "",
+    "Spain": "",
+    "Iran": "",
+    "Hubei": 67800
+  },
+  {
+    "Dias": 62,
+    "Brazil": "",
+    "Italy": "",
+    "Spain": "",
+    "Iran": "",
+    "Hubei": 67800
+  },
+  {
+    "Dias": 63,
+    "Brazil": "",
+    "Italy": "",
+    "Spain": "",
+    "Iran": "",
+    "Hubei": 67801
+  },
+  {
+    "Dias": 64,
+    "Brazil": "",
+    "Italy": "",
+    "Spain": "",
+    "Iran": "",
+    "Hubei": 67801
+  },
+  {
+    "Dias": 65,
+    "Brazil": "",
+    "Italy": "",
+    "Spain": "",
+    "Iran": "",
+    "Hubei": 67801
+  },
+  {
+    "Dias": 66,
+    "Brazil": "",
+    "Italy": "",
+    "Spain": "",
+    "Iran": "",
+    "Hubei": 67801
+  },
+  {
+    "Dias": 67,
+    "Brazil": "",
+    "Italy": "",
+    "Spain": "",
+    "Iran": "",
+    "Hubei": 67801
+  }
+]
