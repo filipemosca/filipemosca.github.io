@@ -98,6 +98,7 @@ Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79
    <button type="button" class="collapsible">Linha do tempo</button>
    <div class="content">
       <ul>
+         <li>14 mar 2020: Espanha anuncia o <i>lock down</i></li>
          <li><strong>09 mar 2020</strong>: Itália inicia o <em>lock down</em>;</li>
          <li>14 fev 2020: 1ª morte na França;</li>
          <li>11 fev 2020: a doença causada pelo Novo Coronarvirus recebe o nome de COVID-19;</li>
@@ -163,10 +164,10 @@ Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79
 <canvas id="ChartCasosPaises"></canvas>
 <p>Comparação da curva de óbitos após o primeiro caso confirmado do Brasil com outros países:</p>
 <canvas id="ChartObitosPaises"></canvas>
-<canvas id="ChartPomber"></canvas>
+<!-- <canvas id="ChartPomber"></canvas> -->
 
-<p>Barras de casos por estado</p>
-<canvas id="ChartBarrasEstados"></canvas>
+<!-- <p>Barras de casos por estado</p>
+<canvas id="ChartBarrasEstados"></canvas> -->
 
 
 
@@ -266,7 +267,12 @@ var config = {
             fill: false,
         }                                
       ]
-   }
+   },
+   options: {
+        tooltips: {
+            mode: 'point'
+        }
+    }, 
 };
 var chart = new Chart(ctx, config);
 </script>
@@ -285,6 +291,10 @@ var brasil = jsonfile.casosbrasil.map(function(e) {
 var brasilobitos = jsonfile2.obitosbrasil.map(function(e) {
    return e.Brasil;
 });;
+var brasilnovos = jsonfile.casosbrasil.map(function(e) {
+   return e.Novos;
+});;
+
 
 
 var ctx = document.getElementById('ChartBrasil').getContext('2d');
@@ -306,11 +316,40 @@ var config = {
          borderColor: 'red',
          fill: false,
         },
+        {
+         label: 'Novos casos por dia',
+         data: brasilnovos,
+         backgroundColor: 'orange',
+         borderColor: 'orange',
+        },
       ]
    }
 };
 var chart = new Chart(ctx, config);
 </script>
+
+
+
+<!-- Mapa total de casos por estado BARRA -->
+<!-- <script>
+   var ctx = document.getElementById('ChartBarrasEstados').getContext('2d');
+   var config = {
+      type: 'bar',
+      data: {
+      labels: labels,
+      datasets: [{
+            barPercentage: 0.5,
+            barThickness: 6,
+            backgroundColor: 'orange',
+            borderColor: 'orange',
+            data: lastElement,
+         }]
+      }
+   };
+   var chart = new Chart(ctx, config);
+   </script> -->
+
+
 
 <!-- Mapa óbitos por estado federativo do Brasil -->
 <script>
@@ -376,7 +415,7 @@ var chart = new Chart(ctx, config);
 var jsonfile3 = {
   "casospaises": {% include apos1casopaises.json %}
   }
-var labels = jsonfile3.casospaises.map(function(e) {
+var dias = jsonfile3.casospaises.map(function(e) {
    return e.Dias;
 });
 var brazil = jsonfile3.casospaises.map(function(e) {
@@ -411,7 +450,7 @@ var ctx = document.getElementById('ChartCasosPaises').getContext('2d');
 var config = {
    type: 'line',
    data: {
-      labels: labels,
+      labels: dias,
       datasets: [{
          label: 'Brasil',
          data: brazil,
@@ -448,7 +487,12 @@ var config = {
          fill: false,
         },               
       ]
-   }
+   },
+   options: {
+        tooltips: {
+            mode: 'point'
+        }
+    }, 
 };
 var chart = new Chart(ctx, config);
 </script>
@@ -459,7 +503,7 @@ var chart = new Chart(ctx, config);
 var jsonfile4 = {
   "casospaisesobitos": {% include apos1casopaisesobitos.json %}
   }
-var labels = jsonfile4.casospaisesobitos.map(function(e) {
+var dias = jsonfile4.casospaisesobitos.map(function(e) {
    return e.Dias;
 });
 var brazil = jsonfile4.casospaisesobitos.map(function(e) {
@@ -494,7 +538,7 @@ var ctx = document.getElementById('ChartObitosPaises').getContext('2d');
 var config = {
    type: 'line',
    data: {
-      labels: labels,
+      labels: dias,
       datasets: [{
          label: 'Brasil',
          data: brazil,
@@ -538,25 +582,6 @@ var chart = new Chart(ctx, config);
 
 
 
-<!-- Mapa total de casos por estado BARRA -->
-<!-- <script>
-  
-var ctx = document.getElementById('ChartBarrasEstados').getContext('2d');
-var config = {
-   type: 'bar',
-   data: {
-   labels: ['PE',2,3,4,5,6,7],
-   datasets: [{
-         barPercentage: 0.5,
-         barThickness: 6,
-         maxBarThickness: 8,
-         minBarLength: 2,
-         data: [52, 20, 30, 40, 50, 60, 70]
-      }]
-   }
-};
-var chart = new Chart(ctx, config);
-</script> -->
 
 <!-- Mapa de casos internacionais Pomber -->
 <!-- <script>
