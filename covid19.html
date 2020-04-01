@@ -3,12 +3,12 @@ title: Agregado sobre o Novo Coronavirus e a COVID-19
 layout: post
 date: 2020-03-20T16:00:00-03:00
 seo:
-    date_modified: 2020-03-29
+    date_modified: 2020-04-01
 categories: 'medicina'
 tags: [coronavirus, covid-19, epidemiologia, estatistica, pandemia]
 ---
 
-<p><b>Última atualização:</b> 29 de março.<br>
+<p><b>Última atualização:</b> 01 de Abril.<br>
 <span>
 Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79sScc9CnJUOZRkAz5N3hmgL3Nn">COVID-19 <i class="picol_folder_sans"></i></a>
 </span></p>
@@ -161,6 +161,9 @@ Link para pasta com arquivos: <a href="https://drive.google.com/open?id=11deHp79
 
 <p>Número de novos casos confirmados por dia no Brasil:</p>
 <canvas id="ChartBrasilNovos"></canvas>
+
+<p>Número de novos óbitos confirmados por dia no Brasil:</p>
+<canvas id="ChartBrasilNovosObitos"></canvas>
 
 <p>Número de casos por estado federativo:</p>
 <canvas id="myChart"></canvas>
@@ -352,8 +355,35 @@ var chart = new Chart(ctx, config);
       data: {
          labels: labels,
          datasets: [{
-            label: 'Novos casos por dia',
+            label: 'Casos por dia',
             data: brasilnovos,
+            backgroundColor: 'orange',
+            borderColor: 'orange',
+           },
+         ]
+      }
+   };
+   var chart = new Chart(ctx, config);
+   </script>
+   
+
+<!-- Mapa de novos óbitos por dia no BR -->
+<script>
+   var labels = jsonfile.casosbrasil.map(function(e) {
+      return e.Data;
+   });
+   var brasilnovosobitos = jsonfile2.obitosbrasil.map(function(e) {
+      return e.Novos;
+   });;
+      
+   var ctx = document.getElementById('ChartBrasilNovosObitos').getContext('2d');
+   var config = {
+      type: 'bar',
+      data: {
+         labels: labels,
+         datasets: [{
+            label: 'Óbitos por dia',
+            data: brasilnovosobitos,
             backgroundColor: 'orange',
             borderColor: 'orange',
            },
