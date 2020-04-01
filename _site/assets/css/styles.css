@@ -11,6 +11,8 @@
 article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption {
   margin-right: 20px;
   margin-left: 20px; }
+article p {
+  font-family: Georgia, serif; }
 
 .wrapper-footer {
   max-width: 700px;
@@ -21,10 +23,10 @@ article p, article h1, article h2, article h3, article h4, article h5, article h
 
 body {
   margin: 0 0 0 0;
-  font: 18px/1.4 Helvetica, Arial, sans-serif;
+  font: 1.2em Helvetica, Arial, sans-serif;
   background-color: var(--bg-color);
   color: var(--font-color);
-  --header-font: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  --header-font: "Times New Roman", Times, serif; }
 
 html, html[data-theme="light"] {
   --font-color: #333;
@@ -304,8 +306,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--header-font);
   color: var(--font-color-header);
   font-weight: bold;
-  line-height: 1.7;
-  margin: 1em 0 15px; }
+  line-height: 1.1;
+  margin-bottom: 0.2em; }
 
 a {
   text-decoration: none;
@@ -324,7 +326,6 @@ p, li {
 img {
   max-width: 100%;
   margin-top: 40px;
-  margin-bottom: 40px;
   height: auto;
   display: block;
   margin-left: auto;
@@ -341,8 +342,15 @@ figure {
 
 figcaption {
   text-align: center;
-  margin-top: 10px;
+  margin-top: 0.8em;
   font-size: 0.8em; }
+
+video {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px; }
 
 article > ol li {
   padding-bottom: 0.8em; }
