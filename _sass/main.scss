@@ -156,6 +156,13 @@ html[data-theme="dark"] {
   margin-top: 5px;
   line-height: 1.2;
 }
+.botao-entrada {
+  font-size: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0.25em;
+  margin-top: 0;
+}
 
 
 // End buttons layout
@@ -165,6 +172,7 @@ html[data-theme="dark"] {
 .linux {background-color: rgb(197, 37, 37); color: #f1f1f1;}
 .aleatoriedades {background-color: rgb(117, 34, 158); color: #f1f1f1;}
 .tecnologia {background-color: rgb(207, 88, 19); color: #f1f1f1;}
+.covid19 {background-color: rgb(13, 100, 74); color: #f1f1f1;}
 .cinema {background-color: rgb(31, 95, 233); color: #f1f1f1;}
 .xadrez {background-color: rgb(158, 28, 93); color: #f1f1f1;}
 .livros {background-color: rgb(12, 112, 126); color: #f1f1f1;}
@@ -401,6 +409,9 @@ article > ol li {
     margin-top: 6px;
   }
 }
+.apresentacao {
+  font-family: Georgia, serif;
+}
 .redes {
   margin: 0 auto;
   width: 100%;
@@ -489,12 +500,14 @@ button {
   li h2 {
     margin-bottom: 0;
     line-height: 1.2;
+    margin-top: 0.4em;
   }
   li h2 a {
     text-decoration: none;
     font-size: 24px;
     color: var(--font-color);
     font-weight: 600;
+
   }
   li h2 a:hover {
     color: var(--link-color);

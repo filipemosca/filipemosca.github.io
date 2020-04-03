@@ -134,6 +134,13 @@ html[data-theme="dark"] {
   margin-top: 5px;
   line-height: 1.2; }
 
+.botao-entrada {
+  font-size: 0.7em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0.25em;
+  margin-top: 0; }
+
 .medicina {
   background-color: #0e810e;
   color: #f1f1f1; }
@@ -148,6 +155,10 @@ html[data-theme="dark"] {
 
 .tecnologia {
   background-color: #cf5813;
+  color: #f1f1f1; }
+
+.covid19 {
+  background-color: #0d644a;
   color: #f1f1f1; }
 
 .cinema {
@@ -377,6 +388,9 @@ article > ol li {
   .abertura p {
     margin-top: 6px; }
 
+.apresentacao {
+  font-family: Georgia, serif; }
+
 .redes {
   margin: 0 auto;
   width: 100%;
@@ -454,7 +468,8 @@ button {
   padding-left: 0; }
 .post-list li h2 {
   margin-bottom: 0;
-  line-height: 1.2; }
+  line-height: 1.2;
+  margin-top: 0.4em; }
 .post-list li h2 a {
   text-decoration: none;
   font-size: 24px;
