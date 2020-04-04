@@ -434,6 +434,10 @@ article > ol li {
 .item {
   flex: 1;
 }
+.item-inferior {
+  max-width: 300px;
+  margin: 0 auto;
+}
 .foto {
   border-radius: 50%;
   max-width: 100px;
