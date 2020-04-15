@@ -5,10 +5,41 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Apr 2020 03:30:45 -0300</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2020 03:30:45 -0300</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2020 18:56:33 -0300</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2020 18:56:33 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
+    
+    <entry>
+            <title type="html">O estudo que projetou isolamento social até 2022</title>
+            <link href="http://localhost:4000/2020/medicina/2022"/>
+            <published>2020-04-15T00:00:00-03:00</published>
+            <id>/2020/medicina/2022</id>
+            <content type="html">&lt;p&gt;Ontem, 14 de Abril, foi publicado um estudo&lt;sup id=&quot;fnref:Kissler2020&quot;&gt;&lt;a href=&quot;#fn:Kissler2020&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; na revista &lt;em&gt;Science&lt;/em&gt; projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxados por alguns como “alarmista demais”.&lt;/p&gt;
+
+&lt;p&gt;Isso, pois em uma das projeções as medidas de isolamento social, mesmo que de forma intermitente, podem ser necessárias até o ano de 2020.&lt;/p&gt;
+
+&lt;p&gt;Mas para deixar tudo mais claro, o estudo trabalha com vários cenários. Nos pior deles, em que a imunidade após infecção não seja permanente e em que os serviços de saúde não aumentem sua capacidade, a crise pode durar até&lt;/p&gt;
+
+&lt;p&gt;O estudo se baseou em dados de sazonalidade, imunidade isolada e cruzada para os demais betacoronavírus 0C43 e HKU1 a partir de dados dos EUA. A partir desses dados, foi possível criar um modelo estimativo para o SARS-CoV-2 (o novo coronavírus, causador da COVID-19).&lt;/p&gt;
+
+&lt;p&gt;O distânciamento intermitente pode ser necessário até 2022 a menos que a capacidade dos serviços de saúde sejam drasticamente aumentadas ou uma vacina ou tratamento eficaz seja aprovado.&lt;/p&gt;
+
+&lt;p&gt;Na minha concepção, o objetivo deste artigo foi, baseado em modelos matemáticos, tentar prever qual seria o pior cenário possível e usá-lo como uma linha de horizonte para nos prepararmos hoje. É importante termos essa noção para pensarmos em medidas que diminuam o impácto econômico, de saúde e educacional. Por mais que essa projeção não se concretize, precisamos estar preparados para ela.&lt;/p&gt;
+
+&lt;p&gt;O Atila também fez uma &lt;a href=&quot;https://twitter.com/oatila/status/1250122514472357891&quot;&gt;thread no Twitter comentando esse artigo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Kissler2020&quot;&gt;
+      &lt;p&gt;Kissler SM, Tedijanto C, Goldstein E, Grad YH, Lipsitch M. &lt;strong&gt;Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period&lt;/strong&gt; [published online ahead of print, 2020 Apr 14]. Science. 2020;eabb5793. doi:&lt;a href=&quot;https://doi.org/10.1126/science.abb5793&quot;&gt;10.1126/science.abb5793&lt;/a&gt;. &lt;a href=&quot;#fnref:Kissler2020&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+        </entry>
     
     <entry>
             <title type="html">O ministro que ousou se basear em ciência</title>
@@ -62,6 +93,15 @@
 &lt;/figure&gt;
 
 &lt;p&gt;Neste momento está mais do que claro que Jair Bolsonaro (nome e sobrenome) é o maior inimigo do Brasil. Que Deus tenha piedade desta nação.&lt;/p&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Passatempo da quarentena: fazer gráficos</title>
+            <link href="http://localhost:4000/2020/medicina/passatempo-da-quarentena"/>
+            <published>2020-03-29T00:00:00-03:00</published>
+            <id>/2020/medicina/passatempo-da-quarentena</id>
+            <content type="html">
 </content>
         </entry>
     
@@ -124,6 +164,38 @@
   &lt;ol&gt;
     &lt;li id=&quot;fn:tocar&quot;&gt;
       &lt;p&gt;Rebmann, T., R. Carrico, and J. Wang: &lt;strong&gt;Physiologic and other effects and compliance with long-term respirator use among medical intensive care unit nurses&lt;/strong&gt;. American Journal of Infection Control 41(12):1218-1223(2013). &lt;a href=&quot;#fnref:tocar&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Máscaras cirúrgicas protegem contra o Novo Coronavirus?</title>
+            <link href="http://localhost:4000/2020/medicina/mascaras-cirurgicas-protegem-coronavirus"/>
+            <published>2020-03-25T00:00:00-03:00</published>
+            <id>/2020/medicina/mascaras-cirurgicas-protegem-coronavirus</id>
+            <content type="html">&lt;p&gt;Um estudo do JAMA não identificou diferença estatística entre os grupos usando máscaras cirúrgicas e o grupo que usava N95 na prevenção da infecção por Influenza.&lt;sup id=&quot;fnref:jama&quot;&gt;&lt;a href=&quot;#fn:jama&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;faz-diferença-usar-ou-não-uma-máscara-cirúrgica&quot;&gt;Faz diferença usar ou não uma máscara cirúrgica?&lt;/h2&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Smart Air Filters. &lt;a href=&quot;https://smartairfilters.com/en/blog/n95-mask-surgical-prevent-transmission-coronavirus/&quot;&gt;&lt;strong&gt;N95 Masks vs. Surgical Masks: Which Is Better at Preventing The Coronavirus?&lt;/strong&gt;&lt;/a&gt;. Publicado em 03 de Março de 2020. Acessado em 25 de Março de 2020;&lt;/li&gt;
+  &lt;li&gt;Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. &lt;strong&gt;N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial&lt;/strong&gt;. JAMA. 2019;322(9):824–833. doi:10.1001/jama.2019.11645.&lt;/li&gt;
+  &lt;li&gt;Smith JD, MacDougall CC, Johnstone J, Copes RA, Schwartz B, Garber GE. &lt;strong&gt;Effectiveness of N95 respirators versus surgical masks in protecting health care workers from acute respiratory infection: a systematic review and meta-analysis&lt;/strong&gt;. CMAJ. 2016;188(8):567–574. doi:10.1503/cmaj.150835.&lt;/li&gt;
+  &lt;li&gt;Bin-Reza F, Lopez Chavarrias V, Nicoll A, Chamberland ME. &lt;strong&gt;The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence&lt;/strong&gt;. Influenza Other Respir Viruses. 2012;6(4):257–267. doi:10.1111/j.1750-2659.2011.00307.x.&lt;/li&gt;
+  &lt;li&gt;MacIntyre CR, Wang Q, Cauchemez S, et al. &lt;strong&gt;A cluster randomized clinical trial comparing fit-tested and non-fit-tested N95 respirators to medical masks to prevent respiratory virus infection in health care workers&lt;/strong&gt;. Influenza Other Respir Viruses. 2011;5(3):170–179. doi:10.1111/j.1750-2659.2011.00198.x.&lt;/li&gt;
+  &lt;li&gt;Killingley B. &lt;strong&gt;Respirators versus medical masks: evidence accumulates but the jury remains out&lt;/strong&gt;. Influenza Other Respir Viruses. 2011;5(3):143–145. doi:10.1111/j.1750-2659.2011.00237.x&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:jama&quot;&gt;
+      &lt;p&gt;Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. &lt;strong&gt;N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial&lt;/strong&gt;. JAMA. 2019;322(9):824–833. doi:10.1001/jama.2019.11645. &lt;a href=&quot;#fnref:jama&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -210,6 +282,52 @@
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Escala de coma de Glasgow</title>
+            <link href="http://localhost:4000/2019/medicina/escala-de-coma-de-glasgow"/>
+            <published>2019-10-20T13:47:11-03:00</published>
+            <id>/2019/medicina/escala-de-coma-de-glasgow</id>
+            <content type="html">&lt;p&gt;Existem muitas escalas na medicina. Uma das mais antigas e ainda amplamente utilizada é a escala de coma de Glagow (ECG). Simplemente não dá para não saber a ECG. Ela foi criada em 1974 na tentativa de tentar categorizar de forma prática o nível de consciência dos pacientes.&lt;sup id=&quot;fnref:tesdale2014&quot;&gt;&lt;a href=&quot;#fn:tesdale2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Antes da ECG era muito difícil de se comunicar entre os médicos o grau de rebaixamento de consciência dos pacientes. Também não havia uma quantificação para saber se o paciente estava melhorando ou piorando o seu estado mental. E, além disso, era muito difícil fazer pesquisas sem conseguir dividir os pacientes em grupos e avaliar os resultados do acordo com eles.&lt;/p&gt;
+
+&lt;p&gt;Então, 45 anos atrás a &lt;em&gt;Glasgow coma scale&lt;/em&gt; era publicada no períodico &lt;em&gt;The Lancet&lt;/em&gt;. O artigo original em questão &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(74)91639-0/fulltext&quot; target=&quot;_blank&quot;&gt;pode ser acessado aqui&lt;/a&gt;&lt;sup id=&quot;fnref:tesdale1974&quot;&gt;&lt;a href=&quot;#fn:tesdale1974&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;A ECG começou a ser desenvolvida já em 1971, na busca por melhorar o atendimento de paciebtes vítimas de traumatismos encefálicos e estabelecer um critério de prognóstico.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:tesdale2014&quot;&gt;
+      &lt;p&gt;Teasdale G, Maas A, Lecky F, Manley G, Stocchetti N, Murray G. The Glasgow Coma Scale at 40 years: standing the test of time. The Lancet Neurology. 2014;13(8):844-854. doi:10.1016/S1474-4422(14)70120-6 &lt;a href=&quot;#fnref:tesdale2014&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:tesdale1974&quot;&gt;
+      &lt;p&gt;Teasdale G, Jennett B. Assessment of coma and impaired consciousness. The Lancet. 1974;304(7872):81-84. doi:10.1016/S0140-6736(74)91639-0 &lt;a href=&quot;#fnref:tesdale1974&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Leptospirose</title>
+            <link href="http://localhost:4000/2019/medicina/leptospirose"/>
+            <published>2019-10-20T00:00:00-03:00</published>
+            <id>/2019/medicina/leptospirose</id>
+            <content type="html">
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Cirúrgias também pode funcionar como placebo?</title>
+            <link href="http://localhost:4000/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo"/>
+            <published>2019-10-20T00:00:00-03:00</published>
+            <id>/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo</id>
+            <content type="html">
 </content>
         </entry>
     
