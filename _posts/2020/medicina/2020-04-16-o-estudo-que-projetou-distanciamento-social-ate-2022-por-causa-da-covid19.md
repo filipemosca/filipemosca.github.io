@@ -6,7 +6,7 @@ tags: [covid-19, coronavirus, epidemiologia, pandemia]
 
 Essa semana, dia 14 de Abril, foi publicado um [estudo na revista *Science*](https://science.sciencemag.org/content/early/2020/04/14/science.abb5793)[^Kissler2020] projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxado por alguns como "alarmista demais". 
 
-Isso pois em uma das projeções as medidas de distanciamento social (prolongado ou intermitente) podem ser necessárias até o ano de 2020, o que assustou muita gente. Vou explicar isso ao longo do texto.
+Isso pois em uma das projeções as medidas de distanciamento social (prolongado ou intermitente) podem ser necessárias até o ano de 2022, o que assustou muita gente. Vou explicar isso ao longo do texto.
 
 O estudo se baseou em dados de sazonalidade, duração da imunidade isolada e cruzada com os demais betacoronavírus (HCoV-OC43, HCoV-HKU1, SARS-CoV-1, MERS) e proporção de leitos e hospitalizações nos EUA. A partir desses dados, foi possível criar um modelo estimativo da dinâmica de transmissão para o SARS-CoV-2 (o novo coronavírus, causador da COVID-19) em regiões de clima temperado, até o ano de 2025.
 
