@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed/medicina.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-04-15T18:56:33-03:00</updated><id>http://localhost:4000/feed/medicina.xml</id><title type="html">Mosquildo | Medicina</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">O ministro que ousou se basear em ciência</title><link href="http://localhost:4000/2020/medicina/o-ministro-que-ousou-se-basear-em-ciencia" rel="alternate" type="text/html" title="O ministro que ousou se basear em ciência" /><published>2020-04-07T00:00:00-03:00</published><updated>2020-04-07T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/o-ministro-que-ousou-se-basear-em-ciencia</id><content type="html" xml:base="http://localhost:4000/2020/medicina/o-ministro-que-ousou-se-basear-em-ciencia">&lt;p&gt;Recentemente eu venho elogiando bastante o ministro Luiz Henrique Mandetta por sua condução do ministério da saúde. Apesar de poder apenas falar de suas atitudes durante o período da pandemia, pois antes disso eu não o acompanhava de perto.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed/medicina.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-04-16T15:44:20-03:00</updated><id>http://localhost:4000/feed/medicina.xml</id><title type="html">Mosquildo | Medicina</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">O estudo que projetou isolamento social até 2022 por causa da COVID-19</title><link href="http://localhost:4000/2020/medicina/0-estudo-que-projetou-isolamento-ate-2022-por-causa-da-covid19" rel="alternate" type="text/html" title="O estudo que projetou isolamento social até 2022 por causa da COVID-19" /><published>2020-04-16T00:00:00-03:00</published><updated>2020-04-16T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/0-estudo-que-projetou-isolamento-ate-2022-por-causa-da-covid19</id><content type="html" xml:base="http://localhost:4000/2020/medicina/0-estudo-que-projetou-isolamento-ate-2022-por-causa-da-covid19">&lt;p&gt;Essa semana, dia 14 de Abril, foi publicado um &lt;a href=&quot;https://science.sciencemag.org/content/early/2020/04/14/science.abb5793&quot;&gt;estudo na revista &lt;em&gt;Science&lt;/em&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:Kissler2020&quot;&gt;&lt;a href=&quot;#fn:Kissler2020&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxado por alguns como “alarmista demais”.&lt;/p&gt;
+
+&lt;p&gt;Isso pois em uma das projeções as medidas de distanciamento social (prolongado ou intermitente) podem ser necessárias até o ano de 2020, o que assustou muita gente. Vou explicar isso ao longo do texto.&lt;/p&gt;
+
+&lt;p&gt;O estudo se baseou em dados de sazonalidade, duração da imunidade isolada e cruzada com os demais betacoronavírus (HCoV-OC43, HCoV-HKU1, SARS-CoV-1, MERS) e proporção de leitos e hospitalizações nos EUA. A partir desses dados, foi possível criar um modelo estimativo da dinâmica de transmissão para o SARS-CoV-2 (o novo coronavírus, causador da COVID-19) em regiões de clima temperado, até o ano de 2025.&lt;/p&gt;
+
+&lt;p&gt;Em todos os modelos, o Novo coronavirus foi capaz de gerar grandes surtos em qualquer épóca do ano, apesar de o pico ser maior no inverno.&lt;/p&gt;
+
+&lt;p&gt;O melhor indicador pra avaliar a qualidade do distanciamento social é verificar a taxa de ocupação de leitos de UTI. Quando a capacidade é insuficiente, ocorre um colápso do sistema de saúde, faltando leitos para os pacientes. No momento, a única forma de prevenir isso é a adoção das medidas de distanciamento social.&lt;/p&gt;
+
+&lt;p&gt;Vou discutir agora os achados e projeções desse estudo.&lt;/p&gt;
+
+&lt;h2 id=&quot;duração-da-imunidade&quot;&gt;Duração da imunidade&lt;/h2&gt;
+
+&lt;p&gt;Se a imunidade ao SARS-CoV-2 não for permanente, isto é, uma vez infectado o indivíduo ainda pode sofrer nova infecção, o novo coronavirus entrará em num padrão de circulação sazonal semelhantes aos demais vírus que causam a gripe comum.&lt;/p&gt;
+
+&lt;p&gt;Se a imunidade for de curto prazo, assim como para os vírus HCoV-OC43 e HCoV-HKU1 (com duração de aproximadamente 40 semanas) então os surtos devem ser anuais. Já se a imunidade for de longo prazo, aproximadamente 2 anos, então os surtos devem ser bienais.&lt;/p&gt;
+
+&lt;p&gt;Se a imunidade for permanente, isto é, uma vez infectado o indivíduo está protegido para o resto a vida, o novo coronavirus pode levar 5 anos ou mais para desaparecer.&lt;/p&gt;
+
+&lt;h3 id=&quot;imunidade-cruzada&quot;&gt;Imunidade cruzada&lt;/h3&gt;
+
+&lt;p&gt;Hoje nós sabemos que a infecção pelo SARS-CoV-1 pode gerar anticorpos  neutralizantes contra HCoV-OC43 e a infecção por HCoV-OC43 pode gerar anticorpos reativos cruzados contra SARS-CoV-1. Mas será que também existe imunidade cruzada para o SARS-CoV-2? Ainda não sabemos, mas podemos trabalhar com suposições.&lt;/p&gt;
+
+&lt;p&gt;Baixos níveis de imunidade cruzada dos outros betacoronavírus contra o SARS-CoV-2 podem fazer com que o SARS-CoV-2 desapareça momentaneamente e depois ressurja após alguns anos.&lt;/p&gt;
+
+&lt;p&gt;Por exemplo, numa situação em que a imunidade ao SARS-CoV-2 dure 2 anos e a imunidade cruzada pelos outros coronavirus corresponda por 30%, a COVID-19 pode “sumir” por até 3 anos e ressurgir em 2024.&lt;/p&gt;
+
+&lt;h3 id=&quot;tem-alguma-notícia-boa&quot;&gt;Tem alguma notícia boa?&lt;/h3&gt;
+
+&lt;p&gt;Bom, se o SARS-CoV-2 produzir alguma imunidade cruzada com os outros coronavirus, então a incidência destes pode reduzir ao longo do tempo.&lt;/p&gt;
+
+&lt;p&gt;Curiosamente, se a imunidade permanente ao SARS-CoV-2 também produzir 70% de imunidade cruzada contra os HCoV-OC43 e HCoV-HKU1, poderíamos observar a eliminação &lt;em&gt;virtual&lt;/em&gt; na circulação desses outros vírus.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-cenário-até-2022&quot;&gt;O cenário até 2022&lt;/h2&gt;
+
+&lt;p&gt;Agora vamos falar sobre a polêmica do isolamento até 2022.&lt;/p&gt;
+
+&lt;p&gt;Em todas as projeções, as infecções voltaram a crescer após a suspensão das medidas de isolamento. E, curiosamente, o distânciamento social muito longo e rigoroso pode fazer com que o pico de ressurgimento seja muito elevado, pois poucas pessoas terão adquirido imunidade e seriam vitimas de um novo surto. Por exemplo: numa projeção com distânciamento social de 20 semanas e com redução de 60% do R&lt;sub&gt;0&lt;/sub&gt;, o tamanho do pico de ressurgimento era quase o mesmo que o de pico da epidemia não controlada.&lt;/p&gt;
+
+&lt;p&gt;A solução para isso pode ser adotar períodos de distânciamento social intermitente, de modo a impedir a lotação dos serviços de saúde e controlar os novos picos de infecção quando os indivíduos suscetíveis começarem a sair de casa. Nessa estratégia, as pessoas iriam se infectando e adquirindo imunidade aos poucos, sem a ocorrência de grandes surtos que colapsem o sistema de saúde.&lt;/p&gt;
+
+&lt;p&gt;Mas esse distânciamento intermitente precisa ser muito bem planejado, pois há um atraso de mais ou menos 3 semanas entre a adoção do isolamento e o início da redução dos casos. Isso devido à história natural da doença e o período de incubação.&lt;/p&gt;
+
+&lt;p&gt;Nesse cenário, ao longo do tempo em que a população for adquirindo imunidade, o período entre a adoção e suspensão do isolamento poderá ir sendo prolongado aos poucos.&lt;/p&gt;
+
+&lt;p&gt;Agora vamos para a projeção de quanto tempo duraria essa estratégia se fosse implementada.&lt;/p&gt;
+
+&lt;p&gt;Considerando o pior cenário possível, em que não haja imunidade cruzada do HCoV-OC43 e HCoV-HKU1 contra o SARS-CoV-2 (dentre outras variáveis que não vou detalhar aqui mas estão no artigo) a projeção indicou que essa estratégia seria necessária até pelo menos o ano de 2022. Isso considerando que até lá não sejam encontrados medicamentos ou vacinas efetivas.&lt;/p&gt;
+
+&lt;p&gt;Contudo, se as capacidades do sistema de saúde fossem consideravelmente aumentadas, isso permitiria maior flexibilização do distanciamento social, permitindo que a população adquira imunidade de forma mais rápida sem que haja exaustão do sistema de saúde.&lt;/p&gt;
+
+&lt;p&gt;De modo semelhante, a descoberta de uma vacina ou um tratamento efetivo também séria crucial para reduzir o tempo necessário para a população adquirir imunidade sem exaurir o sistema de saúde.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Para deixar tudo mais claro, o estudo trabalha com vários cenários. No pior deles, temos essa previsão de isolamento necessário até 2022. Claro que o estudo tem muitas limitações. Nós sequer sabemos a duração da imunidade proporcionada após infecção pelo SARS-CoV-2 e além disso os dados são baseados nos EUA e para clima temperado.&lt;/p&gt;
+
+&lt;p&gt;Na minha concepção, o objetivo deste artigo foi, baseado em modelos matemáticos, tentar prever qual seria o pior cenário possível e usá-lo como uma linha de horizonte para nos prepararmos hoje. É importante termos essa noção para pensarmos em medidas que diminuam o impácto econômico, de saúde e educacional. Por mais que essa projeção não se concretize, precisamos estar preparados para ela.&lt;/p&gt;
+
+&lt;p&gt;Como o estudo discute, aumentar a capacidade de leitos e a busca por uma vacina e tratamentos são fundamentais para impedir esse cenário.&lt;/p&gt;
+
+&lt;p&gt;A testagem em massa da população também seria muito interessante para tentar medir a porcentagens de indivíduos que já teriam adquirido imunidade e fornecer mais dados pensando em como planejar o distanciamento intermitente.&lt;/p&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Kissler2020&quot;&gt;
+      &lt;p&gt;Kissler SM, Tedijanto C, Goldstein E, Grad YH, Lipsitch M. &lt;strong&gt;Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period&lt;/strong&gt; [published online ahead of print, 2020 Apr 14]. Science. 2020;eabb5793. doi:&lt;a href=&quot;https://doi.org/10.1126/science.abb5793&quot;&gt;10.1126/science.abb5793&lt;/a&gt;. &lt;a href=&quot;#fnref:Kissler2020&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="covid-19" /><category term="coronavirus" /><category term="epidemiologia" /><category term="pandemia" /><summary type="html">Essa semana, dia 14 de Abril, foi publicado um estudo na revista Science1 projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxado por alguns como “alarmista demais”. Kissler SM, Tedijanto C, Goldstein E, Grad YH, Lipsitch M. Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period [published online ahead of print, 2020 Apr 14]. Science. 2020;eabb5793. doi:10.1126/science.abb5793. &amp;#8617;</summary></entry><entry><title type="html">O ministro que ousou se basear em ciência</title><link href="http://localhost:4000/2020/medicina/o-ministro-que-ousou-se-basear-em-ciencia" rel="alternate" type="text/html" title="O ministro que ousou se basear em ciência" /><published>2020-04-07T00:00:00-03:00</published><updated>2020-04-07T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/o-ministro-que-ousou-se-basear-em-ciencia</id><content type="html" xml:base="http://localhost:4000/2020/medicina/o-ministro-que-ousou-se-basear-em-ciencia">&lt;p&gt;Recentemente eu venho elogiando bastante o ministro Luiz Henrique Mandetta por sua condução do ministério da saúde. Apesar de poder apenas falar de suas atitudes durante o período da pandemia, pois antes disso eu não o acompanhava de perto.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&quot;/assets/2020/mandetta.jpg&quot; /&gt;
@@ -654,134 +726,4 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
   &lt;li&gt;WHO: Antimicrobial resistance: global report on surveillance. 2014, ISBN 978 92 4 156474 8.&lt;/li&gt;
   &lt;li&gt;Anvisa: Superbactérias: de onde vêm, como vivem e se reproduzem &lt;a href=&quot;http://portal.anvisa.gov.br/rss/-/asset_publisher/Zk4q6UQCj9Pn/content/superbacterias-de-onde-vem-como-vivem-e-se-reproduzem/219201?inheritRedirect=false&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Anvisa: Hora de ajudar na luta contra superbactérias &lt;a href=&quot;http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/hora-de-ajudar-na-luta-contra-superbacterias/219201?p_p_auth=IyRI936i&amp;amp;inheritRedirect=false&amp;amp;redirect=http%3A%2F%2Fportal.anvisa.gov.br%2Fnoticias%3Fp_p_auth%3DIyRI936i%26p_p_id%3D101_INSTANCE_FXrpx9qY7FbU%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_dKu0997DQuKh__column-2%26p_p_col_count%3D1&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="antibióticos" /><category term="bactérias" /><category term="evolução" /><summary type="html">O termo superbactéria é amplamente usado para ser referir a bactérias com uma intensa capacidade de provocar doenças graves e de difícil tratamento. O “superpoder” delas é a sua capacidade de resistir a vários tipos de antibióticos, o que para nós não é nada bom.</summary></entry><entry><title type="html">O sarampo está de volta? Entendendo o surto no Brasil</title><link href="http://localhost:4000/2019/medicina/entendendo-o-surto-de-sarampo-no-brasil" rel="alternate" type="text/html" title="O sarampo está de volta? Entendendo o surto no Brasil" /><published>2019-01-25T00:00:00-03:00</published><updated>2019-01-25T00:00:00-03:00</updated><id>http://localhost:4000/2019/medicina/entendendo-o-surto-de-sarampo-no-brasil</id><content type="html" xml:base="http://localhost:4000/2019/medicina/entendendo-o-surto-de-sarampo-no-brasil">&lt;p&gt;Em 2016, o sarampo foi considerado uma doença eliminada no Brasil. Com 95% da população alvo vacinada e 12 meses sem novos casos, a &lt;a href=&quot;https://www.paho.org/bra/&quot;&gt;OPAS&lt;/a&gt; nos concedeu essa conquista. Contudo, se você acompanha os noticiários já deve estar por dentro da mais nova preocupação. O sarampo parece está voltando ao Brasil. Dois anos após a eliminação o nosso título está ameaçado? Ao longo do artigo vou tentar explicar os fatores que levaram ao surto e também responder essa pergunta.&lt;/p&gt;
-
-&lt;h2 id=&quot;breve-descrição-da-doença&quot;&gt;Breve descrição da doença&lt;/h2&gt;
-
-&lt;p&gt;O sarampo é uma doença causada por um vírus transmitido de uma pessoa a outra através das vias aéreas (tosse e contato com secreções orais e nasais de pessoas infectadas). Os sintomas iniciais incluem febre e mal-estar, tosse produtiva e muita “secreção catarral”. A desnutrição e baixa imunidade intensificam e prolongam a infecção, o que explica a maior prevalência em países subdesenvolvidos, além de, claro, o menor acesso a vacinas nestes lugares.&lt;/p&gt;
-
-&lt;p&gt;O exantema (aparecimento de múltiplas manchas avermelhadas pelo corpo) é outra condição que caracteriza o sarampo. É o primeiro resultado quando digitamos “sarampo” no google imagens e, talvez, a primeira imagem que vem à mente das pessoas. É durante essa fase das manchas pelo corpo que costumam ocorrer as complicações. Estas podem vir na forma de pneumonias, encefalite, laringites, entre outras, e agravarem o quadro de saúde do paciente (principalmente em desnutridos e pessoas com baixa imunidade). O maior motivo para se preocupar com esta doença são as crianças, até os anos 80 o sarampo era a terceira maior causa de mortalidade infantil no mundo subdesenvolvido, incluindo o Brasil [1].&lt;/p&gt;
-
-&lt;h2 id=&quot;o-grande-surto-em-amazonas-e-roraima&quot;&gt;O grande surto em Amazonas e Roraima&lt;/h2&gt;
-
-&lt;p&gt;Em 2017, &lt;a href=&quot;https://www1.folha.uol.com.br/cotidiano/2018/06/vacinacao-de-criancas-no-pais-atinge-indice-mais-baixo-em-16-anos.shtml&quot;&gt;a taxa de vacinação de crianças atingiu o menor índice em 16 anos&lt;/a&gt;, desde de 2016 já notava-se uma diminuição gradual nas imunizações. &lt;a href=&quot;https://g1.globo.com/bemestar/noticia/erradicacao-de-polio-e-sarampo-criou-falsa-sensacao-de-que-vacinacao-nao-e-mais-necessaria-diz-ministerio-da-saude.ghtml&quot;&gt;O ministério da Saúde disse em nota&lt;/a&gt; que a erradicação pode ter causado a falsa impressão de a vacinação não ser mais necessária. Entretanto, minha grande preocupação é que a redução nos números estar ligada ao crescimento dos movimentos “antivacina” ao redor mundo. Melhor torcer para que as pessoas apenas tenham se enganado do que começado a rejeitar vacinas. O fato é que o período de queda na vacinação coincidiu com o período em que cresceu a &lt;a href=&quot;https://www.nexojornal.com.br/expresso/2018/08/21/Como-a-imigra%C3%A7%C3%A3o-venezuelana-testa-os-pa%C3%ADses-vizinhos&quot;&gt;vinda de imigrantes venezuelanos para a região norte&lt;/a&gt;. E começamos a entender melhor a situação quando notamos que &lt;a href=&quot;https://www.paho.org/hq/index.php?option=com_docman&amp;amp;view=download&amp;amp;category_slug=sarampion-2183&amp;amp;alias=44093-16-marzo-2018-sarampion-actualizacion-epidemiologica-093&amp;amp;Itemid=270&amp;amp;lang=pt&quot;&gt;o genótipo (i.e. tipo genético) viral da Venezuela foi justamente o encontrado em circulação onde houve o surto&lt;/a&gt;. É através da análise do código genético viral que sabemos se o vírus foi importado de outros países ou se é um vírus nosso. O aumento significativo da imigração, o surto na Venezuela e a redução do número de vacinações parece ter sido a equação fatal para a emergência desse surto.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;É importantíssimo entender que, pelo menos até onde eu pesquisei e até a data de publicação deste artigo, nenhum desses novos casos é autóctone (i.e. contraído em vírus em circulação no nosso país). Todos os casos descritos foram casos importados.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/posts/2019/sarampo/casos-notificados.png&quot; alt=&quot;Gráfico mostrando a frequência de casos notificados de sarampo na venezuela. Da semana 26 o surto tem inicio mas se mantêm reduzido. A partir da semana 24 começam a subir significativamente o número de norificações.&quot; /&gt;
-    &lt;figcaption&gt;Casos notificados de sarampo na Venezuela, da semana epidemiológica 26 de 2017 até a semana 8 de 2018. Podemos ver o início do surto e a frequência de casos ao longo dos meses.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;e-qual-a-dimensão-do-problema&quot;&gt;E qual  a dimensão do problema?&lt;/h3&gt;
-
-&lt;p&gt;Chega o fim do ano e nos deparamos esses dados assustadores: &lt;a href=&quot;http://www.brasil.gov.br/noticias/saude/2018/11/brasil-tem-9-477-casos-confirmados-de-sarampo&quot;&gt;mais de 10.000 caso de sarampo foram confirmados em 2018&lt;/a&gt;. &lt;a href=&quot;https://www.scielosp.org/article/ress/2018.v27n2/e2016380/pt/&quot;&gt;A última grande epidemia de sarampo no Brasil aconteceu em 1997&lt;/a&gt;, com 53 mil casos notificados [2], ou seja, fazem mais de 10 anos que não sabíamos o que era um grande surto de sarampo (veja o gráfico abaixo).&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/posts/2019/sarampo/diminuicao-sarampo.png&quot; alt=&quot;Gráfico demonstrando que a partir de 1980 a intensidade dos surtos foram deminuindo até que em 1997 foi o último.&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Amazonas foi disparado o estado mais atingido. De acordo com o &lt;a href=&quot;http://www.fvs.am.gov.br/images/download/2019/dipre/boletim/boletim-epidemiologico-de-sarampo-no-amazonas-40.pdf&quot;&gt;último boletim disponível&lt;/a&gt;, foram 9.789 casos confirmados em 2018 (mais precisamente: entre a sexta semana de 2018 e a segunda semana de 2019). Neste mapa abaixo podemos ver a distribuição dos casos por todo o território nacional.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/posts/2019/sarampo/mapa2.png&quot; alt=&quot;Mapa mostrando os estados federativos onde houveram casos de sarampo e uma lista com o número de casos confirmados para cada um desses estados. A amazonia lideou com 9.778, mais de 90% dos casos.&quot; /&gt;
-    &lt;figcaption&gt;Total de casos confirmados por unidade federativa no ano de 2018. O estado de Amazonas liderou com imensa vantagem o número de conformações. Foram 9.778, mais de 90% do total de casos.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;E, curiosamente, Amazonas e Roraima foram, respectivamente, o segundo e o terceiro estado com a maior cobertura vacinal dentre os que apresentaram casos. Mas fica fácil entender a aparente contradição, pois os dois estados foram os com a maior circulação do vírus. Ainda bem que apesar da redução a vacinação ainda se manteve acima da média nacional, poderia ter sido muito pior.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/posts/2019/sarampo/tabela1.png&quot; alt=&quot;Tabela com o percentual de cobertura vacinal da população para cada uma das duas doses da vacina. Amazonas foi o segundo estado com o maior percentual vacinado e Roraima o terceiro.&quot; /&gt;
-    &lt;figcaption&gt;Tabela com o percentual de cobertura vacinal da população para cada uma das duas doses da vacina no ano de 2018. Amazonas foi o segundo estado com o maior percentual vacinado e Roraima o terceiro.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;A faixa etária mais atingida foi dos 15 aos 29 anos, representando quase 50% de todos os casos. Isso contrasta com a ideia de que as crianças costumam ser mais acometidas. Porém, desde que a política nacional de vacinação foi estabelecida já se notava esse desvio demográfico. As crianças vacinadas são poupadas e a doença começa a atingir mais adultos que ou nunca foram vacinados ou tiveram redução na imunidade vacinal ao longo dos anos.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/posts/2019/sarampo/tabela2.png&quot; alt=&quot;Tabela com as características sociodemográficas de acordo com os casos de sarampo no estado do Amazonas, em 2018. A faixa etária de 15 a 29 anos foi a mais atingida. &quot; /&gt;
-    &lt;figcaption&gt;  Tabela com as características sociodemográficas de acordo com os casos de sarampo no estado do Amazonas, em 2018. A faixa etária de 15 a 29 anos foi a mais atingida.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;10-mil-casos-então-o-sarampo-não-está-mais-erradicado&quot;&gt;10 mil casos! Então o sarampo não está mais erradicado?&lt;/h3&gt;
-
-&lt;p&gt;Essa talvez seja a pergunta que você deve estar se fazendo. Esse é um assunto bastante polêmico no meio acadêmico e pela internet é possível achar vários artigos e materiais discutindo os critérios de erradicação, eliminação, controle e etc. Na verdade, mesmo antes destes surtos mais recentes o Brasil continuou tendo casos de sarampo. A diferença é que todos os casos mais recentes são casos importados, e não devido a vírus em circulação no nosso território. O ultimo caso autóctone (i.e. devido a um vírus brasileiro) registrado data dos anos 2000 [3], a quase 19 anos.&lt;/p&gt;
-
-&lt;p&gt;Dentre as buscas que fiz, o critério usado para a &lt;strong&gt;eliminação&lt;/strong&gt; de uma doença é a cessação da transmissão endêmica num determinado território. Já a &lt;strong&gt;erradicação,&lt;/strong&gt; é reduzir permanentemente a zero o numero de casos. Ou seja, baseado nesta definição, é errado dizer que o sarampo está erradicado (como fiz nesse subtítulo), mas continuamos com o posto de eliminação do sarampo, uma vez que todos os casos reportados são devidos a vírus importados. &lt;a href=&quot;http://portalms.saude.gov.br/noticias/agencia-saude/25846-brasil-recebe-certificado-de-eliminacao-do-sarampo&quot;&gt;Aqui podemos ver que de fato recebemos o certificado de eliminação&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Veja este parágrafo do livro &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK11763/&quot;&gt;&lt;em&gt;Disease Control Priorities in Developing Countries&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Some who are concerned with eradication programs have explicitly defined this term [elimination] to denote the cessation of transmission of an organism throughout a country or region. In contrast, eradication is defined as a global achievement. Like control, elimination is location-specific and would require ongoing interventions to be sustained in order to prevent reemergence of the disease from microbe importations.&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Tradução livre:&lt;/strong&gt; &lt;span class=&quot;tlid-translation translation&quot;&gt;&lt;span class=&quot;&quot; title=&quot;&quot;&gt;Algumas [organizações] que estão preocupados com os programas de erradicação definiram explicitamente este termo [erradicação] para denotar a cessação da transmissão de um organismo por todo um país ou região.&lt;/span&gt; &lt;span title=&quot;&quot;&gt;Em contraste, a erradicação é definida como uma conquista global.&lt;/span&gt; &lt;span title=&quot;&quot;&gt;Como o controle, a eliminação é específica do local e exigiria intervenções contínuas a serem mantidas, a fim de evitar a reemergência da doença das importações de micróbios.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-  &lt;p&gt; &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Então, o termo &lt;em&gt;eliminação&lt;/em&gt; é muito importante para guiar estratégias mundiais de promoção de saúde pública. Os esforços individuais de cada país na eliminação de uma doença, somados, vão resultar na tão desejada erradicação global.&lt;/p&gt;
-
-&lt;h2 id=&quot;uma-breve-história-da-vacina&quot;&gt;Uma breve história da vacina&lt;/h2&gt;
-
-&lt;p&gt;Foi em 1911 que o um vírus foi associado ao sarampo. Anderson e Golderberg infectaram macacos com secreções orais de pessoas doentes e perceberam que os macacos também adoeciam. Contudo, o isolamento do vírus só ocorreu em 1954, por Enders e Plebes, cultivando-os em células renais de macacos. As vacinas estão liberadas desde 1963 nos estados unidos e ao longo dos anos elas foram cada vez mais aperfeiçoadas, reduzindo riscos e complicações. A campanha de vacinação no Brasil teve início em 1992 com a vacinação de 48 milhões de crianças de 9 meses a 14 anos, atingindo 96% da meta estabelecida pela campanha na época.&lt;/p&gt;
-
-&lt;p&gt;O gráfico abaixo é uma animação refletindo quantos por cento da população mundial estava vacinada ao longo dos anos, por cada país.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/posts/2019/sarampo/animado.gif&quot; alt=&quot;Mapa animado demostrando o aumento progressivo na cobertura vacinal da população a partir de 1980&quot; /&gt;
-    &lt;figcaption&gt;Mapa animado demonstrando a porcentagem de cobertura vacinal (primeira dose) na população em cada pais ao longo dos anos.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Já este outro gráfico abaixo, compara o aumento da oferta global da primeira dose da vacina com a o número de casos notificados da doença em todo o mundo, entre os anos de 1980 e 2011. É interessante observar este gráfico comparando com o  mapa acima. Podemos ver como a vacina foi o marco fundamental para o controle desta enfermidade.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/posts/2019/sarampo/grafico1.png&quot; alt=&quot;No gráfico: a partir de 1980 o npumero de casos foi diminuindo ao passo que a vacinação foi atingindo mais pessoas.&quot; /&gt;
-    &lt;figcaption&gt;  Casos de sarampo notificados em todo o mundo (em milhares) e porcentagem mundial de cobertura da primeira dose da vacina, entre 1980 e 2011 (Fonte: WHO).&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;como-se-prevenir&quot;&gt;Como se prevenir?&lt;/h2&gt;
-
-&lt;p&gt;Em termos de utilidade prática, essa deve ser a parte mais importante do texto. Primeiramente, em qualquer caso de suspeita dos sinais e sintomas do sarampo, a recomendação é procurar ajuda médica. Mas, para evitar que isso seja necessário, é muito melhor correr atrás de ter as vacinas em dia.&lt;/p&gt;
-
-&lt;p&gt;A vacina do sarampo é administrada em duas doses. No Brasil, a primeira dose faz parte da &lt;strong&gt;tríplice viral&lt;/strong&gt; (Sarampo, Caxumba e Rúbeola) e deve ser realizada aos 12 meses de vida. Já a segunda dose é feita aos 15 meses, na vacina da &lt;strong&gt;tetra viral&lt;/strong&gt; (tríplice viral + varicela). Crianças de 5 a 19 anos que não se vacinaram podem (devem) tomar duas doses da vacina tríplice. Já em relação aos adultos, também podem se vacinar, caso nunca tenham sido imunizados ou não tenham completado as doses.&lt;/p&gt;
-
-&lt;p&gt;Não podem ser vacinados: casos suspeitos de sarampo, gestantes (devem regularizar a imunização antes da gravidez), menores de 6 anos de idade e pacientes imunocomprometidos (estes devem seguir as orientações médicas, cada caso é um caso).&lt;/p&gt;
-
-&lt;p&gt;As informações são do &lt;a href=&quot;http://portalms.saude.gov.br/saude-de-a-z/sarampo&quot;&gt;portal do ministério da saúde&lt;/a&gt; e o calendário nacional de vacinação de 2018 pode ser &lt;a href=&quot;http://portalarquivos2.saude.gov.br/images/pdf/2018/julho/11/Calendario-de-Vacinacao-2018.pdf&quot;&gt;acessado aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
-
-&lt;p&gt;Primeiramente, quero deixar bem claro que em momento nenhum estou querendo jogar toda a culpa pelo surto nos venezuelanos imigrantes. Espero ter deixado bem claro no corpo do texto que o acontecido foi uma soma de diversos fatores. Não apenas a América do Sul está presenciando aumento nos casos de sarampo, outras regiões do mundo estão passando por isso, como é o caso da Europa. Mas isso é assunto para outra postagem.&lt;/p&gt;
-
-&lt;p&gt;A mensagem que quero deixar é a da importância a vacina. É a única forma de se prevenir do sarampo. Mesmo que já tenhamos eliminado a doença, apenas com a vacinação contínua das próximas gerações poderemos manter o nosso título de eliminação, esperando que o mundo siga o nosso exemplo.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Veronesi: Tratado de infectologia / editor científico Roberto Focaccia. – 5. ed. rev. e atual. – São Paulo : Editora Atheneu, 2015.&lt;/li&gt;
-  &lt;li&gt;Moura, Ana Débora Assiset al. Monitoramento Rápido de Vacinação na prevenção do sarampo no estado do Ceará, em 2015. Epidemiologia e Serviços de Saúde [online]. 2018, v. 27, n. 2 [Acessado 25 Janeiro 2019] , e2016380. &lt;a href=&quot;https://doi.org/10.5123/S1679-49742018000200017&quot;&gt;Disponível aqui&lt;/a&gt;. Epub 21 Jun 2018. ISSN 2237-9622. &lt;a href=&quot;https://doi.org/10.5123/S1679-49742018000200017&quot;&gt;doi&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Ministério da saúde: Situação do Sarampo no Brasil – 2019. Nº35. 9 de janeiro de 2019.&lt;/li&gt;
-  &lt;li&gt;RODRIGUES, Nara Ohana Bezerra. Vacinas e doenças imunopreveníveis em pediatria: avanços e desafios na promoção da saúde. 2018. 29 f. Trabalho de Conclusão de Residência Médica (Residência Médica em Pediatria)– Hospital Geral de Fortaleza, Fortaleza, 2018&lt;/li&gt;
-  &lt;li&gt;Fundação de vigilância em saúde do Amazonas: Boletim epimiológico de surto de sarampo no Amazonas. Nº40. 14 de janeiro de 2019.&lt;/li&gt;
-  &lt;li&gt;Dowdle W. R. (1998). The principles of disease elimination and eradication. &lt;em&gt;Bulletin of the World Health Organization&lt;/em&gt;, &lt;em&gt;76 Suppl 2&lt;/em&gt;(Suppl 2), 22-5.&lt;/li&gt;
-  &lt;li&gt;Site o ministério da saúde. Ministério da Saúde atualiza casos de sarampo. Acessado em 25 de janeiro de 2019.&lt;/li&gt;
-  &lt;li&gt;Miller M, Barrett S, Henderson DA. Control and Eradication. In: Jamison DT, Breman JG, Measham AR, et al., editors. Disease Control Priorities in Developing Countries. 2nd edition. Washington (DC): The International Bank for Reconstruction and Development / The World Bank; 2006. Chapter 62. &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK11763/&quot;&gt;Available here&lt;/a&gt;. Co-published by Oxford University Press, New York.&lt;/li&gt;
-  &lt;li&gt;Papania MJ, Wallace GS, Rota PA, et al. Elimination of Endemic Measles, Rubella, and Congenital Rubella Syndrome From the Western Hemisphere: The US Experience. &lt;em&gt;JAMA Pediatr.&lt;/em&gt; 2014;168(2):148–155.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="epidemiologia" /><category term="sarampo" /><category term="vacinas" /><summary type="html">Em 2016, o sarampo foi considerado uma doença eliminada no Brasil. Com 95% da população alvo vacinada e 12 meses sem novos casos, a OPAS nos concedeu essa conquista. Contudo, se você acompanha os noticiários já deve estar por dentro da mais nova preocupação. O sarampo parece está voltando ao Brasil. Dois anos após a eliminação o nosso título está ameaçado? Ao longo do artigo vou tentar explicar os fatores que levaram ao surto e também responder essa pergunta.</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="antibióticos" /><category term="bactérias" /><category term="evolução" /><summary type="html">O termo superbactéria é amplamente usado para ser referir a bactérias com uma intensa capacidade de provocar doenças graves e de difícil tratamento. O “superpoder” delas é a sua capacidade de resistir a vários tipos de antibióticos, o que para nós não é nada bom.</summary></entry></feed>
