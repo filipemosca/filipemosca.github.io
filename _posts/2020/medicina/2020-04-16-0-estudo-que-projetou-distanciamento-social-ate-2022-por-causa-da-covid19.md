@@ -1,5 +1,5 @@
 ---
-title: O estudo que projetou isolamento social até 2022 por causa da COVID-19
+title: O estudo que projetou distanciamento social até 2022 por causa da COVID-19
 category: medicina
 tags: [covid-19, coronavirus, epidemiologia, pandemia]
 ---
