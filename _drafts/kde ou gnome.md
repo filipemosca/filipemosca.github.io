@@ -1,0 +1,8 @@
+---
+title: KDE ou Gnome?
+category: tecnologia
+---
+
+Por muito tempo eu fui usuário do Gnome Shell. E sempre fui relutante em testar o KDE. Sempre achei o KDE extremamente feio com o tema padrão e o gnome bonito vindo "de fábrica".
+
+Até que um dia eu resolvi testar o famigerado KDE que eu tanto odiava sem nunca ter experimentado. O resultado? Estou com o KDE instalado até este momento em que vós escrevo.

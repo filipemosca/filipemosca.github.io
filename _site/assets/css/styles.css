@@ -261,7 +261,7 @@ nav {
 
 .back-medicina {
   background-image: url(/assets/svgs/asclepius.svg);
-  background-position: right top;
+  background-position: left top;
   background-repeat: no-repeat;
   /* Do not repeat the image */
   background-size: contain;
@@ -459,7 +459,8 @@ button {
 
 .post-date {
   font-size: 0.9em;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  font-family: Georgia, serif; }
 
 .post-author {
   font-size: 16px;
