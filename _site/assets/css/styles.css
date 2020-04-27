@@ -8,11 +8,13 @@
 .wrapper-post {
   max-width: 100%; }
 
-article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption {
-  margin-right: 20px;
-  margin-left: 20px; }
-article p {
-  font-family: Georgia, serif; }
+article {
+  font-size: 1.125rem; }
+  article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption {
+    margin-right: 20px;
+    margin-left: 20px; }
+  article p {
+    font-family: Georgia, serif; }
 
 .wrapper-footer {
   max-width: 700px;
@@ -138,15 +140,22 @@ html[data-theme="dark"] {
   font-size: 0.7em;
   margin-left: 0;
   margin-right: 0;
-  margin-bottom: 0.25em;
+  margin-bottom: 0.5em;
   margin-top: 0; }
+
+#assinar-email {
+  margin-bottom: 0.25em; }
+
+.musica {
+  background-color: #d60000;
+  color: #ffffff; }
+
+.cinema {
+  background-color: #1f5fe9;
+  color: #f1f1f1; }
 
 .medicina {
   background-color: #0e810e;
-  color: #f1f1f1; }
-
-.linux {
-  background-color: #c52525;
   color: #f1f1f1; }
 
 .aleatoriedades {
@@ -161,16 +170,16 @@ html[data-theme="dark"] {
   background-color: #0d644a;
   color: #f1f1f1; }
 
-.cinema {
-  background-color: #1f5fe9;
-  color: #f1f1f1; }
-
 .xadrez {
   background-color: #9e1c5d;
   color: #f1f1f1; }
 
 .livros {
   background-color: #0c707e;
+  color: #f1f1f1; }
+
+.linux {
+  background-color: #640000;
   color: #f1f1f1; }
 
 .webdev {
@@ -654,7 +663,10 @@ a.footnote:after {
     display: inline-block; }
 
   #markdown-toc {
-    float: right; } }
+    float: right; }
+
+  article {
+    font-size: 1.25rem; } }
 /* Aqui é para tablet */
 @media only screen and (min-width: 600px) {
   .wrapper-post {

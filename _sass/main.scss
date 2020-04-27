@@ -16,6 +16,7 @@ article {
   p {
     font-family: Georgia, serif;
   }
+  font-size: 1.125rem;
 }
 .wrapper-footer {
   max-width: 700px;
@@ -160,22 +161,27 @@ html[data-theme="dark"] {
   font-size: 0.7em;
   margin-left: 0;
   margin-right: 0;
-  margin-bottom: 0.25em;
+  margin-bottom: 0.5em;
   margin-top: 0;
 }
 
+#assinar-email {
+  margin-bottom: 0.25em;
+}
 
 // End buttons layout
 
 // Categories colors
+.musica {background-color: rgb(214, 0, 0); color: #ffffff;}
+.cinema {background-color: rgb(31, 95, 233); color: #f1f1f1;}
 .medicina {background-color: rgb(14, 129, 14); color: #f1f1f1;}
-.linux {background-color: rgb(197, 37, 37); color: #f1f1f1;}
 .aleatoriedades {background-color: rgb(117, 34, 158); color: #f1f1f1;}
 .tecnologia {background-color: rgb(207, 88, 19); color: #f1f1f1;}
 .covid19 {background-color: rgb(13, 100, 74); color: #f1f1f1;}
-.cinema {background-color: rgb(31, 95, 233); color: #f1f1f1;}
 .xadrez {background-color: rgb(158, 28, 93); color: #f1f1f1;}
 .livros {background-color: rgb(12, 112, 126); color: #f1f1f1;}
+.linux {background-color: rgb(100, 0, 0); color: #f1f1f1;}
+
 .webdev {background-color: rgb(117, 66, 0); color: #f1f1f1;}
 .categorias:visited {color: #f1f1f1;}
 .categorias:hover {background-color: #000000;}
@@ -489,7 +495,7 @@ button {
 .post-date {
   font-size: 0.9em;
   margin-bottom: 0;
-  font-family: Georgia, serif;;
+  font-family: Georgia, serif;
 }
 .post-author {
   font-size: 16px;
@@ -719,6 +725,9 @@ a.footnote:after {
   }
   #markdown-toc {
     float: right;
+  }
+  article {
+    font-size: 1.25rem;
   }
 }
 
