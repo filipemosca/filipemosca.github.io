@@ -1,7 +1,7 @@
 ---
 title: Problema do brilho travado no linux
 author: Filipe Mosca
-category: linux
+category: tecnologia
 tags: workaround notebook
 ---
 

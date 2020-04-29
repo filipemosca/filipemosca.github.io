@@ -5,16 +5,16 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Apr 2020 23:56:58 -0300</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2020 23:56:58 -0300</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2020 01:33:33 -0300</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2020 01:33:33 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
     
     <entry>
             <title type="html">A falácia ecológica e estudo correlacionando a vacina do BCG com proteção à COVID-19</title>
-            <link href="http://localhost:4000/2020/medicina/bcg-e-coronavirus"/>
-            <published>2020-04-28T23:56:58-03:00</published>
-            <id>/2020/medicina/bcg e coronavirus</id>
+            <link href="http://localhost:4000/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19.md"/>
+            <published>2020-04-29T00:00:00-03:00</published>
+            <id>/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19.md</id>
             <content type="html">&lt;p&gt;Essa semana encontrei um &lt;a href=&quot;https://doi.org/10.1101/2020.03.24.20042937&quot;&gt;manuscrito de um estudo&lt;/a&gt;&lt;sup id=&quot;fnref:Miller2020&quot;&gt;&lt;a href=&quot;#fn:Miller2020&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; que me chamou muita atenção. Era um &lt;em&gt;preprint&lt;/em&gt; avaliando a possível correlação entre a vacinação mundial do BCG e as taxas de mortalidade por COVID-19 pelo mundo.&lt;/p&gt;
 
 &lt;p&gt;Como, até o momento, não existe nenhuma vacina capaz de proteger contra o SARS-CoV-2 (o novo coronavirus), os autores do artigo levantaram a hipótese de que a vacina do BCG possa conferir algum nível de imunidade também para este vírus.&lt;/p&gt;
@@ -25,17 +25,17 @@
 
 &lt;p&gt;A vacina de BCG (&lt;em&gt;bacilo Calmette–Guérin&lt;/em&gt;) confere proteção imunológica contra doenças causadas por micobactérias, como a tuberculose e também a hanseníase.&lt;sup id=&quot;fnref:Barreto2006&quot;&gt;&lt;a href=&quot;#fn:Barreto2006&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Em países onde essas doenças são muito frequentes, toda a população costuma ser vacinada. Já nos países mais em que a incidência dessas doenças é muito baixa, a vacinação em massa da população não é mais aplicada. Nestes, apenas os grupos de risco recebem as doses.&lt;/p&gt;
+&lt;p&gt;Em países onde essas doenças são muito frequentes, toda a população costuma ser vacinada. Já nos países em que a incidência dessas doenças é muito baixa, a vacinação em massa da população não é mais aplicada. Nestes, apenas os grupos de risco recebem as doses.&lt;/p&gt;
 
 &lt;p&gt;No Brasil, a vacina de BCG é recomendada logo após o nascimento de todas as crianças.&lt;/p&gt;
 
 &lt;h2 id=&quot;a-correlação-encontrada-no-estudo&quot;&gt;A correlação encontrada no estudo&lt;/h2&gt;
 
-&lt;p&gt;Esse é um estudo ecológico, avalia indicadores de grandes grupos populacionais na busca por encontrar correlações.&lt;sup id=&quot;fnref:livro-mbe&quot;&gt;&lt;a href=&quot;#fn:livro-mbe&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Esse é um estudo ecológico, pois avalia indicadores de grandes grupos populacionais na busca por correlações.&lt;sup id=&quot;fnref:livro-mbe&quot;&gt;&lt;a href=&quot;#fn:livro-mbe&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;O estudo em questão se baseou no &lt;a href=&quot;http://www.bcgatlas.org/&quot;&gt;Atlas Mundial do BCG&lt;/a&gt; para avaliar quais países possuem campanhas de vacinação pelo BCG. Associado a isso, o estudo extraiu os dados mortalidade e número de casos do COVID-19, até 21 de março de 2020, na &lt;a href=&quot;https://google.org/crisisresponse/covid19-map&quot;&gt;plataforma de monitoramento do Google&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O estudo em questão se baseou no &lt;a href=&quot;http://www.bcgatlas.org/&quot;&gt;Atlas Mundial do BCG&lt;/a&gt;&lt;sup id=&quot;fnref:atlas&quot;&gt;&lt;a href=&quot;#fn:atlas&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; para avaliar quais países possuem campanhas de vacinação pelo BCG. Associado a isso, o estudo extraiu os dados mortalidade e número de casos do COVID-19, até 21 de março de 2020, na &lt;a href=&quot;https://google.org/crisisresponse/covid19-map&quot;&gt;plataforma de monitoramento do Google&lt;/a&gt;.&lt;sup id=&quot;fnref:google&quot;&gt;&lt;a href=&quot;#fn:google&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;A conclusão foi de que os países de renda média e alta que não aplicam o BCG são também eram os países com as maiores mortalidades pela COVID-19.&lt;/p&gt;
+&lt;p&gt;A conclusão foi de que os países de renda média e alta que não aplicam o BCG eram também os países com as maiores mortalidades por COVID-19.&lt;/p&gt;
 
 &lt;p&gt;Eles também verificaram que quanto mais antiga a data de implementação da campanha de vacinação, menores eram as taxas de mortalidade. Baseado nisso, argumentam que mais tempo de aplicação da vacina na população protegeria mais indivíduos.&lt;/p&gt;
 
@@ -43,11 +43,11 @@
 
 &lt;p&gt;A falácia ecológica ocorre quando tentamos fazer uma inferência causal individual a partir de um estudo de grupo.&lt;sup id=&quot;fnref:livro-mbe:1&quot;&gt;&lt;a href=&quot;#fn:livro-mbe&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;O problema desse estudo é exatamente esse. Ele utiliza indicadores de níveis nacionais para fazer uma conclusão a nível individual, a de que o BCG protege contra a COVID-19.&lt;/p&gt;
+&lt;p&gt;O problema desse estudo é exatamente esse. Ele utiliza indicadores de níveis nacionais (números de casos por COVID e taxa de cobertura vacinal) para fazer uma conclusão a nível individual, a de que o BCG protege contra a COVID-19.&lt;/p&gt;
 
-&lt;p&gt;A falácia ecológica é nada mais nada menos que uma das aplicações várias aplicações da máxima &lt;strong&gt;&lt;em&gt;correlação não é causa&lt;/em&gt;&lt;/strong&gt;. O fato de países com vacinação para BCG terem menor mortalidade para a COVID-19 não nos fornece um bom nível de evidência de que a BCG de fato ofereça imunidade para essa doença. Isso, pois, vários outros fatores podem explicar essa correlação.&lt;/p&gt;
+&lt;p&gt;A falácia ecológica é nada mais nada menos que uma das várias aplicações da máxima &lt;strong&gt;&lt;em&gt;correlação não é causa&lt;/em&gt;&lt;/strong&gt;. O fato de países com vacinação para BCG terem menor mortalidade para a COVID-19 não nos fornece um bom nível de evidência de que a BCG de fato ofereça imunidade para essa doença. Isso, pois, vários outros fatores podem explicar essa correlação, as chamadas &lt;a href=&quot;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&quot;&gt;variáveis de confusão&lt;/a&gt;.&lt;sup id=&quot;fnref:wiki&quot;&gt;&lt;a href=&quot;#fn:wiki&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Como coloca Emily MacLean em seu texto no blog da Nature:&lt;sup id=&quot;fnref:Emily&quot;&gt;&lt;a href=&quot;#fn:Emily&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Como coloca Emily MacLean em seu texto no blog da Nature:&lt;sup id=&quot;fnref:Emily&quot;&gt;&lt;a href=&quot;#fn:Emily&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“O que pode valer no nível agregado não será necessariamente verdadeiro quando a heterogeneidade dos indivíduos for considerada. Neste estudo, evidências de baixa qualidade observadas no nível da população são usadas para fazer inferências abrangentes sobre a eficácia do BCG em um nível individual.”&lt;/p&gt;
@@ -57,36 +57,29 @@
 
 &lt;p&gt;Outro fator de confusão muito importante é que o estudo não leva em conta a distribuição etária das populações. Como a COVID-19 é mais grave em pacientes idosos, esperá-se uma maior mortalidade em países com maior proporção de indivíduos nessa faixa etária.&lt;/p&gt;
 
-&lt;p&gt;Sem falar de outros vários possíveis fatores confundidores que não foram bem considerados pelo estudo, como: números de testes por hábitante em cada país, subnotificação, tempo desde o primeiro caso confirmado, aspéctos climáticos, aspéctos culturais, etc.&lt;/p&gt;
+&lt;p&gt;Sem falar de outros vários possíveis fatores confundidores que não foram bem considerados pelo estudo, como: números de testes por hábitantes, subnotificação, tempo desde o primeiro caso confirmado, aspéctos climáticos, aspéctos culturais, etc.&lt;/p&gt;
 
 &lt;p&gt;A correlação poderia ser explicada, por exemplo, por um raciocínio genérico como: “países ricos são os que apresentam mais casos de COVID-19, possuem uma maior proporção de idosos e também possuem a maior mortalidade pelo SARS-CoV-2. Estes também são países que possuem poucos casos de tuberculose e não realizam vacinação em massa da população.”&lt;/p&gt;
 
-&lt;p&gt;Percebem por que estudos ecológicos não podem fazer conclusões individuais? São muitas variáveis envolvidas. Em estudos clínicos para testar eficácia de tratamentos as variáveis são isoladas ao máximo. O que não é possível com estudos populacionais.&lt;/p&gt;
+&lt;p&gt;Percebem a razão pelo qual estudos ecológicos não podem fazer conclusões individuais? São muitas variáveis envolvidas. Em estudos clínicos para testar eficácia de intervenções terapêuticas as variáveis são isoladas ao máximo. O que não é possível com estudos populacionais.&lt;/p&gt;
 
 &lt;p&gt;Ou seja, esse tipo de estudo não pode fazer nenhuma conclusão sobre uma relação de causalidade. Para isso são necessários estudos clínicos individuais e não estudos ecológicos populacionais. O que estudos desse tipo podem fazer, é confirmar ou excluir a correlação.&lt;/p&gt;
 
 &lt;h2 id=&quot;e-qual-foi-o-erro-do-manuscrito&quot;&gt;E qual foi o erro do manuscrito?&lt;/h2&gt;
 
-&lt;p&gt;Apesar de no título os autores terem deixado bem claro que se trata de um estudo de correlação, ao longo do texto eu senti a impressão de que eles estavam se precipitando em relação à possível causalidade.&lt;/p&gt;
+&lt;p&gt;Apesar de no título os autores terem deixado bem claro que se trata de um estudo de correlação, ao longo do texto eu senti que eles se precipitaram em relação à possível causalidade.&lt;/p&gt;
 
-&lt;p&gt;Por exemplo, na discussão está escrita a frase &lt;em&gt;“Our data suggests that BCG vaccination seem to significantly reduce mortality associated with COVID-19.”&lt;/em&gt; [Nossos dados sugerem que a vacinação com BCG parece reduzir significativamente a mortalidade associada ao COVID-19]. E sabemos que não é isso que o estudo está sugerindo. O que o estudo sugere é uma correlação.&lt;/p&gt;
+&lt;p&gt;Por exemplo, na discussão está escrita a frase &lt;em&gt;“Our data suggests that BCG vaccination seem to significantly reduce mortality associated with COVID-19.”&lt;/em&gt; [Nossos dados sugerem que a vacinação com BCG parece reduzir significativamente a mortalidade associada ao COVID-19]. O verbo “reduzir” está colocando o BCG como sujeito da ação. E sabemos que não é isso que o estudo está sugerindo. O que o estudo sugere é uma correlação.&lt;/p&gt;
 
-&lt;p&gt;Pode parecer muita implicância minha, mas essas observações minuciosas são fundamentais para não causarmos conhecimentos equivocados. Ainda mais quando estamos tratando de políticas públicas em saúde. Seria sensato começarmos a vacinar o mundo inteiro pra BCG agora? Nem um pouco. Um leitor menos cético pode tocar conclusões precipitadas lendo este manuscrito.&lt;/p&gt;
+&lt;p&gt;Pode parecer muita implicância minha, mas essas observações minuciosas são fundamentais para não causarmos conhecimentos equivocados. Ainda mais quando estamos tratando de políticas públicas em saúde. Seria sensato começarmos a vacinar o mundo inteiro pra BCG agora? Nem um pouco. Um leitor menos cético pode tomar conclusões precipitadas lendo este manuscrito.&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
 
-&lt;p&gt;Minha crítica é principalmente na forma como o manuscrito foi escrito. Sem deixar exatamente claro que o resultado não passa de uma correlação.&lt;/p&gt;
+&lt;p&gt;Minha crítica é principalmente na forma como o manuscrito foi escrito. Sem deixar exatamente claro que o resultado não passa de uma correlação. Sempre devemos ter muita cautela interpretando estudos ecológicos para não caírmos na falácia de mesmo nome e nas variáveis de confusão.&lt;/p&gt;
 
-&lt;p&gt;Mas de qualquer forma, o estudo já está bastante desatualizado desde o dia 21 de março. Pode ser que, se refeito agora, nem haja mais uma correlação. No Brasil mesmo, os novos casos não param de crescer e hoje já passamos a China. Quando o estudo foi realizado ainda estávamos no início da curva.&lt;/p&gt;
+&lt;p&gt;De qualquer forma, o estudo já está bastante desatualizado desde o dia 21 de março. Pode ser que, se refeito agora, nem haja mais uma correlação. Aqui no Brasil, os novos casos não param de crescer e ontem já passamos a China. Quando o estudo foi realizado ainda estávamos no início da curva.&lt;/p&gt;
 
-&lt;p&gt;Além dessas observações que eu explorei, o texto de Emily MacLean&lt;sup id=&quot;fnref:Emily:1&quot;&gt;&lt;a href=&quot;#fn:Emily&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; na Nature aborda mais críticas sobre outros elementos do estudo em questão. Vale a pena conferir o artigo dela.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Plataforma de monitoramento do Google para a COVID-19. Disponível em: &lt;a href=&quot;https://google.org/crisisresponse/covid19-map&quot;&gt;https://google.org/crisisresponse/covid19-map&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;BCG World Atlas. Disponível em: &lt;a href=&quot;http://www.bcgatlas.org/&quot;&gt;http://www.bcgatlas.org/&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Além dessas observações que eu explorei, o texto de Emily MacLean&lt;sup id=&quot;fnref:Emily:1&quot;&gt;&lt;a href=&quot;#fn:Emily&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; na Nature aborda mais críticas sobre outros elementos do estudo em questão. Vale a pena conferir o artigo dela.&lt;/p&gt;
 
 &lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
 
@@ -101,8 +94,17 @@
     &lt;li id=&quot;fn:livro-mbe&quot;&gt;
       &lt;p&gt;Bedaque HP, Bezerra ELM. &lt;strong&gt;Descomplicando MBE: uma abordagem prática da medicina baseada em evidências&lt;/strong&gt;. PET medicina UFRN. Editora Caule de Papiro. Natal, 2018. ISBN 978-85-92622-37-4. &lt;a href=&quot;#fnref:livro-mbe&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:livro-mbe:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
+    &lt;li id=&quot;fn:atlas&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;BCG World Atlas&lt;/strong&gt;. Disponível em: &lt;a href=&quot;http://www.bcgatlas.org/&quot;&gt;http://www.bcgatlas.org/&lt;/a&gt;. &lt;a href=&quot;#fnref:atlas&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:google&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Plataforma de monitoramento do Google para a COVID-19&lt;/strong&gt;. Disponível em: &lt;a href=&quot;https://google.org/crisisresponse/covid19-map&quot;&gt;https://google.org/crisisresponse/covid19-map&lt;/a&gt;. &lt;a href=&quot;#fnref:google&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:wiki&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Variável de confusão&lt;/strong&gt;. Wikipédia. Acessado em 29 de Abril de 2020. Disponível em: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&quot;&gt;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&lt;/a&gt;. &lt;a href=&quot;#fnref:wiki&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
     &lt;li id=&quot;fn:Emily&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://naturemicrobiologycommunity.nature.com/users/36050-emily-maclean/posts/64892-universal-bcg-vaccination-and-protection-against-covid-19-critique-of-an-ecological-study&quot;&gt;Universal BCG vaccination and protection against COVID-19: critique of an ecological study&lt;/a&gt;. Acessado em 19 de Abril de 2020. &lt;a href=&quot;#fnref:Emily&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Emily:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Universal BCG vaccination and protection against COVID-19: critique of an ecological study&lt;/strong&gt;. Nature Microbiology Community. Acessado em 19 de Abril de 2020. Disponível em: &lt;a href=&quot;https://naturemicrobiologycommunity.nature.com/users/36050-emily-maclean/posts/64892-universal-bcg-vaccination-and-protection-against-covid-19-critique-of-an-ecological-study&quot;&gt;https://naturemicrobiologycommunity.nature.com/users/36050-emily-maclean/posts/64892-universal-bcg-vaccination-and-protection-against-covid-19-critique-of-an-ecological-study&lt;/a&gt;. &lt;a href=&quot;#fnref:Emily&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Emily:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -246,15 +248,6 @@
         </entry>
     
     <entry>
-            <title type="html">Passatempo da quarentena: fazer gráficos</title>
-            <link href="http://localhost:4000/2020/medicina/passatempo-da-quarentena"/>
-            <published>2020-03-29T00:00:00-03:00</published>
-            <id>/2020/medicina/passatempo-da-quarentena</id>
-            <content type="html">
-</content>
-        </entry>
-    
-    <entry>
             <title type="html">Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?</title>
             <link href="http://localhost:4000/2020/medicina/reutilizar-n95"/>
             <published>2020-03-26T00:00:00-03:00</published>
@@ -313,38 +306,6 @@
   &lt;ol&gt;
     &lt;li id=&quot;fn:tocar&quot;&gt;
       &lt;p&gt;Rebmann, T., R. Carrico, and J. Wang: &lt;strong&gt;Physiologic and other effects and compliance with long-term respirator use among medical intensive care unit nurses&lt;/strong&gt;. American Journal of Infection Control 41(12):1218-1223(2013). &lt;a href=&quot;#fnref:tocar&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Máscaras cirúrgicas protegem contra o Novo Coronavirus?</title>
-            <link href="http://localhost:4000/2020/medicina/mascaras-cirurgicas-protegem-coronavirus"/>
-            <published>2020-03-25T00:00:00-03:00</published>
-            <id>/2020/medicina/mascaras-cirurgicas-protegem-coronavirus</id>
-            <content type="html">&lt;p&gt;Um estudo do JAMA não identificou diferença estatística entre os grupos usando máscaras cirúrgicas e o grupo que usava N95 na prevenção da infecção por Influenza.&lt;sup id=&quot;fnref:jama&quot;&gt;&lt;a href=&quot;#fn:jama&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;faz-diferença-usar-ou-não-uma-máscara-cirúrgica&quot;&gt;Faz diferença usar ou não uma máscara cirúrgica?&lt;/h2&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Smart Air Filters. &lt;a href=&quot;https://smartairfilters.com/en/blog/n95-mask-surgical-prevent-transmission-coronavirus/&quot;&gt;&lt;strong&gt;N95 Masks vs. Surgical Masks: Which Is Better at Preventing The Coronavirus?&lt;/strong&gt;&lt;/a&gt;. Publicado em 03 de Março de 2020. Acessado em 25 de Março de 2020;&lt;/li&gt;
-  &lt;li&gt;Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. &lt;strong&gt;N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial&lt;/strong&gt;. JAMA. 2019;322(9):824–833. doi:10.1001/jama.2019.11645.&lt;/li&gt;
-  &lt;li&gt;Smith JD, MacDougall CC, Johnstone J, Copes RA, Schwartz B, Garber GE. &lt;strong&gt;Effectiveness of N95 respirators versus surgical masks in protecting health care workers from acute respiratory infection: a systematic review and meta-analysis&lt;/strong&gt;. CMAJ. 2016;188(8):567–574. doi:10.1503/cmaj.150835.&lt;/li&gt;
-  &lt;li&gt;Bin-Reza F, Lopez Chavarrias V, Nicoll A, Chamberland ME. &lt;strong&gt;The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence&lt;/strong&gt;. Influenza Other Respir Viruses. 2012;6(4):257–267. doi:10.1111/j.1750-2659.2011.00307.x.&lt;/li&gt;
-  &lt;li&gt;MacIntyre CR, Wang Q, Cauchemez S, et al. &lt;strong&gt;A cluster randomized clinical trial comparing fit-tested and non-fit-tested N95 respirators to medical masks to prevent respiratory virus infection in health care workers&lt;/strong&gt;. Influenza Other Respir Viruses. 2011;5(3):170–179. doi:10.1111/j.1750-2659.2011.00198.x.&lt;/li&gt;
-  &lt;li&gt;Killingley B. &lt;strong&gt;Respirators versus medical masks: evidence accumulates but the jury remains out&lt;/strong&gt;. Influenza Other Respir Viruses. 2011;5(3):143–145. doi:10.1111/j.1750-2659.2011.00237.x&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:jama&quot;&gt;
-      &lt;p&gt;Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. &lt;strong&gt;N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial&lt;/strong&gt;. JAMA. 2019;322(9):824–833. doi:10.1001/jama.2019.11645. &lt;a href=&quot;#fnref:jama&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -431,52 +392,6 @@
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Escala de coma de Glasgow</title>
-            <link href="http://localhost:4000/2019/medicina/escala-de-coma-de-glasgow"/>
-            <published>2019-10-20T13:47:11-03:00</published>
-            <id>/2019/medicina/escala-de-coma-de-glasgow</id>
-            <content type="html">&lt;p&gt;Existem muitas escalas na medicina. Uma das mais antigas e ainda amplamente utilizada é a escala de coma de Glagow (ECG). Simplemente não dá para não saber a ECG. Ela foi criada em 1974 na tentativa de tentar categorizar de forma prática o nível de consciência dos pacientes.&lt;sup id=&quot;fnref:tesdale2014&quot;&gt;&lt;a href=&quot;#fn:tesdale2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Antes da ECG era muito difícil de se comunicar entre os médicos o grau de rebaixamento de consciência dos pacientes. Também não havia uma quantificação para saber se o paciente estava melhorando ou piorando o seu estado mental. E, além disso, era muito difícil fazer pesquisas sem conseguir dividir os pacientes em grupos e avaliar os resultados do acordo com eles.&lt;/p&gt;
-
-&lt;p&gt;Então, 45 anos atrás a &lt;em&gt;Glasgow coma scale&lt;/em&gt; era publicada no períodico &lt;em&gt;The Lancet&lt;/em&gt;. O artigo original em questão &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(74)91639-0/fulltext&quot; target=&quot;_blank&quot;&gt;pode ser acessado aqui&lt;/a&gt;&lt;sup id=&quot;fnref:tesdale1974&quot;&gt;&lt;a href=&quot;#fn:tesdale1974&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;A ECG começou a ser desenvolvida já em 1971, na busca por melhorar o atendimento de paciebtes vítimas de traumatismos encefálicos e estabelecer um critério de prognóstico.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:tesdale2014&quot;&gt;
-      &lt;p&gt;Teasdale G, Maas A, Lecky F, Manley G, Stocchetti N, Murray G. The Glasgow Coma Scale at 40 years: standing the test of time. The Lancet Neurology. 2014;13(8):844-854. doi:10.1016/S1474-4422(14)70120-6 &lt;a href=&quot;#fnref:tesdale2014&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:tesdale1974&quot;&gt;
-      &lt;p&gt;Teasdale G, Jennett B. Assessment of coma and impaired consciousness. The Lancet. 1974;304(7872):81-84. doi:10.1016/S0140-6736(74)91639-0 &lt;a href=&quot;#fnref:tesdale1974&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Leptospirose</title>
-            <link href="http://localhost:4000/2019/medicina/leptospirose"/>
-            <published>2019-10-20T00:00:00-03:00</published>
-            <id>/2019/medicina/leptospirose</id>
-            <content type="html">
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Cirúrgias também pode funcionar como placebo?</title>
-            <link href="http://localhost:4000/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo"/>
-            <published>2019-10-20T00:00:00-03:00</published>
-            <id>/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo</id>
-            <content type="html">
 </content>
         </entry>
     

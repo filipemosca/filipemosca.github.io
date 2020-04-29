@@ -1,4 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed/medicina.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-04-28T23:56:58-03:00</updated><id>http://localhost:4000/feed/medicina.xml</id><title type="html">Mosquildo | Medicina</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">O estudo que projetou distanciamento social até 2022 por causa da COVID-19</title><link href="http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19" rel="alternate" type="text/html" title="O estudo que projetou distanciamento social até 2022 por causa da COVID-19" /><published>2020-04-16T00:00:00-03:00</published><updated>2020-04-16T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19</id><content type="html" xml:base="http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19">&lt;p&gt;Essa semana, dia 14 de Abril, foi publicado um &lt;a href=&quot;https://science.sciencemag.org/content/early/2020/04/14/science.abb5793&quot;&gt;estudo na revista &lt;em&gt;Science&lt;/em&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:Kissler2020&quot;&gt;&lt;a href=&quot;#fn:Kissler2020&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxado por alguns como “alarmista demais”.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed/medicina.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-04-29T01:33:33-03:00</updated><id>http://localhost:4000/feed/medicina.xml</id><title type="html">Mosquildo | Medicina</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">A falácia ecológica e estudo correlacionando a vacina do BCG com proteção à COVID-19</title><link href="http://localhost:4000/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19.md" rel="alternate" type="text/html" title="A falácia ecológica e estudo correlacionando a vacina do BCG com proteção à COVID-19" /><published>2020-04-29T00:00:00-03:00</published><updated>2020-04-29T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19.md</id><content type="html" xml:base="http://localhost:4000/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19.md">&lt;p&gt;Essa semana encontrei um &lt;a href=&quot;https://doi.org/10.1101/2020.03.24.20042937&quot;&gt;manuscrito de um estudo&lt;/a&gt;&lt;sup id=&quot;fnref:Miller2020&quot;&gt;&lt;a href=&quot;#fn:Miller2020&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; que me chamou muita atenção. Era um &lt;em&gt;preprint&lt;/em&gt; avaliando a possível correlação entre a vacinação mundial do BCG e as taxas de mortalidade por COVID-19 pelo mundo.&lt;/p&gt;
+
+&lt;p&gt;Como, até o momento, não existe nenhuma vacina capaz de proteger contra o SARS-CoV-2 (o novo coronavirus), os autores do artigo levantaram a hipótese de que a vacina do BCG possa conferir algum nível de imunidade também para este vírus.&lt;/p&gt;
+
+&lt;p&gt;Eles se basearam em evidências de que a vacina do BCG pode induzir imunidade não específica a outras infecções virais. Se apoiando nesses dados, indagaram se a mesma imunidade não específica promovida pela vacina BCG poderia conferir proteção contra o Novo coronavirus.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-vacina-do-bcg&quot;&gt;A vacina do BCG&lt;/h2&gt;
+
+&lt;p&gt;A vacina de BCG (&lt;em&gt;bacilo Calmette–Guérin&lt;/em&gt;) confere proteção imunológica contra doenças causadas por micobactérias, como a tuberculose e também a hanseníase.&lt;sup id=&quot;fnref:Barreto2006&quot;&gt;&lt;a href=&quot;#fn:Barreto2006&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Em países onde essas doenças são muito frequentes, toda a população costuma ser vacinada. Já nos países em que a incidência dessas doenças é muito baixa, a vacinação em massa da população não é mais aplicada. Nestes, apenas os grupos de risco recebem as doses.&lt;/p&gt;
+
+&lt;p&gt;No Brasil, a vacina de BCG é recomendada logo após o nascimento de todas as crianças.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-correlação-encontrada-no-estudo&quot;&gt;A correlação encontrada no estudo&lt;/h2&gt;
+
+&lt;p&gt;Esse é um estudo ecológico, pois avalia indicadores de grandes grupos populacionais na busca por correlações.&lt;sup id=&quot;fnref:livro-mbe&quot;&gt;&lt;a href=&quot;#fn:livro-mbe&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;O estudo em questão se baseou no &lt;a href=&quot;http://www.bcgatlas.org/&quot;&gt;Atlas Mundial do BCG&lt;/a&gt;&lt;sup id=&quot;fnref:atlas&quot;&gt;&lt;a href=&quot;#fn:atlas&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; para avaliar quais países possuem campanhas de vacinação pelo BCG. Associado a isso, o estudo extraiu os dados mortalidade e número de casos do COVID-19, até 21 de março de 2020, na &lt;a href=&quot;https://google.org/crisisresponse/covid19-map&quot;&gt;plataforma de monitoramento do Google&lt;/a&gt;.&lt;sup id=&quot;fnref:google&quot;&gt;&lt;a href=&quot;#fn:google&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;A conclusão foi de que os países de renda média e alta que não aplicam o BCG eram também os países com as maiores mortalidades por COVID-19.&lt;/p&gt;
+
+&lt;p&gt;Eles também verificaram que quanto mais antiga a data de implementação da campanha de vacinação, menores eram as taxas de mortalidade. Baseado nisso, argumentam que mais tempo de aplicação da vacina na população protegeria mais indivíduos.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-falácia-ecológica&quot;&gt;A falácia ecológica&lt;/h2&gt;
+
+&lt;p&gt;A falácia ecológica ocorre quando tentamos fazer uma inferência causal individual a partir de um estudo de grupo.&lt;sup id=&quot;fnref:livro-mbe:1&quot;&gt;&lt;a href=&quot;#fn:livro-mbe&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;O problema desse estudo é exatamente esse. Ele utiliza indicadores de níveis nacionais (números de casos por COVID e taxa de cobertura vacinal) para fazer uma conclusão a nível individual, a de que o BCG protege contra a COVID-19.&lt;/p&gt;
+
+&lt;p&gt;A falácia ecológica é nada mais nada menos que uma das várias aplicações da máxima &lt;strong&gt;&lt;em&gt;correlação não é causa&lt;/em&gt;&lt;/strong&gt;. O fato de países com vacinação para BCG terem menor mortalidade para a COVID-19 não nos fornece um bom nível de evidência de que a BCG de fato ofereça imunidade para essa doença. Isso, pois, vários outros fatores podem explicar essa correlação, as chamadas &lt;a href=&quot;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&quot;&gt;variáveis de confusão&lt;/a&gt;.&lt;sup id=&quot;fnref:wiki&quot;&gt;&lt;a href=&quot;#fn:wiki&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Como coloca Emily MacLean em seu texto no blog da Nature:&lt;sup id=&quot;fnref:Emily&quot;&gt;&lt;a href=&quot;#fn:Emily&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“O que pode valer no nível agregado não será necessariamente verdadeiro quando a heterogeneidade dos indivíduos for considerada. Neste estudo, evidências de baixa qualidade observadas no nível da população são usadas para fazer inferências abrangentes sobre a eficácia do BCG em um nível individual.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sabemos que a tuberculose e a hanseníase são doenças muito relacionadas à pobreza e à desigualdade social.&lt;sup id=&quot;fnref:Barreto2006:1&quot;&gt;&lt;a href=&quot;#fn:Barreto2006&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Esses são fatores confundidores em grandes estudos populacionais e podem nos levar a conclusões equivocadas.&lt;/p&gt;
+
+&lt;p&gt;Outro fator de confusão muito importante é que o estudo não leva em conta a distribuição etária das populações. Como a COVID-19 é mais grave em pacientes idosos, esperá-se uma maior mortalidade em países com maior proporção de indivíduos nessa faixa etária.&lt;/p&gt;
+
+&lt;p&gt;Sem falar de outros vários possíveis fatores confundidores que não foram bem considerados pelo estudo, como: números de testes por hábitantes, subnotificação, tempo desde o primeiro caso confirmado, aspéctos climáticos, aspéctos culturais, etc.&lt;/p&gt;
+
+&lt;p&gt;A correlação poderia ser explicada, por exemplo, por um raciocínio genérico como: “países ricos são os que apresentam mais casos de COVID-19, possuem uma maior proporção de idosos e também possuem a maior mortalidade pelo SARS-CoV-2. Estes também são países que possuem poucos casos de tuberculose e não realizam vacinação em massa da população.”&lt;/p&gt;
+
+&lt;p&gt;Percebem a razão pelo qual estudos ecológicos não podem fazer conclusões individuais? São muitas variáveis envolvidas. Em estudos clínicos para testar eficácia de intervenções terapêuticas as variáveis são isoladas ao máximo. O que não é possível com estudos populacionais.&lt;/p&gt;
+
+&lt;p&gt;Ou seja, esse tipo de estudo não pode fazer nenhuma conclusão sobre uma relação de causalidade. Para isso são necessários estudos clínicos individuais e não estudos ecológicos populacionais. O que estudos desse tipo podem fazer, é confirmar ou excluir a correlação.&lt;/p&gt;
+
+&lt;h2 id=&quot;e-qual-foi-o-erro-do-manuscrito&quot;&gt;E qual foi o erro do manuscrito?&lt;/h2&gt;
+
+&lt;p&gt;Apesar de no título os autores terem deixado bem claro que se trata de um estudo de correlação, ao longo do texto eu senti que eles se precipitaram em relação à possível causalidade.&lt;/p&gt;
+
+&lt;p&gt;Por exemplo, na discussão está escrita a frase &lt;em&gt;“Our data suggests that BCG vaccination seem to significantly reduce mortality associated with COVID-19.”&lt;/em&gt; [Nossos dados sugerem que a vacinação com BCG parece reduzir significativamente a mortalidade associada ao COVID-19]. O verbo “reduzir” está colocando o BCG como sujeito da ação. E sabemos que não é isso que o estudo está sugerindo. O que o estudo sugere é uma correlação.&lt;/p&gt;
+
+&lt;p&gt;Pode parecer muita implicância minha, mas essas observações minuciosas são fundamentais para não causarmos conhecimentos equivocados. Ainda mais quando estamos tratando de políticas públicas em saúde. Seria sensato começarmos a vacinar o mundo inteiro pra BCG agora? Nem um pouco. Um leitor menos cético pode tomar conclusões precipitadas lendo este manuscrito.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Minha crítica é principalmente na forma como o manuscrito foi escrito. Sem deixar exatamente claro que o resultado não passa de uma correlação. Sempre devemos ter muita cautela interpretando estudos ecológicos para não caírmos na falácia de mesmo nome e nas variáveis de confusão.&lt;/p&gt;
+
+&lt;p&gt;De qualquer forma, o estudo já está bastante desatualizado desde o dia 21 de março. Pode ser que, se refeito agora, nem haja mais uma correlação. Aqui no Brasil, os novos casos não param de crescer e ontem já passamos a China. Quando o estudo foi realizado ainda estávamos no início da curva.&lt;/p&gt;
+
+&lt;p&gt;Além dessas observações que eu explorei, o texto de Emily MacLean&lt;sup id=&quot;fnref:Emily:1&quot;&gt;&lt;a href=&quot;#fn:Emily&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; na Nature aborda mais críticas sobre outros elementos do estudo em questão. Vale a pena conferir o artigo dela.&lt;/p&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Miller2020&quot;&gt;
+      &lt;p&gt;Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. &lt;strong&gt;Correlation between Universal BCG Vaccination Policy and Reduced Morbidity and Mortality for COVID-19: An Epidemiological Study.&lt;/strong&gt; Epidemiology; 2020. doi:&lt;a href=&quot;https://doi.org/10.1101/2020.03.24.20042937&quot;&gt;10.1101/2020.03.24.20042937&lt;/a&gt; &lt;a href=&quot;#fnref:Miller2020&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Barreto2006&quot;&gt;
+      &lt;p&gt;Barreto ML, Pereira SM, Ferreira AA. &lt;strong&gt;Vacina BCG: eficácia e indicações da vacinação e da revacinação&lt;/strong&gt;. J Pediatr (Rio J). 2006;82(3). doi:&lt;a href=&quot;https://doi.org/10.1590/S0021-75572006000400006&quot;&gt;10.1590/S0021-75572006000400006&lt;/a&gt;. &lt;a href=&quot;#fnref:Barreto2006&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Barreto2006:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:livro-mbe&quot;&gt;
+      &lt;p&gt;Bedaque HP, Bezerra ELM. &lt;strong&gt;Descomplicando MBE: uma abordagem prática da medicina baseada em evidências&lt;/strong&gt;. PET medicina UFRN. Editora Caule de Papiro. Natal, 2018. ISBN 978-85-92622-37-4. &lt;a href=&quot;#fnref:livro-mbe&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:livro-mbe:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:atlas&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;BCG World Atlas&lt;/strong&gt;. Disponível em: &lt;a href=&quot;http://www.bcgatlas.org/&quot;&gt;http://www.bcgatlas.org/&lt;/a&gt;. &lt;a href=&quot;#fnref:atlas&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:google&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Plataforma de monitoramento do Google para a COVID-19&lt;/strong&gt;. Disponível em: &lt;a href=&quot;https://google.org/crisisresponse/covid19-map&quot;&gt;https://google.org/crisisresponse/covid19-map&lt;/a&gt;. &lt;a href=&quot;#fnref:google&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:wiki&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Variável de confusão&lt;/strong&gt;. Wikipédia. Acessado em 29 de Abril de 2020. Disponível em: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&quot;&gt;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&lt;/a&gt;. &lt;a href=&quot;#fnref:wiki&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Emily&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Universal BCG vaccination and protection against COVID-19: critique of an ecological study&lt;/strong&gt;. Nature Microbiology Community. Acessado em 19 de Abril de 2020. Disponível em: &lt;a href=&quot;https://naturemicrobiologycommunity.nature.com/users/36050-emily-maclean/posts/64892-universal-bcg-vaccination-and-protection-against-covid-19-critique-of-an-ecological-study&quot;&gt;https://naturemicrobiologycommunity.nature.com/users/36050-emily-maclean/posts/64892-universal-bcg-vaccination-and-protection-against-covid-19-critique-of-an-ecological-study&lt;/a&gt;. &lt;a href=&quot;#fnref:Emily&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Emily:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="covid-19" /><category term="coronavirus" /><category term="vacinas" /><category term="mbe" /><summary type="html">Essa semana encontrei um manuscrito de um estudo1 que me chamou muita atenção. Era um preprint avaliando a possível correlação entre a vacinação mundial do BCG e as taxas de mortalidade por COVID-19 pelo mundo. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between Universal BCG Vaccination Policy and Reduced Morbidity and Mortality for COVID-19: An Epidemiological Study. Epidemiology; 2020. doi:10.1101/2020.03.24.20042937 &amp;#8617;</summary></entry><entry><title type="html">O estudo que projetou distanciamento social até 2022 por causa da COVID-19</title><link href="http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19" rel="alternate" type="text/html" title="O estudo que projetou distanciamento social até 2022 por causa da COVID-19" /><published>2020-04-16T00:00:00-03:00</published><updated>2020-04-16T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19</id><content type="html" xml:base="http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19">&lt;p&gt;Essa semana, dia 14 de Abril, foi publicado um &lt;a href=&quot;https://science.sciencemag.org/content/early/2020/04/14/science.abb5793&quot;&gt;estudo na revista &lt;em&gt;Science&lt;/em&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:Kissler2020&quot;&gt;&lt;a href=&quot;#fn:Kissler2020&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxado por alguns como “alarmista demais”.&lt;/p&gt;
 
 &lt;p&gt;Isso pois em uma das projeções as medidas de distanciamento social (prolongado ou intermitente) podem ser necessárias até o ano de 2022, o que assustou muita gente. Vou explicar isso ao longo do texto.&lt;/p&gt;
 
@@ -619,111 +711,4 @@ As proteínas hemaglutinina e neuraminidase sofrem constantes mutações. Assim,
   &lt;li&gt;SBP: A importância do aleitamento materno. &lt;a href=&quot;http://www.sbp.com.br/especiais/pediatria-para-familias/nutricao/a-importancia-do-aleitamento-materno/&quot;&gt;Disponível aqui&lt;/a&gt;, Acessado em 24 de fevereiro de 2019.&lt;/li&gt;
   &lt;li&gt;Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect,  publicado na revista The Lancet, v. 387, Jan 30, 201.&lt;/li&gt;
   &lt;li&gt;Saúde da criança: nutrição infantil: aleitamento materno e alimentação complementar / Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica. – Brasília: Editora do Ministério da Saúde, 2009.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="leite" /><category term="maternidade" /><summary type="html">Fui atraído pelo simples e curioso título de uma matéria do New York Times: “Everywhere in the Animal Kingdom, Followers of the Milky Way”. De ínicio fiquei logo interessado em entender o que “followers of the milky way” queria dizer, curioso com a associação ao nome de nossa galáxia.</summary></entry><entry><title type="html">O que são superbactérias e um pouco sobre evolução</title><link href="http://localhost:4000/2019/medicina/o-que-sao-superbacterias" rel="alternate" type="text/html" title="O que são superbactérias e um pouco sobre evolução" /><published>2019-02-03T00:00:00-03:00</published><updated>2019-02-03T00:00:00-03:00</updated><id>http://localhost:4000/2019/medicina/o-que-sao-superbacterias</id><content type="html" xml:base="http://localhost:4000/2019/medicina/o-que-sao-superbacterias">&lt;p&gt;O termo superbactéria é amplamente usado para ser referir a bactérias com uma intensa capacidade de provocar doenças graves e de difícil tratamento. O “superpoder” delas é a sua capacidade de resistir a vários tipos de antibióticos, o que para nós não é nada bom.&lt;/p&gt;
-
-&lt;p&gt;As bactérias super resistentes costumam receber siglas dependendo de sua espécie e da droga com a qual possuem resistência. Como são muitas, vou utilizar o  &lt;em&gt;Staphylococcus aureus&lt;/em&gt; como exemplo.&lt;/p&gt;
-
-&lt;p&gt;O &lt;em&gt;S. aureus&lt;/em&gt; é uma bactéria que pode causar uma série de doenças infecciosas, podendo acometer diversos órgãos como coração, pele, ossos, pulmões, dentre outros. Porém, não é sempre que ele vai ser um problema. Em cerca de 30% da população mundial este patógeno vive de forma “pacífica” abrigando-se nas vias aéreas (relação ecológica chamada de comensalismo) &lt;a href=&quot;#Tong&quot;&gt;[1]&lt;/a&gt;. E antes que você se assuste, carregar o &lt;em&gt;S. aureus&lt;/em&gt; nas narinas não quer dizer que você vá necessariamente desenvolver uma doença.&lt;/p&gt;
-
-&lt;p&gt;Com a descoberta da penicilina em 1928, parecia que as infecções por &lt;em&gt;S. aureus&lt;/em&gt; seriam fáceis de controlar. Contudo, já em 1940 foram identificadas bactérias produtoras de enzimas &lt;em&gt;beta-lactamases,&lt;/em&gt; capazes de inativar a penicilina [2]. O nome desta enzima se deve ao fato de que ela quebra o anel principal dos antibióticos &lt;em&gt;beta-lactâmicos&lt;/em&gt;, uma classe que engloba as penicilinas e cefalosporinas.&lt;/p&gt;
-
-&lt;p&gt;Após a descoberta da &lt;a href=&quot;https://pt.wikipedia.org/wiki/Meticilina&quot;&gt;&lt;em&gt;meticilina&lt;/em&gt;&lt;/a&gt;, uma nova droga que resistia às enzimas beta-lactamases, parecia novamente que a ameaça estava controlada. Porém, não demorou muito para que surgissem as primeiras &lt;em&gt;MRSA&lt;/em&gt; (&lt;em&gt;S. aureus&lt;/em&gt; resistentes a meticilina). Hoje em dia o “M” da sigla já se refere mais a “multi-droga-resistente” do que somente a “meticilina resistente” [2]. Aos poucos foi ficando cada vez mais claro de que o fenômeno da resistência bacteriana seria um dos grandes desafios do futuro.&lt;/p&gt;
-
-&lt;p&gt;E isso pois apenas citei os MRSA, mas existem muitas outras superbactérias já identificadas. Como as &lt;em&gt;Acinetobacter baumannii&lt;/em&gt;, &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt; e &lt;em&gt;Enterobacteriaceae,&lt;/em&gt; todas produtoras de uma enzima carbapenemase que estão na lista das mais ameaçadoras da OMS [3].&lt;/p&gt;
-
-&lt;h2 id=&quot;a-evolução-das-bactérias-está-acontecendo-diante-de-nossos-olhos&quot;&gt;A evolução das bactérias está acontecendo diante de nossos olhos&lt;/h2&gt;
-
-&lt;p&gt;O fenômeno da resistência bacteriana talvez seja a ilustração da teoria darwiniana mais fácil de se visualizar. Isto porque as bactérias conseguem se multiplicar e sofrer mutações de forma tão rápida e intensa que conseguimos, num curto espaço de tempo, observar toda uma verdadeira evolução acontecendo.&lt;/p&gt;
-
-&lt;p&gt;O uso de antibióticos atingiu uma escala global. Eles não só foram usados para fins de saúde humana como também foram largamente utilizados em animais domésticos, pecuária, aquicultura e agricultura. E mais, seu uso não se restringia somente a curar infecções, também foram extensivamente utilizados como profilaxia, ou seja, usado em pessoas, animais e plantas saudáveis para prevenir possíveis doenças. Estima-se que o uso destes fármacos de forma terapêutica em humanos equivale a menos de 50% do uso global de antibióticos [2]. Até o destino destes medicamentos influencia no processo, o que sobra acaba sendo absorvido pelo solo, rios, se espalhando pela cadeia alimentar e se disseminando ainda mais pelo ambiente.&lt;/p&gt;
-
-&lt;p&gt;Em nosso corpo abrigamos milhares de bactérias e é muito provável que várias delas possuam genes de resistência a antibióticos. Contudo, essas bactérias resistentes estão numa proporção muito menor, competindo e vivendo com as bactérias não resistentes, de uma forma até “harmoniosa”.&lt;/p&gt;
-
-&lt;p&gt;Toda vez que uma colônia de bactérias, por exemplo, nossos &lt;em&gt;S. aureus&lt;/em&gt; comensais, é exposta a um antibiótico e este não consegue eliminar todas as células, o que acontece é uma seleção dos microrganismos mais resistentes. As que morrem são as mais susceptíveis aos remédios enquanto sobram apenas as mais “fortes”. E, assim, deixamos espaço e recurso livres para que as resistentes cresçam.&lt;/p&gt;
-
-&lt;p&gt;Então, toda vez que você toma um antibiótico, ele não vai conseguir matar todas as bactérias de seu corpo, e cada vez mais as resistentes serão selecionadas. E isto não acontece só em nosso corpo, acontece também no ambiente. Quanto maior a frequência de uso destes fármacos, maior a frequência de resistência [4].&lt;/p&gt;
-
-&lt;h2 id=&quot;e-como-as-bactérias-adquirem-a-resistência&quot;&gt;E como as bactérias adquirem a resistência?&lt;/h2&gt;
-
-&lt;p&gt;A capacidade de resistência é inerentemente genética. Estas bactérias carregam um ou mais genes com as informações necessárias para se executar o mecanismo que resulta na resistência. Existem duas formas de uma bactéria não resistente passar a ser. Ela pode sofrer uma mutação ou pode receber o gene de bactérias já resistentes.&lt;/p&gt;
-
-&lt;h3 id=&quot;mutações&quot;&gt;Mutações&lt;/h3&gt;
-
-&lt;p&gt;As mutações são sempre aleatórias e ao acaso, mas nem sempre são boas. Algumas delas podem ser letais e resultar na morte instantânea do ser vivo. Porém, estas mutações ruins são descartadas da evolução pois nem sequer transmitidas serão transmitidas às demais bactérias. Apenas as mutações positivas, neutras ou que pelo menos não causam tantos prejuízos são repassadas às novas gerações. Então, naturalmente, a tendência é sempre ir havendo a seleção das mutações mais vantajosas.&lt;/p&gt;
-
-&lt;p&gt;Esse é um processo extremamente lento na natureza. Por exemplo, foram milhares de anos para que nossa espécie adquirisse as características evolutivas que temos hoje. Porém, quando falamos em bactérias as coisas podem ser um pouquinho mais rápidas. Estes microrganismos são seres extremamente versáteis, se reproduzem e se multiplicam muito rapidamente, estão espelhados pelo mundo todo em quantidades imensuráveis e ainda possuem diversas formas de propagar seus genes, como explicarei a seguir.&lt;/p&gt;
-
-&lt;h3 id=&quot;transmissão-horizontal&quot;&gt;Transmissão horizontal&lt;/h3&gt;
-
-&lt;p&gt;Após ocorrer a mutação, as bactérias podem transmitir os novos genes por duas formas: a primeira é a mais intuitiva, a &lt;strong&gt;transmissão vertical&lt;/strong&gt;, em que os seres passam seu material genético aos seus descendentes, exatamente como acontece com a espécie humana. Já as bactérias, além da transmissão vertical, elas também possuem formas de &lt;strong&gt;transmissão horizontal&lt;/strong&gt;. Seus genes podem ser propagados a outras bactérias da mesma geração, como se fossem, digamos, “emprestados”.&lt;/p&gt;
-
-&lt;p&gt;Essa transmissão horizontal pode ocorrer de diversas formas, entre elas: as bactérias podem absorver e englobar genes do meio, podem receber os genes bacterianos que estavam sendo transportados por vírus e podem receber os genes através de pontes formadas com outras bactérias. Acho que já deu pra entender a versatilidade destes seres.&lt;/p&gt;
-
-&lt;h3 id=&quot;mecanismos-de-resistência&quot;&gt;Mecanismos de resistência&lt;/h3&gt;
-
-&lt;p&gt;Os genes podem determinar vários mecanismos que conferem resistência às drogas. Entre eles posso citar: alterações na membrana plasmática e/ou parede celular que impeçam a entrada do fármaco, produção de enzimas que degradam o antibiótico (como no caso das &lt;em&gt;S. aureus&lt;/em&gt; produtoras de beta-lactamase) e também a capacidade de bombear toda a droga que entra na célula rapidamente para o exterior [5].&lt;/p&gt;
-
-&lt;h2 id=&quot;como-impedir-novas-resistências&quot;&gt;Como impedir novas resistências?&lt;/h2&gt;
-
-&lt;p&gt;Na verdade, impedir é impossível uma vez que não dá pra evitar a evolução e a seleção de genes. Então a grande questão é como retardar o avanço das superbactérias que foi acelerado pelo nosso uso indiscriminado de antimicrobianos?&lt;/p&gt;
-
-&lt;p&gt;Antibióticos são fundamentais para a medicina. Graças a eles podemos tratar de forma efetiva diversas doenças infecciosas, podemos reduzir riscos de infecções graves após cirurgias, entre outras coisas. Dessa forma, não podemos simplesmente parar de usar antibióticos, o estrago seria ainda maior. Está mais do que claro que o mais importante a ser feito é rever o seu uso e endurecer o controle de suas prescrições. É necessário recorrer seriamente à medicina baseada em evidências para calcular quando é necessário o uso de antibióticos e qual a dose ideal, levando em conta a balança cura &lt;em&gt;versus&lt;/em&gt; efeito de resistência a longo prazo.&lt;/p&gt;
-
-&lt;p&gt;Contudo, não basta apenas controlar o uso na área da saúde humana. Vimos que boa parte da responsabilidade também se deve ao uso industrial dos antimicrobianos. A OMS tem um plano global para redução redução da resistência antimicrobiana, podemos ver seu estado atual ( em 2018) no mapa abaixo.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/posts/2019/superbacterias/mapa-sb.png&quot; alt=&quot;Mapa com o estado atual, por nação, do plano de desenvolvimento global contra a resistência antimicrobiana.&quot; /&gt;
-    &lt;figcaption&gt;Estado do desenvolvimento do plano global contra a resistência antimicrobiana. Fonte: WHO, 2018. [6]&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Para muitas pessoas é difícil pesar o curto prazo de se curar logo de uma doença se enchendo de antibióticos, ao longo prazo do que pode nos aguardar no futuro, como uma onda de infecções sem tratamento. Entretanto, antibióticos são utilizados muitas vezes de forma completamente desnecessárias, como para tratar gripes e resfriados. Mesmo assim, boa parte dos pacientes pode achar negligência um médico que não passa nem um remedinho para um resfriado.&lt;/p&gt;
-
-&lt;h3 id=&quot;não-é-só-criar-mais-remédios&quot;&gt;Não é só criar mais remédios?&lt;/h3&gt;
-
-&lt;p&gt;Seria muito mais fácil, o problema é que a velocidade de criação e validação de novos antibióticos está muito distante da velocidade com que as bactérias conseguem desenvolver resistência. No diagrama abaixo podemos ver uma linha do tempo com a descoberta de novas classes de antibióticos. Na época a segunda guerra mundial houve um grande &lt;em&gt;boom&lt;/em&gt; de novas drogas. Contudo, como vemos na imagem, após a década de 1990 as descobertas de novas classes cessaram.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/posts/2019/superbacterias/linha-do-tempo-sb.png&quot; alt=&quot;Diagrama com a linha do tempo da descoberta de novas classes de antibióticos&quot; /&gt;
-    &lt;figcaption&gt;Linha do tempo com os anos de descoberta de cada classe de antibiótico. Perceba que a partir de 1990 as descobertas estagnaram [7].&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;quais-prática-devem-ser-evitadas-para-retardar-a-ameaça&quot;&gt;Quais prática devem ser evitadas para retardar a ameaça?&lt;/h3&gt;
-
-&lt;p&gt;As recomendações a seguir são da própria Anvisa, a instituição que regulamenta as drogas no Brasil [8][9]:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tratamento maior ou menor que o recomendado pelo médico Uso de antibiótico para tratar doenças que não são infecções bacterianas, exemplo, gripe&lt;/li&gt;
-  &lt;li&gt;Uso de antibiótico não indicado para o tipo de bactéria que está causando a infecção&lt;/li&gt;
-  &lt;li&gt;Uso inadequado de antibióticos na área veterinária, especialmente em animais utilizados para o consumo humano&lt;/li&gt;
-  &lt;li&gt;Falta de um bom controle de infecções nos serviços de saúde&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;o-que-você-pode-fazer-para-ajudar&quot;&gt;O que você pode fazer para ajudar&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Utilize antibiótico somente com receita de um profissional habilitado.&lt;/li&gt;
-  &lt;li&gt;Não use antibióticos que sobraram de tratamentos anteriores.&lt;/li&gt;
-  &lt;li&gt;Não divida seu medicamento com outra pessoa, pois a infecção pode ser diferente.&lt;/li&gt;
-  &lt;li&gt;Não tome antibiótico para gripe. Gripe é uma doença provocada por vírus e não é tratada com esse tipo de medicamento.&lt;/li&gt;
-  &lt;li&gt;Consulte sempre um médico antes de consumir medicamentos. Uma dor de garganta, por exemplo, nem sempre significa uma infecção e, na maioria das vezes, não é necessário consumir antibióticos.&lt;/li&gt;
-  &lt;li&gt;Termine o tratamento, conforme a orientação do médico, mesmo que já esteja se sentindo melhor.&lt;/li&gt;
-  &lt;li&gt;Previna infecções com medidas simples como lavar as mãos, manter a vacinação em dia, cobrir nariz e boca ao espirrar e fazer sexo protegido.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;obs&quot;&gt;Obs:&lt;/h3&gt;
-
-&lt;p&gt;O que achou da matéria? É a segunda postagem do blog e seria muito legal receber seu feedback. Criticas e sugestões são muito bem vindas. Seja muito bem vindo à seção de comentários.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Tong, Steven YC, et al. “Staphylococcus aureus infections: epidemiology, pathophysiology, clinical manifestations, and management.” &lt;em&gt;Clinical microbiology reviews&lt;/em&gt; 28.3 (2015): 603-661.&lt;/li&gt;
-  &lt;li&gt;Davies J, Davies D. Origins and evolution of antibiotic resistance. Microbiol Mol Biol Rev. 2010;74(3):417-33.&lt;/li&gt;
-  &lt;li&gt;WHO publishes list of bacteria for which new antibiotics are urgently needed. 27 de fevereiro de 2017, &lt;a href=&quot;https://www.who.int/news-room/detail/27-02-2017-who-publishes-list-of-bacteria-for-which-new-antibiotics-are-urgently-needed&quot;&gt;Link aqui&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Austin DJ, Kristinsson KG, Anderson RM. The relationship between the volume of antimicrobial consumption in human communities and the frequency of resistance. &lt;em&gt;Proc Natl Acad Sci U S A&lt;/em&gt;. 1999;96(3):1152-6.&lt;/li&gt;
-  &lt;li&gt;Tortora GJ, Funke, BR, Case CL. Microbiologia&lt;strong&gt;.&lt;/strong&gt; 12. ed. Porto Alegre: Artmed, 2017.&lt;/li&gt;
-  &lt;li&gt;World Health Organization (WHO), Food and Agriculture Organization of the United States (FAO) and World Organization for Animal Health (OIE). Monitoring global progress on addressing antimicrobial resistance: analysis report of the second round of results of AMR country self-assesmente survey. 2018, ISBN 978-92-4-151442-2.&lt;/li&gt;
-  &lt;li&gt;WHO: Antimicrobial resistance: global report on surveillance. 2014, ISBN 978 92 4 156474 8.&lt;/li&gt;
-  &lt;li&gt;Anvisa: Superbactérias: de onde vêm, como vivem e se reproduzem &lt;a href=&quot;http://portal.anvisa.gov.br/rss/-/asset_publisher/Zk4q6UQCj9Pn/content/superbacterias-de-onde-vem-como-vivem-e-se-reproduzem/219201?inheritRedirect=false&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Anvisa: Hora de ajudar na luta contra superbactérias &lt;a href=&quot;http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/hora-de-ajudar-na-luta-contra-superbacterias/219201?p_p_auth=IyRI936i&amp;amp;inheritRedirect=false&amp;amp;redirect=http%3A%2F%2Fportal.anvisa.gov.br%2Fnoticias%3Fp_p_auth%3DIyRI936i%26p_p_id%3D101_INSTANCE_FXrpx9qY7FbU%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_dKu0997DQuKh__column-2%26p_p_col_count%3D1&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="antibióticos" /><category term="bactérias" /><category term="evolução" /><summary type="html">O termo superbactéria é amplamente usado para ser referir a bactérias com uma intensa capacidade de provocar doenças graves e de difícil tratamento. O “superpoder” delas é a sua capacidade de resistir a vários tipos de antibióticos, o que para nós não é nada bom.</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="leite" /><category term="maternidade" /><summary type="html">Fui atraído pelo simples e curioso título de uma matéria do New York Times: “Everywhere in the Animal Kingdom, Followers of the Milky Way”. De ínicio fiquei logo interessado em entender o que “followers of the milky way” queria dizer, curioso com a associação ao nome de nossa galáxia.</summary></entry></feed>

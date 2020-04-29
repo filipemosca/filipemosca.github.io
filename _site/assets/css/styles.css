@@ -13,8 +13,10 @@ article {
   article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption {
     margin-right: 20px;
     margin-left: 20px; }
-  article p {
+  article p, article ol li {
     font-family: Georgia, serif; }
+  article > ol li {
+    padding-bottom: 0.8em; }
 
 .wrapper-footer {
   max-width: 700px;
@@ -284,6 +286,14 @@ nav {
   background-size: contain;
   /* Resize the background image to cover the entire container */ }
 
+.back-aleatoriedades {
+  background-image: url(/assets/svgs/dices.svg);
+  background-position: left top;
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-size: contain;
+  /* Resize the background image to cover the entire container */ }
+
 .back-musica {
   background-image: url(/assets/svgs/sol.svg);
   background-position: left top;
@@ -395,9 +405,6 @@ video {
   max-width: 100%;
   margin-top: 20px;
   margin-bottom: 20px; }
-
-article > ol li {
-  padding-bottom: 0.8em; }
 
 /* article a[target="_blank"]:after {
   content: url(http://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png);
