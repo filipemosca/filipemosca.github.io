@@ -268,8 +268,26 @@ nav {
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: contain; /* Resize the background image to cover the entire container */
 }
+.back-index {
+  background-image: url(/assets/svgs/mosca.svg);
+  background-position: left top;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: contain; /* Resize the background image to cover the entire container */
+}
 .back-medicina {
   background-image: url(/assets/svgs/asclepius.svg);
+  background-position: left top;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: contain; /* Resize the background image to cover the entire container */
+}
+.back-musica {
+  background-image: url(/assets/svgs/sol.svg);
+  background-position: left top;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: contain; /* Resize the background image to cover the entire container */
+}
+.back-cinema {
+  background-image: url(/assets/svgs/cam.svg);
   background-position: left top;
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: contain; /* Resize the background image to cover the entire container */

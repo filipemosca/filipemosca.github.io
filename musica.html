@@ -1,14 +1,14 @@
 ---
-title: ~/Cinema
+title: ~/Música
 layout: wrapped
 ---
 {% include header.html %}
 
 
-<div class="abertura back-cinema">
+<div class="abertura back-musica">
   <div class="item">
-    <h1>~/Cinema</h1>
-    <p class="apresentacao">Esta é a minha coluna de críticas e análises de filmes. Aqui escrevo sobre filmes que gosto (principalmente de ficção científica) analisando a profundidade de seu enredo e discutindo seus significados.</p>
+    <h1>~/Música</h1>
+    <p class="apresentacao">Esta é a minha coluna sobre música. Aqui escrevo principalmente sobre o meu progresso aprendendo piano por conta própria, compartilhando o pouco conhecimento que tenho e as formas como estou evoluindo.</p>
   </div>
 
 
@@ -42,12 +42,36 @@ layout: wrapped
   </div>
 </div>
 
+<!-- <div class="back-medicina">
+  <h2 id="ultimas">Todas as postagens:</h2>
+  <div class="archive-list">
+    <ol reversed>
+      {% for post in site.categories.medicina %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-info-archive">{{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
+          {% case m %}
+            {% when '1' %}jan
+            {% when '2' %}fev
+            {% when '3' %}mar
+            {% when '4' %}abr
+            {% when '5' %}mai
+            {% when '6' %}jun
+            {% when '7' %}jul
+            {% when '8' %}ago
+            {% when '9' %}set
+            {% when '10' %}out
+            {% when '11' %}nov
+            {% when '12' %}dez
+          {% endcase %}{{ post.date | date: "%Y"}}</span></li>
+      {% endfor %}
+    </ol>
+  </div>
+</div> -->
 
 <h2 id="ultimas"">Últimas postagens:</h2>
 
 <div class="post-list">
   <ul>
-    {% for post in site.categories.cinema %}
+    {% for post in site.categories.musica %}
       <li>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
