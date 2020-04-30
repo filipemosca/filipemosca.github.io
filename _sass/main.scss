@@ -19,7 +19,11 @@ article {
   > ol li {
     padding-bottom: 0.8em;
   }
-  font-size: 1.125rem;
+  font-size: 1.25rem;
+  a {
+    word-break: break-word;
+    text-decoration: underline;
+  }
 }
 .wrapper-footer {
   max-width: 700px;
@@ -385,7 +389,6 @@ p, li {
 }
 img {
   max-width: 100%;
-  margin-top: 40px;
   height: auto;
   display: block;
   margin-left: auto;
@@ -395,8 +398,8 @@ img > article {
   width: 100%;
 }
 figure {
-  margin-bottom: 3em;
-  margin-top: 3em;
+  margin-bottom: 1em;
+  margin-top: 0em;
   margin-inline-start: 0;
   margin-inline-end: 0;
 }

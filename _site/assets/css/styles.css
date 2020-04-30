@@ -9,7 +9,7 @@
   max-width: 100%; }
 
 article {
-  font-size: 1.125rem; }
+  font-size: 1.25rem; }
   article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption {
     margin-right: 20px;
     margin-left: 20px; }
@@ -17,6 +17,9 @@ article {
     font-family: Georgia, serif; }
   article > ol li {
     padding-bottom: 0.8em; }
+  article a {
+    word-break: break-word;
+    text-decoration: underline; }
 
 .wrapper-footer {
   max-width: 700px;
@@ -379,7 +382,6 @@ p, li {
 
 img {
   max-width: 100%;
-  margin-top: 40px;
   height: auto;
   display: block;
   margin-left: auto;
@@ -389,8 +391,8 @@ img > article {
   width: 100%; }
 
 figure {
-  margin-bottom: 3em;
-  margin-top: 3em;
+  margin-bottom: 1em;
+  margin-top: 0em;
   margin-inline-start: 0;
   margin-inline-end: 0; }
 

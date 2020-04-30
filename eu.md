@@ -3,7 +3,7 @@ title: Eu
 layout: wrapped-article
 ---
 
-{% include header_posts.html %}
+
 
 # Sobre mim
 
