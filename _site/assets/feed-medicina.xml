@@ -5,10 +5,120 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Apr 2020 21:17:33 -0300</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2020 21:17:33 -0300</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2020 20:38:52 -0300</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2020 20:38:52 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
+    
+    <entry>
+            <title type="html">Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil</title>
+            <link href="http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil"/>
+            <published>2020-04-30T00:00:00-03:00</published>
+            <id>/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil</id>
+            <content type="html">&lt;p&gt;Dia 28 deste mês de abril, o &lt;strong&gt;Imperial College London&lt;/strong&gt; disponibilizou online um relatório com previsões de mortalidade por COVID-19 para a próxima semana&lt;sup id=&quot;fnref:imp&quot;&gt;&lt;a href=&quot;#fn:imp&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;O relatório está repercutindo bastante já que o Brasil de certa forma se destacou. Muito está se comentando sobre a previsão de 5.000 novos mortos na próxima semana e também sobre sermos o país com a maior taxa de trasmissão.&lt;/p&gt;
+
+&lt;p&gt;Primeiro vou explicar alguns conceitos para depois detalhar melhor os achados da projeção.&lt;/p&gt;
+
+&lt;h2 id=&quot;índices-de-reprodução&quot;&gt;Índices de reprodução&lt;/h2&gt;
+
+&lt;p&gt;Para entender esse estudo, primeiros precisamos saber o que é o índice de reprodução, ou &lt;em&gt;R&lt;/em&gt;. Vou aproveitar essa postagem pra detalhar dois conceitos importantes da epidemiologia de doenças infeciosas:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;O número básico de reprodução&lt;/strong&gt; (&lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt;) é o número esperado de novas pessoas infectadas a partir de um único indivíduo infectado, durante todo o seu período contagioso, quando introduzido numa população totalmente suscetível.&lt;sup id=&quot;fnref:Held&quot;&gt;&lt;a href=&quot;#fn:Held&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Simplificando um pouco: significa pra quantas pessoas, em média, um infectado vai transmitir a doença.&lt;/p&gt;
+
+&lt;p&gt;Por definição, a população não pode ter imunidade ao agente e nem receber medidas protetivas como vacinas ou distanciamento social. Ou seja, &lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt; é a taxa de contágio numa situação natural, sem que hajam intervenções. Para o Novo coronavirus (SARS-CoV-2), o &lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt; está sendo estimado entre 1,4 e 3,9.&lt;sup id=&quot;fnref:Riou&quot;&gt;&lt;a href=&quot;#fn:Riou&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;O número efetivo de reprodução&lt;/strong&gt; (&lt;em&gt;R&lt;sub&gt;e&lt;/sub&gt;&lt;/em&gt;) segue o mesmo princípio do &lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt;, só que desta vez levando em conta as medidas de intervenção.&lt;sup id=&quot;fnref:Held:1&quot;&gt;&lt;a href=&quot;#fn:Held&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Ou seja, o &lt;em&gt;R&lt;sub&gt;e&lt;/sub&gt;&lt;/em&gt; representa a transmissibilidade nas condições atuais de uma população que está tentando conter a doença. Dessa forma, o &lt;em&gt;R&lt;sub&gt;e&lt;/sub&gt;&lt;/em&gt; varia ao longo do tempo e no decorrer de que medidas diferentes forem sendo impostas, como afrouxar ou restringir o distanciamento social.&lt;/p&gt;
+
+&lt;p&gt;Nesse relatório do Imperial College, eles usaram a notação &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; para simbolizar o índice efetivo de reprodução.&lt;/p&gt;
+
+&lt;h2 id=&quot;os-resultados-da-projeção&quot;&gt;Os resultados da projeção&lt;/h2&gt;
+
+&lt;p&gt;Primeiro, o relatório traz um mapa ilustrando quais países ainda estão em crescimento, estabilização ou queda do número de novos casos.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/covid19/imp-college-1.jpeg&quot; /&gt;
+    &lt;figcaption&gt;Estimativas de transmissibilidade em países com transmissão ativa para a semana que termina em 26-04-2020. Com base nas melhores estimativas de transmissibilidade, a epidemia de COVID-19 provavelmente está diminuindo em 4 países (mostrados em verde), provavelmente estabilizando ou crescendo lentamente em 23 países (mostrada em verde claro) e provavelmente crescendo em 9 países (mostrados em laranja escuro). A tendência não é clara em 12 países (mostrada em laranja claro).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Podemos perceber que o Brasil ainda está no crescimento acelerado, contrariando falas de algumas figuras públicas dizendo que já estávamos em desaceleração.&lt;/p&gt;
+
+&lt;p&gt;Em seguida, o relatório faz uma projeção da curva curva de mortalidade. Abaixo eu coloquei apenas as projeções para os países da América do Sul. Essas projeções foram feitas usando três modelos matemáticos diferentes e depois traçando uma média. Para saber mais sobre a metodologia utilizada, é melhor ler o relatório na íntegra.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/covid19/forecast.jpeg&quot; /&gt;
+    &lt;figcaption&gt;Notificações de mortes diárias e previsões atuais com base no modelo para os países da América do Sul. A incidência observada de mortes é representada pelos pontos pretos e as previsões para a próxima semana são mostradas em vermelho. A linha vermelha representa a mediana da projeção. A linha tracejada vertical mostra o início da semana (segunda-feira).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;taxa-de-transmissão&quot;&gt;Taxa de transmissão&lt;/h3&gt;
+
+&lt;p&gt;E agora, a parte mais interessante, a tabela trazendo os dados calculados para cada país. Tirei dois &lt;em&gt;prints&lt;/em&gt;, o primeiro mostra os países ordenados da maior taxa de transmissão, a do Brasil, até a menor.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/covid19/tab-rt.jpeg&quot; /&gt;
+    &lt;figcaption&gt;Essa é a tabela listando os países por: mortes notificadas na semana passada (1ª coluna), previsão de mortes para a próxima semana (2ª coluna) e o &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; (3ª coluna). Aqui eu ordenei a lista em valores decrescentes de &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt;, ou seja, o Brasil é o país com o maior índice de transmissão dentre os analisados.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;O que me chamou mais atenção foram os números da Suécia, país que &lt;a href=&quot;https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html&quot;&gt;não vem adotando medidas de isolamento social&lt;/a&gt;&lt;sup id=&quot;fnref:CNN&quot;&gt;&lt;a href=&quot;#fn:CNN&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. O &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; de lá está entre os mais baixos, sendo de 1,17. Mas atenção, precisamos ter muita cautela interpretando esses dados. Um &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; baixo na Suécia não significa que eles estão indo bem sem adotar distanciamento social. O número de reprotudividade depende de vários fatores, como clima, planejamento urbano, comportamentos culturais, desigualdade social e muitos e muitos outros.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/covid19/sweden.jpeg&quot; /&gt;
+    &lt;figcaption&gt;Os valores da tabela para a Suécia.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Por mais que o &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; da Suécia esteja baixo, ele poderia estar ainda menor se o país estivesse adotando distanciamento. Sem falar que a Suécia está relativamente no início da curva. Vamos continuar observando e tentando analisar os dados nesses próximos dias.&lt;/p&gt;
+
+&lt;p&gt;Agora vamos falar do Brasil, onde o valor estimado para o &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; foi de 2,81. Ou seja, um infectado transmite a doença, em média, para quase três pessoas. Isso demonstra que nossas medidas de isolamento não estão sendo efetivas? Não exatamente. Nosso &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; pode estar elevado por esses outros fatores que listei falando da Suécia. Para responder essa pergunta nos precisamos de mais medições do &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; e compará-las antes e depois de aumentar a rigidez do isolamento. Quando mais rígido o distanciamento social, o &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; tende a diminuir. E como não sabemos o nosso &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; anterior, não temos um parâmetro.&lt;/p&gt;
+
+&lt;h3 id=&quot;previsão-de-óbitos&quot;&gt;Previsão de óbitos&lt;/h3&gt;
+
+&lt;p&gt;Neste segundo &lt;em&gt;print&lt;/em&gt;, tentei expor os países com as maiores previsões de óbitos para a próxima semana. Infelizmente a tabela estava ordenando a coluna corretamente, então tive que ordenar pelo número de mortes na semana passada.&lt;/p&gt;
+
+&lt;p&gt;Os Estados Unidos é o país com a maior previsão de mortes na próxima semana, sendo de 13.900 óbitos. Logo em seguida, vem o Brasil com uma previsão de 5.680 mortes.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/covid19/tab-death.jpeg&quot; /&gt;
+    &lt;figcaption&gt;Essa é a tabela, porém desta vez eu ordenei em valores decrescentes de mortes na semana passada. Tentei ordenar pelos valores de mortes previstas mas a tabela não estava permitindo isso, infelizmente (um pequeno &lt;em&gt;bug&lt;/em&gt;).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Esse relatório sai num momento em que &lt;a href=&quot;https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/&quot;&gt;alguns estados, como São Paulo, já estavam cogitando flexibilizar o distanciamento social&lt;/a&gt;&lt;sup id=&quot;fnref:estados&quot;&gt;&lt;a href=&quot;#fn:estados&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Mas, pelo que parece, estão voltando atrás.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Essa é mais uma projeção dentre várias que já vimos. Como não nos resta muito que fazer para impedir a pandemia, vale muito a pena ficar projetando cenários. Serve tanto para de fato tentar prever o que vai acontecer e se preparar, como também para melhorar cada vez mais os modelos matemáticos à medida que vamos acumulando novos dados.&lt;/p&gt;
+
+&lt;p&gt;Pode parecer alarmista demais para alguns, mas isso faz parte da ciência. Por mais que uma projeção erre grosseiramente, ela vai ser importante para que o erro seja estudados e nas próximas vezes seja feita uma estimativa mais precisa.&lt;/p&gt;
+
+&lt;p&gt;Mais uma vez eu quero deixar bem claro aqui: &lt;strong&gt;temos que ter muito cuidado analisando os dados!&lt;/strong&gt; Epidemiologia é uma ciência extremamente complexa. Não se trata apenas de biologia, mas de comportamento social também. Existe uma infinidade de variáveis envolvidas nesses dados. Senão tomarmos cuidado na interpretação, podemos cair em alguma variável de confusão, como já discuti na postagem anterior – &lt;a href=&quot;/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19&quot;&gt;A falácia ecológica e o estudo correlacionando a vacina do BCG com proteção à COVID-19&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;O &lt;em&gt;MRC Centre for Global Infectious Disease Analysis&lt;/em&gt; vai ficar disponibilizando novas previsões toda semana. Se saírem novos relatórios, faço mais postagens aqui comentando.&lt;/p&gt;
+
+&lt;p&gt;Tem alguma sugestão ou crítica? Entra em contato comigo que vou adorar ficar sabendo.&lt;/p&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:imp&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Short-term forecasts of COVID-19 deaths in multiple countries&lt;/strong&gt;. MRC Centre for Global Infectious Disease Analysis. Imperial College London. Publicado em 28 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: &lt;a href=&quot;https://mrc-ide.github.io/covid19-short-term-forecasts/index.html&quot;&gt;https://mrc-ide.github.io/covid19-short-term-forecasts/index.html&lt;/a&gt;. &lt;a href=&quot;#fnref:imp&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Held&quot;&gt;
+      &lt;p&gt;Held, Leonhard; Hens, Niel; O’Neill, Philip D.; Wallinga, Jacco (November 7, 2019). &lt;strong&gt;Handbook of Infectious Disease Data Analysis&lt;/strong&gt;. CRC Press. p. 347. ISBN 978-1-351-83932-7. Disponível em: &lt;a href=&quot;https://books.google.com/?id=cXC9DwAAQBAJ&amp;amp;pg=PA347&quot;&gt;https://books.google.com/?id=cXC9DwAAQBAJ&amp;amp;pg=PA347&lt;/a&gt;. &lt;a href=&quot;#fnref:Held&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Held:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Riou&quot;&gt;
+      &lt;p&gt;Riou J, Althaus CL (janeiro de 2020). &lt;strong&gt;Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020&lt;/strong&gt;. Euro Surveillance. 25 (4). PMC 7001239Acessível livremente. PMID 32019669. doi:&lt;a href=&quot;https://doi.org/10.2807/1560-7917.ES.2020.25.4.2000058&quot;&gt;10.2807/1560-7917.ES.2020.25.4.2000058&lt;/a&gt;. &lt;a href=&quot;#fnref:Riou&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:CNN&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Sweden challenges Trump – and scientific mainstream – by refusing to lock down&lt;/strong&gt;. CNN. Publicado em 10 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: &lt;a href=&quot;https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html&quot;&gt;https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html&lt;/a&gt;. &lt;a href=&quot;#fnref:CNN&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:estados&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Doria irá anunciar redução gradual da quarentena a partir de 11 de maio&lt;/strong&gt;. Veja. Publicado em 20 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: &lt;a href=&quot;https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/&quot;&gt;https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/&lt;/a&gt;. &lt;a href=&quot;#fnref:estados&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+        </entry>
     
     <entry>
             <title type="html">A falácia ecológica e o estudo correlacionando a vacina do BCG com proteção à COVID-19</title>
@@ -248,15 +358,6 @@
         </entry>
     
     <entry>
-            <title type="html">Passatempo da quarentena: fazer gráficos</title>
-            <link href="http://localhost:4000/2020/medicina/passatempo-da-quarentena"/>
-            <published>2020-03-29T00:00:00-03:00</published>
-            <id>/2020/medicina/passatempo-da-quarentena</id>
-            <content type="html">
-</content>
-        </entry>
-    
-    <entry>
             <title type="html">Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?</title>
             <link href="http://localhost:4000/2020/medicina/reutilizar-n95"/>
             <published>2020-03-26T00:00:00-03:00</published>
@@ -315,38 +416,6 @@
   &lt;ol&gt;
     &lt;li id=&quot;fn:tocar&quot;&gt;
       &lt;p&gt;Rebmann, T., R. Carrico, and J. Wang: &lt;strong&gt;Physiologic and other effects and compliance with long-term respirator use among medical intensive care unit nurses&lt;/strong&gt;. American Journal of Infection Control 41(12):1218-1223(2013). &lt;a href=&quot;#fnref:tocar&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Máscaras cirúrgicas protegem contra o Novo Coronavirus?</title>
-            <link href="http://localhost:4000/2020/medicina/mascaras-cirurgicas-protegem-coronavirus"/>
-            <published>2020-03-25T00:00:00-03:00</published>
-            <id>/2020/medicina/mascaras-cirurgicas-protegem-coronavirus</id>
-            <content type="html">&lt;p&gt;Um estudo do JAMA não identificou diferença estatística entre os grupos usando máscaras cirúrgicas e o grupo que usava N95 na prevenção da infecção por Influenza.&lt;sup id=&quot;fnref:jama&quot;&gt;&lt;a href=&quot;#fn:jama&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;faz-diferença-usar-ou-não-uma-máscara-cirúrgica&quot;&gt;Faz diferença usar ou não uma máscara cirúrgica?&lt;/h2&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Smart Air Filters. &lt;a href=&quot;https://smartairfilters.com/en/blog/n95-mask-surgical-prevent-transmission-coronavirus/&quot;&gt;&lt;strong&gt;N95 Masks vs. Surgical Masks: Which Is Better at Preventing The Coronavirus?&lt;/strong&gt;&lt;/a&gt;. Publicado em 03 de Março de 2020. Acessado em 25 de Março de 2020;&lt;/li&gt;
-  &lt;li&gt;Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. &lt;strong&gt;N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial&lt;/strong&gt;. JAMA. 2019;322(9):824–833. doi:10.1001/jama.2019.11645.&lt;/li&gt;
-  &lt;li&gt;Smith JD, MacDougall CC, Johnstone J, Copes RA, Schwartz B, Garber GE. &lt;strong&gt;Effectiveness of N95 respirators versus surgical masks in protecting health care workers from acute respiratory infection: a systematic review and meta-analysis&lt;/strong&gt;. CMAJ. 2016;188(8):567–574. doi:10.1503/cmaj.150835.&lt;/li&gt;
-  &lt;li&gt;Bin-Reza F, Lopez Chavarrias V, Nicoll A, Chamberland ME. &lt;strong&gt;The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence&lt;/strong&gt;. Influenza Other Respir Viruses. 2012;6(4):257–267. doi:10.1111/j.1750-2659.2011.00307.x.&lt;/li&gt;
-  &lt;li&gt;MacIntyre CR, Wang Q, Cauchemez S, et al. &lt;strong&gt;A cluster randomized clinical trial comparing fit-tested and non-fit-tested N95 respirators to medical masks to prevent respiratory virus infection in health care workers&lt;/strong&gt;. Influenza Other Respir Viruses. 2011;5(3):170–179. doi:10.1111/j.1750-2659.2011.00198.x.&lt;/li&gt;
-  &lt;li&gt;Killingley B. &lt;strong&gt;Respirators versus medical masks: evidence accumulates but the jury remains out&lt;/strong&gt;. Influenza Other Respir Viruses. 2011;5(3):143–145. doi:10.1111/j.1750-2659.2011.00237.x&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:jama&quot;&gt;
-      &lt;p&gt;Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. &lt;strong&gt;N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial&lt;/strong&gt;. JAMA. 2019;322(9):824–833. doi:10.1001/jama.2019.11645. &lt;a href=&quot;#fnref:jama&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -433,52 +502,6 @@
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Escala de coma de Glasgow</title>
-            <link href="http://localhost:4000/2019/medicina/escala-de-coma-de-glasgow"/>
-            <published>2019-10-20T13:47:11-03:00</published>
-            <id>/2019/medicina/escala-de-coma-de-glasgow</id>
-            <content type="html">&lt;p&gt;Existem muitas escalas na medicina. Uma das mais antigas e ainda amplamente utilizada é a escala de coma de Glagow (ECG). Simplemente não dá para não saber a ECG. Ela foi criada em 1974 na tentativa de tentar categorizar de forma prática o nível de consciência dos pacientes.&lt;sup id=&quot;fnref:tesdale2014&quot;&gt;&lt;a href=&quot;#fn:tesdale2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Antes da ECG era muito difícil de se comunicar entre os médicos o grau de rebaixamento de consciência dos pacientes. Também não havia uma quantificação para saber se o paciente estava melhorando ou piorando o seu estado mental. E, além disso, era muito difícil fazer pesquisas sem conseguir dividir os pacientes em grupos e avaliar os resultados do acordo com eles.&lt;/p&gt;
-
-&lt;p&gt;Então, 45 anos atrás a &lt;em&gt;Glasgow coma scale&lt;/em&gt; era publicada no períodico &lt;em&gt;The Lancet&lt;/em&gt;. O artigo original em questão &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(74)91639-0/fulltext&quot; target=&quot;_blank&quot;&gt;pode ser acessado aqui&lt;/a&gt;&lt;sup id=&quot;fnref:tesdale1974&quot;&gt;&lt;a href=&quot;#fn:tesdale1974&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;A ECG começou a ser desenvolvida já em 1971, na busca por melhorar o atendimento de paciebtes vítimas de traumatismos encefálicos e estabelecer um critério de prognóstico.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:tesdale2014&quot;&gt;
-      &lt;p&gt;Teasdale G, Maas A, Lecky F, Manley G, Stocchetti N, Murray G. The Glasgow Coma Scale at 40 years: standing the test of time. The Lancet Neurology. 2014;13(8):844-854. doi:10.1016/S1474-4422(14)70120-6 &lt;a href=&quot;#fnref:tesdale2014&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:tesdale1974&quot;&gt;
-      &lt;p&gt;Teasdale G, Jennett B. Assessment of coma and impaired consciousness. The Lancet. 1974;304(7872):81-84. doi:10.1016/S0140-6736(74)91639-0 &lt;a href=&quot;#fnref:tesdale1974&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Leptospirose</title>
-            <link href="http://localhost:4000/2019/medicina/leptospirose"/>
-            <published>2019-10-20T00:00:00-03:00</published>
-            <id>/2019/medicina/leptospirose</id>
-            <content type="html">
-</content>
-        </entry>
-    
-    <entry>
-            <title type="html">Cirúrgias também pode funcionar como placebo?</title>
-            <link href="http://localhost:4000/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo"/>
-            <published>2019-10-20T00:00:00-03:00</published>
-            <id>/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo</id>
-            <content type="html">
 </content>
         </entry>
     
