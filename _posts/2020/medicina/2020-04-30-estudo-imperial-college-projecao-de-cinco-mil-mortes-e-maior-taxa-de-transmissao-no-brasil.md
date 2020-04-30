@@ -56,7 +56,7 @@ O que me chamou mais atenção foram os números da Suécia, país que [não vem
     <figcaption>Os valores da tabela para a Suécia.</figcaption>
 </figure>
 
-Por mais que o *R<sub>t</sub>* da Suécia esteja baixo, ele poderia estar ainda menor se o país estivesse adotando distanciamento. Sem falar que a Suécia está relativamente no início da curva. Vamos continuar observando e tentando analisar os dados nesses próximos dias.
+Por mais que o *R<sub>t</sub>* da Suécia esteja baixo, ele poderia estar ainda menor se o país estivesse adotando distanciamento. Sem falar que a Suécia está relativamente no início da curva. Vamos continuar observando e tentando analisar os dados nesses próximos dias. Pretendo estudar mais sobre a situação na Suécia e fazer uma postagem mais elaborada em breve.
 
 Agora vamos falar do Brasil, onde o valor estimado para o *R<sub>t</sub>* foi de 2,81. Ou seja, um infectado transmite a doença, em média, para quase três pessoas. Isso demonstra que nossas medidas de isolamento não estão sendo efetivas? Não exatamente. Nosso *R<sub>t</sub>* pode estar elevado por esses outros fatores que listei falando da Suécia. Para responder essa pergunta nos precisamos de mais medições do *R<sub>t</sub>* e compará-las antes e depois de aumentar a rigidez do isolamento. Quando mais rígido o distanciamento social, o *R<sub>t</sub>* tende a diminuir. E como não sabemos o nosso *R<sub>t</sub>* anterior, não temos um parâmetro.
 
