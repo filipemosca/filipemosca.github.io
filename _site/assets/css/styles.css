@@ -39,7 +39,7 @@ html, html[data-theme="light"] {
   --font-color: #333;
   --font-color-header: #222;
   --bg-color: white;
-  --link-color: blue;
+  --link-color: #1a0dab;
   --link-visited-color: purple;
   --botao-color: #dedede;
   --marked-color: yellow;
@@ -132,7 +132,7 @@ html[data-theme="dark"] {
   text-decoration: none;
   font-size: medium;
   border: 1px solid;
-  color: var(--link-color);
+  color: var(--font-color);
   padding: 4px 6px 3px 6px;
   border-radius: 4px;
   display: inline-block;
@@ -520,8 +520,8 @@ button {
 .post-list li h2 a {
   text-decoration: none;
   font-size: 24px;
-  color: var(--font-color);
-  font-weight: 600; }
+  color: var(--link-color);
+  font-weight: normal; }
 .post-list li h2 a:hover {
   color: var(--link-color);
   text-decoration: underline; }

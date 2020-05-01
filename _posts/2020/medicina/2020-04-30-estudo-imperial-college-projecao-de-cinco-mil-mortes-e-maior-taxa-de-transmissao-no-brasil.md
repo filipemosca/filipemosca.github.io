@@ -6,7 +6,7 @@ tags: [coronavirus, covid-19, estatistica, epidemiologia]
 
 Dia 28 deste mês de abril, o **Imperial College London** disponibilizou online um relatório com previsões de mortalidade por COVID-19 para a próxima semana[^imp].
 
-O relatório está repercutindo bastante já que o Brasil de certa forma se destacou. Muito está se comentando sobre a previsão de 5.000 novos mortos na próxima semana e também sobre sermos o país com a maior taxa de trasmissão.
+O relatório está repercutindo bastante já que o Brasil de certa forma se destacou. Muito está se comentando sobre a previsão de 5.000 novos mortos na próxima semana e também sobre sermos o país com a maior taxa de transmissão.
 
 Primeiro vou explicar alguns conceitos para depois detalhar melhor os achados da projeção.
 
@@ -27,7 +27,7 @@ Nesse relatório do Imperial College, eles usaram a notação *R<sub>t</sub>* pa
 Primeiro, o relatório traz um mapa ilustrando quais países ainda estão em crescimento, estabilização ou queda do número de novos casos.
 
 <figure>
-    <img src="/assets/2020/medicina/covid19/imp-college-1.jpeg">
+    <img src="/assets/2020/medicina/covid19/imp-college-1.jpeg" alt="Mapa">
     <figcaption >Estimativas de transmissibilidade em países com transmissão ativa para a semana que termina em 26-04-2020. Com base nas melhores estimativas de transmissibilidade, a epidemia de COVID-19 provavelmente está diminuindo em 4 países (mostrados em verde), provavelmente estabilizando ou crescendo lentamente em 23 países (mostrada em verde claro) e provavelmente crescendo em 9 países (mostrados em laranja escuro). A tendência não é clara em 12 países (mostrada em laranja claro).</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Podemos perceber que o Brasil ainda está no crescimento acelerado, contrariando
 Em seguida, o relatório faz uma projeção da curva curva de mortalidade. Abaixo eu coloquei apenas as projeções para os países da América do Sul. Essas projeções foram feitas usando três modelos matemáticos diferentes e depois traçando uma média. Para saber mais sobre a metodologia utilizada, é melhor ler o relatório na íntegra.
 
 <figure>
-    <img src="/assets/2020/medicina/covid19/forecast.jpeg">
+    <img src="/assets/2020/medicina/covid19/forecast.jpeg" alt="Curvas de mortalidade">
     <figcaption>Notificações de mortes diárias e previsões atuais com base no modelo para os países da América do Sul. A incidência observada de mortes é representada pelos pontos pretos e as previsões para a próxima semana são mostradas em vermelho. A linha vermelha representa a mediana da projeção. A linha tracejada vertical mostra o início da semana (segunda-feira).</figcaption>
 </figure>
 
@@ -45,14 +45,14 @@ Em seguida, o relatório faz uma projeção da curva curva de mortalidade. Abaix
 E agora, a parte mais interessante, a tabela trazendo os dados calculados para cada país. Tirei dois *prints*, o primeiro mostra os países ordenados da maior taxa de transmissão, a do Brasil, até a menor.
 
 <figure>
-    <img src="/assets/2020/medicina/covid19/tab-rt.jpeg">
+    <img src="/assets/2020/medicina/covid19/tab-rt.jpeg" alt="Tabela 1">
     <figcaption>Essa é a tabela listando os países por: mortes notificadas na semana passada (1ª coluna), previsão de mortes para a próxima semana (2ª coluna) e o <em>R<sub>t</sub></em> (3ª coluna). Aqui eu ordenei a lista em valores decrescentes de <em>R<sub>t</sub></em>, ou seja, o Brasil é o país com o maior índice de transmissão dentre os analisados.</figcaption>
 </figure>
 
-O que me chamou mais atenção foram os números da Suécia, país que [não vem adotando medidas de isolamento social](https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html)[^CNN]. O *R<sub>t</sub>* de lá está entre os mais baixos, sendo de 1,17. Mas atenção, precisamos ter muita cautela interpretando esses dados. Um *R<sub>t</sub>* baixo na Suécia não significa que eles estão indo bem sem adotar distanciamento social. O número de reprotudividade depende de vários fatores, como clima, planejamento urbano, comportamentos culturais, desigualdade social e muitos e muitos outros.
+O que me chamou mais atenção foram os números da Suécia, país que [não vem adotando medidas de isolamento social](https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html)[^CNN]. O *R<sub>t</sub>* de lá está entre os mais baixos, sendo de 1,17. Mas atenção, precisamos ter muita cautela interpretando esses dados. Um *R<sub>t</sub>* baixo na Suécia não significa que eles estão indo bem sem adotar distanciamento social. O número de reprodutividade depende de vários fatores, como clima, planejamento urbano, comportamentos culturais, desigualdade social e muitos e muitos outros.
 
 <figure>
-    <img src="/assets/2020/medicina/covid19/sweden.jpeg">
+    <img src="/assets/2020/medicina/covid19/sweden.jpeg" alt="Tabela 2">
     <figcaption>Os valores da tabela para a Suécia.</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ Neste segundo *print*, tentei expor os países com as maiores previsões de óbi
 Os Estados Unidos é o país com a maior previsão de mortes na próxima semana, sendo de 13.900 óbitos. Logo em seguida, vem o Brasil com uma previsão de 5.680 mortes.
 
 <figure>
-    <img src="/assets/2020/medicina/covid19/tab-death.jpeg">
+    <img src="/assets/2020/medicina/covid19/tab-death.jpeg" alt="Tabela 3">
     <figcaption>Essa é a tabela, porém desta vez eu ordenei em valores decrescentes de mortes na semana passada. Tentei ordenar pelos valores de mortes previstas mas a tabela não estava permitindo isso, infelizmente (um pequeno <em>bug</em>).</figcaption>
 </figure>
 
