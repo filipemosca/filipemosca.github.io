@@ -1,14 +1,17 @@
 ---
-title: ~/Medicina
+title: Medicina
 layout: wrapped
 ---
 {% include header.html %}
 
 
-<div class="abertura back-medicina">
+<div class="abertura">
   <div class="item">
-    <h1>~/Medicina</h1>
-    <p class="apresentacao">Esta é a minha coluna sobre medicina. Aqui escrevo sobre medicina baseada em evidências, assuntos acadêmicos e também divulgação científica.</p>
+    <h1>Medicina ⚕️</h1>
+    <p class="apresentacao">Esta é a minha coluna sobre medicina. Aqui escrevo sobre medicina baseada em evidências, assuntos acadêmicos e também divulgação científica. </p>
+    <p class="assine">
+    Receba as últimas postagens sobre medicina por email: <a href="https://feedburner.google.com/fb/a/mailverify?uri=mosquildo-medicina&amp;loc=pt_BR" class="botao botao-serif">Assine aqui</a> <a href="https://mosquildo.com.br/feed/medicina" class="botao botao-serif">Feed</a>
+    </p>    
   </div>
 
 
@@ -33,40 +36,15 @@ layout: wrapped
 
       <form id="assinar-email" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=Mosquildo', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><span><input type="text" style="width:160px" name="email" placeholder="Informe seu email" /></span><input type="hidden" value="Mosquildo" name="uri"/><input type="hidden" name="loc" value="pt_BR"/><input type="submit" value="Assinar" /></form>
 
-        <a class="botao botao-entrada categorias medicina" href="/medicina.html">Medicina</a>
-        <a class="botao botao-entrada categorias covid19" href="/covid19.html">COVID-19</a>
-        <a class="botao botao-entrada categorias musica" href="/musica.html">Música</a>
-        <a class="botao botao-entrada categorias cinema" href="/cinema.html">Cinema</a>
-        <a class="botao botao-entrada categorias aleatoriedades" href="/aleatoriedades.html">Aleatoriedades</a>
+        <a class="botao  categorias medicina" href="/medicina.html">Medicina</a>
+        <a class="botao  categorias covid19" href="/covid19.html">COVID-19</a>
+        <a class="botao  categorias musica" href="/musica.html">Música</a>
+        <a class="botao  categorias cinema" href="/cinema.html">Cinema</a>
+        <a class="botao  categorias aleatoriedades" href="/aleatoriedades.html">Aleatoriedades</a>
 
     </div>
   </div>
 </div>
-
-<!-- <div class="back-medicina">
-  <h2 id="ultimas">Todas as postagens:</h2>
-  <div class="archive-list">
-    <ol reversed>
-      {% for post in site.categories.medicina %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-info-archive">{{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
-          {% case m %}
-            {% when '1' %}jan
-            {% when '2' %}fev
-            {% when '3' %}mar
-            {% when '4' %}abr
-            {% when '5' %}mai
-            {% when '6' %}jun
-            {% when '7' %}jul
-            {% when '8' %}ago
-            {% when '9' %}set
-            {% when '10' %}out
-            {% when '11' %}nov
-            {% when '12' %}dez
-          {% endcase %}{{ post.date | date: "%Y"}}</span></li>
-      {% endfor %}
-    </ol>
-  </div>
-</div> -->
 
 <h2 id="ultimas"">Últimas postagens:</h2>
 

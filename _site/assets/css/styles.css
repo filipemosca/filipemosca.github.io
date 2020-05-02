@@ -151,6 +151,15 @@ html[data-theme="dark"] {
 #assinar-email {
   margin-bottom: 0.25em; }
 
+.assine {
+  font-size: 0.9em;
+  color: gray;
+  max-width: 350px; }
+
+.botao-serif {
+  font-family: var(--header-font);
+  font-size: 1em; }
+
 .musica {
   background-color: #d60000;
   color: #ffffff; }
