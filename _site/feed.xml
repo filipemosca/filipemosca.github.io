@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-03T17:17:49-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil</title><link href="http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil" rel="alternate" type="text/html" title="Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil" /><published>2020-04-30T00:00:00-03:00</published><updated>2020-04-30T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil</id><content type="html" xml:base="http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil">&lt;p&gt;Dia 28 deste mês de abril, o &lt;strong&gt;Imperial College London&lt;/strong&gt; disponibilizou online um relatório com previsões de mortalidade por COVID-19 para a próxima semana&lt;sup id=&quot;fnref:imp&quot;&gt;&lt;a href=&quot;#fn:imp&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-03T18:24:28-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">O que aprendi na primeira semana praticando piano</title><link href="http://localhost:4000/2020/musica/primeira-semana-praticando-piano" rel="alternate" type="text/html" title="O que aprendi na primeira semana praticando piano" /><published>2020-05-03T00:00:00-03:00</published><updated>2020-05-03T00:00:00-03:00</updated><id>http://localhost:4000/2020/musica/primeira-semana-praticando-piano</id><content type="html" xml:base="http://localhost:4000/2020/musica/primeira-semana-praticando-piano">&lt;p&gt;Acabei de completar a primeira semana de prática por conta própria. Sinto que consegui aprender bastante coisa nesses poucos dias e já consigo notar uma evolução. Aliás, apenas nessa semana sinto que já evoluí mais do que o ano passado inteiro. Como expliquei na postagem anterior – &lt;a href=&quot;/2020/musica/aprendendo-piano-sozinho&quot;&gt;Aprendendo piano sozinho&lt;/a&gt; –, eu não estava seguindo nenhuma metodologia e isso era péssimo.&lt;/p&gt;
+
+&lt;p&gt;Vou detalhar aqui neste artigo o que aprendi nessa semana, destacando os pontos que considero mais importantes. Eu já tinha estudado o básico de teoria musical, como o básico de notação musical e leitura de partitura. Por isso estou pulando essa parte básica.&lt;/p&gt;
+
+&lt;p&gt;A propósito, o &lt;em&gt;Alfred’s adult basic piano course level 1&lt;/em&gt; não aborda esse tema tão detalhadamente. Então, se você ainda não sabe nada sobre partituras, não sabe ler ou identificar os símbolos nela, recomendo fortemente estudar pelo livro &lt;em&gt;Alfred’s essentials of music theory&lt;/em&gt;. Se você não quiser ir pelo livro, também tem milhares de vídeos no YouTube ensinando isso. E também muito conteúdo bom e gratuito pela internet, é só dar uma pesquisada. &lt;em&gt;Googlar&lt;/em&gt; algo do tipo “como ler uma partitura” já vai te ajudar.&lt;/p&gt;
+
+&lt;h2 id=&quot;intervalos&quot;&gt;Intervalos&lt;/h2&gt;
+
+&lt;p&gt;Intervalos para mim sempre foi um assunto besta. Sempre pensei “por que as pessoas perdem tempo estudando isso?”. Na minha cabeça era um assunto extremamente óbvio. Agora, com um olhar um pouco mais cuidadoso, eu percebo a importância de saber intervalos.&lt;/p&gt;
+
+&lt;p&gt;Os intervalos podem ser de dois tipos, melódicos e harmônicos. Um intervalo é melódico quando as notas são tocadas em tempos diferentes. É daí que vem a palavra &lt;em&gt;melodia&lt;/em&gt;. A imagem abaixo são exemplos de dois intervalos melódicos:&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/musica/intervalos2.jpeg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/musica/intervalos.jpeg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Os intervalos são harmônicos quando as notas são tocadas juntas, ao mesmo tempo. Como na imagem abaixo:&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/musica/intervalos-harmonicos.jpeg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/musica/intervalos3.jpeg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Como as imagens mostram, os intervalos podem ser de 2ª, 3ª, 4ª, 5ª e por aí vai. Mas qual a importância de saber isso? Falando bem na prática mesmo, entender os intervalos vai te permitir ler e tocar a partitura com mais fluidez.&lt;/p&gt;
+
+&lt;p&gt;Podemos notar que em intervalos pares, como de 2ª e 4ª, as notas estão sempre em &lt;strong&gt;linha-linha&lt;/strong&gt; ou &lt;strong&gt;espaço-espaço&lt;/strong&gt;. Já nos intervalos ímpares, as notas obedecem o padrão &lt;strong&gt;espaço-linha&lt;/strong&gt; ou &lt;strong&gt;linha-espaço&lt;/strong&gt;. Sabendo identificar esses padrões, fica muito mais fácil ler trechos de partitura, como esse abaixo:&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/musica/im.jpeg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Todas as notas estão em espaços, logo, são intervalos de 3ª (ímpares). Basta apenas pular uma nota e tocar a nota seguinte. Toca o Dó, pula o Ré, toca o Mi, pula o Fá e toca o Sol. Com a prática, esse conhecimento vai se tornando intuitivo. Você está ensinando seu cérebro a reconhecer esses padrões e ler cada vez mais rápido o que está escrito ali.&lt;/p&gt;
+
+&lt;p&gt;Não sei se consegui deixar a explicação muito clara. Qualquer coisa você pode me mandar um email com dúvidas ou sugestões e eu modifico esse parágrafo.&lt;/p&gt;
+
+&lt;h2 id=&quot;acordes&quot;&gt;Acordes&lt;/h2&gt;
+
+&lt;h3 id=&quot;dó-maior&quot;&gt;Dó maior&lt;/h3&gt;
+
+&lt;p&gt;Os método de ensino do Alfred é baseado em acordes e chegou, finalmente, a hora de aprendê-los. O primeiro é o mais óbvio e mais basicão, o acorde de Dó maior.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/musica/do-maior.jpeg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Notem que, sabendo intervalos, fica muito fácil ler os acordes. Na clave de Sol, todas as notas estão em linhas e, na clave de Fá, todas notas estão em espaços. Logo, os intervalos são de 3ª. Sabendo a primeira nota do acorde, o Dó, podemos facilmente localizar as demais, o Mi e o Sol.&lt;/p&gt;
+
+&lt;h3 id=&quot;g7&quot;&gt;G7&lt;/h3&gt;
+
+&lt;p&gt;Depois foi a vez de aprender o acorde G7 que achei bem bizarro de início. Ele não me parece soar tão bem, mas com algumas músicas deu pra ver que até se encaixa. Na verdade, eu ainda não entendi direito como esse acorde é formado. Acredito que mais na frente, lendo o livro, vai chegar o momento de descobrir.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/musica/g7.jpeg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Mais uma vez, sabendo intervalos fica fácil ler o acorde G7. Vamos pela clave de Sol. A primeira nota, o Si, está num espaço e a segunda também está num espaço. Logo, é um intervalo de 5ª (ímpar). A quinta nota após o Si é o Fá. Intervalos de quinta são muito bons pois a própria mão (5 dedos) funciona como régua para medir a distância.&lt;/p&gt;
+
+&lt;p&gt;Lembrando que nos intervalos nós contamos as próprias notas. Si, Dó, Ré, Mi, Fá. São cinco notas, logo do Si pro Fá o intervalo é de 5ª.&lt;/p&gt;
+
+&lt;p&gt;Depois do Fá, a próxima nota está numa linha, logo em seguida. Portanto, é um intervalo de segunda e basta tocar a nota seguinte, o Sol.&lt;/p&gt;
+
+&lt;h3 id=&quot;fá-maior&quot;&gt;Fá maior&lt;/h3&gt;
+
+&lt;p&gt;E por último, o Fá maior. Um acorde bem fácil de transicionar do Dó maior, e vice-versa. Dá pra usar o mesmo raciocínio sobre intervalos harmônicos mas acho que vocês já entenderam.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/musica/fa-maior.jpeg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;É isto. Foi uma semana bastante produtiva – a quarentena está rendendo!. Estou gostando muito do livro do Alfred. Os exercícios são legais e bem selecionados. A progressão na dificuldade também não é tão lenta.&lt;/p&gt;
+
+&lt;p&gt;Próxima semana acredito que já vou postar a primeira música que aprendi. Ainda estou praticando ela mas até a postagem seguinte já devo ter aprendido. Também vou fazer uma postagem detalhando melhor como está sendo a rotina diária de práticas. Até apróxima!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="musica" /><category term="piano" /><category term="acordes" /><category term="intervalos" /><category term="quarentena" /><summary type="html">Acabei de completar a primeira semana de prática por conta própria. Sinto que consegui aprender bastante coisa nesses poucos dias e já consigo notar uma evolução. Aliás, apenas nessa semana sinto que já evoluí mais do que o ano passado inteiro. Como expliquei na postagem anterior – Aprendendo piano sozinho –, eu não estava seguindo nenhuma metodologia e isso era péssimo.</summary></entry><entry><title type="html">Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil</title><link href="http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil" rel="alternate" type="text/html" title="Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil" /><published>2020-04-30T00:00:00-03:00</published><updated>2020-04-30T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil</id><content type="html" xml:base="http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil">&lt;p&gt;Dia 28 deste mês de abril, o &lt;strong&gt;Imperial College London&lt;/strong&gt; disponibilizou online um relatório com previsões de mortalidade por COVID-19 para a próxima semana&lt;sup id=&quot;fnref:imp&quot;&gt;&lt;a href=&quot;#fn:imp&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;O relatório está repercutindo bastante já que o Brasil de certa forma se destacou. Muito está se comentando sobre a previsão de 5.000 novos mortos na próxima semana e também sobre sermos o país com a maior taxa de transmissão.&lt;/p&gt;
 
@@ -620,16 +700,4 @@
 
 &lt;p&gt;Como eu disse, até a morte de Blake o filme era perfeito. Gostei muito mais de seu personagem, ele me trouxe mais empatia discutindo com Schofield e aceitando a missão louca na esperança de salvar seu irmão. Talvez sua morte tenha sido muito prematura, poderiam retardá-la um pouco mais para que pudessemos apreciar a dupla por mais tempo.&lt;/p&gt;
 
-&lt;p&gt;Nota final: ★★★★&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="cinema" /><category term="oscar" /><category term="critica" /><category term="guerra" /><category term="2019" /><summary type="html">Após um hiato de começo de ano sem postar nada no blog, resolvi começar a publicar minhas críticas sobre os filme indicados ao Oscar. Já assisti todos os indicados à categoria de melhor filme e vou tentar escrever sobre todos eles até o dia 9 (dia do Oscar). Então vamos começar por 1917.</summary></entry><entry><title type="html">Metas para 2020</title><link href="http://localhost:4000/2019/aleatoriedades/metas-para-2020" rel="alternate" type="text/html" title="Metas para 2020" /><published>2019-12-31T21:10:00-03:00</published><updated>2019-12-31T21:10:00-03:00</updated><id>http://localhost:4000/2019/aleatoriedades/metas-para-2020</id><content type="html" xml:base="http://localhost:4000/2019/aleatoriedades/metas-para-2020">&lt;p&gt;Nada representa mais o meu ano de 2019 do que ter deixado pra escrever as metas de 2020 faltando poucas horas para o ano acabar. Como vou precisar escrever rápido antes que o ano termine, fiz uma lista de metas:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Ser mais organizado:&lt;/strong&gt; sempre tentei ter uma agenda mas nunca consegui. Esse ano vou tentar novamente.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ler ao menos um livro por mês:&lt;/strong&gt; em 2019 li pouquíssimos livros. Quero fazer diferente em 2020.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Escrever quinzenalmente para o blog:&lt;/strong&gt; há anos que eu tento fazer e manter um blog. Na maioria das vezes eu acabava desistindo pois não tinha tempo e motivação suficiente para ficar postando. Mas agora estou conseguindo e pretendo manter essa rotina.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ganhar 10 Kg:&lt;/strong&gt; essa vai ser uma das metas mais difíceis. A muito tempo que tento ganhar peso. Em 2019 consegui ganhar 5 Kg. Mas continuo faltando muito à academia.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Não deixar para estudar nas vésperas de prova!!!&lt;/strong&gt; Nossa, essa meta vai ser fundamental para minha saúde acadêmica. Vamos ver se vou conseguir concretizá-la.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aprender a criticar e análisar melhor os filmes:&lt;/strong&gt; quero continuar com o &lt;em&gt;hobby&lt;/em&gt; de fazer críticas de filmes e estou tentando ler bastante sobre o assunto para evoluir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aprender a tocar piano:&lt;/strong&gt; em 2019 consegui comprar um piano com meu suado dinheiro mas ainda não parei para de fato aprender a tocar.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Acho que é isto. Espero que em 2020 eu possa ler essa lista e sentir que alcancei o objetivo. Desejo a todos um feliz ano novo, muita saúde e paz para 2020!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="aleatoriedades" /><category term="ano novo" /><category term="metas" /><summary type="html">Nada representa mais o meu ano de 2019 do que ter deixado pra escrever as metas de 2020 faltando poucas horas para o ano acabar. Como vou precisar escrever rápido antes que o ano termine, fiz uma lista de metas:</summary></entry></feed>
+&lt;p&gt;Nota final: ★★★★&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="cinema" /><category term="oscar" /><category term="critica" /><category term="guerra" /><category term="2019" /><summary type="html">Após um hiato de começo de ano sem postar nada no blog, resolvi começar a publicar minhas críticas sobre os filme indicados ao Oscar. Já assisti todos os indicados à categoria de melhor filme e vou tentar escrever sobre todos eles até o dia 9 (dia do Oscar). Então vamos começar por 1917.</summary></entry></feed>
