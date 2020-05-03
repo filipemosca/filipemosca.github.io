@@ -151,10 +151,46 @@ html[data-theme="dark"] {
 #assinar-email {
   margin-bottom: 0.25em; }
 
-.assine {
-  font-size: 0.9em;
-  color: gray;
-  max-width: 350px; }
+.assine-email {
+  background: radial-gradient(circle at 20% 20%, #329709 25%, #256b09 100%);
+  border-radius: 0.8rem;
+  box-shadow: 0.5rem 1rem 1rem 0 rgba(100, 110, 140, 0.4);
+  padding: 6px 4px 5px 4px;
+  max-width: 300px;
+  margin: 30px auto; }
+  .assine-email h3 {
+    text-align: center;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    margin-top: 4px; }
+  .assine-email p {
+    text-align: center;
+    font-size: 0.9em;
+    color: #f0f0f0;
+    line-height: 1.3em;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0; }
+
+.assinar {
+  text-decoration: none;
+  font-size: medium;
+  background-color: white;
+  font-family: Helvetica, sans-serif;
+  color: green;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: 1.2; }
+
+.assinar:hover {
+  background-color: #f0f0f0;
+  text-decoration: none; }
+
+.assinar:visited {
+  color: darkgreen; }
 
 .botao-serif {
   font-family: var(--header-font);

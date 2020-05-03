@@ -175,10 +175,48 @@ html[data-theme="dark"] {
 #assinar-email {
   margin-bottom: 0.25em;
 }
-.assine {
+.assine-email {
+  background: radial-gradient(circle at 20% 20%, #329709 25%, #256b09 100%);;
+  border-radius: 0.8rem;
+  box-shadow: 0.5rem 1rem 1rem 0 rgba(100,110,140,.4);
+  padding: 6px 4px 5px 4px;
+  max-width: 300px;
+  margin: 30px auto;
+  h3 {
+    text-align: center;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    margin-top: 4px;
+  }
+  p {
+  text-align: center;
   font-size: 0.9em;
-  color: gray;
-  max-width: 350px;
+  color: rgb(240, 240, 240); 
+  line-height: 1.3em;
+  font-family: Helvetica, sans-serif;
+  margin-bottom: 0;
+  }
+}
+.assinar {
+  text-decoration: none;
+  font-size: medium;
+  background-color: white;
+  font-family: Helvetica, sans-serif;
+  color: green;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: 1.2;
+}
+.assinar:hover {
+  background-color: rgb(240, 240, 240);
+  text-decoration: none;
+}
+.assinar:visited {
+  color: rgb(0, 100, 0);
 }
 .botao-serif {
   font-family: var(--header-font);
