@@ -175,10 +175,48 @@ html[data-theme="dark"] {
 #assinar-email {
   margin-bottom: 0.25em;
 }
-.assine {
+.assine-email {
+  background: radial-gradient(circle at 20% 20%, #329709 25%, #256b09 100%);;
+  border-radius: 0.8rem;
+  box-shadow: 0.5rem 1rem 1rem 0 rgba(100,110,140,.4);
+  padding: 6px 4px 5px 4px;
+  max-width: 300px;
+  margin: 30px auto;
+  h3 {
+    text-align: center;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    margin-top: 4px;
+  }
+  p {
+  text-align: center;
   font-size: 0.9em;
-  color: gray;
-  max-width: 350px;
+  color: rgb(240, 240, 240); 
+  line-height: 1.3em;
+  font-family: Helvetica, sans-serif;
+  margin-bottom: 0;
+  }
+}
+.assinar {
+  text-decoration: none;
+  font-size: medium;
+  background-color: white;
+  font-family: Helvetica, sans-serif;
+  color: green;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: 1.2;
+}
+.assinar:hover {
+  background-color: rgb(240, 240, 240);
+  text-decoration: none;
+}
+.assinar:visited {
+  color: rgb(0, 100, 0);
 }
 .botao-serif {
   font-family: var(--header-font);
@@ -204,7 +242,6 @@ html[data-theme="dark"] {
 
 /* Barra de navegaçao */
 nav {
-  padding-top: 0px;
   margin: 0 auto;
   text-align: left;
   width: 100%;
@@ -214,16 +251,17 @@ nav {
     font-size: 14px;
     border: 1px solid var(--font-color);
     border-top: none;
-    padding: 4px 6px 4px 6px;
     border-radius: 0 0 0.5rem 0.5rem;
     color: var(--link-color);
+    padding: 4px;
+    margin-left: 0;
     display: inline-block;
     margin-bottom: 10px;
   }
   a:hover {
     padding-bottom: 10px;
     margin-bottom: 0px;
-    text-decoration: none;
+    text-decoration: underline;
   }
   a:visited {
     color: var(--link-color);
@@ -278,42 +316,42 @@ nav {
 }
 
 // Categories background image
-.back {
-  background-image: url(/cam.svg);
-  background-position: right top; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: contain; /* Resize the background image to cover the entire container */
-}
-.back-index {
-  background-image: url(/assets/svgs/mosca.svg);
-  background-position: left top;
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: contain; /* Resize the background image to cover the entire container */
-}
-.back-medicina {
-  background-image: url(/assets/svgs/asclepius.svg);
-  background-position: left top;
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: contain; /* Resize the background image to cover the entire container */
-}
-.back-aleatoriedades {
-  background-image: url(/assets/svgs/dices.svg);
-  background-position: left top;
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: contain; /* Resize the background image to cover the entire container */
-}
-.back-musica {
-  background-image: url(/assets/svgs/sol.svg);
-  background-position: left top;
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: contain; /* Resize the background image to cover the entire container */
-}
-.back-cinema {
-  background-image: url(/assets/svgs/cam.svg);
-  background-position: left top;
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: contain; /* Resize the background image to cover the entire container */
-}
+// .back {
+//   background-image: url(/cam.svg);
+//   background-position: right top; /* Center the image */
+//   background-repeat: no-repeat; /* Do not repeat the image */
+//   background-size: contain; /* Resize the background image to cover the entire container */
+// }
+// .back-index {
+//   background-image: url(/assets/svgs/mosca.svg);
+//   background-position: left top;
+//   background-repeat: no-repeat; /* Do not repeat the image */
+//   background-size: contain; /* Resize the background image to cover the entire container */
+// }
+// .back-medicina {
+//   background-image: url(/assets/svgs/asclepius.svg);
+//   background-position: left top;
+//   background-repeat: no-repeat; /* Do not repeat the image */
+//   background-size: contain; /* Resize the background image to cover the entire container */
+// }
+// .back-aleatoriedades {
+//   background-image: url(/assets/svgs/dices.svg);
+//   background-position: left top;
+//   background-repeat: no-repeat; /* Do not repeat the image */
+//   background-size: contain; /* Resize the background image to cover the entire container */
+// }
+// .back-musica {
+//   background-image: url(/assets/svgs/sol.svg);
+//   background-position: left top;
+//   background-repeat: no-repeat; /* Do not repeat the image */
+//   background-size: contain; /* Resize the background image to cover the entire container */
+// }
+// .back-cinema {
+//   background-image: url(/assets/svgs/cam.svg);
+//   background-position: left top;
+//   background-repeat: no-repeat; /* Do not repeat the image */
+//   background-size: contain; /* Resize the background image to cover the entire container */
+// }
 
 // Collapsible begin
 .collapsible {
@@ -440,7 +478,17 @@ video {
   background: var(--marked-color); /* Gecko Browsers */
 }
 
+.vertical-nav {
+  float: right;
+  margin-right: 0;
+  a {
+    background-color: green;
+    border-radius: 0.5em;
+    padding: 4px 4px 4px 8px;
+    color: white ;
 
+  }
+}
 .abertura {
   color: var(--font-color);
   display: block;

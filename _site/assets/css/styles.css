@@ -151,10 +151,46 @@ html[data-theme="dark"] {
 #assinar-email {
   margin-bottom: 0.25em; }
 
-.assine {
-  font-size: 0.9em;
-  color: gray;
-  max-width: 350px; }
+.assine-email {
+  background: radial-gradient(circle at 20% 20%, #329709 25%, #256b09 100%);
+  border-radius: 0.8rem;
+  box-shadow: 0.5rem 1rem 1rem 0 rgba(100, 110, 140, 0.4);
+  padding: 6px 4px 5px 4px;
+  max-width: 300px;
+  margin: 30px auto; }
+  .assine-email h3 {
+    text-align: center;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    margin-top: 4px; }
+  .assine-email p {
+    text-align: center;
+    font-size: 0.9em;
+    color: #f0f0f0;
+    line-height: 1.3em;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0; }
+
+.assinar {
+  text-decoration: none;
+  font-size: medium;
+  background-color: white;
+  font-family: Helvetica, sans-serif;
+  color: green;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: 1.2; }
+
+.assinar:hover {
+  background-color: #f0f0f0;
+  text-decoration: none; }
+
+.assinar:visited {
+  color: darkgreen; }
 
 .botao-serif {
   font-family: var(--header-font);
@@ -208,7 +244,6 @@ html[data-theme="dark"] {
 
 /* Barra de navegaçao */
 nav {
-  padding-top: 0px;
   margin: 0 auto;
   text-align: left;
   width: 100%;
@@ -218,15 +253,16 @@ nav {
     font-size: 14px;
     border: 1px solid var(--font-color);
     border-top: none;
-    padding: 4px 6px 4px 6px;
     border-radius: 0 0 0.5rem 0.5rem;
     color: var(--link-color);
+    padding: 4px;
+    margin-left: 0;
     display: inline-block;
     margin-bottom: 10px; }
   nav a:hover {
     padding-bottom: 10px;
     margin-bottom: 0px;
-    text-decoration: none; }
+    text-decoration: underline; }
   nav a:visited {
     color: var(--link-color); }
 
@@ -272,55 +308,6 @@ nav {
   display: block;
   width: 100%;
   margin-bottom: 30px; }
-
-.back {
-  background-image: url(/cam.svg);
-  background-position: right top;
-  /* Center the image */
-  background-repeat: no-repeat;
-  /* Do not repeat the image */
-  background-size: contain;
-  /* Resize the background image to cover the entire container */ }
-
-.back-index {
-  background-image: url(/assets/svgs/mosca.svg);
-  background-position: left top;
-  background-repeat: no-repeat;
-  /* Do not repeat the image */
-  background-size: contain;
-  /* Resize the background image to cover the entire container */ }
-
-.back-medicina {
-  background-image: url(/assets/svgs/asclepius.svg);
-  background-position: left top;
-  background-repeat: no-repeat;
-  /* Do not repeat the image */
-  background-size: contain;
-  /* Resize the background image to cover the entire container */ }
-
-.back-aleatoriedades {
-  background-image: url(/assets/svgs/dices.svg);
-  background-position: left top;
-  background-repeat: no-repeat;
-  /* Do not repeat the image */
-  background-size: contain;
-  /* Resize the background image to cover the entire container */ }
-
-.back-musica {
-  background-image: url(/assets/svgs/sol.svg);
-  background-position: left top;
-  background-repeat: no-repeat;
-  /* Do not repeat the image */
-  background-size: contain;
-  /* Resize the background image to cover the entire container */ }
-
-.back-cinema {
-  background-image: url(/assets/svgs/cam.svg);
-  background-position: left top;
-  background-repeat: no-repeat;
-  /* Do not repeat the image */
-  background-size: contain;
-  /* Resize the background image to cover the entire container */ }
 
 .collapsible {
   background-color: #777;
@@ -430,6 +417,15 @@ video {
 ::-moz-selection {
   background: var(--marked-color);
   /* Gecko Browsers */ }
+
+.vertical-nav {
+  float: right;
+  margin-right: 0; }
+  .vertical-nav a {
+    background-color: green;
+    border-radius: 0.5em;
+    padding: 4px 4px 4px 8px;
+    color: white; }
 
 .abertura {
   color: var(--font-color);
