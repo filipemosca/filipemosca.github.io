@@ -123,7 +123,9 @@ html[data-theme="dark"] {
 
 .icon-abertura {
   fill: var(--icon-color);
-  padding-right: 5px;
+  padding-right: 8px;
+  width: 20px;
+  height: 20px;
 }
 .mosca {
   display: inline-block;
@@ -175,12 +177,37 @@ html[data-theme="dark"] {
 #assinar-email {
   margin-bottom: 0.25em;
 }
+
+.assinar-email-long {
+  background: radial-gradient(circle at 20% 20%, #329709 25%, #256b09 100%);
+  padding: 8px 8px 8px 8px;
+  box-shadow: 0.5rem 1rem 1rem 0 rgba(100,110,140,.4);
+  margin: 20px auto;
+  display: block;
+  width: 560px;
+  max-width: 80%;
+  text-align: center;
+  border-radius: 0.8rem;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  text-decoration: none;
+
+}
+.assinar-email-long:visited {
+  color: white;
+}
+#news-todas {background: radial-gradient(circle at 20% 20%, #b3b44c 25%, #d1b435 100%);}
+#news-musica {background: radial-gradient(circle at 20% 20%, #9c0505 25%, #640505 100%);}
+#news-cinema {background: radial-gradient(circle at 20% 20%, #05659c 25%, #053469 100%);}
+.newsletter {
+  width: 220px;
+  margin-bottom: 12px;
+}
 .assine-email {
   background: radial-gradient(circle at 20% 20%, #329709 25%, #256b09 100%);;
   border-radius: 0.8rem;
   box-shadow: 0.5rem 1rem 1rem 0 rgba(100,110,140,.4);
   padding: 6px 4px 5px 4px;
-  max-width: 300px;
   margin: 30px auto;
   h3 {
     text-align: center;
@@ -196,6 +223,14 @@ html[data-theme="dark"] {
   font-family: Helvetica, sans-serif;
   margin-bottom: 0;
   }
+}
+.assine-posts {
+  max-width: 500px;
+  width: 80%;
+  margin-top: 50px;
+}
+.assine-front {
+  max-width: 300px;
 }
 .assinar {
   text-decoration: none;
