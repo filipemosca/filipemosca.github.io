@@ -2,7 +2,7 @@
   link: /
   icon: "M1 16l15 15v-9h16v-12h-16v-9z"
 - name: Arquivo
-  link: /arquivo.html
+  link: '/arquivo'
   icon: "M26 30l6-16h-26l-6 16zM4 12l-4 18v-26h9l4 4h13v4z"
 - name: Assinar
   link: /newsletter

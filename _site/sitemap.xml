@@ -120,7 +120,7 @@
 <loc>http://localhost:4000/aleatoriedades.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/arquivo.html</loc>
+<loc>http://localhost:4000/arquivo</loc>
 </url>
 <url>
 <loc>http://localhost:4000/cinema.html</loc>
@@ -129,7 +129,7 @@
 <loc>http://localhost:4000/covid19.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/eu.html</loc>
+<loc>http://localhost:4000/eu</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -144,7 +144,7 @@
 <loc>http://localhost:4000/musica.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/newsletter.html</loc>
+<loc>http://localhost:4000/newsletter</loc>
 </url>
 <url>
 <loc>http://localhost:4000/now.html</loc>

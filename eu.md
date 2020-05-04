@@ -1,6 +1,7 @@
 ---
 title: Eu
 layout: wrapped-article
+permalink: /eu
 ---
 
 # Sobre mim
