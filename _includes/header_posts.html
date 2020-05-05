@@ -1,5 +1,5 @@
 <header>
-  <nav>
+  <nav class="scroll">
     {% for item in site.data.navigation_posts %}
     <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
       <svg class="icon nav-icons" viewBox="0 0 32 32">

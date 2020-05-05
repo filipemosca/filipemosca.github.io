@@ -8,6 +8,37 @@
 .wrapper-post {
   max-width: 100%; }
 
+/*
+[1]: All items a forced onto a single line, causing the overflow when necessary.
+[2]: Automatic overflow means a scroll bar won’t be present if it isn’t needed
+[3]: Make it smooth scrolling on iOS devices before 
+[4]: Hide the ugly scrollbars in Edge until the scrollable area is hovered
+[5]: Hide the scroll bar in WebKit browsers
+*/
+.scroll {
+  white-space: nowrap;
+  /* [1] */
+  overflow-x: auto;
+  /* [2] */
+  -webkit-overflow-scrolling: touch;
+  /* [3] */
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  /* [4] */
+  scrollbar-width: thin; }
+
+.scroll::-webkit-scrollbar {
+  display: show;
+  -webkit-appearance: none; }
+
+.scroll::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  border: 2px solid white;
+  /* should match background, can't be transparent */
+  background-color: rgba(167, 167, 167, 0.5); }
+
+.scroll::-webkit-scrollbar:horizontal {
+  height: 12px; }
+
 article {
   font-size: 1.25rem; }
   article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption {
@@ -586,13 +617,11 @@ button {
 
 .archive-list li {
   line-height: 1em;
-  margin-bottom: 0.6em; }
+  margin-bottom: 5px; }
 .archive-list li a {
   text-decoration: none;
-  font-weight: 600;
-  font-size: 1.2em;
   padding-bottom: 0;
-  line-height: 1.6em;
+  line-height: 1.2em;
   font-family: var(--header-font); }
 .archive-list li a:hover {
   text-decoration: underline; }
