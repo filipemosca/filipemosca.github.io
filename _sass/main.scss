@@ -253,6 +253,37 @@ html[data-theme="dark"] {
 .assinar:visited {
   color: rgb(0, 100, 0);
 }
+
+
+// Email Subscription form
+#mc_embed_signup_scroll {
+  .indicates-required {
+    font-size: small;
+  }
+
+}
+input[type=checkbox] {
+  transform: scale(1.5);
+}
+.mc-field-group {
+  ul { 
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+}
+
+#subscribe {
+  font-size: 1.15em;
+}
+
+// End email Subscription form
+
+
+
+
+
+
 .botao-serif {
   font-family: var(--header-font);
   font-size: 1em;
