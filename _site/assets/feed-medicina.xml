@@ -5,8 +5,8 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 May 2020 11:11:44 -0300</pubDate>
-    <lastBuildDate>Wed, 06 May 2020 11:11:44 -0300</lastBuildDate>
+    <pubDate>Wed, 06 May 2020 13:06:06 -0300</pubDate>
+    <lastBuildDate>Wed, 06 May 2020 13:06:06 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
     
@@ -19,6 +19,8 @@
 
 &lt;p&gt;Nossa situação está bastante grave e o pior é que não temos real noção do quanto grave é.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Editado:&lt;/strong&gt; corrigi a informação de número de testes por mil habitantes na Itália e EUA. Também coloquei mais um gráfico ilustrando a taxa de testes pra cada país.&lt;/p&gt;
+
 &lt;h2 id=&quot;quantos-testes-o-brasil-fez&quot;&gt;Quantos testes o Brasil fez?&lt;/h2&gt;
 
 &lt;p&gt;Segundo uma &lt;a href=&quot;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&quot;&gt;matéria do Exame, até dia 7 de Abril o país tinha realizado 63 mil testes&lt;/a&gt;&lt;sup id=&quot;fnref:Exame&quot;&gt;&lt;a href=&quot;#fn:Exame&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Destes, foram cerca de 13,7 mil confirmações para a doença, realizando uma taxa de 6,7 mil testes por dia.&lt;/p&gt;
@@ -27,7 +29,12 @@
 
 &lt;p&gt;Já numa &lt;a href=&quot;https://www.bbc.com/portuguese/brasil-52509734&quot;&gt;matéria da BBC&lt;/a&gt;&lt;sup id=&quot;fnref:BBC&quot;&gt;&lt;a href=&quot;#fn:BBC&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;: &lt;em&gt;“Até 20 de abril a rede pública realizou 132 mil testes específicos para covid-19. Isso é quase o mesmo número de testes realizados pelo Reino Unido em um só dia: 120 mil em 30 de abril”&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Em 20 de abril, o Brasil tinha feito 0,63 testes para cada mil habitantes. Na mesma época, a Itália já tinha feito 23 mil testes e os EUA 12 mil testes para cada mil habitantes.&lt;sup id=&quot;fnref:WorldData&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Em 20 de abril, o Brasil tinha feito 0,63 testes para cada mil habitantes. Na mesma época, a Itália já tinha feito 23 testes e os EUA 12 testes para cada mil habitantes.&lt;sup id=&quot;fnref:WorldData&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/testes-20.jpeg&quot; alt=&quot;gráfico com curva de testes realizados por cada país&quot; /&gt;
+    &lt;figcaption&gt;Gráfico com curva de testes realizados por cada país em número de testes para cada 100 mil habitantes.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Até o momento, tudo indica que o Brasil está fazendo algo em torno de 30 mil testes por dia. “Tudo indica” pois não existem números oficiais quanto a isso. Destes 30 mil testes por dia, mais de 1/4 estão dando positivo.&lt;/p&gt;
 
