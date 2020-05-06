@@ -15,7 +15,6 @@ permalink: /arquivo
   <a class="botao" href="/cinema">Cinema</a>
 </p>
 
-
 <h2>Todas as postagens:</h2>
 <div class="archive-list">
 {% for post in site.posts %}
@@ -44,9 +43,7 @@ permalink: /arquivo
           {% when '11' %}nov
           {% when '12' %}dez
         {% endcase %}{{ post.date | date: "%Y"}}</span>
-    
     </li>
-
   {% if forloop.last %}
     </ol>
   {% endif %}
