@@ -5,8 +5,8 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 May 2020 03:14:51 -0300</pubDate>
-    <lastBuildDate>Wed, 06 May 2020 03:14:51 -0300</lastBuildDate>
+    <pubDate>Wed, 06 May 2020 03:27:13 -0300</pubDate>
+    <lastBuildDate>Wed, 06 May 2020 03:27:13 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
     
@@ -125,9 +125,11 @@
   &lt;li&gt;Fortaleza: 17.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;O &lt;a href=&quot;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&quot;&gt;Jornal Nacional também noticiou o aumento do registro de mortes em cartórios de todo o país&lt;/a&gt;&lt;sup id=&quot;fnref:JN&quot;&gt;&lt;a href=&quot;#fn:JN&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Isso tudo excluindo mortes de causa externa (homicídio, suicídio, acidentes de trânsito, etc.), só estão sendo considerados os aumentos por mortes de causa “natural”.&lt;/p&gt;
+
 &lt;p&gt;Com certeza parte dessas mortes em excesso foram causadas diretamente pelo Novo coronavirus. E a outra parte provavelmente foi indiretamente causada pela pandemia.&lt;/p&gt;
 
-&lt;p&gt;E mais uma &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;notícia assustadora, dessa vez de O Globo&lt;/a&gt;&lt;sup id=&quot;fnref:Manaus&quot;&gt;&lt;a href=&quot;#fn:Manaus&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;, mostra que mais de 30% dos óbitos em Manaus estão ocorrendo nas residências. Lá o sistema de saúde está completamente colapsado. Não tem atendimento pra todo mundo.&lt;/p&gt;
+&lt;p&gt;E mais uma &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;notícia assustadora, dessa vez de O Globo&lt;/a&gt;&lt;sup id=&quot;fnref:Manaus&quot;&gt;&lt;a href=&quot;#fn:Manaus&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;, mostra que mais de 30% dos óbitos em Manaus estão ocorrendo nas residências. Lá o sistema de saúde está completamente colapsado. Não tem atendimento pra todo mundo.&lt;/p&gt;
 
 &lt;h2 id=&quot;excesso-de-mortalidade-por-todas-as-causas&quot;&gt;Excesso de mortalidade por todas as causas&lt;/h2&gt;
 
@@ -145,18 +147,18 @@
 
 &lt;p&gt;Para não me estender muito mais, vou apenas listar algumas estimativas de subnotificação para o Brasil realizadas por diferentes centros científicos.&lt;/p&gt;
 
-&lt;p&gt;A UFMG fez uma estimativa se baseando na média histórica de notificação por SRAG (síndrome respiratória aguda grave) dos últimos 10 anos. Eles estimam que teríamos em torno de 7,7 casos subnotificados para cada caso confirmado.&lt;sup id=&quot;fnref:UFMG&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;A UFMG fez uma estimativa se baseando na média histórica de notificação por SRAG (síndrome respiratória aguda grave) dos últimos 10 anos. Eles estimam que teríamos em torno de 7,7 casos subnotificados para cada caso confirmado.&lt;sup id=&quot;fnref:UFMG&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&quot;/assets/2020/medicina/subnotificacao/ufmg-estudo.png&quot; alt=&quot;Tabela de notificações por SRAG&quot; /&gt;
     &lt;figcaption&gt;Número de hospitalizações por SRAG entre 2012 e 2020, nos meses de Janeiro, Fevereiro e Março.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Inclusive esse estudo da UFMG conclui com a frase: &lt;em&gt;“nosso estudo mostra que os números relatados pelo governo brasileiro devem estar longe das situações reais. Nesse contexto, manifestações de alguns políticos a favor de menos restrições ao movimento de pessoas devem ser vistas com enorme preocupação”&lt;/em&gt;.&lt;sup id=&quot;fnref:UFMG:1&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Inclusive esse estudo da UFMG conclui com a frase: &lt;em&gt;“nosso estudo mostra que os números relatados pelo governo brasileiro devem estar longe das situações reais. Nesse contexto, manifestações de alguns políticos a favor de menos restrições ao movimento de pessoas devem ser vistas com enorme preocupação”&lt;/em&gt;.&lt;sup id=&quot;fnref:UFMG:1&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;O CMMID (&lt;em&gt;Centre for the Mathematical Modelling of Infectious Diseases&lt;/em&gt;), da &lt;em&gt;London School of Hygiene &amp;amp; Tropical Medicine&lt;/em&gt;, estima que apenas 7,6% dos casos sintomáticos estão sendo notificados no Brasil.&lt;sup id=&quot;fnref:CMMID&quot;&gt;&lt;a href=&quot;#fn:CMMID&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;O CMMID (&lt;em&gt;Centre for the Mathematical Modelling of Infectious Diseases&lt;/em&gt;), da &lt;em&gt;London School of Hygiene &amp;amp; Tropical Medicine&lt;/em&gt;, estima que apenas 7,6% dos casos sintomáticos estão sendo notificados no Brasil.&lt;sup id=&quot;fnref:CMMID&quot;&gt;&lt;a href=&quot;#fn:CMMID&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Um grupo da USP de Ribeirão Preto se baseou na letalidade por COVID-19 da Coreia do Sul para “corrigir” as taxas de mortalidade divulgadas pelo governo brasileiro. Pela estimativa deles, corrigindo a distribuição etária em relação à Coreia do Sul, até o dia 28 de Abril já deveríamos ter 1 milhão de casos.&lt;sup id=&quot;fnref:USP&quot;&gt;&lt;a href=&quot;#fn:USP&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; No estudo, eles assumem que a taxa de letalidade esperada para o nosso país é de 1,11% (a da Coreia do Sul é de 1,635%).&lt;/p&gt;
+&lt;p&gt;Um grupo da USP de Ribeirão Preto se baseou na letalidade por COVID-19 da Coreia do Sul para “corrigir” as taxas de mortalidade divulgadas pelo governo brasileiro. Pela estimativa deles, corrigindo a distribuição etária em relação à Coreia do Sul, até o dia 28 de Abril já deveríamos ter 1 milhão de casos.&lt;sup id=&quot;fnref:USP&quot;&gt;&lt;a href=&quot;#fn:USP&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; No estudo, eles assumem que a taxa de letalidade esperada para o nosso país é de 1,11% (a da Coreia do Sul é de 1,635%).&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
 
@@ -186,6 +188,9 @@
     &lt;/li&gt;
     &lt;li id=&quot;fn:Helio&quot;&gt;
       &lt;p&gt;&lt;strong&gt;Mortes subiram 30% em 5 cidades&lt;/strong&gt;. Blog Do Helio Gurovitz. Publicado em 4 de Maio de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&quot;&gt;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&lt;/a&gt;. &lt;a href=&quot;#fnref:Helio&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:JN&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Cartórios registram aumento de 1.035% nas mortes por síndrome respiratória&lt;/strong&gt;. Jornal Nacional. Publicado em 28 de Abril de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&quot;&gt;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&lt;/a&gt;. &lt;a href=&quot;#fnref:JN&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:Manaus&quot;&gt;
       &lt;p&gt;&lt;strong&gt;Durante crise da Covid-19, mais de 30% dos óbitos ocorrem em casa em Manaus&lt;/strong&gt;. O Globo. Publicado em 4 de Abril de 2020. Acessado em 5 de Abril de 2020. Disponível em: &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&lt;/a&gt;. &lt;a href=&quot;#fnref:Manaus&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;

@@ -111,6 +111,8 @@ Vou resumir aqui os resultados do levantamento:
 * Em Recife: 473.
 * Fortaleza: 17.
 
+O [Jornal Nacional também noticiou o aumento do registro de mortes em cartórios de todo o país](https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml)[^JN]. Isso tudo excluindo mortes de causa externa (homicídio, suicídio, acidentes de trânsito, etc.), só estão sendo considerados os aumentos por mortes de causa "natural".
+
 Com certeza parte dessas mortes em excesso foram causadas diretamente pelo Novo coronavirus. E a outra parte provavelmente foi indiretamente causada pela pandemia.
 
 E mais uma [notícia assustadora, dessa vez de O Globo](https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767)[^Manaus], mostra que mais de 30% dos óbitos em Manaus estão ocorrendo nas residências. Lá o sistema de saúde está completamente colapsado. Não tem atendimento pra todo mundo.
@@ -158,7 +160,7 @@ Até a próxima e #FicaEmCasa.
 
 ## Citações
 
-[^JN]: Cartórios registram aumento de 1.035% nas mortes por síndrome respiratória. Jornal Nacional. Publicado em 28 de Abril de 2020. Acessado em 5 de Maio de 2020. Disponível em: <https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml>.
+[^JN]: **Cartórios registram aumento de 1.035% nas mortes por síndrome respiratória**. Jornal Nacional. Publicado em 28 de Abril de 2020. Acessado em 5 de Maio de 2020. Disponível em: <https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml>.
 
 [^wiki]: **Pandemia de COVID-19 no Brasil**. Wikipédia. Acessado em 5 de Maio de 2020. Disponível em: <https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil>.
 
