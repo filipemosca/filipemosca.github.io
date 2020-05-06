@@ -1,5 +1,5 @@
 ---
-title: Estimando o tamanho da subnotificação por COVID-19 no Brasil
+title: Qual o tamanho da subnotificação por COVID-19 no Brasil?
 category: medicina
 tags: [covid-19]
 ---
@@ -10,13 +10,13 @@ No início da pandemia eu estava bem otimista com o prognóstico do Brasil. Come
 
 Segundo uma [matéria do Exame, até dia 7 de Abril o país tinha realizado em torno de 63 mil testes](https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/)[^Exame]. Destes, foram cerca de 13,7 mil confirmações para a doença. Numa taxa de 6,7 mil testes diários.
 
-Ou seja, até o início de Abril, o Brasil estava positivando algo em torno de 1 teste dava positivo a cada 4,6 testes. Realizando em torno de 30 testes para cada 100 mil habitantes.
+Ou seja, até o início de Abril, o Brasil estava positivando algo em torno de 1 teste dava positivo a cada 4,6 testes. Realizando em torno de 300 testes para cada milhão de itantes. [^WorldData]
 
 Na mesma matéria do Exame, dizia: *"O Ministério da Saúde também receberá 600 mil testes doados pela Petrobrás – 300 mil já chegaram, mas 100 mil serão usados apenas no Rio de Janeiro*".[^Exame] Isto é, o Brasil já teria, nesta época, 1 milhão de testes disponíveis.
 
 Já numa [matéria da BBC](https://www.bbc.com/portuguese/brasil-52509734)[^BBC]: *"Até 20 de abril, segundo a pasta, a rede pública realizou 132 mil testes específicos para covid-19. Isso é quase o mesmo número de testes realizados pelo Reino Unido em um só dia: 120 mil em 30 de abril"*.
 
-Destaco mais um trecho da matéria: *"Em 20 de abril, o país apresentava uma taxa de 0,63 teste a cada mil habitantes. O ranking era liderado pela Islândia (128), país nórdico com 365 mil habitantes. A Itália apresentava taxa de 23,1 e os EUA registrava 12,2"*.[^BBC]
+Em 20 de abril, o Brasil tinha feito teste a cada mil itantes. Na mesma época, a Itália já tinha feito 23 mil testes pra cada milhão de itantes e os EUA 12 mil testes.[^WorldData]
 
 Até o momento, tudo indica que o Brazil está fazendo algo em torno de 30 mil testes por dia. "Tudo indica" pois não existem números oficiais quanto a isso. 
 
@@ -100,6 +100,11 @@ Vou resumir aqui os resultados do levantamento:
 * Em Recife: 473.
 * Fortaleza: 17.
 
+Com certeza parte dessas mortes em excesso foram causadas diretamente pelo Novo coronavirus. E a outra parte provavelmente foi indiretamente causada pela pandemia.
+
+E mais uma [notícia assustadora, dessa vez de O Globo](https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767)[^Manaus], mostra mais de 30% dos óbitos em Manaus estão ocorrendo em casa. Lá o sistema de saúde está completamente colapsado. Não tem atendimento pra todo mundo.
+
+
 ## Excesso de mortalidade por todas as causas
 
 O excesso de mortalidade por todas as causas **é o indicador mais importante para avaliarmos o impacto causado pela pandemia**.
@@ -114,7 +119,30 @@ Isso é o que está acontecendo. E, ao contrário do que muita gente pensa, toda
 
 ## Estimativas de subnotificação
 
-A UFMG fez uma estimativa[^UFMG] se baseando na média história de notificação por SRAG (síndrome respiratória aguda grave) dos últimos 10 anos. Eles estimam que teríamos em torno de 7,7 casos subnotificados para cada caso confirmado.
+Para não me estender muito mais, vou apenas listar algumas estimativas de subnotificação de diferentes centros científicos para o Brasil.
+
+A UFMG fez uma estimativa se baseando na média história de notificação por SRAG (síndrome respiratória aguda grave) dos últimos 10 anos. Eles estimam que teríamos em torno de 7,7 casos subnotificados para cada caso confirmado.[^UFMG]
+
+<figure>
+    <img src="/assets/2020/medicina/subnotificacao/ufmg-estudo.png" alt="Tabela de notificações por SRAG">
+    <figcaption>Número de hospitalizações por SRAG entre 2012 e 2020, nos meses de Janeiro, Fevereiro e Março.</figcaption>
+</figure>
+
+Inclusive o estudo da UFMG conclui com a frase: *"nosso estudo mostra que os números relatados pelo governo brasileiro devem estar longe das situações reais. Nesse contexto, manifestações de alguns políticos a favor de menos restrições ao movimento de pessoas devem ser vistas com enorme preocupação"*.[^UFMG]
+
+O CMMID (Centre for the Mathematical Modelling of Infectious Diseases), da *London School of Hygiene & Tropical Medicine*, estima que apenas 7,6% dos casos sintomáticos estão sendo notificados no Brasil.[^CMMID]
+
+Um grupo da USP de Ribeirão Preto se baseou na letalidade por COVID-19 da Coreia do Sul para "corrigir" as taxas de mortalidade divulgadas pelo governo. Pela estimativa deles, corrindo a distribuição etária em relação à Coreia do Sul, até o dia 28 de Abril já deveríamos ter 1 milhão de casos.[^USP] No estudo, eles assumem que a taxa de letalidade esperada para o nosso país é de 1,11% (a da Coréia do Sul é de 1,635%).
+
+## Conclusão
+
+Nem tenho muito o que concluir. Tá na cara que estamos com uma absurda taxa de notificação. Minha intenção com este artigo era mais jogar algumas informações que considero relevante para mostrar que não podemos confiar nos dados oficiais. Por mais que o governo divulgue quedas consecutivas na curva, isso não quer dizer muita coisa e não reflete a realidade.
+
+Este artigo foi bastante trabalhoso. Escrevi com bastante cautela e tomando o maior cuidado pra checar todas as fontes. Felizmente (ou infelizmente) me empolgo demais escrevendo esses textos e está sendo um bom passatempo na quarentena. 
+
+Se você perceber algum erro, por favor entra em contato comigo. Tem alguma crítica ou sugestão? Fala comigo também!
+
+Até a próxima e #FicaEmCasa.
 
 
 ## Citações
@@ -123,7 +151,7 @@ A UFMG fez uma estimativa[^UFMG] se baseando na média história de notificaçã
 
 [^wiki]: **Pandemia de COVID-19 no Brasil**. Wikipédia. Acessado em 5 de Maio de 2020. Disponível em: <https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil>.
 
-[^manaus]: Durante crise da Covid-19, mais de 30% dos óbitos ocorrem em casa em Manaus. O Globo. Publicado em 4 de Abril de 2020. Acessado em 5 de Abril de 2020. Disponível em: <https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767>.
+[^Manaus]: Durante crise da Covid-19, mais de 30% dos óbitos ocorrem em casa em Manaus. O Globo. Publicado em 4 de Abril de 2020. Acessado em 5 de Abril de 2020. Disponível em: <https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767>.
 
 [^Lagom]: **Coronavírus no Brasil**. Lagom Data. Acessado em 5 de Maio de 2020. Disponível em: <https://www.lagomdata.com.br/coronavirus>.
 
@@ -136,3 +164,7 @@ A UFMG fez uma estimativa[^UFMG] se baseando na média história de notificaçã
 [^BBC]: **Mortes, testes e contágio: como o Brasil se compara a outros países na pandemia de coronavírus**. BBC News Brasil. Publicado em 1 de Maio de 2020. Acessado em 5 de Maio de 2020. Disponível em: <https://www.bbc.com/portuguese/brasil-52509734>.
 
 [^WorldData]: Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "**Coronavirus Pandemic (COVID-19)**". Published online at OurWorldInData.org. Retrieved from: '<https://ourworldindata.org/coronavirus>' [Online Resource].
+
+[^USP]: Domingos Alves, Rodrigo Gaete, Newton Miyoshi, Bruno Carciofi, Lariza Olveira e Tiago Sanchez. **Estimativa de Casos de COVID-19**. USP. Acessado em 5 de Maio de 2020. Diponível em: <https://ciis.fmrp.usp.br/covid19-subnotificacao/>.
+
+[^CMMID]: Timothy WR, Joel H, Sam A, Nick G, Hamish G, Christopher IJ, Kevin van Z, Stefan F, Rosalind ME, W John E & Adam JK. **Using a delay-adjusted case fatality ratio to estimate under-reporting**. CMMID. Real time report. First online: 22-03-2020. Last update: 30-04-2020. Disponível em: <https://cmmid.github.io/topics/covid19/global_cfr_estimates.html>.

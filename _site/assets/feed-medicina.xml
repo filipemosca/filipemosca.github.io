@@ -5,10 +5,196 @@
     <description>Blog sobre medicina, geek e Linux</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 May 2020 00:24:02 -0300</pubDate>
-    <lastBuildDate>Wed, 06 May 2020 00:24:02 -0300</lastBuildDate>
+    <pubDate>Wed, 06 May 2020 01:51:01 -0300</pubDate>
+    <lastBuildDate>Wed, 06 May 2020 01:51:01 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
+    
+    <entry>
+            <title type="html">Qual o tamanho da subnotificação por COVID-19 no Brasil?</title>
+            <link href="http://localhost:4000/2020/medicina/tamanho-subnotificacao-covid19-brasil"/>
+            <published>2020-05-06T01:51:01-03:00</published>
+            <id>/2020/medicina/tamanho-subnotificacao-covid19-brasil</id>
+            <content type="html">&lt;p&gt;No início da pandemia eu estava bem otimista com o prognóstico do Brasil. Começamos o distanciamento social bem cedo, numa época em que a mortalidade não havia nem atingido os 100 primeros casos. Mas agora, percebo que eu fui completamente enganado pela subnotificação. Nossa situação está bastante grave.&lt;/p&gt;
+
+&lt;h2 id=&quot;quantos-testes-o-brasil-fez&quot;&gt;Quantos testes o Brasil fez?&lt;/h2&gt;
+
+&lt;p&gt;Segundo uma &lt;a href=&quot;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&quot;&gt;matéria do Exame, até dia 7 de Abril o país tinha realizado em torno de 63 mil testes&lt;/a&gt;&lt;sup id=&quot;fnref:Exame&quot;&gt;&lt;a href=&quot;#fn:Exame&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Destes, foram cerca de 13,7 mil confirmações para a doença. Numa taxa de 6,7 mil testes diários.&lt;/p&gt;
+
+&lt;p&gt;Ou seja, até o início de Abril, o Brasil estava positivando algo em torno de 1 teste dava positivo a cada 4,6 testes. Realizando em torno de 300 testes para cada milhão de itantes. &lt;sup id=&quot;fnref:WorldData&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Na mesma matéria do Exame, dizia: &lt;em&gt;“O Ministério da Saúde também receberá 600 mil testes doados pela Petrobrás – 300 mil já chegaram, mas 100 mil serão usados apenas no Rio de Janeiro&lt;/em&gt;”.&lt;sup id=&quot;fnref:Exame:1&quot;&gt;&lt;a href=&quot;#fn:Exame&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Isto é, o Brasil já teria, nesta época, 1 milhão de testes disponíveis.&lt;/p&gt;
+
+&lt;p&gt;Já numa &lt;a href=&quot;https://www.bbc.com/portuguese/brasil-52509734&quot;&gt;matéria da BBC&lt;/a&gt;&lt;sup id=&quot;fnref:BBC&quot;&gt;&lt;a href=&quot;#fn:BBC&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;: &lt;em&gt;“Até 20 de abril, segundo a pasta, a rede pública realizou 132 mil testes específicos para covid-19. Isso é quase o mesmo número de testes realizados pelo Reino Unido em um só dia: 120 mil em 30 de abril”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em 20 de abril, o Brasil tinha feito teste a cada mil itantes. Na mesma época, a Itália já tinha feito 23 mil testes pra cada milhão de itantes e os EUA 12 mil testes.&lt;sup id=&quot;fnref:WorldData:1&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Até o momento, tudo indica que o Brazil está fazendo algo em torno de 30 mil testes por dia. “Tudo indica” pois não existem números oficiais quanto a isso.&lt;/p&gt;
+
+&lt;p&gt;E, destes 30 mil testes por dia, quase 1/3 estão dando positivo. Se pararmos pra pensar, um terço de testes positivando é uma taxa muitíssimo alta. Digamos que a proporção de positivos se mantenha se testarmos mais pessoas, então se fizéssemos 90 mil testes por dia, teríamos 30 mil novos casos diariamente? Isso é algo a se pensar.&lt;/p&gt;
+
+&lt;h2 id=&quot;os-números-oficiais&quot;&gt;Os números oficiais&lt;/h2&gt;
+
+&lt;p&gt;Peguei &lt;a href=&quot;https://ourworldindata.org/coronavirus&quot;&gt;dois gráficos no Our World in Data&lt;/a&gt;&lt;sup id=&quot;fnref:WorldData:2&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, um gráficos de novos casos notificados por dia, e um gráfico de novos óbitos por dia.&lt;/p&gt;
+
+&lt;p&gt;No gráfico de novos casos por dia (Figura 1), vemos que a curva brasileira teve três grandes variações. Três picos seguido de quedas.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/daily-cases-covid-19.png&quot; alt=&quot;gráficos de casos novos por dia&quot; /&gt;
+    &lt;figcaption&gt;Figura 1: número de novos casos de COVID-19 por dia de notificação.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Mas olhem como a última queda, dos dias 1 a 4 de Maio, foi bastante acentuada. Muita gente, olhando esse gráfico e vendo 4 dias consecutivos de queda, se apressou em dizer que já estávamos em desaceleração.&lt;/p&gt;
+
+&lt;p&gt;Não haveria problema em fazer essa afirmação, se os dados fossem confiáveis e refletissem o cenário real.&lt;/p&gt;
+
+&lt;p&gt;Contudo, o Brasil vem fazendo tão poucos testes que existem muita margem para variações do próprio acaso. Podemos estar fazendo estatística de números pequenos confiando demais nesses números. A amostragem pode não definir a situação do país.&lt;/p&gt;
+
+&lt;p&gt;Quanto menos testes são feitos, maior a margem de erro pra tentar ilustrar a situação atual. É o raciocínio equivalente a jogar um dado algumas vezes e não dar o número 6. Ficamos com a impressão que é mais difícil cair o número 6, mas isso só ocorre pois jogamos o dado poucas vezes. Se jogássemos o dado infinitamente, o número de vezes que ele cai pra cada número será igual.&lt;/p&gt;
+
+&lt;p&gt;Chegamos numa situação em que estamos completamente no escuro. Nem adianta levar muito a sério os números oficiais. Em alta ou queda, não reflete a situação que estamos enfrentando.&lt;/p&gt;
+
+&lt;p&gt;A mesma queda também foi observada no gráfico de novos óbitos por dia de notificação (Figura 2).&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/daily-deaths-covid-19.png&quot; alt=&quot;gráficos de óbitos novos por dia&quot; /&gt;
+    &lt;figcaption&gt;Figura 2: número de novos óbitos de COVID-19 por dia de notificação.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;O Ministério da Saúde não está tendo controle sobre quantos testes estão sendo feitos por dia. Será que esses dias de queda foram devidos a menos testes sendo realizados? Simplesmente não temos como saber. Esses dados não são divulgados.&lt;/p&gt;
+
+&lt;p&gt;Tem um frase que, apesar de extremamente óbvia, a gente precisa se lembrar sempre: &lt;strong&gt;quantos menos testes fazemos, menos casos vamos ter&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;os-feriados&quot;&gt;Os feriados&lt;/h2&gt;
+
+&lt;p&gt;A &lt;a href=&quot;https://www.lagomdata.com.br/coronavirus&quot;&gt;Lagom Data&lt;/a&gt;&lt;sup id=&quot;fnref:Lagom&quot;&gt;&lt;a href=&quot;#fn:Lagom&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; fez o gráfico abaixo (Figura 3) destacando os dias de fériados nas curva diária de novos óbitos.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/obitos-feriados.png&quot; alt=&quot;gráficos de óbitos novos por dia destacando os feriados&quot; /&gt;
+    &lt;figcaption&gt;Figura 3: óbitos novos por dia destacando os feriados e fins de semana.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Como podemos ver, os dias de feriados coincidem com os dias de quedas acentuadas nas notificações. Então, será que nos feriados menos testes são realizados? Se isso for verdade, então temos mais um fator de subnotificação para ser somado.&lt;/p&gt;
+
+&lt;p&gt;Além da subnotificação padrão, estamos sofrendo também da subnotificação dos feriados. Isso deixa a amostragem da curva de casos ainda mais tendenciosa.&lt;/p&gt;
+
+&lt;p&gt;E, além disso, não estamos seguindo uma regularidadena testagem. Ao longo da semana provavelmente a quantidade diária de testes está variando. Isso altera a precisão da curva.&lt;/p&gt;
+
+&lt;h2 id=&quot;recorde-de-casos&quot;&gt;Recorde de casos&lt;/h2&gt;
+
+&lt;p&gt;Para corroborar ainda mais a hipótese de que realizamos menos testes em feriados, ontem – dia 5 de Maio –, foram notificados 600 mortes por COVID-19. O número recorde até então. A curva volta a subir como se as quedas anteriores nem tivessem existido.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/notificacao-5-maio.jpeg&quot; alt=&quot;Notificação do MS para dia 5 de Maio&quot; /&gt;
+    &lt;figcaption&gt;Slide de atualização de casos do Ministério da Saúde para o dia 5 de Maio.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Lembram da &lt;a href=&quot;/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil&quot;&gt;projeção do &lt;em&gt;Imperial College&lt;/em&gt; projetando que teríamos 5 mil novas mortes na semana passada?&lt;/a&gt; Nem podemos dizer que a projeção estava errada pois a subnotificação está absurda e muito irregular.&lt;/p&gt;
+
+&lt;h2 id=&quot;os-números-dos-cartórios&quot;&gt;Os números dos cartórios&lt;/h2&gt;
+
+&lt;p&gt;Agora vem a parte mais impactante do que quero transmitir. A imprensa vem fazendo um trabalho muito bom de correr atrás dos dados que o Governo não está fornecendo.&lt;/p&gt;
+
+&lt;p&gt;O G1 fez um levantamento por conta própria nos registros de cartório. &lt;a href=&quot;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&quot;&gt;Helio Gurovitz, em seu blog no G1&lt;/a&gt;&lt;sup id=&quot;fnref:Helio&quot;&gt;&lt;a href=&quot;#fn:Helio&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;, escreveu que:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As mortes nas cinco cidades brasileiras mais atingidas pela Covid-19 somaram pelo menos 26.445 desde o início da pandemia até o dia 25 de abril, um crescimento de 30% em relação à média dos anos anteriores, de 20.384 durante as mesmas semanas.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Recomendo muito muito ler o artigo do Helio. Lá ele colocou gráficos que não vou reproduzir aqui pois não sei se tenho permissão.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Houve, nessas cidades, no mínimo 3.842 mortes além das registradas por Covid-19, de acordo com a análise de Lotufo, baseada no último dado disponível para o total de certidões de óbito registradas nos cartórios do país.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vou resumir aqui os resultados do levantamento:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Em São Paulo ocorreram 1386 mortes a mais que a média história, não relacionadas à COVID-19.&lt;/li&gt;
+  &lt;li&gt;Em Manaus o excesso não relacionado à pandemia foi de 1130.&lt;/li&gt;
+  &lt;li&gt;No Rio de Janeiro: 837.&lt;/li&gt;
+  &lt;li&gt;Em Recife: 473.&lt;/li&gt;
+  &lt;li&gt;Fortaleza: 17.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Com certeza parte dessas mortes em excesso foram causadas diretamente pelo Novo coronavirus. E a outra parte provavelmente foi indiretamente causada pela pandemia.&lt;/p&gt;
+
+&lt;p&gt;E mais uma &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;notícia assustadora, dessa vez de O Globo&lt;/a&gt;&lt;sup id=&quot;fnref:Manaus&quot;&gt;&lt;a href=&quot;#fn:Manaus&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;, mostra mais de 30% dos óbitos em Manaus estão ocorrendo em casa. Lá o sistema de saúde está completamente colapsado. Não tem atendimento pra todo mundo.&lt;/p&gt;
+
+&lt;h2 id=&quot;excesso-de-mortalidade-por-todas-as-causas&quot;&gt;Excesso de mortalidade por todas as causas&lt;/h2&gt;
+
+&lt;p&gt;O excesso de mortalidade por todas as causas &lt;strong&gt;é o indicador mais importante para avaliarmos o impacto causado pela pandemia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Muita gente se preocupa demais com a mortalidade causada diretamente pelo Novo coronavirus (SARS-CoV-2) e se esquece completamente das mortes indiretas.&lt;/p&gt;
+
+&lt;p&gt;Vamos imaginar uma seguinte situação: uma virose que só mata 0,1% dos infectados. Muito pouco não é mesmo? Mas e se essa virose tiver uma taxa de internamento em UTI de 10% e for altamente contagiosa? Ela será um problema caótico? Com certeza!&lt;/p&gt;
+
+&lt;p&gt;Por mais que a mortalidade seja baixa, o alto índice de internações vai sobrecarregar o sistema de saúde. Sem leitos de UTI, sem profissionais disponíveis, sem equipamento e material, os pacientes com outras doenças graves ficarão desassistidos. E então notamos aumento da mortalidade por outras causas.&lt;/p&gt;
+
+&lt;p&gt;Isso é o que está acontecendo. E, ao contrário do que muita gente pensa, todas essas mortes estão SIM relacionadas à pandemia. Por que se não tivesse um surto de coronavirus elas simplesmente não aconteceriam. O aumento de mortes por doenças como infarto e derrame estão sim relacionadas à pandemia.&lt;/p&gt;
+
+&lt;h2 id=&quot;estimativas-de-subnotificação&quot;&gt;Estimativas de subnotificação&lt;/h2&gt;
+
+&lt;p&gt;Para não me estender muito mais, vou apenas listar algumas estimativas de subnotificação de diferentes centros científicos para o Brasil.&lt;/p&gt;
+
+&lt;p&gt;A UFMG fez uma estimativa se baseando na média história de notificação por SRAG (síndrome respiratória aguda grave) dos últimos 10 anos. Eles estimam que teríamos em torno de 7,7 casos subnotificados para cada caso confirmado.&lt;sup id=&quot;fnref:UFMG&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/ufmg-estudo.png&quot; alt=&quot;Tabela de notificações por SRAG&quot; /&gt;
+    &lt;figcaption&gt;Número de hospitalizações por SRAG entre 2012 e 2020, nos meses de Janeiro, Fevereiro e Março.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Inclusive o estudo da UFMG conclui com a frase: &lt;em&gt;“nosso estudo mostra que os números relatados pelo governo brasileiro devem estar longe das situações reais. Nesse contexto, manifestações de alguns políticos a favor de menos restrições ao movimento de pessoas devem ser vistas com enorme preocupação”&lt;/em&gt;.&lt;sup id=&quot;fnref:UFMG:1&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;O CMMID (Centre for the Mathematical Modelling of Infectious Diseases), da &lt;em&gt;London School of Hygiene &amp;amp; Tropical Medicine&lt;/em&gt;, estima que apenas 7,6% dos casos sintomáticos estão sendo notificados no Brasil.&lt;sup id=&quot;fnref:CMMID&quot;&gt;&lt;a href=&quot;#fn:CMMID&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Um grupo da USP de Ribeirão Preto se baseou na letalidade por COVID-19 da Coreia do Sul para “corrigir” as taxas de mortalidade divulgadas pelo governo. Pela estimativa deles, corrindo a distribuição etária em relação à Coreia do Sul, até o dia 28 de Abril já deveríamos ter 1 milhão de casos.&lt;sup id=&quot;fnref:USP&quot;&gt;&lt;a href=&quot;#fn:USP&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; No estudo, eles assumem que a taxa de letalidade esperada para o nosso país é de 1,11% (a da Coréia do Sul é de 1,635%).&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Nem tenho muito o que concluir. Tá na cara que estamos com uma absurda taxa de notificação. Minha intenção com este artigo era mais jogar algumas informações que considero relevante para mostrar que não podemos confiar nos dados oficiais. Por mais que o governo divulgue quedas consecutivas na curva, isso não quer dizer muita coisa e não reflete a realidade.&lt;/p&gt;
+
+&lt;p&gt;Este artigo foi bastante trabalhoso. Escrevi com bastante cautela e tomando o maior cuidado pra checar todas as fontes. Felizmente (ou infelizmente) me empolgo demais escrevendo esses textos e está sendo um bom passatempo na quarentena.&lt;/p&gt;
+
+&lt;p&gt;Se você perceber algum erro, por favor entra em contato comigo. Tem alguma crítica ou sugestão? Fala comigo também!&lt;/p&gt;
+
+&lt;p&gt;Até a próxima e #FicaEmCasa.&lt;/p&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Exame&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Covid-19: Brasil realizou 63 mil testes e projeta chegar a 30 mil por dia&lt;/strong&gt;. Exame. Publicado em 8 de Abril de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&quot;&gt;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&lt;/a&gt;. &lt;a href=&quot;#fnref:Exame&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Exame:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:WorldData&quot;&gt;
+      &lt;p&gt;Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - “&lt;strong&gt;Coronavirus Pandemic (COVID-19)&lt;/strong&gt;”. Published online at OurWorldInData.org. Retrieved from: ‘&lt;a href=&quot;https://ourworldindata.org/coronavirus&quot;&gt;https://ourworldindata.org/coronavirus&lt;/a&gt;’ [Online Resource]. &lt;a href=&quot;#fnref:WorldData&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:WorldData:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:WorldData:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:BBC&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Mortes, testes e contágio: como o Brasil se compara a outros países na pandemia de coronavírus&lt;/strong&gt;. BBC News Brasil. Publicado em 1 de Maio de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://www.bbc.com/portuguese/brasil-52509734&quot;&gt;https://www.bbc.com/portuguese/brasil-52509734&lt;/a&gt;. &lt;a href=&quot;#fnref:BBC&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Lagom&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Coronavírus no Brasil&lt;/strong&gt;. Lagom Data. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://www.lagomdata.com.br/coronavirus&quot;&gt;https://www.lagomdata.com.br/coronavirus&lt;/a&gt;. &lt;a href=&quot;#fnref:Lagom&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Helio&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Mortes subiram 30% em 5 cidades&lt;/strong&gt;. Blog Do Helio Gurovitz. Publicado em 4 de Maio de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&quot;&gt;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&lt;/a&gt;. &lt;a href=&quot;#fnref:Helio&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Manaus&quot;&gt;
+      &lt;p&gt;Durante crise da Covid-19, mais de 30% dos óbitos ocorrem em casa em Manaus. O Globo. Publicado em 4 de Abril de 2020. Acessado em 5 de Abril de 2020. Disponível em: &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&lt;/a&gt;. &lt;a href=&quot;#fnref:Manaus&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:UFMG&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Nota Técnica: Estimate of underreporting of COVID-19 in Brazil by Acute Respiratory Syndrome hospitalization reports&lt;/strong&gt;. UFMG. Publicado em 16 de Abril de 2020. Disponível em: &lt;a href=&quot;https://www.cedeplar.ufmg.br/noticias/1234-nota-tecnica-estimate-of-underreporting-of-covid-19-in-brazil-by-acute-respiratory-syndrome-hospitalization-reports&quot;&gt;https://www.cedeplar.ufmg.br/noticias/1234-nota-tecnica-estimate-of-underreporting-of-covid-19-in-brazil-by-acute-respiratory-syndrome-hospitalization-reports&lt;/a&gt;. &lt;a href=&quot;#fnref:UFMG&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:UFMG:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:CMMID&quot;&gt;
+      &lt;p&gt;Timothy WR, Joel H, Sam A, Nick G, Hamish G, Christopher IJ, Kevin van Z, Stefan F, Rosalind ME, W John E &amp;amp; Adam JK. &lt;strong&gt;Using a delay-adjusted case fatality ratio to estimate under-reporting&lt;/strong&gt;. CMMID. Real time report. First online: 22-03-2020. Last update: 30-04-2020. Disponível em: &lt;a href=&quot;https://cmmid.github.io/topics/covid19/global_cfr_estimates.html&quot;&gt;https://cmmid.github.io/topics/covid19/global_cfr_estimates.html&lt;/a&gt;. &lt;a href=&quot;#fnref:CMMID&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:USP&quot;&gt;
+      &lt;p&gt;Domingos Alves, Rodrigo Gaete, Newton Miyoshi, Bruno Carciofi, Lariza Olveira e Tiago Sanchez. &lt;strong&gt;Estimativa de Casos de COVID-19&lt;/strong&gt;. USP. Acessado em 5 de Maio de 2020. Diponível em: &lt;a href=&quot;https://ciis.fmrp.usp.br/covid19-subnotificacao/&quot;&gt;https://ciis.fmrp.usp.br/covid19-subnotificacao/&lt;/a&gt;. &lt;a href=&quot;#fnref:USP&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+        </entry>
     
     <entry>
             <title type="html">Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil</title>
@@ -423,6 +609,38 @@
         </entry>
     
     <entry>
+            <title type="html">Máscaras cirúrgicas protegem contra o Novo Coronavirus?</title>
+            <link href="http://localhost:4000/2020/medicina/mascaras-cirurgicas-protegem-coronavirus"/>
+            <published>2020-03-25T00:00:00-03:00</published>
+            <id>/2020/medicina/mascaras-cirurgicas-protegem-coronavirus</id>
+            <content type="html">&lt;p&gt;Um estudo do JAMA não identificou diferença estatística entre os grupos usando máscaras cirúrgicas e o grupo que usava N95 na prevenção da infecção por Influenza.&lt;sup id=&quot;fnref:jama&quot;&gt;&lt;a href=&quot;#fn:jama&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;faz-diferença-usar-ou-não-uma-máscara-cirúrgica&quot;&gt;Faz diferença usar ou não uma máscara cirúrgica?&lt;/h2&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Smart Air Filters. &lt;a href=&quot;https://smartairfilters.com/en/blog/n95-mask-surgical-prevent-transmission-coronavirus/&quot;&gt;&lt;strong&gt;N95 Masks vs. Surgical Masks: Which Is Better at Preventing The Coronavirus?&lt;/strong&gt;&lt;/a&gt;. Publicado em 03 de Março de 2020. Acessado em 25 de Março de 2020;&lt;/li&gt;
+  &lt;li&gt;Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. &lt;strong&gt;N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial&lt;/strong&gt;. JAMA. 2019;322(9):824–833. doi:10.1001/jama.2019.11645.&lt;/li&gt;
+  &lt;li&gt;Smith JD, MacDougall CC, Johnstone J, Copes RA, Schwartz B, Garber GE. &lt;strong&gt;Effectiveness of N95 respirators versus surgical masks in protecting health care workers from acute respiratory infection: a systematic review and meta-analysis&lt;/strong&gt;. CMAJ. 2016;188(8):567–574. doi:10.1503/cmaj.150835.&lt;/li&gt;
+  &lt;li&gt;Bin-Reza F, Lopez Chavarrias V, Nicoll A, Chamberland ME. &lt;strong&gt;The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence&lt;/strong&gt;. Influenza Other Respir Viruses. 2012;6(4):257–267. doi:10.1111/j.1750-2659.2011.00307.x.&lt;/li&gt;
+  &lt;li&gt;MacIntyre CR, Wang Q, Cauchemez S, et al. &lt;strong&gt;A cluster randomized clinical trial comparing fit-tested and non-fit-tested N95 respirators to medical masks to prevent respiratory virus infection in health care workers&lt;/strong&gt;. Influenza Other Respir Viruses. 2011;5(3):170–179. doi:10.1111/j.1750-2659.2011.00198.x.&lt;/li&gt;
+  &lt;li&gt;Killingley B. &lt;strong&gt;Respirators versus medical masks: evidence accumulates but the jury remains out&lt;/strong&gt;. Influenza Other Respir Viruses. 2011;5(3):143–145. doi:10.1111/j.1750-2659.2011.00237.x&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:jama&quot;&gt;
+      &lt;p&gt;Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. &lt;strong&gt;N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial&lt;/strong&gt;. JAMA. 2019;322(9):824–833. doi:10.1001/jama.2019.11645. &lt;a href=&quot;#fnref:jama&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+        </entry>
+    
+    <entry>
             <title type="html">O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca</title>
             <link href="http://localhost:4000/2019/medicina/betabloqueadores-na-insuficiencia-cardiaca"/>
             <published>2019-11-15T00:00:00-03:00</published>
@@ -502,6 +720,52 @@
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Escala de coma de Glasgow</title>
+            <link href="http://localhost:4000/2019/medicina/escala-de-coma-de-glasgow"/>
+            <published>2019-10-20T13:47:11-03:00</published>
+            <id>/2019/medicina/escala-de-coma-de-glasgow</id>
+            <content type="html">&lt;p&gt;Existem muitas escalas na medicina. Uma das mais antigas e ainda amplamente utilizada é a escala de coma de Glagow (ECG). Simplemente não dá para não saber a ECG. Ela foi criada em 1974 na tentativa de tentar categorizar de forma prática o nível de consciência dos pacientes.&lt;sup id=&quot;fnref:tesdale2014&quot;&gt;&lt;a href=&quot;#fn:tesdale2014&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Antes da ECG era muito difícil de se comunicar entre os médicos o grau de rebaixamento de consciência dos pacientes. Também não havia uma quantificação para saber se o paciente estava melhorando ou piorando o seu estado mental. E, além disso, era muito difícil fazer pesquisas sem conseguir dividir os pacientes em grupos e avaliar os resultados do acordo com eles.&lt;/p&gt;
+
+&lt;p&gt;Então, 45 anos atrás a &lt;em&gt;Glasgow coma scale&lt;/em&gt; era publicada no períodico &lt;em&gt;The Lancet&lt;/em&gt;. O artigo original em questão &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(74)91639-0/fulltext&quot; target=&quot;_blank&quot;&gt;pode ser acessado aqui&lt;/a&gt;&lt;sup id=&quot;fnref:tesdale1974&quot;&gt;&lt;a href=&quot;#fn:tesdale1974&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;A ECG começou a ser desenvolvida já em 1971, na busca por melhorar o atendimento de paciebtes vítimas de traumatismos encefálicos e estabelecer um critério de prognóstico.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:tesdale2014&quot;&gt;
+      &lt;p&gt;Teasdale G, Maas A, Lecky F, Manley G, Stocchetti N, Murray G. The Glasgow Coma Scale at 40 years: standing the test of time. The Lancet Neurology. 2014;13(8):844-854. doi:10.1016/S1474-4422(14)70120-6 &lt;a href=&quot;#fnref:tesdale2014&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:tesdale1974&quot;&gt;
+      &lt;p&gt;Teasdale G, Jennett B. Assessment of coma and impaired consciousness. The Lancet. 1974;304(7872):81-84. doi:10.1016/S0140-6736(74)91639-0 &lt;a href=&quot;#fnref:tesdale1974&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Leptospirose</title>
+            <link href="http://localhost:4000/2019/medicina/leptospirose"/>
+            <published>2019-10-20T00:00:00-03:00</published>
+            <id>/2019/medicina/leptospirose</id>
+            <content type="html">
+</content>
+        </entry>
+    
+    <entry>
+            <title type="html">Cirúrgias também pode funcionar como placebo?</title>
+            <link href="http://localhost:4000/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo"/>
+            <published>2019-10-20T00:00:00-03:00</published>
+            <id>/2019/medicina/cirurgias-tambem-podem-funcionar-como-placebo</id>
+            <content type="html">
 </content>
         </entry>
     
