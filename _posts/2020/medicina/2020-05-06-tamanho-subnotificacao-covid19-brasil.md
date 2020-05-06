@@ -18,13 +18,13 @@ Já numa [matéria da BBC](https://www.bbc.com/portuguese/brasil-52509734)[^BBC]
 
 Em 20 de abril, o Brasil tinha feito 0,63 testes para cada mil habitantes. Na mesma época, a Itália já tinha feito 23 mil testes e os EUA 12 mil testes para cada mil habitantes.[^WorldData]
 
-Até o momento, tudo indica que o Brasil está fazendo algo em torno de 30 mil testes por dia. "Tudo indica" pois não existem números oficiais quanto a isso. Destes 30 mil testes por dia, menos de 1/4 estão dando positivo. 
+Até o momento, tudo indica que o Brasil está fazendo algo em torno de 30 mil testes por dia. "Tudo indica" pois não existem números oficiais quanto a isso. Destes 30 mil testes por dia, mais de 1/4 estão dando positivo. 
 
-Como podemos ver no gráfico abaixo, essa taxa de 1 teste confirmado a cada 4 (arredondando para cima) é uma das mais baixas. Isso é mais um indicador da nossa subnotificação. Uma taxa baixa é ruim pois, se fizéssemos mais testes, essa fração seria maior.
+Como podemos ver no gráfico abaixo, essa taxa de 1 teste confirmado a cada 4 é uma das mais baixas. Isso é mais um indicador da nossa subnotificação. Uma taxa baixa é ruim pois, se fizéssemos mais testes, essa fração seria maior.
 
 <figure>
     <img src="/assets/2020/medicina/subnotificacao/number-of-covid-19-tests-per-confirmed-case-bar-chart.png" alt="gráfico de testes realizados para cada resultado positivo">
-    <figcaption>Número de testes realizados para cada resultado positivo para cada país.</figcaption>
+    <figcaption>Número de testes realizados para cada resultado positivo de acordo com cada país.</figcaption>
 </figure>
 
 Se pararmos pra pensar, um quarto de testes positivando é uma taxa muitíssimo alta. Digamos que a proporção de positivos se mantenha se testarmos mais pessoas. Se fizéssemos 100 mil testes por dia, teríamos 30 mil novos casos diariamente? Isso é algo a se pensar.
@@ -66,10 +66,9 @@ Tem um frase que, apesar de extremamente óbvia, a gente precisa se lembrar semp
 
 Chegamos numa situação em que estamos completamente no escuro. Nem adianta levar muito a sério os números oficiais. Em alta ou queda, não reflete a situação que estamos enfrentando.
 
-
 ## Os feriados
 
-A [Lagom Data](https://www.lagomdata.com.br/coronavirus)[^Lagom] fez o gráfico abaixo (Figura 3) destacando os dias de fériados e fins de semana nas curva diária de novos óbitos.
+A [Lagom Data](https://www.lagomdata.com.br/coronavirus)[^Lagom] fez o gráfico abaixo (Figura 3) destacando os dias de fériados e fins de semana na curva diária de novos óbitos.
 
 <figure>
     <img src="/assets/2020/medicina/subnotificacao/obitos-feriados.png" alt="gráficos de óbitos novos por dia destacando os feriados">
@@ -84,7 +83,7 @@ E, além disso, não estamos seguindo uma regularidade na testagem. Ao longo da 
 
 ## Recorde de casos
 
-Para corroborar ainda mais a hipótese de que realizamos menos testes em feriados, ontem -- dia 5 de Maio --, foram notificados 600 mortes por COVID-19. O número recorde até agora. A curva volta a subir como se as quedas anteriores nem tivessem existido.
+Para corroborar ainda mais a hipótese de que realizamos menos testes em feriados, ontem -- dia 5 de Maio --, foram notificadas 600 mortes por COVID-19. O número recorde até agora. A curva volta a subir como se as quedas anteriores nem tivessem existido.
 
 <figure>
     <img src="/assets/2020/medicina/subnotificacao/notificacao-5-maio.jpeg" alt="Notificação do MS para dia 5 de Maio">
@@ -116,7 +115,6 @@ O [Jornal Nacional também noticiou o aumento do registro de mortes em cartório
 Com certeza parte dessas mortes em excesso foram causadas diretamente pelo Novo coronavirus. E a outra parte provavelmente foi indiretamente causada pela pandemia.
 
 E mais uma [notícia assustadora, dessa vez de O Globo](https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767)[^Manaus], mostra que mais de 30% dos óbitos em Manaus estão ocorrendo nas residências. Lá o sistema de saúde está completamente colapsado. Não tem atendimento pra todo mundo.
-
 
 ## Excesso de mortalidade por todas as causas
 
@@ -156,7 +154,6 @@ Este artigo foi bastante trabalhoso. Escrevi com bastante cautela e tomando o ma
 Se você percebeu algum erro, por favor entra em contato comigo. Tem alguma crítica ou sugestão? Fala comigo também!
 
 Até a próxima e #FicaEmCasa.
-
 
 ## Citações
 
