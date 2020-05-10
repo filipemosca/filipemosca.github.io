@@ -33,6 +33,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
+  - jemoji
+
+
 
 # para o SEO tag:
 lang: pt_BR
@@ -45,7 +48,7 @@ defaults:
     values:
       layout: "post"
       author: "Filipe Mosca"
-      permalink: "/:year/:categories/:title"
+      permalink: "/:year/:title"
 #defaults para todo o resto
   - scope:
       path: ""

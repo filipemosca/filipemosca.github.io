@@ -441,7 +441,7 @@ p, li {
   line-height: 1.8;
   color: var(--font-color);
 }
-img {
+figure img {
   max-width: 100%;
   height: auto;
   display: block;
@@ -589,6 +589,7 @@ video {
   border-radius: 50%;
   max-width: 100px;
   margin: 0 auto;
+  display: block;
 }
 
 

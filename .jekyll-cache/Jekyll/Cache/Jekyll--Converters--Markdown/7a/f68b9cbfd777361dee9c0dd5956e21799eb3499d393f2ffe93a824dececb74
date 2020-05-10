@@ -1,0 +1,45 @@
+I"d
+<h2 id="melhor-filme">Melhor filme</h2>
+
+<ul>
+  <li>The Lighthouse</li>
+  <li>Marriage Storie</li>
+  <li>Jojo Rabbit</li>
+  <li>Mindsommar</li>
+  <li>Uncut gems</li>
+  <li>1917</li>
+  <li>Parasite</li>
+  <li>Little Women</li>
+  <li>Once upon a time in… Hollywood</li>
+  <li>Joker</li>
+</ul>
+
+<h2 id="melhor-ator">Melhor ator</h2>
+
+<ul>
+  <li>Joaquin Phoenix (Joker)</li>
+  <li>Robert Pattinson (The lighthouse)</li>
+  <li>Adam Driver (Marriage Storie)</li>
+</ul>
+
+<h2 id="melhor-ator-coadjuvante">Melhor ator coadjuvante</h2>
+
+<ul>
+  <li>Tom Hanks</li>
+  <li>William Dafoe (O Farol)</li>
+  <li>Brad Pitt (Era uma vez)</li>
+</ul>
+
+<h2 id="melhor-atriz">Melhor atriz</h2>
+
+<ul>
+  <li>Florence Pugh (Mindsommar)</li>
+</ul>
+
+<h2 id="melhor-atriz-coadjuvante">Melhor atriz coadjuvante</h2>
+
+<ul>
+  <li>Scarlet Johansson (Jojo Rabbit)</li>
+  <li>Florence Pugh</li>
+</ul>
+:ET

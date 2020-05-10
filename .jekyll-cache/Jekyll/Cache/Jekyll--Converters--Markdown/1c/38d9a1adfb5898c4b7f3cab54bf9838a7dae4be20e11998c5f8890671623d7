@@ -1,0 +1,22 @@
+I"�<p>A partir do Gnome 3, o Gnome começou a usar a tecnologia de <em>client side decorations</em> (CSD), ou <em>headerbars</em>. Nessa funcionalidade é o próprio app quem gera a decoração de janela, o que inclui os botões de fechar, maximizar e minimizar. Essa nova interface substitui a clássica <em>titlebar</em>  gerada pelo <em>server side decoration</em> (SSD). O visual final é muito bonito e polido, seguindo os moldes do que a Apple vem fazendo no MacOS.</p>
+
+<p>Contudo, no KDE Plasma essa funcionalidade fica muito mal integrada. O KWin não atua nesses aplicativos e o resultado é uma inconsistência visual no desktop, o que é suficiente para me gerar uma crise de TOC. Por sorte, é possível desabilitar o CSD dos apps GTK3 graças ao pacote <code class="highlighter-rouge">gtk3-nocsd</code>.</p>
+
+<p>Olha a diferença que faz. Na imagem abaixo temos o gnome-calendar padrão.
+<img src="/assets/apps-screenshot/gnome-csd.png" alt="gnome-calendar com CSD" /></p>
+
+<p>E essa outra imagem é o mesmo gnome-calendar mas com o CSD desabilitado.
+<img src="/assets/apps-screenshot/gnome-nocsd.png" alt="gnome-calendar sem CSD" /></p>
+
+<p>Perceba que a janela do app com CSD não possui sombras e ainda têm as bordas quadradas. Além disso ele não responde às animações do KWin e nem possui bordas. Já o app sem o CSD, que é gerenciado pelo KWin, apresenta essas funcionalidades.</p>
+
+<h2 id="como-instalar">Como instalar</h2>
+<p>No Ubuntu e Debian, o pacote está disponível nos repositórios oficiais. Basta instalar e ele já passa a funcionar.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt install gtk3-nocsd
+</code></pre></div></div>
+
+<p>Ou você pode baixar diretamente no Github do desenvolvedor: <a href="https://github.com/PCMan/gtk3-nocsd">gtk3-nocsd</a></p>
+
+<p>Nesse artigo não quero entrar muito no merito se as CSDs são boas ou ruins. Existe uma discussão muito acalorada sobre isso. Será assunto para uma próxima postagem. Até!</p>
+:ET
