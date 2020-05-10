@@ -2,9 +2,7 @@
 title: O que são superbactérias e um pouco sobre evolução
 category: medicina
 tags:
-  - antibióticos
-  - bactérias
-  - evolução
+  - Educação
 ---
 O termo superbactéria é amplamente usado para ser referir a bactérias com uma intensa capacidade de provocar doenças graves e de difícil tratamento. O &#8220;superpoder&#8221; delas é a sua capacidade de resistir a vários tipos de antibióticos, o que para nós não é nada bom.
 

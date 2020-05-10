@@ -1,7 +1,7 @@
 ---
 title: 'A falácia ecológica e o estudo correlacionando a vacina do BCG com proteção à COVID-19'
-category: medicina
-tags: [covid-19, coronavirus, vacinas, mbe]
+tags: [COVID-19, MBE]
+permalink: /2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19
 ---
 
 Essa semana encontrei um [manuscrito de um estudo](https://doi.org/10.1101/2020.03.24.20042937)[^Miller2020] que me chamou muita atenção. Era um *preprint* avaliando a possível correlação entre a vacinação mundial do BCG e as taxas de mortalidade por COVID-19 pelo mundo.

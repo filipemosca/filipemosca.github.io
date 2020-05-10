@@ -1,7 +1,7 @@
 ---
 title: Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?
-category: medicina
-tags: [coronavirus, covid-19, epi]
+tags: [COVID-19, Vivências]
+permalink: /2020/medicina/reutilizar-n95
 ---
 
 Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.

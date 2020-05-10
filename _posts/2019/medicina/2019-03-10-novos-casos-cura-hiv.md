@@ -2,8 +2,7 @@
 title: Os dois novos casos de cura do HIV
 category: medicina
 tags:
-  - aids
-  - hiv
+  - Notícias
 ---
 Esse mês, dois novos casos de remissão do HIV foram divulgados. Se confirmados com o tempo, já serão três pacientes "curados" do HIV. Claro que a noticia agitou tanto o mundo acadêmico como toda sociedade. A cura do HIV parece estar cada vez mais tangivel.
 

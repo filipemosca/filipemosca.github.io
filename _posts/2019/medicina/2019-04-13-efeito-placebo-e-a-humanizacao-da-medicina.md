@@ -1,7 +1,7 @@
 ---
 title: O efeito placebo e a humanização da medicina
 category: medicina
-tags: placebo
+tags: [Humanidades, MBE]
 ---
 
 Placebo é qualquer medicamento ou procedimento inerte e desprovido de valor terapêutico conhecido, mas que induz algum tipo de resposta quando administrado em pacientes que acreditam estar sendo medicados.[^1] Por exemplo, pacientes com dores que ingerem pílulas de açúcar achando que estão tomando um analgésico podem sentir redução na dor. Sabidamente as pílulas de açúcar não deveriam provocar uma resposta terapêutica mas isso ocorre devido a mecanismos psicológicos. A resposta ou efeito provocado pela administração do placebo é chamada de _efeito placebo_.

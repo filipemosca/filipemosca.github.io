@@ -1,7 +1,6 @@
 ---
 title: O ministro que ousou se basear em ciência
-category: medicina
-tags: [coronavirus, covid-19, politica, gestao]
+tags: [Notícias, MBE]
 ---
 
 Recentemente eu venho elogiando bastante o ministro Luiz Henrique Mandetta por sua condução do ministério da saúde. Apesar de poder apenas falar de suas atitudes durante o período da pandemia, pois antes disso eu não o acompanhava de perto.

@@ -1,7 +1,6 @@
 ---
 title: Por que os casos de gripe aumentam no inverno?
-category: medicina
-tags: gripe
+tags: MBE
 ---
 
 Chega o inverno e o frio começa a atacar.
@@ -14,6 +13,7 @@ Antes de começar, preciso esclarecer que gripe e resfriado são doenças difere
 A gripe é causada pelo vírus influenza e costuma ser muito mais debilitante que um simples resfriado.
 
 ## Incidência da gripe no Brasil
+
 Em 2018, foram notificados 35 mil casos de síndrome respiratória aguda grave.
 Destes, 6.700 foram causados pelo vírus da influenza.
 A maioria (57%) pelo subtipo H1N1.

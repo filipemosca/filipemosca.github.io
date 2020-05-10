@@ -1,0 +1,58 @@
+I"<p>Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.</p>
+
+<p>Sempre importante lembrar que não é recomendado o uso de respiradores N95 pela população geral. Esses equipamentos devem ser reservados apenas para uso por profissionais de saúde em situação de risco de exposição.</p>
+
+<p><img src="/assets/2020/n95.jpeg" alt="N95" /></p>
+
+<h2 id="reutilização-dos-respiradores">Reutilização dos respiradores</h2>
+
+<p>A reutilização é definida como a prática de usar o mesmo respirador N95 em mais de uma ocasião, mas removendo-o a cada ocasião. O respirador é armazenado entre os encontros para ser colocado novamente antes do próximo encontro com um paciente.</p>
+
+<h2 id="de-acordo-com-o-cdc">De acordo com o CDC</h2>
+
+<p>O CDC (Centros de Controle e Prevenção de Doenças) é uma agência do Departamento de Saúde e Serviços Humanos dos Estados Unidos. Esse órgão estabelece algumas normas e recomendações quanto ao uso de respiradores N95.</p>
+
+<p>Para patógenos em que a transmissão ocorre por contato (por exemplo, fomites), o reuso não é uma preocupação, já sendo praticado há décadas, por exemplo, para prevenção da aquisição de <strong>tuberculose</strong>. O CDC recomenda que um respirador classificado como descartável possa ser reutilizado pelo mesmo trabalhador enquanto ele permanecer funcional e for usado de acordo com os procedimentos locais de controle de infecção.</p>
+
+<p>Alguns serviços costumam limitar o número de vezes que um respirador desses pode ser reutilizado. Por exemplo, algo em torno de 7 dias, desde que o dispositivo não apresente nenhuma avaria. Contudo, não há um número exato de vezes que o respirador pode ser usado e que garanta segurança.</p>
+
+<p>Isso era o que eu já vinha fazendo. Quando estagiei em um hospital de infectologia, o serviço parou de disponibilizar respiradores aos estudantes e eu tive que ficar comprando do meu próprio bolso. Comecei a reutilizar várias vezes o mesmo, afinal esses respiradores são bem carinhos.</p>
+
+<p>Apesar de não haver estudos que indiquem a segurança na reutilização frente ao contágio pelo Novo Coronavirus, essa prática pode ser adotada frente ao risco iminente de escassez destes equipamentos.</p>
+
+<h2 id="aumentar-a-vida-útil-dos-respiradores">Aumentar a vida útil dos respiradores</h2>
+
+<p>Aqui vou frisar algumas recomendações do CDC para aumentar a vida útil dessas máscaras e também aumentar a segurança da prevenção do contágio. O mais básico e fundamental a se fazer é tocar o mínimo possível na máscara, incluindo lavar sempre as mãos antes de manuseá-la.</p>
+
+<p>Usar uma barreira mecânica para minimizar a quantidade de gotículas e <em>sprays</em> que entram em contato com o respirador também é uma boa prática. Por exemplo, o CDC recomendo o uso de máscaras cirúrgicas por cima dos respiradores, e trocá-las com certa frequência. As máscaras cirúrgicas vão barrar a maioria das gotículas de alcançar o respirador.</p>
+
+<p>Recomendações para a reutilização dos respiradores N95/PFF2:</p>
+
+<ul>
+  <li>Guarde os respiradores usados em um recipiente limpo e respirável como um saco de papel;</li>
+  <li>Evitar tocar na superfície do respirador e, quando for necessário, lavar bem as mãos antes;</li>
+  <li>Usar um part de luvas limpas para vestir e descalçar o respirador;</li>
+  <li>Seguir as orientações de uso do produtor do respirador, incluindo, se informado, o número máximo de reutilizações;</li>
+  <li>Rotular o recipiente em que o respirador está armazenado com o nome de seu usuário.</li>
+</ul>
+
+<h2 id="riscos-da-reutilização-de-respiradores">Riscos da reutilização de respiradores</h2>
+
+<p>O maior risco envolve a contaminação da superfície das máscaras. Um estudo demonstrou que enfermeiros tocam em média 25 vezes nos respiradores a cada plantão.<sup id="fnref:tocar" role="doc-noteref"><a href="#fn:tocar" class="footnote">1</a></sup> E permanecer usando máscaras contaminadas pode ser um risco, permitindo a inoculação dos patógenos através das mucosas que deveriam estar sendo protegidas.</p>
+
+<h2 id="referências">Referências</h2>
+
+<ol>
+  <li>Centers for Disease Control and Prevention (CDC). The National Institute for Occupational Safety and Health (NIOSH). <a href="https://www.cdc.gov/niosh/topics/hcwcontrols/recommendedguidanceextuse.html"><strong>Recommended Guidance for Extended Use and Limited Reuse of N95 Filtering Facepiece Respirators in Healthcare Settings</strong></a>. Acessado em 25 de Março de 2020.</li>
+</ol>
+
+<h2 id="citações">Citações</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:tocar" role="doc-endnote">
+      <p>Rebmann, T., R. Carrico, and J. Wang: <strong>Physiologic and other effects and compliance with long-term respirator use among medical intensive care unit nurses</strong>. American Journal of Infection Control 41(12):1218-1223(2013). <a href="#fnref:tocar" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

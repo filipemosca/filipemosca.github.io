@@ -1,0 +1,103 @@
+I"�1<p>Dia 28 deste mês de abril, o <strong>Imperial College London</strong> disponibilizou online um relatório com previsões de mortalidade por COVID-19 para a próxima semana<sup id="fnref:imp" role="doc-noteref"><a href="#fn:imp" class="footnote">1</a></sup>.</p>
+
+<p>O relatório está repercutindo bastante já que o Brasil de certa forma se destacou. Muito está se comentando sobre a previsão de 5.000 novos mortos na próxima semana e também sobre sermos o país com a maior taxa de transmissão.</p>
+
+<p>Primeiro vou explicar alguns conceitos para depois detalhar melhor os achados da projeção.</p>
+
+<h2 id="índices-de-reprodução">Índices de reprodução</h2>
+
+<p>Para entender esse estudo, primeiros precisamos saber o que é o índice de reprodução, ou <em>R</em>. Vou aproveitar essa postagem pra detalhar dois conceitos importantes da epidemiologia de doenças infeciosas:</p>
+
+<p><strong>O número básico de reprodução</strong> (<em>R<sub>0</sub></em>) é o número esperado de novas pessoas infectadas a partir de um único indivíduo infectado, durante todo o seu período contagioso, quando introduzido numa população totalmente suscetível.<sup id="fnref:Held" role="doc-noteref"><a href="#fn:Held" class="footnote">2</a></sup> Simplificando um pouco: significa pra quantas pessoas, em média, um infectado vai transmitir a doença.</p>
+
+<p>Por definição, a população não pode ter imunidade ao agente e nem receber medidas protetivas como vacinas ou distanciamento social. Ou seja, <em>R<sub>0</sub></em> é a taxa de contágio numa situação natural, sem que hajam intervenções. Para o Novo coronavirus (SARS-CoV-2), o <em>R<sub>0</sub></em> está sendo estimado entre 1,4 e 3,9.<sup id="fnref:Riou" role="doc-noteref"><a href="#fn:Riou" class="footnote">3</a></sup></p>
+
+<p><strong>O número efetivo de reprodução</strong> (<em>R<sub>e</sub></em>) segue o mesmo princípio do <em>R<sub>0</sub></em>, só que desta vez levando em conta as medidas de intervenção.<sup id="fnref:Held:1" role="doc-noteref"><a href="#fn:Held" class="footnote">2</a></sup> Ou seja, o <em>R<sub>e</sub></em> representa a transmissibilidade nas condições atuais de uma população que está tentando conter a doença. Dessa forma, o <em>R<sub>e</sub></em> varia ao longo do tempo e no decorrer de que medidas diferentes forem sendo impostas, como afrouxar ou restringir o distanciamento social.</p>
+
+<p>Nesse relatório do Imperial College, eles usaram a notação <em>R<sub>t</sub></em> para simbolizar o índice efetivo de reprodução.</p>
+
+<h2 id="os-resultados-da-projeção">Os resultados da projeção</h2>
+
+<p>Primeiro, o relatório traz um mapa ilustrando quais países ainda estão em crescimento, estabilização ou queda do número de novos casos.</p>
+
+<figure>
+    <img src="/assets/2020/medicina/covid19/imp-college-1.jpeg" alt="Mapa" />
+    <figcaption>Estimativas de transmissibilidade em países com transmissão ativa para a semana que termina em 26-04-2020. Com base nas melhores estimativas de transmissibilidade, a epidemia de COVID-19 provavelmente está diminuindo em 4 países (mostrados em verde), provavelmente estabilizando ou crescendo lentamente em 23 países (mostrada em verde claro) e provavelmente crescendo em 9 países (mostrados em laranja escuro). A tendência não é clara em 12 países (mostrada em laranja claro).</figcaption>
+</figure>
+
+<p>Podemos perceber que o Brasil ainda está no crescimento acelerado, contrariando falas de algumas figuras públicas dizendo que já estávamos em desaceleração.</p>
+
+<p>Em seguida, o relatório faz uma projeção da curva curva de mortalidade. Abaixo eu coloquei apenas as projeções para os países da América do Sul. Essas projeções foram feitas usando três modelos matemáticos diferentes e depois traçando uma média. Para saber mais sobre a metodologia utilizada, é melhor ler o relatório na íntegra.</p>
+
+<figure>
+    <img src="/assets/2020/medicina/covid19/forecast.jpeg" alt="Curvas de mortalidade" />
+    <figcaption>Notificações de mortes diárias e previsões atuais com base no modelo para os países da América do Sul. A incidência observada de mortes é representada pelos pontos pretos e as previsões para a próxima semana são mostradas em vermelho. A linha vermelha representa a mediana da projeção. A linha tracejada vertical mostra o início da semana (segunda-feira).</figcaption>
+</figure>
+
+<h3 id="taxa-de-transmissão">Taxa de transmissão</h3>
+
+<p>E agora, a parte mais interessante, a tabela trazendo os dados calculados para cada país. Tirei dois <em>prints</em>, o primeiro mostra os países ordenados da maior taxa de transmissão, a do Brasil, até a menor.</p>
+
+<figure>
+    <img src="/assets/2020/medicina/covid19/tab-rt.jpeg" alt="Tabela 1" />
+    <figcaption>Essa é a tabela listando os países por: mortes notificadas na semana passada (1ª coluna), previsão de mortes para a próxima semana (2ª coluna) e o <em>R<sub>t</sub></em> (3ª coluna). Aqui eu ordenei a lista em valores decrescentes de <em>R<sub>t</sub></em>, ou seja, o Brasil é o país com o maior índice de transmissão dentre os analisados.</figcaption>
+</figure>
+
+<p>O que me chamou mais atenção foram os números da Suécia, país que <a href="https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html">não vem adotando medidas de isolamento social</a><sup id="fnref:CNN" role="doc-noteref"><a href="#fn:CNN" class="footnote">4</a></sup>. O <em>R<sub>t</sub></em> de lá está entre os mais baixos, sendo de 1,17. Mas atenção, precisamos ter muita cautela interpretando esses dados. Um <em>R<sub>t</sub></em> baixo na Suécia não significa que eles estão indo bem sem adotar distanciamento social. O número de reprodutividade depende de vários fatores, como clima, planejamento urbano, comportamentos culturais, desigualdade social e muitos e muitos outros.</p>
+
+<figure>
+    <img src="/assets/2020/medicina/covid19/sweden.jpeg" alt="Tabela 2" />
+    <figcaption>Os valores da tabela para a Suécia.</figcaption>
+</figure>
+
+<p>Por mais que o <em>R<sub>t</sub></em> da Suécia esteja baixo, ele poderia estar ainda menor se o país estivesse adotando distanciamento. Sem falar que a Suécia está relativamente no início da curva. Vamos continuar observando e tentando analisar os dados nesses próximos dias. Pretendo estudar mais sobre a situação na Suécia e fazer uma postagem mais elaborada em breve.</p>
+
+<p>Agora vamos falar do Brasil, onde o valor estimado para o <em>R<sub>t</sub></em> foi de 2,81. Ou seja, um infectado transmite a doença, em média, para quase três pessoas. Isso demonstra que nossas medidas de isolamento não estão sendo efetivas? Não exatamente. Nosso <em>R<sub>t</sub></em> pode estar elevado por esses outros fatores que listei falando da Suécia. Para responder essa pergunta nos precisamos de mais medições do <em>R<sub>t</sub></em> e compará-las antes e depois de aumentar a rigidez do isolamento. Quando mais rígido o distanciamento social, o <em>R<sub>t</sub></em> tende a diminuir. E como não sabemos o nosso <em>R<sub>t</sub></em> anterior, não temos um parâmetro.</p>
+
+<h3 id="previsão-de-óbitos">Previsão de óbitos</h3>
+
+<p>Neste segundo <em>print</em>, tentei expor os países com as maiores previsões de óbitos para a próxima semana. Infelizmente a tabela estava ordenando a coluna corretamente, então tive que ordenar pelo número de mortes na semana passada.</p>
+
+<p>Os Estados Unidos é o país com a maior previsão de mortes na próxima semana, sendo de 13.900 óbitos. Logo em seguida, vem o Brasil com uma previsão de 5.680 mortes.</p>
+
+<figure>
+    <img src="/assets/2020/medicina/covid19/tab-death.jpeg" alt="Tabela 3" />
+    <figcaption>Essa é a tabela, porém desta vez eu ordenei em valores decrescentes de mortes na semana passada. Tentei ordenar pelos valores de mortes previstas mas a tabela não estava permitindo isso, infelizmente (um pequeno <em>bug</em>).</figcaption>
+</figure>
+
+<p>Esse relatório sai num momento em que <a href="https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/">alguns estados, como São Paulo, já estavam cogitando flexibilizar o distanciamento social</a><sup id="fnref:estados" role="doc-noteref"><a href="#fn:estados" class="footnote">5</a></sup>. Mas, pelo que parece, estão voltando atrás.</p>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>Essa é mais uma projeção dentre várias que já vimos. Como não nos resta muito que fazer para impedir a pandemia, vale muito a pena ficar projetando cenários. Serve tanto para de fato tentar prever o que vai acontecer e se preparar, como também para melhorar cada vez mais os modelos matemáticos à medida que vamos acumulando novos dados.</p>
+
+<p>Pode parecer alarmista demais para alguns, mas isso faz parte da ciência. Por mais que uma projeção erre grosseiramente, ela vai ser importante para que o erro seja estudados e nas próximas vezes seja feita uma estimativa mais precisa.</p>
+
+<p>Mais uma vez eu quero deixar bem claro aqui: <strong>temos que ter muito cuidado analisando os dados!</strong> Epidemiologia é uma ciência extremamente complexa. Não se trata apenas de biologia, mas de comportamento social também. Existe uma infinidade de variáveis envolvidas nesses dados. Senão tomarmos cuidado na interpretação, podemos cair em alguma variável de confusão, como já discuti na postagem anterior – <a href="/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19">A falácia ecológica e o estudo correlacionando a vacina do BCG com proteção à COVID-19</a>.</p>
+
+<p>O <em>MRC Centre for Global Infectious Disease Analysis</em> vai ficar disponibilizando novas previsões toda semana. Se saírem novos relatórios, faço mais postagens aqui comentando.</p>
+
+<p>Tem alguma sugestão ou crítica? Entra em contato comigo que vou adorar ficar sabendo.</p>
+
+<h2 id="citações">Citações</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:imp" role="doc-endnote">
+      <p><strong>Short-term forecasts of COVID-19 deaths in multiple countries</strong>. MRC Centre for Global Infectious Disease Analysis. Imperial College London. Publicado em 28 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: <a href="https://mrc-ide.github.io/covid19-short-term-forecasts/index.html">https://mrc-ide.github.io/covid19-short-term-forecasts/index.html</a>. <a href="#fnref:imp" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:Held" role="doc-endnote">
+      <p>Held, Leonhard; Hens, Niel; O’Neill, Philip D.; Wallinga, Jacco (November 7, 2019). <strong>Handbook of Infectious Disease Data Analysis</strong>. CRC Press. p. 347. ISBN 978-1-351-83932-7. Disponível em: <a href="https://books.google.com/?id=cXC9DwAAQBAJ&amp;pg=PA347">https://books.google.com/?id=cXC9DwAAQBAJ&amp;pg=PA347</a>. <a href="#fnref:Held" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:Held:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:Riou" role="doc-endnote">
+      <p>Riou J, Althaus CL (janeiro de 2020). <strong>Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020</strong>. Euro Surveillance. 25 (4). PMC 7001239Acessível livremente. PMID 32019669. doi:<a href="https://doi.org/10.2807/1560-7917.ES.2020.25.4.2000058">10.2807/1560-7917.ES.2020.25.4.2000058</a>. <a href="#fnref:Riou" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:CNN" role="doc-endnote">
+      <p><strong>Sweden challenges Trump – and scientific mainstream – by refusing to lock down</strong>. CNN. Publicado em 10 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: <a href="https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html">https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html</a>. <a href="#fnref:CNN" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:estados" role="doc-endnote">
+      <p><strong>Doria irá anunciar redução gradual da quarentena a partir de 11 de maio</strong>. Veja. Publicado em 20 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: <a href="https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/">https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/</a>. <a href="#fnref:estados" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-06T13:06:06-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Blog sobre medicina, geek e Linux</subtitle><author><name>Filipe Mosca</name></author><entry><title type="html">Qual o tamanho da subnotificação por COVID-19 no Brasil?</title><link href="http://localhost:4000/2020/medicina/tamanho-subnotificacao-covid19-brasil" rel="alternate" type="text/html" title="Qual o tamanho da subnotificação por COVID-19 no Brasil?" /><published>2020-05-06T00:00:00-03:00</published><updated>2020-05-06T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/tamanho-subnotificacao-covid19-brasil</id><content type="html" xml:base="http://localhost:4000/2020/medicina/tamanho-subnotificacao-covid19-brasil">&lt;p&gt;No início da pandemia eu estava bem otimista com o prognóstico do Brasil. Começamos o distanciamento social bem cedo, numa época em que a mortalidade não havia nem atingido os 100 primeiros óbitos. Mas agora, percebo que fui completamente enganado pela subnotificação.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-10T16:20:05-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.</subtitle><entry><title type="html">Qual o tamanho da subnotificação por COVID-19 no Brasil?</title><link href="http://localhost:4000/2020/medicina/tamanho-subnotificacao-covid19-brasil" rel="alternate" type="text/html" title="Qual o tamanho da subnotificação por COVID-19 no Brasil?" /><published>2020-05-06T00:00:00-03:00</published><updated>2020-05-06T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/tamanho-subnotificacao-covid19-brasil</id><content type="html" xml:base="http://localhost:4000/2020/medicina/tamanho-subnotificacao-covid19-brasil">&lt;p&gt;No início da pandemia eu estava bem otimista com o prognóstico do Brasil. Começamos o distanciamento social bem cedo, numa época em que a mortalidade não havia nem atingido os 100 primeiros óbitos. Mas agora, percebo que fui completamente enganado pela subnotificação.&lt;/p&gt;
 
 &lt;p&gt;Nossa situação está bastante grave e o pior é que não temos real noção do quanto grave é.&lt;/p&gt;
 
@@ -6,13 +6,13 @@
 
 &lt;h2 id=&quot;quantos-testes-o-brasil-fez&quot;&gt;Quantos testes o Brasil fez?&lt;/h2&gt;
 
-&lt;p&gt;Segundo uma &lt;a href=&quot;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&quot;&gt;matéria do Exame, até dia 7 de Abril o país tinha realizado 63 mil testes&lt;/a&gt;&lt;sup id=&quot;fnref:Exame&quot;&gt;&lt;a href=&quot;#fn:Exame&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Destes, foram cerca de 13,7 mil confirmações para a doença, realizando uma taxa de 6,7 mil testes por dia.&lt;/p&gt;
+&lt;p&gt;Segundo uma &lt;a href=&quot;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&quot;&gt;matéria do Exame, até dia 7 de Abril o país tinha realizado 63 mil testes&lt;/a&gt;&lt;sup id=&quot;fnref:Exame&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Exame&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Destes, foram cerca de 13,7 mil confirmações para a doença, realizando uma taxa de 6,7 mil testes por dia.&lt;/p&gt;
 
 &lt;p&gt;Ou seja, até o início de Abril, em torno de 1 teste a cada 4,6 dava positivo. E o Brasil estava aplicando 300 testes para cada milhão de habitantes (0,30 testes para cada mil habitantes).&lt;/p&gt;
 
-&lt;p&gt;Já numa &lt;a href=&quot;https://www.bbc.com/portuguese/brasil-52509734&quot;&gt;matéria da BBC&lt;/a&gt;&lt;sup id=&quot;fnref:BBC&quot;&gt;&lt;a href=&quot;#fn:BBC&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;: &lt;em&gt;“Até 20 de abril a rede pública realizou 132 mil testes específicos para covid-19. Isso é quase o mesmo número de testes realizados pelo Reino Unido em um só dia: 120 mil em 30 de abril”&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Já numa &lt;a href=&quot;https://www.bbc.com/portuguese/brasil-52509734&quot;&gt;matéria da BBC&lt;/a&gt;&lt;sup id=&quot;fnref:BBC&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:BBC&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;: &lt;em&gt;“Até 20 de abril a rede pública realizou 132 mil testes específicos para covid-19. Isso é quase o mesmo número de testes realizados pelo Reino Unido em um só dia: 120 mil em 30 de abril”&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Em 20 de abril, o Brasil tinha feito 0,63 testes para cada mil habitantes. Na mesma época, a Itália já tinha feito 23 testes e os EUA 12 testes para cada mil habitantes.&lt;sup id=&quot;fnref:WorldData&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Em 20 de abril, o Brasil tinha feito 0,63 testes para cada mil habitantes. Na mesma época, a Itália já tinha feito 23 testes e os EUA 12 testes para cada mil habitantes.&lt;sup id=&quot;fnref:WorldData&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&quot;/assets/2020/medicina/subnotificacao/testes-20.jpeg&quot; alt=&quot;gráfico com curva de testes realizados por cada país&quot; /&gt;
@@ -37,7 +37,7 @@
 
 &lt;h2 id=&quot;os-números-oficiais&quot;&gt;Os números oficiais&lt;/h2&gt;
 
-&lt;p&gt;Peguei &lt;a href=&quot;https://ourworldindata.org/coronavirus&quot;&gt;dois gráficos no &lt;em&gt;Our World in Data&lt;/em&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:WorldData:1&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, um gráficos de novos casos notificados por dia, e um gráfico de novos óbitos por dia.&lt;/p&gt;
+&lt;p&gt;Peguei &lt;a href=&quot;https://ourworldindata.org/coronavirus&quot;&gt;dois gráficos no &lt;em&gt;Our World in Data&lt;/em&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:WorldData:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, um gráficos de novos casos notificados por dia, e um gráfico de novos óbitos por dia.&lt;/p&gt;
 
 &lt;p&gt;No gráfico de novos casos por dia (Figura 1), vemos que a curva brasileira teve grandes variações. São vários picos seguidos de quedas.&lt;/p&gt;
 
@@ -69,7 +69,7 @@
 
 &lt;h2 id=&quot;os-feriados&quot;&gt;Os feriados&lt;/h2&gt;
 
-&lt;p&gt;A &lt;a href=&quot;https://www.lagomdata.com.br/coronavirus&quot;&gt;Lagom Data&lt;/a&gt;&lt;sup id=&quot;fnref:Lagom&quot;&gt;&lt;a href=&quot;#fn:Lagom&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; fez o gráfico abaixo (Figura 3) destacando os dias de fériados e fins de semana na curva diária de novos óbitos.&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&quot;https://www.lagomdata.com.br/coronavirus&quot;&gt;Lagom Data&lt;/a&gt;&lt;sup id=&quot;fnref:Lagom&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Lagom&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; fez o gráfico abaixo (Figura 3) destacando os dias de fériados e fins de semana na curva diária de novos óbitos.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&quot;/assets/2020/medicina/subnotificacao/obitos-feriados.png&quot; alt=&quot;gráficos de óbitos novos por dia destacando os feriados&quot; /&gt;
@@ -97,7 +97,7 @@
 
 &lt;p&gt;Agora vem a parte mais impactante que quero transmitir. A imprensa vem fazendo um trabalho muito bom de correr atrás dos dados que o Governo não está fornecendo.&lt;/p&gt;
 
-&lt;p&gt;O G1 fez um levantamento por conta própria nos registros de cartório. &lt;a href=&quot;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&quot;&gt;Helio Gurovitz, em seu blog no G1&lt;/a&gt;&lt;sup id=&quot;fnref:Helio&quot;&gt;&lt;a href=&quot;#fn:Helio&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;, escreveu:&lt;/p&gt;
+&lt;p&gt;O G1 fez um levantamento por conta própria nos registros de cartório. &lt;a href=&quot;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&quot;&gt;Helio Gurovitz, em seu blog no G1&lt;/a&gt;&lt;sup id=&quot;fnref:Helio&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Helio&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;, escreveu:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;As mortes nas cinco cidades brasileiras mais atingidas pela Covid-19 somaram pelo menos 26.445 desde o início da pandemia até o dia 25 de abril, um crescimento de 30% em relação à média dos anos anteriores, de 20.384 durante as mesmas semanas. […] Houve, nessas cidades, no mínimo 3.842 mortes além das registradas por Covid-19 […].&lt;/p&gt;
@@ -115,11 +115,11 @@
   &lt;li&gt;Fortaleza: 17.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;O &lt;a href=&quot;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&quot;&gt;Jornal Nacional também noticiou o aumento do registro de mortes em cartórios de todo o país&lt;/a&gt;&lt;sup id=&quot;fnref:JN&quot;&gt;&lt;a href=&quot;#fn:JN&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Isso tudo excluindo mortes de causa externa (homicídio, suicídio, acidentes de trânsito, etc.), só estão sendo considerados os aumentos por mortes de causa “natural”.&lt;/p&gt;
+&lt;p&gt;O &lt;a href=&quot;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&quot;&gt;Jornal Nacional também noticiou o aumento do registro de mortes em cartórios de todo o país&lt;/a&gt;&lt;sup id=&quot;fnref:JN&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:JN&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Isso tudo excluindo mortes de causa externa (homicídio, suicídio, acidentes de trânsito, etc.), só estão sendo considerados os aumentos por mortes de causa “natural”.&lt;/p&gt;
 
 &lt;p&gt;Com certeza parte dessas mortes em excesso foram causadas diretamente pelo Novo coronavirus. E a outra parte provavelmente foi indiretamente causada pela pandemia.&lt;/p&gt;
 
-&lt;p&gt;E mais uma &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;notícia assustadora, dessa vez de O Globo&lt;/a&gt;&lt;sup id=&quot;fnref:Manaus&quot;&gt;&lt;a href=&quot;#fn:Manaus&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;, mostra que mais de 30% dos óbitos em Manaus estão ocorrendo nas residências. Lá o sistema de saúde está completamente colapsado. Não tem atendimento pra todo mundo.&lt;/p&gt;
+&lt;p&gt;E mais uma &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;notícia assustadora, dessa vez de O Globo&lt;/a&gt;&lt;sup id=&quot;fnref:Manaus&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Manaus&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;, mostra que mais de 30% dos óbitos em Manaus estão ocorrendo nas residências. Lá o sistema de saúde está completamente colapsado. Não tem atendimento pra todo mundo.&lt;/p&gt;
 
 &lt;h2 id=&quot;excesso-de-mortalidade-por-todas-as-causas&quot;&gt;Excesso de mortalidade por todas as causas&lt;/h2&gt;
 
@@ -137,18 +137,18 @@
 
 &lt;p&gt;Para não me estender muito mais, vou apenas listar algumas estimativas de subnotificação para o Brasil realizadas por diferentes centros científicos.&lt;/p&gt;
 
-&lt;p&gt;A UFMG fez uma estimativa se baseando na média histórica de notificação por SRAG (síndrome respiratória aguda grave) dos últimos 10 anos. Eles estimam que teríamos em torno de 7,7 casos subnotificados para cada caso confirmado.&lt;sup id=&quot;fnref:UFMG&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;A UFMG fez uma estimativa se baseando na média histórica de notificação por SRAG (síndrome respiratória aguda grave) dos últimos 10 anos. Eles estimam que teríamos em torno de 7,7 casos subnotificados para cada caso confirmado.&lt;sup id=&quot;fnref:UFMG&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&quot;/assets/2020/medicina/subnotificacao/ufmg-estudo.png&quot; alt=&quot;Tabela de notificações por SRAG&quot; /&gt;
     &lt;figcaption&gt;Número de hospitalizações por SRAG entre 2012 e 2020, nos meses de Janeiro, Fevereiro e Março.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Inclusive esse estudo da UFMG conclui com a frase: &lt;em&gt;“nosso estudo mostra que os números relatados pelo governo brasileiro devem estar longe das situações reais. Nesse contexto, manifestações de alguns políticos a favor de menos restrições ao movimento de pessoas devem ser vistas com enorme preocupação”&lt;/em&gt;.&lt;sup id=&quot;fnref:UFMG:1&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Inclusive esse estudo da UFMG conclui com a frase: &lt;em&gt;“nosso estudo mostra que os números relatados pelo governo brasileiro devem estar longe das situações reais. Nesse contexto, manifestações de alguns políticos a favor de menos restrições ao movimento de pessoas devem ser vistas com enorme preocupação”&lt;/em&gt;.&lt;sup id=&quot;fnref:UFMG:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;O CMMID (&lt;em&gt;Centre for the Mathematical Modelling of Infectious Diseases&lt;/em&gt;), da &lt;em&gt;London School of Hygiene &amp;amp; Tropical Medicine&lt;/em&gt;, estima que apenas 7,6% dos casos sintomáticos estão sendo notificados no Brasil.&lt;sup id=&quot;fnref:CMMID&quot;&gt;&lt;a href=&quot;#fn:CMMID&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;O CMMID (&lt;em&gt;Centre for the Mathematical Modelling of Infectious Diseases&lt;/em&gt;), da &lt;em&gt;London School of Hygiene &amp;amp; Tropical Medicine&lt;/em&gt;, estima que apenas 7,6% dos casos sintomáticos estão sendo notificados no Brasil.&lt;sup id=&quot;fnref:CMMID&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:CMMID&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Um grupo da USP de Ribeirão Preto se baseou na letalidade por COVID-19 da Coreia do Sul para “corrigir” as taxas de mortalidade divulgadas pelo governo brasileiro. Pela estimativa deles, corrigindo a distribuição etária em relação à Coreia do Sul, até o dia 28 de Abril já deveríamos ter 1 milhão de casos.&lt;sup id=&quot;fnref:USP&quot;&gt;&lt;a href=&quot;#fn:USP&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; No estudo, eles assumem que a taxa de letalidade esperada para o nosso país é de 1,11% (a da Coreia do Sul é de 1,635%).&lt;/p&gt;
+&lt;p&gt;Um grupo da USP de Ribeirão Preto se baseou na letalidade por COVID-19 da Coreia do Sul para “corrigir” as taxas de mortalidade divulgadas pelo governo brasileiro. Pela estimativa deles, corrigindo a distribuição etária em relação à Coreia do Sul, até o dia 28 de Abril já deveríamos ter 1 milhão de casos.&lt;sup id=&quot;fnref:USP&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:USP&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; No estudo, eles assumem que a taxa de letalidade esperada para o nosso país é de 1,11% (a da Coreia do Sul é de 1,635%).&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
 
@@ -162,120 +162,40 @@
 
 &lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:Exame&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Covid-19: Brasil realizou 63 mil testes e projeta chegar a 30 mil por dia&lt;/strong&gt;. Exame. Publicado em 8 de Abril de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&quot;&gt;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&lt;/a&gt;. &lt;a href=&quot;#fnref:Exame&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:Exame&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Covid-19: Brasil realizou 63 mil testes e projeta chegar a 30 mil por dia&lt;/strong&gt;. Exame. Publicado em 8 de Abril de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&quot;&gt;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&lt;/a&gt;. &lt;a href=&quot;#fnref:Exame&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:BBC&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Mortes, testes e contágio: como o Brasil se compara a outros países na pandemia de coronavírus&lt;/strong&gt;. BBC News Brasil. Publicado em 1 de Maio de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://www.bbc.com/portuguese/brasil-52509734&quot;&gt;https://www.bbc.com/portuguese/brasil-52509734&lt;/a&gt;. &lt;a href=&quot;#fnref:BBC&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:BBC&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Mortes, testes e contágio: como o Brasil se compara a outros países na pandemia de coronavírus&lt;/strong&gt;. BBC News Brasil. Publicado em 1 de Maio de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://www.bbc.com/portuguese/brasil-52509734&quot;&gt;https://www.bbc.com/portuguese/brasil-52509734&lt;/a&gt;. &lt;a href=&quot;#fnref:BBC&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:WorldData&quot;&gt;
-      &lt;p&gt;Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - “&lt;strong&gt;Coronavirus Pandemic (COVID-19)&lt;/strong&gt;”. Published online at OurWorldInData.org. Retrieved from: ‘&lt;a href=&quot;https://ourworldindata.org/coronavirus&quot;&gt;https://ourworldindata.org/coronavirus&lt;/a&gt;’ [Online Resource]. &lt;a href=&quot;#fnref:WorldData&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:WorldData:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:WorldData&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - “&lt;strong&gt;Coronavirus Pandemic (COVID-19)&lt;/strong&gt;”. Published online at OurWorldInData.org. Retrieved from: ‘&lt;a href=&quot;https://ourworldindata.org/coronavirus&quot;&gt;https://ourworldindata.org/coronavirus&lt;/a&gt;’ [Online Resource]. &lt;a href=&quot;#fnref:WorldData&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:WorldData:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:Lagom&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Coronavírus no Brasil&lt;/strong&gt;. Lagom Data. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://www.lagomdata.com.br/coronavirus&quot;&gt;https://www.lagomdata.com.br/coronavirus&lt;/a&gt;. &lt;a href=&quot;#fnref:Lagom&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:Lagom&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Coronavírus no Brasil&lt;/strong&gt;. Lagom Data. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://www.lagomdata.com.br/coronavirus&quot;&gt;https://www.lagomdata.com.br/coronavirus&lt;/a&gt;. &lt;a href=&quot;#fnref:Lagom&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:Helio&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Mortes subiram 30% em 5 cidades&lt;/strong&gt;. Blog Do Helio Gurovitz. Publicado em 4 de Maio de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&quot;&gt;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&lt;/a&gt;. &lt;a href=&quot;#fnref:Helio&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:Helio&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Mortes subiram 30% em 5 cidades&lt;/strong&gt;. Blog Do Helio Gurovitz. Publicado em 4 de Maio de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&quot;&gt;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&lt;/a&gt;. &lt;a href=&quot;#fnref:Helio&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:JN&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Cartórios registram aumento de 1.035% nas mortes por síndrome respiratória&lt;/strong&gt;. Jornal Nacional. Publicado em 28 de Abril de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&quot;&gt;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&lt;/a&gt;. &lt;a href=&quot;#fnref:JN&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:JN&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Cartórios registram aumento de 1.035% nas mortes por síndrome respiratória&lt;/strong&gt;. Jornal Nacional. Publicado em 28 de Abril de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&quot;&gt;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&lt;/a&gt;. &lt;a href=&quot;#fnref:JN&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:Manaus&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Durante crise da Covid-19, mais de 30% dos óbitos ocorrem em casa em Manaus&lt;/strong&gt;. O Globo. Publicado em 4 de Abril de 2020. Acessado em 5 de Abril de 2020. Disponível em: &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&lt;/a&gt;. &lt;a href=&quot;#fnref:Manaus&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:Manaus&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Durante crise da Covid-19, mais de 30% dos óbitos ocorrem em casa em Manaus&lt;/strong&gt;. O Globo. Publicado em 4 de Abril de 2020. Acessado em 5 de Abril de 2020. Disponível em: &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&lt;/a&gt;. &lt;a href=&quot;#fnref:Manaus&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:UFMG&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Nota Técnica: Estimate of underreporting of COVID-19 in Brazil by Acute Respiratory Syndrome hospitalization reports&lt;/strong&gt;. UFMG. Publicado em 16 de Abril de 2020. Disponível em: &lt;a href=&quot;https://www.cedeplar.ufmg.br/noticias/1234-nota-tecnica-estimate-of-underreporting-of-covid-19-in-brazil-by-acute-respiratory-syndrome-hospitalization-reports&quot;&gt;https://www.cedeplar.ufmg.br/noticias/1234-nota-tecnica-estimate-of-underreporting-of-covid-19-in-brazil-by-acute-respiratory-syndrome-hospitalization-reports&lt;/a&gt;. &lt;a href=&quot;#fnref:UFMG&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:UFMG:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:UFMG&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Nota Técnica: Estimate of underreporting of COVID-19 in Brazil by Acute Respiratory Syndrome hospitalization reports&lt;/strong&gt;. UFMG. Publicado em 16 de Abril de 2020. Disponível em: &lt;a href=&quot;https://www.cedeplar.ufmg.br/noticias/1234-nota-tecnica-estimate-of-underreporting-of-covid-19-in-brazil-by-acute-respiratory-syndrome-hospitalization-reports&quot;&gt;https://www.cedeplar.ufmg.br/noticias/1234-nota-tecnica-estimate-of-underreporting-of-covid-19-in-brazil-by-acute-respiratory-syndrome-hospitalization-reports&lt;/a&gt;. &lt;a href=&quot;#fnref:UFMG&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:UFMG:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:CMMID&quot;&gt;
-      &lt;p&gt;Timothy WR, Joel H, Sam A, Nick G, Hamish G, Christopher IJ, Kevin van Z, Stefan F, Rosalind ME, W John E &amp;amp; Adam JK. &lt;strong&gt;Using a delay-adjusted case fatality ratio to estimate under-reporting&lt;/strong&gt;. CMMID. Real time report. First online: 22-03-2020. Last update: 30-04-2020. Disponível em: &lt;a href=&quot;https://cmmid.github.io/topics/covid19/global_cfr_estimates.html&quot;&gt;https://cmmid.github.io/topics/covid19/global_cfr_estimates.html&lt;/a&gt;. &lt;a href=&quot;#fnref:CMMID&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:CMMID&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Timothy WR, Joel H, Sam A, Nick G, Hamish G, Christopher IJ, Kevin van Z, Stefan F, Rosalind ME, W John E &amp;amp; Adam JK. &lt;strong&gt;Using a delay-adjusted case fatality ratio to estimate under-reporting&lt;/strong&gt;. CMMID. Real time report. First online: 22-03-2020. Last update: 30-04-2020. Disponível em: &lt;a href=&quot;https://cmmid.github.io/topics/covid19/global_cfr_estimates.html&quot;&gt;https://cmmid.github.io/topics/covid19/global_cfr_estimates.html&lt;/a&gt;. &lt;a href=&quot;#fnref:CMMID&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:USP&quot;&gt;
-      &lt;p&gt;Domingos Alves, Rodrigo Gaete, Newton Miyoshi, Bruno Carciofi, Lariza Olveira e Tiago Sanchez. &lt;strong&gt;Estimativa de Casos de COVID-19&lt;/strong&gt;. USP. Acessado em 5 de Maio de 2020. Diponível em: &lt;a href=&quot;https://ciis.fmrp.usp.br/covid19-subnotificacao/&quot;&gt;https://ciis.fmrp.usp.br/covid19-subnotificacao/&lt;/a&gt;. &lt;a href=&quot;#fnref:USP&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:USP&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Domingos Alves, Rodrigo Gaete, Newton Miyoshi, Bruno Carciofi, Lariza Olveira e Tiago Sanchez. &lt;strong&gt;Estimativa de Casos de COVID-19&lt;/strong&gt;. USP. Acessado em 5 de Maio de 2020. Diponível em: &lt;a href=&quot;https://ciis.fmrp.usp.br/covid19-subnotificacao/&quot;&gt;https://ciis.fmrp.usp.br/covid19-subnotificacao/&lt;/a&gt;. &lt;a href=&quot;#fnref:USP&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="covid-19" /><category term="epidemiologia" /><category term="pandemia" /><summary type="html">No início da pandemia eu estava bem otimista com o prognóstico do Brasil. Começamos o distanciamento social bem cedo, numa época em que a mortalidade não havia nem atingido os 100 primeiros óbitos. Mas agora, percebo que fui completamente enganado pela subnotificação.</summary></entry><entry><title type="html">O que aprendi na primeira semana praticando piano</title><link href="http://localhost:4000/2020/musica/primeira-semana-praticando-piano" rel="alternate" type="text/html" title="O que aprendi na primeira semana praticando piano" /><published>2020-05-03T00:00:00-03:00</published><updated>2020-05-03T00:00:00-03:00</updated><id>http://localhost:4000/2020/musica/primeira-semana-praticando-piano</id><content type="html" xml:base="http://localhost:4000/2020/musica/primeira-semana-praticando-piano">&lt;p&gt;Acabei de completar a primeira semana de prática por conta própria. Sinto que consegui aprender bastante coisa nesses poucos dias e já consigo notar uma evolução. Aliás, apenas nessa semana sinto que já evoluí mais do que o ano passado inteiro. Como expliquei na postagem anterior – &lt;a href=&quot;/2020/musica/aprendendo-piano-sozinho&quot;&gt;Aprendendo piano sozinho&lt;/a&gt; –, eu não estava seguindo nenhuma metodologia e isso era péssimo.&lt;/p&gt;
-
-&lt;p&gt;Vou detalhar aqui neste artigo o que aprendi nessa semana, destacando os pontos que considero mais importantes. Eu já tinha estudado o básico de teoria musical, como o básico de notação musical e leitura de partitura. Por isso estou pulando essa parte básica.&lt;/p&gt;
-
-&lt;p&gt;A propósito, o &lt;em&gt;Alfred’s adult basic piano course level 1&lt;/em&gt; não aborda esse tema tão detalhadamente. Então, se você ainda não sabe nada sobre partituras, não sabe ler ou identificar os símbolos nela, recomendo fortemente estudar pelo livro &lt;em&gt;Alfred’s essentials of music theory&lt;/em&gt;. Se você não quiser ir pelo livro, também tem milhares de vídeos no YouTube ensinando isso. E também muito conteúdo bom e gratuito pela internet, é só dar uma pesquisada. &lt;em&gt;Googlar&lt;/em&gt; algo do tipo “como ler uma partitura” já vai te ajudar.&lt;/p&gt;
-
-&lt;h2 id=&quot;intervalos&quot;&gt;Intervalos&lt;/h2&gt;
-
-&lt;p&gt;Intervalos para mim sempre foi um assunto besta. Sempre pensei “por que as pessoas perdem tempo estudando isso?”. Na minha cabeça era um assunto extremamente óbvio. Agora, com um olhar um pouco mais cuidadoso, eu percebo a importância de saber intervalos.&lt;/p&gt;
-
-&lt;p&gt;Os intervalos podem ser de dois tipos, melódicos e harmônicos. Um intervalo é melódico quando as notas são tocadas em tempos diferentes. É daí que vem a palavra &lt;em&gt;melodia&lt;/em&gt;. A imagem abaixo são exemplos de dois intervalos melódicos:&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/intervalos2.jpeg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/intervalos.jpeg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Os intervalos são harmônicos quando as notas são tocadas juntas, ao mesmo tempo. Como na imagem abaixo:&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/intervalos-harmonicos.jpeg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/intervalos3.jpeg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Como as imagens mostram, os intervalos podem ser de 2ª, 3ª, 4ª, 5ª e por aí vai. Mas qual a importância de saber isso? Falando bem na prática mesmo, entender os intervalos vai te permitir ler e tocar a partitura com mais fluidez.&lt;/p&gt;
-
-&lt;p&gt;Podemos notar que em intervalos pares, como de 2ª e 4ª, as notas estão sempre em &lt;strong&gt;linha-linha&lt;/strong&gt; ou &lt;strong&gt;espaço-espaço&lt;/strong&gt;. Já nos intervalos ímpares, as notas obedecem o padrão &lt;strong&gt;espaço-linha&lt;/strong&gt; ou &lt;strong&gt;linha-espaço&lt;/strong&gt;. Sabendo identificar esses padrões, fica muito mais fácil ler trechos de partitura, como esse abaixo:&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/im.jpeg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Todas as notas estão em espaços, logo, são intervalos de 3ª (ímpares). Basta apenas pular uma nota e tocar a nota seguinte. Toca o Dó, pula o Ré, toca o Mi, pula o Fá e toca o Sol. Com a prática, esse conhecimento vai se tornando intuitivo. Você está ensinando seu cérebro a reconhecer esses padrões e ler cada vez mais rápido o que está escrito ali.&lt;/p&gt;
-
-&lt;p&gt;Não sei se consegui deixar a explicação muito clara. Qualquer coisa você pode me mandar um email com dúvidas ou sugestões e eu modifico esse parágrafo.&lt;/p&gt;
-
-&lt;h2 id=&quot;acordes&quot;&gt;Acordes&lt;/h2&gt;
-
-&lt;h3 id=&quot;dó-maior&quot;&gt;Dó maior&lt;/h3&gt;
-
-&lt;p&gt;Os método de ensino do Alfred é baseado em acordes e chegou, finalmente, a hora de aprendê-los. O primeiro é o mais óbvio e mais basicão, o acorde de Dó maior.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/do-maior.jpeg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Notem que, sabendo intervalos, fica muito fácil ler os acordes. Na clave de Sol, todas as notas estão em linhas e, na clave de Fá, todas notas estão em espaços. Logo, os intervalos são de 3ª. Sabendo a primeira nota do acorde, o Dó, podemos facilmente localizar as demais, o Mi e o Sol.&lt;/p&gt;
-
-&lt;h3 id=&quot;g7&quot;&gt;G7&lt;/h3&gt;
-
-&lt;p&gt;Depois foi a vez de aprender o acorde G7 que achei bem bizarro de início. Ele não me parece soar tão bem, mas com algumas músicas deu pra ver que até se encaixa. Na verdade, eu ainda não entendi direito como esse acorde é formado. Acredito que mais na frente, lendo o livro, vai chegar o momento de descobrir.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/g7.jpeg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Mais uma vez, sabendo intervalos fica fácil ler o acorde G7. Vamos pela clave de Sol. A primeira nota, o Si, está num espaço e a segunda também está num espaço. Logo, é um intervalo de 5ª (ímpar). A quinta nota após o Si é o Fá. Intervalos de quinta são muito bons pois a própria mão (5 dedos) funciona como régua para medir a distância.&lt;/p&gt;
-
-&lt;p&gt;Lembrando que nos intervalos nós contamos as próprias notas. Si, Dó, Ré, Mi, Fá. São cinco notas, logo do Si pro Fá o intervalo é de 5ª.&lt;/p&gt;
-
-&lt;p&gt;Depois do Fá, a próxima nota está numa linha, logo em seguida. Portanto, é um intervalo de segunda e basta tocar a nota seguinte, o Sol.&lt;/p&gt;
-
-&lt;h3 id=&quot;fá-maior&quot;&gt;Fá maior&lt;/h3&gt;
-
-&lt;p&gt;E por último, o Fá maior. Um acorde bem fácil de transicionar do Dó maior, e vice-versa. Dá pra usar o mesmo raciocínio sobre intervalos harmônicos mas acho que vocês já entenderam.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/fa-maior.jpeg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
-
-&lt;p&gt;É isto. Foi uma semana bastante produtiva – a quarentena está rendendo!. Estou gostando muito do livro do Alfred. Os exercícios são legais e bem selecionados. A progressão na dificuldade também não é tão lenta.&lt;/p&gt;
-
-&lt;p&gt;Próxima semana acredito que já vou postar a primeira música que aprendi. Ainda estou praticando ela mas até a postagem seguinte já devo ter aprendido. Também vou fazer uma postagem detalhando melhor como está sendo a rotina diária de práticas. Até apróxima!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="musica" /><category term="piano" /><category term="acordes" /><category term="intervalos" /><category term="quarentena" /><summary type="html">Acabei de completar a primeira semana de prática por conta própria. Sinto que consegui aprender bastante coisa nesses poucos dias e já consigo notar uma evolução. Aliás, apenas nessa semana sinto que já evoluí mais do que o ano passado inteiro. Como expliquei na postagem anterior – Aprendendo piano sozinho –, eu não estava seguindo nenhuma metodologia e isso era péssimo.</summary></entry><entry><title type="html">Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil</title><link href="http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil" rel="alternate" type="text/html" title="Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil" /><published>2020-04-30T00:00:00-03:00</published><updated>2020-04-30T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil</id><content type="html" xml:base="http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil">&lt;p&gt;Dia 28 deste mês de abril, o &lt;strong&gt;Imperial College London&lt;/strong&gt; disponibilizou online um relatório com previsões de mortalidade por COVID-19 para a próxima semana&lt;sup id=&quot;fnref:imp&quot;&gt;&lt;a href=&quot;#fn:imp&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="COVID-19" /><category term="MBE" /><summary type="html">No início da pandemia eu estava bem otimista com o prognóstico do Brasil. Começamos o distanciamento social bem cedo, numa época em que a mortalidade não havia nem atingido os 100 primeiros óbitos. Mas agora, percebo que fui completamente enganado pela subnotificação.</summary></entry><entry><title type="html">Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil</title><link href="http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil" rel="alternate" type="text/html" title="Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil" /><published>2020-04-30T00:00:00-03:00</published><updated>2020-04-30T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil</id><content type="html" xml:base="http://localhost:4000/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil">&lt;p&gt;Dia 28 deste mês de abril, o &lt;strong&gt;Imperial College London&lt;/strong&gt; disponibilizou online um relatório com previsões de mortalidade por COVID-19 para a próxima semana&lt;sup id=&quot;fnref:imp&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:imp&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;O relatório está repercutindo bastante já que o Brasil de certa forma se destacou. Muito está se comentando sobre a previsão de 5.000 novos mortos na próxima semana e também sobre sermos o país com a maior taxa de transmissão.&lt;/p&gt;
 
@@ -285,11 +205,11 @@
 
 &lt;p&gt;Para entender esse estudo, primeiros precisamos saber o que é o índice de reprodução, ou &lt;em&gt;R&lt;/em&gt;. Vou aproveitar essa postagem pra detalhar dois conceitos importantes da epidemiologia de doenças infeciosas:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;O número básico de reprodução&lt;/strong&gt; (&lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt;) é o número esperado de novas pessoas infectadas a partir de um único indivíduo infectado, durante todo o seu período contagioso, quando introduzido numa população totalmente suscetível.&lt;sup id=&quot;fnref:Held&quot;&gt;&lt;a href=&quot;#fn:Held&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Simplificando um pouco: significa pra quantas pessoas, em média, um infectado vai transmitir a doença.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O número básico de reprodução&lt;/strong&gt; (&lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt;) é o número esperado de novas pessoas infectadas a partir de um único indivíduo infectado, durante todo o seu período contagioso, quando introduzido numa população totalmente suscetível.&lt;sup id=&quot;fnref:Held&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Held&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Simplificando um pouco: significa pra quantas pessoas, em média, um infectado vai transmitir a doença.&lt;/p&gt;
 
-&lt;p&gt;Por definição, a população não pode ter imunidade ao agente e nem receber medidas protetivas como vacinas ou distanciamento social. Ou seja, &lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt; é a taxa de contágio numa situação natural, sem que hajam intervenções. Para o Novo coronavirus (SARS-CoV-2), o &lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt; está sendo estimado entre 1,4 e 3,9.&lt;sup id=&quot;fnref:Riou&quot;&gt;&lt;a href=&quot;#fn:Riou&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Por definição, a população não pode ter imunidade ao agente e nem receber medidas protetivas como vacinas ou distanciamento social. Ou seja, &lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt; é a taxa de contágio numa situação natural, sem que hajam intervenções. Para o Novo coronavirus (SARS-CoV-2), o &lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt; está sendo estimado entre 1,4 e 3,9.&lt;sup id=&quot;fnref:Riou&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Riou&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;O número efetivo de reprodução&lt;/strong&gt; (&lt;em&gt;R&lt;sub&gt;e&lt;/sub&gt;&lt;/em&gt;) segue o mesmo princípio do &lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt;, só que desta vez levando em conta as medidas de intervenção.&lt;sup id=&quot;fnref:Held:1&quot;&gt;&lt;a href=&quot;#fn:Held&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Ou seja, o &lt;em&gt;R&lt;sub&gt;e&lt;/sub&gt;&lt;/em&gt; representa a transmissibilidade nas condições atuais de uma população que está tentando conter a doença. Dessa forma, o &lt;em&gt;R&lt;sub&gt;e&lt;/sub&gt;&lt;/em&gt; varia ao longo do tempo e no decorrer de que medidas diferentes forem sendo impostas, como afrouxar ou restringir o distanciamento social.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O número efetivo de reprodução&lt;/strong&gt; (&lt;em&gt;R&lt;sub&gt;e&lt;/sub&gt;&lt;/em&gt;) segue o mesmo princípio do &lt;em&gt;R&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt;, só que desta vez levando em conta as medidas de intervenção.&lt;sup id=&quot;fnref:Held:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Held&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Ou seja, o &lt;em&gt;R&lt;sub&gt;e&lt;/sub&gt;&lt;/em&gt; representa a transmissibilidade nas condições atuais de uma população que está tentando conter a doença. Dessa forma, o &lt;em&gt;R&lt;sub&gt;e&lt;/sub&gt;&lt;/em&gt; varia ao longo do tempo e no decorrer de que medidas diferentes forem sendo impostas, como afrouxar ou restringir o distanciamento social.&lt;/p&gt;
 
 &lt;p&gt;Nesse relatório do Imperial College, eles usaram a notação &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; para simbolizar o índice efetivo de reprodução.&lt;/p&gt;
 
@@ -320,7 +240,7 @@
     &lt;figcaption&gt;Essa é a tabela listando os países por: mortes notificadas na semana passada (1ª coluna), previsão de mortes para a próxima semana (2ª coluna) e o &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; (3ª coluna). Aqui eu ordenei a lista em valores decrescentes de &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt;, ou seja, o Brasil é o país com o maior índice de transmissão dentre os analisados.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;O que me chamou mais atenção foram os números da Suécia, país que &lt;a href=&quot;https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html&quot;&gt;não vem adotando medidas de isolamento social&lt;/a&gt;&lt;sup id=&quot;fnref:CNN&quot;&gt;&lt;a href=&quot;#fn:CNN&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. O &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; de lá está entre os mais baixos, sendo de 1,17. Mas atenção, precisamos ter muita cautela interpretando esses dados. Um &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; baixo na Suécia não significa que eles estão indo bem sem adotar distanciamento social. O número de reprodutividade depende de vários fatores, como clima, planejamento urbano, comportamentos culturais, desigualdade social e muitos e muitos outros.&lt;/p&gt;
+&lt;p&gt;O que me chamou mais atenção foram os números da Suécia, país que &lt;a href=&quot;https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html&quot;&gt;não vem adotando medidas de isolamento social&lt;/a&gt;&lt;sup id=&quot;fnref:CNN&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:CNN&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. O &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; de lá está entre os mais baixos, sendo de 1,17. Mas atenção, precisamos ter muita cautela interpretando esses dados. Um &lt;em&gt;R&lt;sub&gt;t&lt;/sub&gt;&lt;/em&gt; baixo na Suécia não significa que eles estão indo bem sem adotar distanciamento social. O número de reprodutividade depende de vários fatores, como clima, planejamento urbano, comportamentos culturais, desigualdade social e muitos e muitos outros.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&quot;/assets/2020/medicina/covid19/sweden.jpeg&quot; alt=&quot;Tabela 2&quot; /&gt;
@@ -342,7 +262,7 @@
     &lt;figcaption&gt;Essa é a tabela, porém desta vez eu ordenei em valores decrescentes de mortes na semana passada. Tentei ordenar pelos valores de mortes previstas mas a tabela não estava permitindo isso, infelizmente (um pequeno &lt;em&gt;bug&lt;/em&gt;).&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Esse relatório sai num momento em que &lt;a href=&quot;https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/&quot;&gt;alguns estados, como São Paulo, já estavam cogitando flexibilizar o distanciamento social&lt;/a&gt;&lt;sup id=&quot;fnref:estados&quot;&gt;&lt;a href=&quot;#fn:estados&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Mas, pelo que parece, estão voltando atrás.&lt;/p&gt;
+&lt;p&gt;Esse relatório sai num momento em que &lt;a href=&quot;https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/&quot;&gt;alguns estados, como São Paulo, já estavam cogitando flexibilizar o distanciamento social&lt;/a&gt;&lt;sup id=&quot;fnref:estados&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:estados&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Mas, pelo que parece, estão voltando atrás.&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
 
@@ -358,25 +278,25 @@
 
 &lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:imp&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Short-term forecasts of COVID-19 deaths in multiple countries&lt;/strong&gt;. MRC Centre for Global Infectious Disease Analysis. Imperial College London. Publicado em 28 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: &lt;a href=&quot;https://mrc-ide.github.io/covid19-short-term-forecasts/index.html&quot;&gt;https://mrc-ide.github.io/covid19-short-term-forecasts/index.html&lt;/a&gt;. &lt;a href=&quot;#fnref:imp&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:imp&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Short-term forecasts of COVID-19 deaths in multiple countries&lt;/strong&gt;. MRC Centre for Global Infectious Disease Analysis. Imperial College London. Publicado em 28 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: &lt;a href=&quot;https://mrc-ide.github.io/covid19-short-term-forecasts/index.html&quot;&gt;https://mrc-ide.github.io/covid19-short-term-forecasts/index.html&lt;/a&gt;. &lt;a href=&quot;#fnref:imp&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:Held&quot;&gt;
-      &lt;p&gt;Held, Leonhard; Hens, Niel; O’Neill, Philip D.; Wallinga, Jacco (November 7, 2019). &lt;strong&gt;Handbook of Infectious Disease Data Analysis&lt;/strong&gt;. CRC Press. p. 347. ISBN 978-1-351-83932-7. Disponível em: &lt;a href=&quot;https://books.google.com/?id=cXC9DwAAQBAJ&amp;amp;pg=PA347&quot;&gt;https://books.google.com/?id=cXC9DwAAQBAJ&amp;amp;pg=PA347&lt;/a&gt;. &lt;a href=&quot;#fnref:Held&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Held:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:Held&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Held, Leonhard; Hens, Niel; O’Neill, Philip D.; Wallinga, Jacco (November 7, 2019). &lt;strong&gt;Handbook of Infectious Disease Data Analysis&lt;/strong&gt;. CRC Press. p. 347. ISBN 978-1-351-83932-7. Disponível em: &lt;a href=&quot;https://books.google.com/?id=cXC9DwAAQBAJ&amp;amp;pg=PA347&quot;&gt;https://books.google.com/?id=cXC9DwAAQBAJ&amp;amp;pg=PA347&lt;/a&gt;. &lt;a href=&quot;#fnref:Held&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Held:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:Riou&quot;&gt;
-      &lt;p&gt;Riou J, Althaus CL (janeiro de 2020). &lt;strong&gt;Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020&lt;/strong&gt;. Euro Surveillance. 25 (4). PMC 7001239Acessível livremente. PMID 32019669. doi:&lt;a href=&quot;https://doi.org/10.2807/1560-7917.ES.2020.25.4.2000058&quot;&gt;10.2807/1560-7917.ES.2020.25.4.2000058&lt;/a&gt;. &lt;a href=&quot;#fnref:Riou&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:Riou&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Riou J, Althaus CL (janeiro de 2020). &lt;strong&gt;Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020&lt;/strong&gt;. Euro Surveillance. 25 (4). PMC 7001239Acessível livremente. PMID 32019669. doi:&lt;a href=&quot;https://doi.org/10.2807/1560-7917.ES.2020.25.4.2000058&quot;&gt;10.2807/1560-7917.ES.2020.25.4.2000058&lt;/a&gt;. &lt;a href=&quot;#fnref:Riou&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:CNN&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Sweden challenges Trump – and scientific mainstream – by refusing to lock down&lt;/strong&gt;. CNN. Publicado em 10 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: &lt;a href=&quot;https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html&quot;&gt;https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html&lt;/a&gt;. &lt;a href=&quot;#fnref:CNN&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:CNN&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Sweden challenges Trump – and scientific mainstream – by refusing to lock down&lt;/strong&gt;. CNN. Publicado em 10 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: &lt;a href=&quot;https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html&quot;&gt;https://edition.cnn.com/2020/04/10/europe/sweden-lockdown-turmp-intl/index.html&lt;/a&gt;. &lt;a href=&quot;#fnref:CNN&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:estados&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Doria irá anunciar redução gradual da quarentena a partir de 11 de maio&lt;/strong&gt;. Veja. Publicado em 20 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: &lt;a href=&quot;https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/&quot;&gt;https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/&lt;/a&gt;. &lt;a href=&quot;#fnref:estados&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:estados&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Doria irá anunciar redução gradual da quarentena a partir de 11 de maio&lt;/strong&gt;. Veja. Publicado em 20 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: &lt;a href=&quot;https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/&quot;&gt;https://veja.abril.com.br/brasil/doria-ira-anunciar-reducao-gradual-da-quarentena-a-partir-de-11-de-maio/&lt;/a&gt;. &lt;a href=&quot;#fnref:estados&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="coronavirus" /><category term="covid-19" /><category term="estatistica" /><category term="epidemiologia" /><summary type="html">Dia 28 deste mês de abril, o Imperial College London disponibilizou online um relatório com previsões de mortalidade por COVID-19 para a próxima semana1. Short-term forecasts of COVID-19 deaths in multiple countries. MRC Centre for Global Infectious Disease Analysis. Imperial College London. Publicado em 28 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: https://mrc-ide.github.io/covid19-short-term-forecasts/index.html. &amp;#8617;</summary></entry><entry><title type="html">A falácia ecológica e o estudo correlacionando a vacina do BCG com proteção à COVID-19</title><link href="http://localhost:4000/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19.md" rel="alternate" type="text/html" title="A falácia ecológica e o estudo correlacionando a vacina do BCG com proteção à COVID-19" /><published>2020-04-29T00:00:00-03:00</published><updated>2020-04-29T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19.md</id><content type="html" xml:base="http://localhost:4000/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19.md">&lt;p&gt;Essa semana encontrei um &lt;a href=&quot;https://doi.org/10.1101/2020.03.24.20042937&quot;&gt;manuscrito de um estudo&lt;/a&gt;&lt;sup id=&quot;fnref:Miller2020&quot;&gt;&lt;a href=&quot;#fn:Miller2020&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; que me chamou muita atenção. Era um &lt;em&gt;preprint&lt;/em&gt; avaliando a possível correlação entre a vacinação mundial do BCG e as taxas de mortalidade por COVID-19 pelo mundo.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="COVID-19" /><category term="MBE" /><category term="Notícias" /><summary type="html">Dia 28 deste mês de abril, o Imperial College London disponibilizou online um relatório com previsões de mortalidade por COVID-19 para a próxima semana1. Short-term forecasts of COVID-19 deaths in multiple countries. MRC Centre for Global Infectious Disease Analysis. Imperial College London. Publicado em 28 de Abril de 2020. Acessado em 30 de Abril de 2020. Disponível em: https://mrc-ide.github.io/covid19-short-term-forecasts/index.html. &amp;#8617;</summary></entry><entry><title type="html">A falácia ecológica e o estudo correlacionando a vacina do BCG com proteção à COVID-19</title><link href="http://localhost:4000/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19" rel="alternate" type="text/html" title="A falácia ecológica e o estudo correlacionando a vacina do BCG com proteção à COVID-19" /><published>2020-04-29T00:00:00-03:00</published><updated>2020-04-29T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19.md</id><content type="html" xml:base="http://localhost:4000/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19">&lt;p&gt;Essa semana encontrei um &lt;a href=&quot;https://doi.org/10.1101/2020.03.24.20042937&quot;&gt;manuscrito de um estudo&lt;/a&gt;&lt;sup id=&quot;fnref:Miller2020&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Miller2020&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; que me chamou muita atenção. Era um &lt;em&gt;preprint&lt;/em&gt; avaliando a possível correlação entre a vacinação mundial do BCG e as taxas de mortalidade por COVID-19 pelo mundo.&lt;/p&gt;
 
 &lt;p&gt;Como, até o momento, não existe nenhuma vacina capaz de proteger contra o SARS-CoV-2 (o novo coronavirus), os autores do artigo levantaram a hipótese de que a vacina do BCG possa conferir algum nível de imunidade também para este vírus.&lt;/p&gt;
 
@@ -384,7 +304,7 @@
 
 &lt;h2 id=&quot;a-vacina-do-bcg&quot;&gt;A vacina do BCG&lt;/h2&gt;
 
-&lt;p&gt;A vacina de BCG (&lt;em&gt;bacilo Calmette–Guérin&lt;/em&gt;) confere proteção imunológica contra doenças causadas por micobactérias, como a tuberculose e também a hanseníase.&lt;sup id=&quot;fnref:Barreto2006&quot;&gt;&lt;a href=&quot;#fn:Barreto2006&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;A vacina de BCG (&lt;em&gt;bacilo Calmette–Guérin&lt;/em&gt;) confere proteção imunológica contra doenças causadas por micobactérias, como a tuberculose e também a hanseníase.&lt;sup id=&quot;fnref:Barreto2006&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Barreto2006&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Em países onde essas doenças são muito frequentes, toda a população costuma ser vacinada. Já nos países em que a incidência dessas doenças é muito baixa, a vacinação em massa da população não é mais aplicada. Nestes, apenas os grupos de risco recebem as doses.&lt;/p&gt;
 
@@ -392,9 +312,9 @@
 
 &lt;h2 id=&quot;a-correlação-encontrada-no-estudo&quot;&gt;A correlação encontrada no estudo&lt;/h2&gt;
 
-&lt;p&gt;Esse é um estudo ecológico, pois avalia indicadores de grandes grupos populacionais na busca por correlações.&lt;sup id=&quot;fnref:livro-mbe&quot;&gt;&lt;a href=&quot;#fn:livro-mbe&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Esse é um estudo ecológico, pois avalia indicadores de grandes grupos populacionais na busca por correlações.&lt;sup id=&quot;fnref:livro-mbe&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:livro-mbe&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;O estudo em questão se baseou no &lt;a href=&quot;http://www.bcgatlas.org/&quot;&gt;Atlas Mundial do BCG&lt;/a&gt;&lt;sup id=&quot;fnref:atlas&quot;&gt;&lt;a href=&quot;#fn:atlas&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; para avaliar quais países possuem campanhas de vacinação pelo BCG. Associado a isso, o estudo extraiu os dados mortalidade e número de casos do COVID-19, até 21 de março de 2020, na &lt;a href=&quot;https://google.org/crisisresponse/covid19-map&quot;&gt;plataforma de monitoramento do Google&lt;/a&gt;.&lt;sup id=&quot;fnref:google&quot;&gt;&lt;a href=&quot;#fn:google&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;O estudo em questão se baseou no &lt;a href=&quot;http://www.bcgatlas.org/&quot;&gt;Atlas Mundial do BCG&lt;/a&gt;&lt;sup id=&quot;fnref:atlas&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:atlas&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; para avaliar quais países possuem campanhas de vacinação pelo BCG. Associado a isso, o estudo extraiu os dados mortalidade e número de casos do COVID-19, até 21 de março de 2020, na &lt;a href=&quot;https://google.org/crisisresponse/covid19-map&quot;&gt;plataforma de monitoramento do Google&lt;/a&gt;.&lt;sup id=&quot;fnref:google&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:google&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;A conclusão foi de que os países de renda média e alta que não aplicam o BCG eram também os países com as maiores mortalidades por COVID-19.&lt;/p&gt;
 
@@ -402,19 +322,19 @@
 
 &lt;h2 id=&quot;a-falácia-ecológica&quot;&gt;A falácia ecológica&lt;/h2&gt;
 
-&lt;p&gt;A falácia ecológica ocorre quando tentamos fazer uma inferência causal individual a partir de um estudo de grupo.&lt;sup id=&quot;fnref:livro-mbe:1&quot;&gt;&lt;a href=&quot;#fn:livro-mbe&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;A falácia ecológica ocorre quando tentamos fazer uma inferência causal individual a partir de um estudo de grupo.&lt;sup id=&quot;fnref:livro-mbe:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:livro-mbe&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;O problema desse estudo é exatamente esse. Ele utiliza indicadores de níveis nacionais (números de casos por COVID e taxa de cobertura vacinal) para fazer uma conclusão a nível individual, a de que o BCG protege contra a COVID-19.&lt;/p&gt;
 
-&lt;p&gt;A falácia ecológica é nada mais nada menos que uma das várias aplicações da máxima &lt;strong&gt;&lt;em&gt;correlação não é causa&lt;/em&gt;&lt;/strong&gt;. O fato de países com vacinação para BCG terem menor mortalidade para a COVID-19 não nos fornece um bom nível de evidência de que a BCG de fato ofereça imunidade para essa doença. Isso, pois, vários outros fatores podem explicar essa correlação, as chamadas &lt;a href=&quot;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&quot;&gt;variáveis de confusão&lt;/a&gt;.&lt;sup id=&quot;fnref:wiki&quot;&gt;&lt;a href=&quot;#fn:wiki&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;A falácia ecológica é nada mais nada menos que uma das várias aplicações da máxima &lt;strong&gt;&lt;em&gt;correlação não é causa&lt;/em&gt;&lt;/strong&gt;. O fato de países com vacinação para BCG terem menor mortalidade para a COVID-19 não nos fornece um bom nível de evidência de que a BCG de fato ofereça imunidade para essa doença. Isso, pois, vários outros fatores podem explicar essa correlação, as chamadas &lt;a href=&quot;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&quot;&gt;variáveis de confusão&lt;/a&gt;.&lt;sup id=&quot;fnref:wiki&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:wiki&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Como coloca Emily MacLean em seu texto no blog da Nature:&lt;sup id=&quot;fnref:Emily&quot;&gt;&lt;a href=&quot;#fn:Emily&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Como coloca Emily MacLean em seu texto no blog da Nature:&lt;sup id=&quot;fnref:Emily&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Emily&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“O que pode valer no nível agregado não será necessariamente verdadeiro quando a heterogeneidade dos indivíduos for considerada. Neste estudo, evidências de baixa qualidade observadas no nível da população são usadas para fazer inferências abrangentes sobre a eficácia do BCG em um nível individual.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Sabemos que a tuberculose e a hanseníase são doenças muito relacionadas à pobreza e à desigualdade social.&lt;sup id=&quot;fnref:Barreto2006:1&quot;&gt;&lt;a href=&quot;#fn:Barreto2006&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Esses são fatores confundidores em grandes estudos populacionais e podem nos levar a conclusões equivocadas.&lt;/p&gt;
+&lt;p&gt;Sabemos que a tuberculose e a hanseníase são doenças muito relacionadas à pobreza e à desigualdade social.&lt;sup id=&quot;fnref:Barreto2006:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Barreto2006&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Esses são fatores confundidores em grandes estudos populacionais e podem nos levar a conclusões equivocadas.&lt;/p&gt;
 
 &lt;p&gt;Outro fator de confusão muito importante é que o estudo não leva em conta a distribuição etária das populações. Como a COVID-19 é mais grave em pacientes idosos, esperá-se uma maior mortalidade em países com maior proporção de indivíduos nessa faixa etária.&lt;/p&gt;
 
@@ -440,116 +360,35 @@
 
 &lt;p&gt;De qualquer forma, o estudo já está bastante desatualizado desde o dia 21 de março. Pode ser que, se refeito agora, nem haja mais uma correlação. Aqui no Brasil, os novos casos não param de crescer e ontem já passamos a China. Quando o estudo foi realizado ainda estávamos no início da curva.&lt;/p&gt;
 
-&lt;p&gt;Além dessas observações que eu explorei, o texto de Emily MacLean&lt;sup id=&quot;fnref:Emily:1&quot;&gt;&lt;a href=&quot;#fn:Emily&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; na Nature aborda mais críticas sobre outros elementos do estudo em questão. Vale a pena conferir o artigo dela.&lt;/p&gt;
+&lt;p&gt;Além dessas observações que eu explorei, o texto de Emily MacLean&lt;sup id=&quot;fnref:Emily:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Emily&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; na Nature aborda mais críticas sobre outros elementos do estudo em questão. Vale a pena conferir o artigo dela.&lt;/p&gt;
 
 &lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:Miller2020&quot;&gt;
-      &lt;p&gt;Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. &lt;strong&gt;Correlation between Universal BCG Vaccination Policy and Reduced Morbidity and Mortality for COVID-19: An Epidemiological Study.&lt;/strong&gt; Epidemiology; 2020. doi:&lt;a href=&quot;https://doi.org/10.1101/2020.03.24.20042937&quot;&gt;10.1101/2020.03.24.20042937&lt;/a&gt; &lt;a href=&quot;#fnref:Miller2020&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:Miller2020&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. &lt;strong&gt;Correlation between Universal BCG Vaccination Policy and Reduced Morbidity and Mortality for COVID-19: An Epidemiological Study.&lt;/strong&gt; Epidemiology; 2020. doi:&lt;a href=&quot;https://doi.org/10.1101/2020.03.24.20042937&quot;&gt;10.1101/2020.03.24.20042937&lt;/a&gt; &lt;a href=&quot;#fnref:Miller2020&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:Barreto2006&quot;&gt;
-      &lt;p&gt;Barreto ML, Pereira SM, Ferreira AA. &lt;strong&gt;Vacina BCG: eficácia e indicações da vacinação e da revacinação&lt;/strong&gt;. J Pediatr (Rio J). 2006;82(3). doi:&lt;a href=&quot;https://doi.org/10.1590/S0021-75572006000400006&quot;&gt;10.1590/S0021-75572006000400006&lt;/a&gt;. &lt;a href=&quot;#fnref:Barreto2006&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Barreto2006:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:Barreto2006&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Barreto ML, Pereira SM, Ferreira AA. &lt;strong&gt;Vacina BCG: eficácia e indicações da vacinação e da revacinação&lt;/strong&gt;. J Pediatr (Rio J). 2006;82(3). doi:&lt;a href=&quot;https://doi.org/10.1590/S0021-75572006000400006&quot;&gt;10.1590/S0021-75572006000400006&lt;/a&gt;. &lt;a href=&quot;#fnref:Barreto2006&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Barreto2006:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:livro-mbe&quot;&gt;
-      &lt;p&gt;Bedaque HP, Bezerra ELM. &lt;strong&gt;Descomplicando MBE: uma abordagem prática da medicina baseada em evidências&lt;/strong&gt;. PET medicina UFRN. Editora Caule de Papiro. Natal, 2018. ISBN 978-85-92622-37-4. &lt;a href=&quot;#fnref:livro-mbe&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:livro-mbe:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:livro-mbe&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Bedaque HP, Bezerra ELM. &lt;strong&gt;Descomplicando MBE: uma abordagem prática da medicina baseada em evidências&lt;/strong&gt;. PET medicina UFRN. Editora Caule de Papiro. Natal, 2018. ISBN 978-85-92622-37-4. &lt;a href=&quot;#fnref:livro-mbe&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:livro-mbe:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:atlas&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;BCG World Atlas&lt;/strong&gt;. Disponível em: &lt;a href=&quot;http://www.bcgatlas.org/&quot;&gt;http://www.bcgatlas.org/&lt;/a&gt;. &lt;a href=&quot;#fnref:atlas&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:atlas&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;BCG World Atlas&lt;/strong&gt;. Disponível em: &lt;a href=&quot;http://www.bcgatlas.org/&quot;&gt;http://www.bcgatlas.org/&lt;/a&gt;. &lt;a href=&quot;#fnref:atlas&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:google&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Plataforma de monitoramento do Google para a COVID-19&lt;/strong&gt;. Disponível em: &lt;a href=&quot;https://google.org/crisisresponse/covid19-map&quot;&gt;https://google.org/crisisresponse/covid19-map&lt;/a&gt;. &lt;a href=&quot;#fnref:google&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:google&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Plataforma de monitoramento do Google para a COVID-19&lt;/strong&gt;. Disponível em: &lt;a href=&quot;https://google.org/crisisresponse/covid19-map&quot;&gt;https://google.org/crisisresponse/covid19-map&lt;/a&gt;. &lt;a href=&quot;#fnref:google&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:wiki&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Variável de confusão&lt;/strong&gt;. Wikipédia. Acessado em 29 de Abril de 2020. Disponível em: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&quot;&gt;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&lt;/a&gt;. &lt;a href=&quot;#fnref:wiki&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:wiki&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Variável de confusão&lt;/strong&gt;. Wikipédia. Acessado em 29 de Abril de 2020. Disponível em: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&quot;&gt;https://pt.wikipedia.org/wiki/Vari%C3%A1vel_de_confus%C3%A3o&lt;/a&gt;. &lt;a href=&quot;#fnref:wiki&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:Emily&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Universal BCG vaccination and protection against COVID-19: critique of an ecological study&lt;/strong&gt;. Nature Microbiology Community. Acessado em 19 de Abril de 2020. Disponível em: &lt;a href=&quot;https://naturemicrobiologycommunity.nature.com/users/36050-emily-maclean/posts/64892-universal-bcg-vaccination-and-protection-against-covid-19-critique-of-an-ecological-study&quot;&gt;https://naturemicrobiologycommunity.nature.com/users/36050-emily-maclean/posts/64892-universal-bcg-vaccination-and-protection-against-covid-19-critique-of-an-ecological-study&lt;/a&gt;. &lt;a href=&quot;#fnref:Emily&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Emily:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:Emily&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Universal BCG vaccination and protection against COVID-19: critique of an ecological study&lt;/strong&gt;. Nature Microbiology Community. Acessado em 19 de Abril de 2020. Disponível em: &lt;a href=&quot;https://naturemicrobiologycommunity.nature.com/users/36050-emily-maclean/posts/64892-universal-bcg-vaccination-and-protection-against-covid-19-critique-of-an-ecological-study&quot;&gt;https://naturemicrobiologycommunity.nature.com/users/36050-emily-maclean/posts/64892-universal-bcg-vaccination-and-protection-against-covid-19-critique-of-an-ecological-study&lt;/a&gt;. &lt;a href=&quot;#fnref:Emily&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Emily:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="covid-19" /><category term="coronavirus" /><category term="vacinas" /><category term="mbe" /><summary type="html">Essa semana encontrei um manuscrito de um estudo1 que me chamou muita atenção. Era um preprint avaliando a possível correlação entre a vacinação mundial do BCG e as taxas de mortalidade por COVID-19 pelo mundo. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between Universal BCG Vaccination Policy and Reduced Morbidity and Mortality for COVID-19: An Epidemiological Study. Epidemiology; 2020. doi:10.1101/2020.03.24.20042937 &amp;#8617;</summary></entry><entry><title type="html">Aprendendo piano sozinho: o começo de uma jornada</title><link href="http://localhost:4000/2020/musica/aprendendo-piano-sozinho" rel="alternate" type="text/html" title="Aprendendo piano sozinho: o começo de uma jornada" /><published>2020-04-25T00:00:00-03:00</published><updated>2020-04-25T00:00:00-03:00</updated><id>http://localhost:4000/2020/musica/aprendendo-piano-sozinho</id><content type="html" xml:base="http://localhost:4000/2020/musica/aprendendo-piano-sozinho">&lt;p&gt;Há muito tempo que quero aprender a tocar piano. Apesar de já ter conseguido comprar um piano digital, ainda não mergulhei de cabeça na dedicação de aprender a tocar o instrumento. Mas isso vai mudar a partir de agora. Durante essa quarentena resolvi finalmente adotar uma rotina de práticas e sair da zona de conforto.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/casio-cdp-120.jpg&quot; /&gt;
-    &lt;figcaption&gt;Meu Piano Digital Casio CDP-120&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;como-eu-vinha-praticando&quot;&gt;Como eu vinha praticando&lt;/h2&gt;
-
-&lt;p&gt;Um empecilho é que eu não quero ter aulas com um professor particular. Minha vontade mesmo é de tentar aprender sozinho. E eu estava fazendo isso, porém sem um real compromisso diário e sem seguir nenhuma metodologia. Eu apenas estava procurando partituras de músicas legais, aparentemente não muito difíceis, e sentando pra praticar até conseguir tocar, mesmo que isso levasse semanas.&lt;/p&gt;
-
-&lt;p&gt;Nesse método &lt;em&gt;“vida louca”&lt;/em&gt; consegui tocar o tema de &lt;em&gt;Game of Thrones&lt;/em&gt;, &lt;em&gt;Fur Elise&lt;/em&gt; e o hino da União soviética (claro que não perfeitamente, mas já estava minimamente escutável).&lt;/p&gt;
-
-&lt;p&gt;Mas essas três músicas me levaram meses pra aprender. E nesse tempo todo praticando eu não senti nenhum grande avanço técnico no piano. Sinto que não avancei nada na arte de ler partituras.&lt;/p&gt;
-
-&lt;p&gt;O que estava acontecendo: com muita dificuldade, contando as linhas e identificando nota por nota, eu lia a partitura e ficava tocando até memorizár todas as teclas e os tempos. Feito esse esforço, a partitura já não era mais necessária, pois eu estava tocando de cabeça. Com esse costume, eu simplesmente não estava aprendendo a ler partituras, mas sim a memorizar as posições das notas e aprendendo a tocar de tanto repetir.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/dua-lipa.jpeg&quot; /&gt;
-    &lt;figcaption&gt;Exemplo de música que eu estava tentando aprender a tocar&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Com o tempo fui me cansando. Pois aprender essas músicas estava me desgastando demais e eu não sentia tanta recompensa. A verdade é que eu passava tanto tempo praticando a música pra tocar que, quando eu finalmente conseguia, já tinha enjoado e não aguentava mais ouvir. Eu claramente estava praticando peças muito acima do meu nível técnico.&lt;/p&gt;
-
-&lt;h2 id=&quot;o-método-que-vou-começar-a-seguir&quot;&gt;O método que vou começar a seguir&lt;/h2&gt;
-
-&lt;p&gt;Procurando por partituras de nível mais iniciante, acabei encontrando artigos sobre os chamados &lt;em&gt;Method books&lt;/em&gt; ou livros de métodos. Como &lt;a href=&quot;https://www.pianotv.net/2019/01/alfreds-basic-adult-piano-course-method-guide-review/&quot;&gt;uma postagem e vídeo do Canal PianoTV&lt;/a&gt; da Allysia Van Betuw&lt;sup id=&quot;fnref:pianotv&quot;&gt;&lt;a href=&quot;#fn:pianotv&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;São livros que ensinam teoria e técnica de uma forma didática e progressiva, seguindo uma metodologia de aprendizado. Eles também contêm muitos exercícios, o que é fundamental para ir desenvolvendo uma boa técnica.&lt;/p&gt;
-
-&lt;p&gt;Agora, com esse material, decidi que vou adotar uma rotina diária de estudo no piano. Não vou mais ficar me esforçando demais para tocar músicas muito difíceis. Estou me contentando, e me divertindo bastante, em tocar músicas infantis como &lt;em&gt;Jingle Bells&lt;/em&gt;.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/jingle-bells.jpeg&quot; /&gt;
-    &lt;figcaption&gt;Músicas que agora estou praticando.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Inclusive, quando peguei essa partitura de &lt;em&gt;Jingle Bells&lt;/em&gt; e tentei tocar pela primeira vez, me assustei. Isso pois consegui tocar já na primeira leitura da partitura. Eu estava tocando ao mesmo tempo em que lia as notas. Pode parecer besteira mas esse foi um momento mágico para mim. Pela primeira vez eu toquei algo sem ficar me preocupando em decorar as teclas, apenas lendo as notas ao mesmo tempo em que as tocava.&lt;/p&gt;
-
-&lt;p&gt;Depois de meses me dedicando a aprender poucas músicas difíceis, finalmente percebi que consigo evoluir e avançar muito mais tocando várias pequenas músicas fáceis.&lt;/p&gt;
-
-&lt;p&gt;Utilizando a metáfora de que nosso cérebro é um banco de dados, se eu aprender várias pequenas partituras simples, cada nova peça aprendida e bem executada é um padrão de partitura memorizado. Quantos mais padrões eu vou acumulando, mais eu começo a de fato aprender a ler partituras. Com o tempo vai ficando cada vez mais intuitivo ler as partituras pois eu vou pensando “olha, esse trecho me lembra outra música que já toquei”.&lt;/p&gt;
-
-&lt;p&gt;É por isso que aprender várias pequenas peças fáceis compensa muito mais do que levar semanas pra apender uma peça difícil. E quando eu já tiver uma boa bagagem, vou chegar nessas peças difíceis e o aprendizado vai ser bem mais natural.&lt;/p&gt;
-
-&lt;h2 id=&quot;livros-que-estou-usando-para-estudar&quot;&gt;Livros que estou usando para estudar&lt;/h2&gt;
-
-&lt;p&gt;Consegui os três livros do &lt;em&gt;Alfred’s Piano Adult Course&lt;/em&gt; e estou guiando meus estudos por eles.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/alfred.jpeg&quot; /&gt;
-    &lt;figcaption&gt;Os três livros do &lt;em&gt;Alfred's Basic Adult Piano Course&lt;/em&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Também consegui muitos outros livros de piano, mas a medida que eu for usando eles, vou descrevendo aqui no blog. Um deles é o livro de teoria musical &lt;em&gt;Alfred’s essentials of music theory&lt;/em&gt;, que vou começar a ler também.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/musica/alfred-music-theory.jpg&quot; /&gt;
-    &lt;figcaption&gt;Livro de teoria musical da mesma coleção do Alfred.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;começando-a-jornada&quot;&gt;Começando a jornada&lt;/h2&gt;
-
-&lt;p&gt;Comecei ontem a estudar o primeiro livro, numa sessão de 2 horas praticando. Para me motivar ainda mais nessa caminhada, vou começar a escrever aqui no blog sobre meus avanços e meus repertórios.&lt;/p&gt;
-
-&lt;p&gt;Como estou com dificuldade de encontrar bons materiais e boa dicas, vou ficar sempre compartilhando tudo aqui, na intenção de que quem desejar pode tentar seguir os mesmos passos que eu pra aprender piano sozinho.&lt;/p&gt;
-
-&lt;p&gt;Todos os livros e materiais que eu for usando vou sempre detalhar aqui. Assim como cada música nova que eu for estudando. Deixar tudo documentado é uma forma de eu conseguir avaliar meu progresso e me motivar a continuar nesse caminho.&lt;/p&gt;
-
-&lt;p&gt;No momento minha rotina está sendo tocar praticar duas horas por dia, me baseando no primeiro livro da série &lt;em&gt;Alfred’s basic piano adult course&lt;/em&gt;. Semanalmente vou registrar aqui meus avanços e tudo que eu tiver utilizando para praticar.&lt;/p&gt;
-
-&lt;p&gt;E você, tem alguma dica, algum material ou algum comentário sobre piano? Me conta. Queria muito que mais pessoas fizessem blogs sobre suas jornadas aprendendo a tocar, assim como estou começando a fazer. Ler sobre a rotina de outras pessoas também é uma forma de imersão nesse mundo da música e de incentivo para continuar praticando.&lt;/p&gt;
-
-&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:pianotv&quot;&gt;
-      &lt;p&gt;Alfred’s Basic Adult Piano Course [Method Guide + Review]. Blog PianoTV. Publicado em 15 Jan 2019. Acessado em 27 Abr 2020. Disponível em: &lt;a href=&quot;https://www.pianotv.net/2019/01/alfreds-basic-adult-piano-course-method-guide-review/&quot;&gt;https://www.pianotv.net/2019/01/alfreds-basic-adult-piano-course-method-guide-review/&lt;/a&gt;. &lt;a href=&quot;#fnref:pianotv&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="musica" /><category term="piano" /><category term="DIY" /><category term="diario" /><category term="metas" /><summary type="html">Há muito tempo que quero aprender a tocar piano. Apesar de já ter conseguido comprar um piano digital, ainda não mergulhei de cabeça na dedicação de aprender a tocar o instrumento. Mas isso vai mudar a partir de agora. Durante essa quarentena resolvi finalmente adotar uma rotina de práticas e sair da zona de conforto.</summary></entry><entry><title type="html">O estudo que projetou distanciamento social até 2022 por causa da COVID-19</title><link href="http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19" rel="alternate" type="text/html" title="O estudo que projetou distanciamento social até 2022 por causa da COVID-19" /><published>2020-04-16T00:00:00-03:00</published><updated>2020-04-16T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19</id><content type="html" xml:base="http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19">&lt;p&gt;Essa semana, dia 14 de Abril, foi publicado um &lt;a href=&quot;https://science.sciencemag.org/content/early/2020/04/14/science.abb5793&quot;&gt;estudo na revista &lt;em&gt;Science&lt;/em&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:Kissler2020&quot;&gt;&lt;a href=&quot;#fn:Kissler2020&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxado por alguns como “alarmista demais”.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="COVID-19" /><category term="MBE" /><summary type="html">Essa semana encontrei um manuscrito de um estudo1 que me chamou muita atenção. Era um preprint avaliando a possível correlação entre a vacinação mundial do BCG e as taxas de mortalidade por COVID-19 pelo mundo. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation between Universal BCG Vaccination Policy and Reduced Morbidity and Mortality for COVID-19: An Epidemiological Study. Epidemiology; 2020. doi:10.1101/2020.03.24.20042937 &amp;#8617;</summary></entry><entry><title type="html">O estudo que projetou distanciamento social até 2022 por causa da COVID-19</title><link href="http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19" rel="alternate" type="text/html" title="O estudo que projetou distanciamento social até 2022 por causa da COVID-19" /><published>2020-04-16T00:00:00-03:00</published><updated>2020-04-16T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19</id><content type="html" xml:base="http://localhost:4000/2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19">&lt;p&gt;Essa semana, dia 14 de Abril, foi publicado um &lt;a href=&quot;https://science.sciencemag.org/content/early/2020/04/14/science.abb5793&quot;&gt;estudo na revista &lt;em&gt;Science&lt;/em&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:Kissler2020&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Kissler2020&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxado por alguns como “alarmista demais”.&lt;/p&gt;
 
 &lt;p&gt;Isso pois em uma das projeções as medidas de distanciamento social (prolongado ou intermitente) podem ser necessárias até o ano de 2022, o que assustou muita gente. Vou explicar isso ao longo do texto.&lt;/p&gt;
 
@@ -615,13 +454,13 @@
 
 &lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:Kissler2020&quot;&gt;
-      &lt;p&gt;Kissler SM, Tedijanto C, Goldstein E, Grad YH, Lipsitch M. &lt;strong&gt;Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period&lt;/strong&gt; [published online ahead of print, 2020 Apr 14]. Science. 2020;eabb5793. doi:&lt;a href=&quot;https://doi.org/10.1126/science.abb5793&quot;&gt;10.1126/science.abb5793&lt;/a&gt;. &lt;a href=&quot;#fnref:Kissler2020&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:Kissler2020&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Kissler SM, Tedijanto C, Goldstein E, Grad YH, Lipsitch M. &lt;strong&gt;Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period&lt;/strong&gt; [published online ahead of print, 2020 Apr 14]. Science. 2020;eabb5793. doi:&lt;a href=&quot;https://doi.org/10.1126/science.abb5793&quot;&gt;10.1126/science.abb5793&lt;/a&gt;. &lt;a href=&quot;#fnref:Kissler2020&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="covid-19" /><category term="coronavirus" /><category term="epidemiologia" /><category term="pandemia" /><summary type="html">Essa semana, dia 14 de Abril, foi publicado um estudo na revista Science1 projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxado por alguns como “alarmista demais”. Kissler SM, Tedijanto C, Goldstein E, Grad YH, Lipsitch M. Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period [published online ahead of print, 2020 Apr 14]. Science. 2020;eabb5793. doi:10.1126/science.abb5793. &amp;#8617;</summary></entry><entry><title type="html">O Brasil idolatrou um estuprador?</title><link href="http://localhost:4000/2020/aleatoriedades/o-brasil-idolatrou-um-estuprador" rel="alternate" type="text/html" title="O Brasil idolatrou um estuprador?" /><published>2020-04-08T00:00:00-03:00</published><updated>2020-04-08T00:00:00-03:00</updated><id>http://localhost:4000/2020/aleatoriedades/o-brasil-idolatrou-um-estuprador</id><content type="html" xml:base="http://localhost:4000/2020/aleatoriedades/o-brasil-idolatrou-um-estuprador">&lt;p&gt;Como fiz uma postagem praticamente idolatrando a participação do ex-BBB Felipe Prior no programa, acredito que tenho a obrigação de me posicionar sobre a &lt;a href=&quot;https://revistamarieclaire.globo.com/Mulheres-do-Mundo/noticia/2020/04/duas-acusacoes-de-estupro-e-uma-de-tentativa-de-estupro-contra-felipe-prior.html&quot;&gt;matéria publicada pela revista Marie Claire&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="COVID-19" /><category term="Notícias" /><category term="MBE" /><summary type="html">Essa semana, dia 14 de Abril, foi publicado um estudo na revista Science1 projetando modelos de transmissão após o surto inicial da pandemia. O artigo repercutiu bastante nos noticiários e nas redes sociais, sendo taxado por alguns como “alarmista demais”. Kissler SM, Tedijanto C, Goldstein E, Grad YH, Lipsitch M. Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period [published online ahead of print, 2020 Apr 14]. Science. 2020;eabb5793. doi:10.1126/science.abb5793. &amp;#8617;</summary></entry><entry><title type="html">O Brasil idolatrou um estuprador?</title><link href="http://localhost:4000/2020/o-brasil-idolatrou-um-estuprador" rel="alternate" type="text/html" title="O Brasil idolatrou um estuprador?" /><published>2020-04-08T00:00:00-03:00</published><updated>2020-04-08T00:00:00-03:00</updated><id>http://localhost:4000/2020/o-brasil-idolatrou-um-estuprador</id><content type="html" xml:base="http://localhost:4000/2020/o-brasil-idolatrou-um-estuprador">&lt;p&gt;Como fiz uma postagem praticamente idolatrando a participação do ex-BBB Felipe Prior no programa, acredito que tenho a obrigação de me posicionar sobre a &lt;a href=&quot;https://revistamarieclaire.globo.com/Mulheres-do-Mundo/noticia/2020/04/duas-acusacoes-de-estupro-e-uma-de-tentativa-de-estupro-contra-felipe-prior.html&quot;&gt;matéria publicada pela revista Marie Claire&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Como todos já devem saber, neste dia 3 de Abril a revista em questão divulgou três acusações de estupro e tentativa de estupro contra Prior. É claro que a matéria repercutiu muito pois a internet ainda estava numa relação de amor e ódio com o ex-participante.&lt;/p&gt;
 
@@ -654,7 +493,7 @@
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;https://revistamarieclaire.globo.com/Mulheres-do-Mundo/noticia/2020/04/duas-acusacoes-de-estupro-e-uma-de-tentativa-de-estupro-contra-felipe-prior.html&quot;&gt;Duas acusações de estupro e uma de tentativa de estupro contra Felipe Prior&lt;/a&gt;. Revista Marie Clarie. Acessado em 08 de Abril de 2020.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://halynemarques.jusbrasil.com.br/artigos/828607591/caso-prior-uma-analise-juridica&quot;&gt;Caso Prior: uma análise jurídica&lt;/a&gt;. Halyne Marques. Acessado em 08 de Abril de 2020.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="aleatoriedades" /><category term="BBB" /><category term="televisão" /><category term="entretenimento" /><category term="politica" /><summary type="html">Como fiz uma postagem praticamente idolatrando a participação do ex-BBB Felipe Prior no programa, acredito que tenho a obrigação de me posicionar sobre a matéria publicada pela revista Marie Claire.</summary></entry><entry><title type="html">O ministro que ousou se basear em ciência</title><link href="http://localhost:4000/2020/medicina/o-ministro-que-ousou-se-basear-em-ciencia" rel="alternate" type="text/html" title="O ministro que ousou se basear em ciência" /><published>2020-04-07T00:00:00-03:00</published><updated>2020-04-07T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/o-ministro-que-ousou-se-basear-em-ciencia</id><content type="html" xml:base="http://localhost:4000/2020/medicina/o-ministro-que-ousou-se-basear-em-ciencia">&lt;p&gt;Recentemente eu venho elogiando bastante o ministro Luiz Henrique Mandetta por sua condução do ministério da saúde. Apesar de poder apenas falar de suas atitudes durante o período da pandemia, pois antes disso eu não o acompanhava de perto.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="Off-Topic" /><summary type="html">Como fiz uma postagem praticamente idolatrando a participação do ex-BBB Felipe Prior no programa, acredito que tenho a obrigação de me posicionar sobre a matéria publicada pela revista Marie Claire.</summary></entry><entry><title type="html">O ministro que ousou se basear em ciência</title><link href="http://localhost:4000/2020/o-ministro-que-ousou-se-basear-em-ciencia" rel="alternate" type="text/html" title="O ministro que ousou se basear em ciência" /><published>2020-04-07T00:00:00-03:00</published><updated>2020-04-07T00:00:00-03:00</updated><id>http://localhost:4000/2020/o-ministro-que-ousou-se-basear-em-ciencia</id><content type="html" xml:base="http://localhost:4000/2020/o-ministro-que-ousou-se-basear-em-ciencia">&lt;p&gt;Recentemente eu venho elogiando bastante o ministro Luiz Henrique Mandetta por sua condução do ministério da saúde. Apesar de poder apenas falar de suas atitudes durante o período da pandemia, pois antes disso eu não o acompanhava de perto.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&quot;/assets/2020/mandetta.jpg&quot; /&gt;
@@ -700,7 +539,7 @@
     &lt;figcaption&gt;Tuíte sinistro de Osmar Terra&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Neste momento está mais do que claro que Jair Bolsonaro (nome e sobrenome) é o maior inimigo do Brasil. Que Deus tenha piedade desta nação.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="coronavirus" /><category term="covid-19" /><category term="politica" /><category term="gestao" /><summary type="html">Recentemente eu venho elogiando bastante o ministro Luiz Henrique Mandetta por sua condução do ministério da saúde. Apesar de poder apenas falar de suas atitudes durante o período da pandemia, pois antes disso eu não o acompanhava de perto.</summary></entry><entry><title type="html">O dia que o Brasil parou para assistir o fim do BBB</title><link href="http://localhost:4000/2020/aleatoriedades/o-dia-que-o-brasil-parou-para-assistir-bbb" rel="alternate" type="text/html" title="O dia que o Brasil parou para assistir o fim do BBB" /><published>2020-04-02T00:00:00-03:00</published><updated>2020-04-02T00:00:00-03:00</updated><id>http://localhost:4000/2020/aleatoriedades/o-dia-que-o-brasil-parou-para-assistir-bbb</id><content type="html" xml:base="http://localhost:4000/2020/aleatoriedades/o-dia-que-o-brasil-parou-para-assistir-bbb">&lt;p&gt;Terça-feira dia 31 de março foi um dia histórico para o entretenimento televisivo brasileiro. Mas, infelizmente, um dia trágico. O “paredão do bilhão”, como ficou conhecido por ter acumulado mais de 1,5 bilhão de votos, enterrou o que estava para ser o melhor &lt;em&gt;Big Brother Brasil&lt;/em&gt; da história.&lt;/p&gt;
+&lt;p&gt;Neste momento está mais do que claro que Jair Bolsonaro (nome e sobrenome) é o maior inimigo do Brasil. Que Deus tenha piedade desta nação.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="Notícias" /><category term="MBE" /><summary type="html">Recentemente eu venho elogiando bastante o ministro Luiz Henrique Mandetta por sua condução do ministério da saúde. Apesar de poder apenas falar de suas atitudes durante o período da pandemia, pois antes disso eu não o acompanhava de perto.</summary></entry><entry><title type="html">O dia que o Brasil parou para assistir o fim do BBB</title><link href="http://localhost:4000/2020/o-dia-que-o-brasil-parou-para-assistir-bbb" rel="alternate" type="text/html" title="O dia que o Brasil parou para assistir o fim do BBB" /><published>2020-04-02T00:00:00-03:00</published><updated>2020-04-02T00:00:00-03:00</updated><id>http://localhost:4000/2020/o-dia-que-o-brasil-parou-para-assistir-bbb</id><content type="html" xml:base="http://localhost:4000/2020/o-dia-que-o-brasil-parou-para-assistir-bbb">&lt;p&gt;Terça-feira dia 31 de março foi um dia histórico para o entretenimento televisivo brasileiro. Mas, infelizmente, um dia trágico. O “paredão do bilhão”, como ficou conhecido por ter acumulado mais de 1,5 bilhão de votos, enterrou o que estava para ser o melhor &lt;em&gt;Big Brother Brasil&lt;/em&gt; da história.&lt;/p&gt;
 
 &lt;p&gt;Vou usar um trecho de um artigo da Folha de São Paulo, entitulado &lt;a href=&quot;https://www1.folha.uol.com.br/colunas/painel/2020/04/jean-wyllys-diz-que-paredao-do-bbb-mostrou-mudanca-de-animo-dos-brasileiros-com-familia-bolsonaro.shtml?utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=twfolha&quot;&gt;&lt;em&gt;“Jean Wyllys diz que paredão do BBB mostrou mudança de ânimo dos brasileiros com família Bolsonaro”&lt;/em&gt;&lt;/a&gt; para descrever como foi esse paredão:&lt;/p&gt;
 
@@ -775,7 +614,7 @@
 
 &lt;p&gt;Sem seu protagonista, o BBB20 acabou precocemente nesta terça-feira, dia 31 de Março de 2020. Que Deus tenha piedade de nós que continuaremos de quarentena mas sem Big Brother Brasil para assistir.&lt;/p&gt;
 
-&lt;p&gt;Continuarei torcendo pelo Babu, mas terei de me esforçar para continuar assistindo um programa tedioso.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="aleatoriedades" /><category term="BBB" /><category term="televisão" /><category term="politica" /><summary type="html">Terça-feira dia 31 de março foi um dia histórico para o entretenimento televisivo brasileiro. Mas, infelizmente, um dia trágico. O “paredão do bilhão”, como ficou conhecido por ter acumulado mais de 1,5 bilhão de votos, enterrou o que estava para ser o melhor Big Brother Brasil da história.</summary></entry><entry><title type="html">Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?</title><link href="http://localhost:4000/2020/medicina/reutilizar-n95" rel="alternate" type="text/html" title="Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?" /><published>2020-03-26T00:00:00-03:00</published><updated>2020-03-26T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/reutilizar-n95</id><content type="html" xml:base="http://localhost:4000/2020/medicina/reutilizar-n95">&lt;p&gt;Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.&lt;/p&gt;
+&lt;p&gt;Continuarei torcendo pelo Babu, mas terei de me esforçar para continuar assistindo um programa tedioso.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="Off-Topic" /><summary type="html">Terça-feira dia 31 de março foi um dia histórico para o entretenimento televisivo brasileiro. Mas, infelizmente, um dia trágico. O “paredão do bilhão”, como ficou conhecido por ter acumulado mais de 1,5 bilhão de votos, enterrou o que estava para ser o melhor Big Brother Brasil da história.</summary></entry><entry><title type="html">Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?</title><link href="http://localhost:4000/2020/medicina/reutilizar-n95" rel="alternate" type="text/html" title="Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?" /><published>2020-03-26T00:00:00-03:00</published><updated>2020-03-26T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/reutilizar-n95</id><content type="html" xml:base="http://localhost:4000/2020/medicina/reutilizar-n95">&lt;p&gt;Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.&lt;/p&gt;
 
 &lt;p&gt;Sempre importante lembrar que não é recomendado o uso de respiradores N95 pela população geral. Esses equipamentos devem ser reservados apenas para uso por profissionais de saúde em situação de risco de exposição.&lt;/p&gt;
 
@@ -815,7 +654,7 @@
 
 &lt;h2 id=&quot;riscos-da-reutilização-de-respiradores&quot;&gt;Riscos da reutilização de respiradores&lt;/h2&gt;
 
-&lt;p&gt;O maior risco envolve a contaminação da superfície das máscaras. Um estudo demonstrou que enfermeiros tocam em média 25 vezes nos respiradores a cada plantão.&lt;sup id=&quot;fnref:tocar&quot;&gt;&lt;a href=&quot;#fn:tocar&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; E permanecer usando máscaras contaminadas pode ser um risco, permitindo a inoculação dos patógenos através das mucosas que deveriam estar sendo protegidas.&lt;/p&gt;
+&lt;p&gt;O maior risco envolve a contaminação da superfície das máscaras. Um estudo demonstrou que enfermeiros tocam em média 25 vezes nos respiradores a cada plantão.&lt;sup id=&quot;fnref:tocar&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:tocar&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; E permanecer usando máscaras contaminadas pode ser um risco, permitindo a inoculação dos patógenos através das mucosas que deveriam estar sendo protegidas.&lt;/p&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 
@@ -825,10 +664,92 @@
 
 &lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:tocar&quot;&gt;
-      &lt;p&gt;Rebmann, T., R. Carrico, and J. Wang: &lt;strong&gt;Physiologic and other effects and compliance with long-term respirator use among medical intensive care unit nurses&lt;/strong&gt;. American Journal of Infection Control 41(12):1218-1223(2013). &lt;a href=&quot;#fnref:tocar&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:tocar&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Rebmann, T., R. Carrico, and J. Wang: &lt;strong&gt;Physiologic and other effects and compliance with long-term respirator use among medical intensive care unit nurses&lt;/strong&gt;. American Journal of Infection Control 41(12):1218-1223(2013). &lt;a href=&quot;#fnref:tocar&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="medicina" /><category term="coronavirus" /><category term="covid-19" /><category term="epi" /><summary type="html">Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="COVID-19" /><category term="Vivências" /><summary type="html">Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.</summary></entry><entry><title type="html">Metas para 2020</title><link href="http://localhost:4000/2019/metas-para-2020" rel="alternate" type="text/html" title="Metas para 2020" /><published>2019-12-31T21:10:00-03:00</published><updated>2019-12-31T21:10:00-03:00</updated><id>http://localhost:4000/2019/metas-para-2020</id><content type="html" xml:base="http://localhost:4000/2019/metas-para-2020">&lt;p&gt;Nada representa mais o meu ano de 2019 do que ter deixado pra escrever as metas de 2020 faltando poucas horas para o ano acabar. Como vou precisar escrever rápido antes que o ano termine, fiz uma lista de metas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Ser mais organizado:&lt;/strong&gt; sempre tentei ter uma agenda mas nunca consegui. Esse ano vou tentar novamente.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ler ao menos um livro por mês:&lt;/strong&gt; em 2019 li pouquíssimos livros. Quero fazer diferente em 2020.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Escrever quinzenalmente para o blog:&lt;/strong&gt; há anos que eu tento fazer e manter um blog. Na maioria das vezes eu acabava desistindo pois não tinha tempo e motivação suficiente para ficar postando. Mas agora estou conseguindo e pretendo manter essa rotina.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ganhar 10 Kg:&lt;/strong&gt; essa vai ser uma das metas mais difíceis. A muito tempo que tento ganhar peso. Em 2019 consegui ganhar 5 Kg. Mas continuo faltando muito à academia.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Não deixar para estudar nas vésperas de prova!!!&lt;/strong&gt; Nossa, essa meta vai ser fundamental para minha saúde acadêmica. Vamos ver se vou conseguir concretizá-la.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aprender a criticar e análisar melhor os filmes:&lt;/strong&gt; quero continuar com o &lt;em&gt;hobby&lt;/em&gt; de fazer críticas de filmes e estou tentando ler bastante sobre o assunto para evoluir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aprender a tocar piano:&lt;/strong&gt; em 2019 consegui comprar um piano com meu suado dinheiro mas ainda não parei para de fato aprender a tocar.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Acho que é isto. Espero que em 2020 eu possa ler essa lista e sentir que alcancei o objetivo. Desejo a todos um feliz ano novo, muita saúde e paz para 2020!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="Off-Topic" /><summary type="html">Nada representa mais o meu ano de 2019 do que ter deixado pra escrever as metas de 2020 faltando poucas horas para o ano acabar. Como vou precisar escrever rápido antes que o ano termine, fiz uma lista de metas:</summary></entry><entry><title type="html">Ler mais livros, ler rápido e com qualidade</title><link href="http://localhost:4000/2019/ler-rapido-e-com-qualidade" rel="alternate" type="text/html" title="Ler mais livros, ler rápido e com qualidade" /><published>2019-12-20T00:00:00-03:00</published><updated>2019-12-20T00:00:00-03:00</updated><id>http://localhost:4000/2019/ler-rapido-e-com-qualidade</id><content type="html" xml:base="http://localhost:4000/2019/ler-rapido-e-com-qualidade">&lt;p&gt;Agora que estou de férias, vou me propor o desafio de ler o máximo de livros que conseguir em apenas 3 meses. Faz muito tempo que não leio algo que não esteja diretamente relacionado aos estudos. Durante este hiato, vou aproveitar a oferta de 3 meses de assinatura do &lt;em&gt;Kindle unlimited&lt;/em&gt; por um realzinho. Quero ler tantos livros a ponto de fazer os donos da Amazon se arrependerem por ter me concedido essa oferta.&lt;/p&gt;
+
+&lt;p&gt;Para conseguir este feito, vou precisar otimizar ao máximo a leitura. Encontrar o equilíbrio entre &lt;em&gt;velocidade&lt;/em&gt; e &lt;em&gt;qualidade&lt;/em&gt;. Para isso, separei alguns métodos pontuais que vou tentar aplicar nessa empreitada.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;/assets/images/posts/2019/lendo-rapido-e-com-qualidade/kindle.jpg&quot; alt=&quot;Kindle com capítulo de &amp;lt;em&amp;gt;Game of Thrones&amp;lt;/em&amp;gt;&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;focando-nas-ideias-centrais&quot;&gt;Focando nas ideias centrais&lt;/h2&gt;
+
+&lt;p&gt;Na busca de bons blogs pra adicionar ao meu feed diário, conheci o blog &lt;em&gt;Diplomatizzando&lt;/em&gt; de Paulo Roberto de Almeida e tive a oportunidade de ler um artigo seu de 2005, entitulado &lt;a href=&quot;https://diplomatizzando.blogspot.com/2016/10/meus-metodos-de-leitura-tenho-algum.html&quot;&gt;&lt;q&gt;Meus ‘metodos’ de leitura (tenho algum?)&lt;/q&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Destaco aqui dois trechos de sua postagem:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Agora que desisti de fazer grandes leituras anotadas, leio rápido, muito rápido mesmo, pois minha grande familiaridade com os livros me habilitou a ler aquilo que é relevante em cada livro, de maneira a “liquidar” com um volume em muito pouco tempo, e nele selecionar aquilo que interessa de fato na obra, para apresentação a outros.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sim, devo dizer que sempre estou lendo com o propósito de fazer alguma resenha, o que é uma maneira prática de ir realmente ao essencial do livro, e de me obrigar a acompanhar o que se publica de mais importante em minhas áreas de interesse.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sempre li muito devagar e já fui uma pessoa de anotar tudo o que lia. No entanto, mesmo tendo abanonado o hábito de anotar, continuo lendo muito devagar. Seja lendo materiais acadêmicos ou livros casuais de literatura.&lt;/p&gt;
+
+&lt;p&gt;Agora percebo o meu problema, sempre dou muita atenção a qualquer trecho dos livros, mesmo os detalhes mais insignificantes. Em minhas leituras, se não entendo uma única frase por completo, volto ao início do capitulo e releio. Tudo bem fazer isso algumas vezes, mas eu fazia em cada página.&lt;/p&gt;
+
+&lt;p&gt;Ora, num livro com mais de 200 páginas não é possível que cada frase seja essencial para entender a ideia central. Na verdade, os argumentos e pontos centrais das obras são justamente aqueles que leio de forma mais fluida e suave. São justamente nas “gorduras” e “encheções de linguíça” que travo a leitura.&lt;/p&gt;
+
+&lt;p&gt;Muitos autores de romances adoram ser extremamente descritivos, detalhando as cenas com a mais absurda riqueza de informações. Legal que isso aumenta a imersão no universo, mas sempre fiz mal uso dessas descrições e ficava me preocupando demais em decorar qual a cor dos olhos de um personagem, ou como os móveis estavam dispostos emm um cômodo. Se essas informações realmente forem fundamentais para o enredo, com certeza serão resgatadas mais à frente.&lt;/p&gt;
+
+&lt;p&gt;Por vezes eu entendo a ideia que um parágrafo quer passar, mas a forma como foi escrito soa ambíguo. Isso acontece muito com livros de política. Aí eu penso &lt;q&gt;será que é isso mesmo que quis dizer?&lt;/q&gt;. Releio e descubro &lt;q&gt;sim, era isso&lt;/q&gt;. Acontece demaaaais comigo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solução:&lt;/strong&gt; reler parágrafos o mínimo possível. Se for uma ideia realmente importante, ela muito provavelmente será retomada mais à frente.&lt;/p&gt;
+
+&lt;h2 id=&quot;ler-pensando-em-escrever-uma-resenha&quot;&gt;Ler pensando em escrever uma resenha&lt;/h2&gt;
+
+&lt;p&gt;Realmente, como mencionado por Paulo, esse é um método bastante promissor. Mesmo que você não escreva de fato uma resenha, o método pode ser susbtituído por &lt;em&gt;“ler pensando em discutir com alguém”&lt;/em&gt;, seja com amigos ou familiares.&lt;/p&gt;
+
+&lt;p&gt;Esse método reforça o método anterior. Você se vê obrigado a focar a atenção nos pontos realmente importantes, os pontos chave que conseguem resumir toda a obra ou são capazes de nortear conversas futuras. Corrobora a ideia de não ficar relendo ou se preocupando com as “linguiças” dos livros.&lt;/p&gt;
+
+&lt;p&gt;Talvez eu até comece a escrever resenhas sobre livros. Vamos ver se a vontade vai surgir.&lt;/p&gt;
+
+&lt;h2 id=&quot;interromper-um-livro-pela-metade&quot;&gt;Interromper um livro pela metade&lt;/h2&gt;
+
+&lt;p&gt;Desde pequeno as pessoas me ensinaram a não julgar livros pela capa e nem pelos primeiros capítulos. &lt;q&gt;O início é chato mas quando chegar na metade pro fim você não vai se arrepender&lt;/q&gt; — diziam. Não me lembro de uma única vez que essa “dica” fez sentido.&lt;/p&gt;
+
+&lt;p&gt;Hoje, se o livro continua chato lá pelo terceiro capítulo eu já desisto. Melhor partir para uma leitura agradável. Foi-se a época que eu me flagelava lendo coisas intragáveis. O tempo lendo um livro chato pode ser o mesmo de ler três ou quatro bons livros.&lt;/p&gt;
+
+&lt;h2 id=&quot;recorrer-à-internet-em-caso-de-dúvidas&quot;&gt;Recorrer à internet em caso de dúvidas&lt;/h2&gt;
+
+&lt;p&gt;Esse é um ponto que venho experimentando bastante ultimamente enquanto leio &lt;em&gt;Game of Thrones&lt;/em&gt;. É humanamente impossível decorar o nome de todos os personagens já citados na obra (certeza que nem o George Martins lembra-se de todos). Durante a leitura, quando me deparo com um nome já mencionado mas não lembro quem seja, ao invés de folhear as páginas já lidas procurando pela explicação, vou direto para a internet e leio um artigo da &lt;a href=&quot;https://wiki.geloefogo.com/index.php/P%C3%A1gina_principal&quot;&gt;&lt;em&gt;Wiki gelo e fogo&lt;/em&gt;&lt;/a&gt; (que é bastante rica e fiel aos livros, por sinal).&lt;/p&gt;
+
+&lt;p&gt;Esquecer (ou confundir) o nome dos personagens foi o que acabou me fazendo abandonar a leitura de &lt;em&gt;Guerra e Paz&lt;/em&gt; (os nomes Russos não ajudavam). Mas claro, pretendo retomá-lo. Provavelmente tendo que recomeçar pelo início.&lt;/p&gt;
+
+&lt;h2 id=&quot;ler-todo-dia&quot;&gt;Ler todo dia&lt;/h2&gt;
+
+&lt;p&gt;Esse eu acho um ponto bastante importante. A ideia aqui é tornar a leitura um hábito.&lt;/p&gt;
+
+&lt;p&gt;O que acontece muito comigo é que nem sempre eu tenho 1 hora livre para ler. Visando não perder o hábito, é melhor ler pelo mínimo tempo disponível, nem que sejam por 5 minutos. Ao menos abrir o livro e ler uma página. Essa simples atitude faz você se lembrar de onde parou e vai ajudar a lembrar da história nos dias seguintes.&lt;/p&gt;
+
+&lt;p&gt;Ao passar um dia sem ler, parte da história pode ser apagada da memória recente. Será mais custoso se lembrar de onde parou após dias sem tocar no livro.&lt;/p&gt;
+
+&lt;h2 id=&quot;levar-o-livro-onde-for&quot;&gt;Levar o livro onde for&lt;/h2&gt;
+
+&lt;p&gt;Sinceramente, eu nunca gostei muito dessa ideia. Ficar carregando peso na bolsa e nem sequer ter a oportunidade de abri-los sempre foi o padrão para mim. Na verdade, era assim que eu estragava meus livros. Eles passavam dias jogados na bolsa sem nem serem abertos.&lt;/p&gt;
+
+&lt;p&gt;Agora que eu tenho um Kindle faz sentido “levar o livro pra todo canto”. Ele não pesa quase nada e cabe com tranquilidade na bolsa. E se eu não estiver com o Kindle, ainda tenho o livro sincronizado na página que parei para ser lido pelo aplicativo no celular. Então, onde eu estiver com o celular, todos os meus livros estarão comigo. Veja só que mágico, o que uma pessoa do século 18 que acumulava rolos de pergaminho acharia disso?&lt;/p&gt;
+
+&lt;h2 id=&quot;colocando-em-prática&quot;&gt;Colocando em prática&lt;/h2&gt;
+
+&lt;p&gt;É isto. Vou me basear nesses pontos e tentar ler o máximo de livros nessas férias. Começando pelo primeiro livro das crônicas de gelo e fogo que já estou lendo. Em breve posto aqui o resultado desse desafio. Estou até curioso para saber quantos vou coseguir ler. A vontade é uma coisa, pôr em prática é outra. &lt;svg id=&quot;icon-mosca&quot; viewBox=&quot;0 0 32 32&quot; width=&quot;1em&quot;&gt;&lt;path fill=&quot;#fff&quot; style=&quot;fill: var(--color1, #fff); stroke: var(--color2, #000)&quot; stroke=&quot;#000&quot; stroke-linejoin=&quot;miter&quot; stroke-linecap=&quot;butt&quot; stroke-miterlimit=&quot;4&quot; stroke-width=&quot;1.537&quot; d=&quot;M28.563 13.933c-0.917 6.291-4.754 10.791-8.57 10.052s-6.167-6.438-5.25-12.729c0.917-6.291 4.754-10.791 8.57-10.052s6.167 6.438 5.25 12.729z&quot;&gt;&lt;/path&gt;&lt;path fill=&quot;#fff&quot; style=&quot;fill: var(--color1, #fff); stroke: var(--color2, #000)&quot; stroke=&quot;#000&quot; stroke-linejoin=&quot;miter&quot; stroke-linecap=&quot;butt&quot; stroke-miterlimit=&quot;4&quot; stroke-width=&quot;1.591&quot; d=&quot;M16.085 10.47c2.742 5.636 2.115 11.894-1.401 13.976s-8.589-0.799-11.331-6.435c-2.742-5.636-2.115-11.894 1.401-13.976s8.589 0.799 11.331 6.435z&quot;&gt;&lt;/path&gt;&lt;path fill=&quot;#000&quot; style=&quot;fill: var(--color2, #000); stroke: var(--color1, #fff)&quot; stroke=&quot;#fff&quot; stroke-linejoin=&quot;miter&quot; stroke-linecap=&quot;butt&quot; stroke-miterlimit=&quot;4&quot; stroke-width=&quot;1.1551&quot; d=&quot;M30.498 20.167c0 5.971-4.918 10.812-10.985 10.812s-10.985-4.841-10.985-10.812c0-5.971 4.918-10.812 10.985-10.812s10.985 4.841 10.985 10.812z&quot;&gt;&lt;/path&gt;&lt;path fill=&quot;none&quot; stroke=&quot;#000&quot; style=&quot;stroke: var(--color2, #000)&quot; stroke-linejoin=&quot;miter&quot; stroke-linecap=&quot;butt&quot; stroke-miterlimit=&quot;4&quot; stroke-width=&quot;1.6206&quot; d=&quot;M6.474 8.935l6.606 9.962&quot;&gt;&lt;/path&gt;&lt;path fill=&quot;none&quot; stroke=&quot;#000&quot; style=&quot;stroke: var(--color2, #000)&quot; stroke-linejoin=&quot;miter&quot; stroke-linecap=&quot;butt&quot; stroke-miterlimit=&quot;4&quot; stroke-width=&quot;1.6206&quot; d=&quot;M22.896 3.638l-1.734 11.827&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="Livros" /><summary type="html">Agora que estou de férias, vou me propor o desafio de ler o máximo de livros que conseguir em apenas 3 meses. Faz muito tempo que não leio algo que não esteja diretamente relacionado aos estudos. Durante este hiato, vou aproveitar a oferta de 3 meses de assinatura do Kindle unlimited por um realzinho. Quero ler tantos livros a ponto de fazer os donos da Amazon se arrependerem por ter me concedido essa oferta.</summary></entry></feed>
