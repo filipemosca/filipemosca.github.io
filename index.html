@@ -23,7 +23,7 @@ layout: wrapped
   </div>
   <div class="item item-inferior">
     <div class="quadro">
-      <img src="{{ site.baseurl }}/assets/images/eu.jpg" alt="Foto minha" class="foto">
+      <img src="{{ '/assets/images/eu.jpg' | relatve_url }}" alt="Foto minha" class="foto">
 
       <div class="redes"> 
         <p>          
@@ -56,7 +56,7 @@ layout: wrapped
     {% for post in site.posts %}
       <li>
         <span class="post-info">
-          <span>{{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
             {% case m %}
               {% when '1' %}jan
               {% when '2' %}fev
@@ -70,15 +70,19 @@ layout: wrapped
               {% when '10' %}out
               {% when '11' %}nov
               {% when '12' %}dez
-            {% endcase %}{{ post.date | date: "%Y"}}&nbsp
-
-             
-          {% for tag in post.tags %}
+            {% endcase %}{{ post.date | date: "%Y"}}
+        </span>
+          <!-- {% for tag in post.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
             <span class="tag {{ tag_name }}">#{{ tag_name }}</span>
-          {% endfor %}
-        </span>
+          {% endfor %} -->
+
         <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+        {% for tag in post.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+          <span class="tag {{ tag_name }}">#{{ tag_name }}</span>
+        {% endfor %}
       </li>
     {% endfor %}
   </ul>

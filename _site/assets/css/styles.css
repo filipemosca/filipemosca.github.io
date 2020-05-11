@@ -126,9 +126,9 @@ nav a:visited { color: var(--link-color); }
 #markdown-toc { max-width: 300px; padding: 1.5em; padding-left: 2rem; margin-left: 1.5rem; display: inline-block; border-color: black; border: 1px solid; border-radius: 1rem; font-size: 1rem; }
 #markdown-toc a:hover { color: #686868; }
 
-h1 { text-align: left; margin-bottom: 0; max-width: 600px; }
+h1 { text-align: left; margin-bottom: 5px; max-width: 600px; }
 
-h1, h2, h3, h4, h5, h6 { font-family: var(--header-font); color: var(--font-color-header); font-weight: bold; line-height: 1.1; margin-bottom: 0.2em; }
+h1, h2, h3, h4, h5, h6 { font-family: var(--header-font); color: var(--font-color-header); font-weight: bold; line-height: 1.2; margin-bottom: 0.2em; }
 
 a { text-decoration: none; color: var(--link-color); }
 
@@ -166,13 +166,11 @@ video { display: block; margin: 0 auto; max-width: 100%; margin-top: 20px; margi
 
 .svg-seguir { padding: 1px; }
 
-#ultimas { padding-top: 30px; }
-
 .item { flex: 1; }
 
 .item-inferior { max-width: 300px; margin: 0 auto; }
 
-.quadro { background: radial-gradient(circle at 20% 20%, #68d33d 25%, #356821 100%); margin-right: 30px; margin-left: 30px; border-radius: 0.8rem; box-shadow: 0.5rem 1rem 1rem 0 rgba(100, 110, 140, 0.4); padding: 15px 4px 5px 4px; }
+.quadro { background: radial-gradient(circle at 20% 20%, #68d33d 25%, #356821 100%); margin-right: 30px; margin-left: 30px; border-radius: 0.8rem; padding: 15px 4px 5px 4px; }
 
 .assinar { text-decoration: none; font-size: medium; background-color: white; font-family: Helvetica, sans-serif; color: green; font-weight: bold; padding: 10px; border-radius: 4px; display: inline-block; margin-top: 20px; margin-bottom: 10px; line-height: 1.2; }
 
@@ -207,13 +205,19 @@ button { border: none; }
 
 .post-author { font-size: 16px; color: gray; text-align: right; margin-top: 0; }
 
+#ultimas { padding-top: 10px; }
+
 .post-list ul { list-style-type: none; padding-left: 0; }
-.post-list ul li { line-height: 1; }
-.post-list li h2 { margin-bottom: 20px; line-height: 1.2; margin-top: 5px; }
+.post-list ul li { line-height: 1; margin-bottom: 35px; background: linear-gradient(to right, #f8f8f8, white); border-radius: 8px; padding: 5px; }
+.post-list li h2 { line-height: 1.2; margin-top: 0; margin-bottom: 5px; }
 .post-list li h2 a { text-decoration: none; font-size: 24px; color: var(--font-color); font-weight: bold; }
 .post-list li h2 a:hover { color: var(--link-color); text-decoration: underline; }
 
-.tag { background-color: #fafa18; padding: 3px 5px 3px 5px; border-radius: 5px; margin-right: 5px; margin-top: 5px; color: var(--font-color); }
+.tag { background-color: #fafa18; padding: 3px 5px 3px 5px; border-radius: 5px; margin-right: 2px; color: var(--font-color); font-size: 1rem; display: inline-block; }
+
+#tag-posts { margin-top: 5px; }
+
+.post-info { font-size: 1rem; color: #969696; margin-top: 5px; margin-bottom: 0; padding-bottom: 0; margin-right: 10px; border-radius: 4px; display: block; }
 
 .MBE { background-color: #fac9c9; }
 
@@ -240,8 +244,6 @@ button { border: none; }
 .post-info-archive { color: gray; margin-top: 0; display: inline-block; font-size: 0.8em; line-height: 0.8em; padding-top: 0; }
 
 #post-page-info { font-size: 16px; color: gray; margin-top: 1px; text-align: center; }
-
-.post-info { font-size: 16px; color: #969696; margin-top: 5px; margin-bottom: 0; padding-bottom: 0; margin-right: 10px; border-radius: 4px; line-height: 1.5rem; }
 
 .pseudobotao2 { font-size: 16px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 2px; color: #969696; margin-bottom: 2px; margin-top: 5px; line-height: 1.2; }
 
