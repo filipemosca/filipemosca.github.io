@@ -293,11 +293,13 @@ nav {
   a {
     text-decoration: none;
     font-size: 14px;
-    border: 1px solid var(--font-color);
+    background-color: #f3f3f3 !important;
+    border: 1px solid #dadada !important;
     border-top: none;
     border-radius: 0 0 0.5rem 0.5rem;
-    color: var(--link-color);
-    padding: 4px;
+    color: black;
+    font-weight: 800;
+    padding: 5px;
     margin-left: 0;
     display: inline-block;
     margin-bottom: 10px;
@@ -305,10 +307,10 @@ nav {
   a:hover {
     padding-bottom: 10px;
     margin-bottom: 0px;
-    text-decoration: underline;
+    text-decoration: none;
   }
   a:visited {
-    color: var(--link-color);
+    color: black;
   }
 }
 .nav-icons {
@@ -317,6 +319,7 @@ nav {
 .current {
   padding-bottom: 10px;
   margin-bottom: 0px;
+  background-color: #e6e6e6 !important;
 }
 
 
@@ -485,17 +488,7 @@ video {
   background: var(--marked-color); /* Gecko Browsers */
 }
 
-.vertical-nav {
-  float: right;
-  margin-right: 0;
-  a {
-    background-color: green;
-    border-radius: 0.5em;
-    padding: 4px 4px 4px 8px;
-    color: white ;
 
-  }
-}
 .abertura {
   color: var(--font-color);
   display: block;
@@ -525,19 +518,30 @@ video {
 
 // Quadro para Newsletter e apresentação
 .quadro {
-  background: radial-gradient(circle at 20% 20%, #68d33d 25%, #356821 100%);
+  // background: radial-gradient(circle at 20% 20%, #68d33d 25%, #356821 100%);
+  background-color: #4764f1 !important;
+  border: 1px solid #0c2ec5 !important;
+  // box-shadow: 1px 1px 1px rgba(27,31,35,.1) !important;
   margin-right: 30px;
   margin-left: 30px;
-  border-radius: 0.8rem;
-  // box-shadow: 0.5rem 1rem 1rem 0 rgba(100,110,140,.4);
+  border-radius: 10px;
+  // box-shadow: 1px 1rem 1rem 0 rgba(100,110,140,.4);
   padding: 15px 4px 5px 4px;
+}
+// Minha foto na página inicial
+.foto {
+  border-radius: 50%;
+  max-width: 100px;
+  border: 2px solid #0c2ec5;
+  margin: 0 auto;
+  display: block;
 }
 .assinar {
   text-decoration: none;
   font-size: medium;
   background-color: white;
   font-family: Helvetica, sans-serif;
-  color: green;
+  color: #2444e4 !important;
   font-weight: bold;
   padding: 10px;
   border-radius: 4px;
@@ -551,7 +555,7 @@ video {
   text-decoration: none;
 }
 .assinar:visited {
-  color: rgb(0, 100, 0);
+  color: #2444e4 !important;
 }
 .texto-assine {
   color: white;
@@ -582,13 +586,7 @@ video {
   height: 20px;
 }
 
-// Minha foto na página inicial
-.foto {
-  border-radius: 50%;
-  max-width: 100px;
-  margin: 0 auto;
-  display: block;
-}
+
 
 
 
@@ -662,9 +660,12 @@ button {
   ul li {
     line-height: 1;
     margin-bottom: 35px;
-    background: linear-gradient(to right, rgb(248, 248, 248), rgb(255, 255, 255));
-
-    border-radius: 8px;
+    // background: linear-gradient(to right, rgb(248, 248, 248), rgb(255, 255, 255));
+    // background: rgba(235, 236, 237, 0.3) none repeat scroll 0% 0%;
+    background-color: #fafbfc !important;
+    border: 1px solid #e1e4e8 !important;
+    box-shadow: 0 1px 1px rgba(27,31,35,.1) !important;
+    border-radius: 3px;
     padding: 5px;
   }
   li h2 {
@@ -688,6 +689,7 @@ button {
 // CSS das Tags
 .tag {
   background-color: rgb(250, 250, 24);
+  box-shadow: inset 0 -1px 0 rgba(27,31,35,.12);
   padding: 3px 5px 3px 5px;
   border-radius: 5px;
   margin-right: 2px;
