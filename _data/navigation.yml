@@ -1,12 +1,12 @@
 - name: Início
   link: /
-  icon: <img class="emoji" alt="dart" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png" width="20" height="20">
+  icon: <img class="emoji" alt="dart" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png" width="16" height="16">
 - name: Arquivo
   link: /arquivo
-  icon: <img class="emoji" alt="bookmark_tabs" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d1.png" width="20" height="20">
+  icon: <img class="emoji" alt="bookmark_tabs" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d1.png" width="16" height="16">
 - name: Inscrever-se
   link: /newsletter
-  icon: <img class="emoji" alt="newspaper" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f0.png" width="20" height="20">   
+  icon: <img class="emoji" alt="newspaper" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f0.png" width="16" height="16">   
 - name: Sobre
   link: /sobre
-  icon: <img class="emoji" alt="bust_in_silhouette" src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png" width="20" height="20">
+  icon: <img class="emoji" alt="bust_in_silhouette" src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png" width="16" height="16">

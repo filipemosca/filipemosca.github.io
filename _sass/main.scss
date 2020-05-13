@@ -520,19 +520,17 @@ video {
 .quadro {
   // background: radial-gradient(circle at 20% 20%, #68d33d 25%, #356821 100%);
   background-color: #4764f1 !important;
-  border: 1px solid #0c2ec5 !important;
-  // box-shadow: 1px 1px 1px rgba(27,31,35,.1) !important;
+  // border: 1px solid #0c2ec5 !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
   margin-right: 30px;
   margin-left: 30px;
   border-radius: 10px;
-  // box-shadow: 1px 1rem 1rem 0 rgba(100,110,140,.4);
   padding: 15px 4px 5px 4px;
 }
 // Minha foto na página inicial
 .foto {
   border-radius: 50%;
   max-width: 100px;
-  border: 2px solid #0c2ec5;
   margin: 0 auto;
   display: block;
 }
@@ -724,7 +722,7 @@ button {
 .archive-list {
   li {
     line-height: 1em;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
   }
   li a {
     text-decoration: none;
@@ -739,10 +737,15 @@ button {
 .post-info-archive {
   color: gray;
   margin-top: 0;
+  margin-right: 3px;
   display: inline-block;
   font-size: 0.8em;
   line-height: 0.8em;
   padding-top: 0;
+}
+.tag-archive {
+  font-size: 0.9rem;
+  line-height: 0.8em;
 }
 
 #post-page-info {
@@ -862,8 +865,10 @@ a.footnote:after {
   text-align: center;
 }
 .license {
-  display: inline-block;
+  display: block;
   width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
   p {
     text-align: center;
     font-size: 14px;
@@ -871,8 +876,7 @@ a.footnote:after {
     color: gray;
     a {
       font-size: 14px;
-      color: var(--link-color)ue;
-      text-decoration: none;
+      color: var(--link-color);
     }
   }
   a img {
@@ -948,5 +952,9 @@ a.footnote:after {
   }
   img {
     width: inherit;
+  }
+  .quadro {
+    margin-right: 0;
+    margin-left: 60px;
   }
 }

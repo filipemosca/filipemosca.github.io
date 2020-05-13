@@ -39,10 +39,10 @@ Contact: filipemosca@disroot.org
 
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/picol/css/picol.css' | relative_url }}">
-    <link rel="icon" href="/favicon2.png"/>
+    <link rel='shortcut icon' type='image/x-icon' href='/favicon.png' />
     <meta name="theme-color" content="#202020">
     <meta name="apple-mobile-web-app-status-bar-style" content="blue">
     {% feed_meta %}

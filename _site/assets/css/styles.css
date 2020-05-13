@@ -167,9 +167,9 @@ video { display: block; margin: 0 auto; max-width: 100%; margin-top: 20px; margi
 
 .item-inferior { max-width: 300px; margin: 0 auto; }
 
-.quadro { background-color: #4764f1 !important; border: 1px solid #0c2ec5 !important; margin-right: 30px; margin-left: 30px; border-radius: 10px; padding: 15px 4px 5px 4px; }
+.quadro { background-color: #4764f1 !important; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important; margin-right: 30px; margin-left: 30px; border-radius: 10px; padding: 15px 4px 5px 4px; }
 
-.foto { border-radius: 50%; max-width: 100px; border: 2px solid #0c2ec5; margin: 0 auto; display: block; }
+.foto { border-radius: 50%; max-width: 100px; margin: 0 auto; display: block; }
 
 .assinar { text-decoration: none; font-size: medium; background-color: white; font-family: Helvetica, sans-serif; color: #2444e4 !important; font-weight: bold; padding: 10px; border-radius: 4px; display: inline-block; margin-top: 20px; margin-bottom: 10px; line-height: 1.2; }
 
@@ -234,11 +234,13 @@ button { border: none; }
 
 .Humanidades { background-color: #ffcbfc; }
 
-.archive-list li { line-height: 1em; margin-bottom: 5px; }
+.archive-list li { line-height: 1em; margin-bottom: 15px; }
 .archive-list li a { text-decoration: none; padding-bottom: 0; line-height: 1.2em; font-family: var(--header-font); }
 .archive-list li a:hover { text-decoration: underline; }
 
-.post-info-archive { color: gray; margin-top: 0; display: inline-block; font-size: 0.8em; line-height: 0.8em; padding-top: 0; }
+.post-info-archive { color: gray; margin-top: 0; margin-right: 3px; display: inline-block; font-size: 0.8em; line-height: 0.8em; padding-top: 0; }
+
+.tag-archive { font-size: 0.9rem; line-height: 0.8em; }
 
 #post-page-info { font-size: 16px; color: gray; margin-top: 1px; text-align: center; }
 
@@ -275,9 +277,9 @@ a.footnote:after { content: "]"; }
 
 .coisas { margin: 0 auto; font-size: 16px; color: gray; display: inline; text-align: center; }
 
-.license { display: inline-block; width: 100%; }
+.license { display: block; width: 100%; max-width: 600px; margin: 0 auto; }
 .license p { text-align: center; font-size: 14px; margin: 0 0 0 0; color: gray; }
-.license p a { font-size: 14px; color: var(--link-color) ue; text-decoration: none; }
+.license p a { font-size: 14px; color: var(--link-color); }
 .license a img { margin: 5px auto; display: block; }
 
 .menu li { margin-bottom: 5px; }
@@ -300,4 +302,5 @@ a.footnote:after { content: "]"; }
 @media only screen and (min-width: 600px) { .wrapper-post { max-width: 700px; margin: 0 auto; padding-right: 20px; padding-left: 20px; }
   article p, article h1, article h2, article h3, article h4, article h5, article h6 { margin-right: 0; margin-left: 0; }
   .abertura { display: flex; }
-  img { width: inherit; } }
+  img { width: inherit; }
+  .quadro { margin-right: 0; margin-left: 60px; } }
