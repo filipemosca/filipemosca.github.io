@@ -1,4 +1,192 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-15T14:38:42-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.</subtitle><entry><title type="html">Meu primeiro plantão de 12 horas</title><link href="http://localhost:4000/2020/primeiro-plantao-12h" rel="alternate" type="text/html" title="Meu primeiro plantão de 12 horas" /><published>2020-05-13T00:00:00-03:00</published><updated>2020-05-13T00:00:00-03:00</updated><id>http://localhost:4000/2020/primeiro-plantao-12h</id><content type="html" xml:base="http://localhost:4000/2020/primeiro-plantao-12h">&lt;p&gt;Depois de dias lendo e pesquisando apenas sobre a pandemia de COVID-19, resolvi me dar uma folga do coronavirus. Vou aproveitar esses dias de quarentena para finalizar alguns rascunhos de postagens que eu vinha escrevendo.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-15T20:35:33-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.</subtitle><entry><title type="html">A saga da cloroquina contra a COVID-19</title><link href="http://localhost:4000/2020/saga-cloroquina-covid19" rel="alternate" type="text/html" title="A saga da cloroquina contra a COVID-19" /><published>2020-05-15T00:00:00-03:00</published><updated>2020-05-15T00:00:00-03:00</updated><id>http://localhost:4000/2020/saga-cloroquina-covid19</id><content type="html" xml:base="http://localhost:4000/2020/saga-cloroquina-covid19">&lt;p&gt;Finalmente decidi escrever sobre a cloroquina. Já fazem meses desde que essa discussão começou e essa semana saíram novos estudos sobre a possível eficácia da droga.&lt;/p&gt;
+
+&lt;p&gt;No fim das contas foi bom eu ter demorado a escrever sobre a cloroquina pois agora vou poder contar toda história desde o início até os últimos estudos.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-estudo-francês&quot;&gt;O estudo francês&lt;/h2&gt;
+
+&lt;p&gt;Tudo começou quando Gautret &lt;em&gt;et al&lt;/em&gt;. publicaram um estudo dia 18 de março na revista &lt;em&gt;International Journal of Antimicrobial Agents&lt;/em&gt;.&lt;sup id=&quot;fnref:Gautret&quot;&gt;&lt;a href=&quot;#fn:Gautret&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; O texto foi publicado ainda como um &lt;em&gt;pre-proof&lt;/em&gt;, isto é, um artigo já revisado por pares e aceito para publicação mas que ainda não está na versão final.&lt;/p&gt;
+
+&lt;p&gt;Outros estudos chineses já tinham apotando a cloroquina e hidroxicloroquina como possíveis tratamentos, um de Gao &lt;em&gt;et al&lt;/em&gt;.&lt;sup id=&quot;fnref:Gao&quot;&gt;&lt;a href=&quot;#fn:Gao&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; e outro de Chen &lt;em&gt;et al&lt;/em&gt;.&lt;sup id=&quot;fnref:Chen&quot;&gt;&lt;a href=&quot;#fn:Chen&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Mas a grande discussão começou mesmo após o estudo francês.&lt;/p&gt;
+
+&lt;p&gt;Quem lê rapidamente o estudo francês facilmente fica maravilhado com os resultados. Após 6 dias de tratamento, 100% dos pacientes tratados com hidroxicloroquina e azitromicina foram virologicamente curados, contra 57% dos tratados apenas com hidroxicloroquina e 12,5% dos controles que não receberam nenhum tratamento.&lt;/p&gt;
+
+&lt;p&gt;E olha como os autores concluem o artigo:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Portanto, recomendamos que os pacientes com COVID-19 sejam tratados com hidroxicloroquina e azitromicina para curar sua infecção e limitar a transmissão do vírus a outras pessoas, a fim de conter a disseminação do COVID-19 no mundo.”&lt;sup id=&quot;fnref:Gautret:1&quot;&gt;&lt;a href=&quot;#fn:Gautret&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Qualquer pessoa pouco cética lendo isso com certeza vai achar o resultado fantástico e começar a espalhar a eficácia da hidroxicloroquina com azitromicina por aí. Mas será que esse estudo foi bem feito?&lt;/p&gt;
+
+&lt;p&gt;Dia 20 de março, o médico Luis Correia publicou em seu blog o excelente artigo “&lt;a href=&quot;http://medicinabaseadaemevidencias.blogspot.com/2020/03/hidroxicloroquina-o-dia-em-que-ciencia.html&quot;&gt;Hidroxicloroquina: o dia em que a ciência parou &lt;/a&gt;”.&lt;sup id=&quot;fnref:Luis&quot;&gt;&lt;a href=&quot;#fn:Luis&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; Nele, Luis descreveu as fraquezas metodológicas do estudo em questão.&lt;/p&gt;
+
+&lt;p&gt;Vou resumir rapidamente algumas dessas fraquezas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Amostra pequena, apenas 26 pacientes no grupo teste e 16 no grupo controle;&lt;/li&gt;
+  &lt;li&gt;Os pacientes do grupo teste e do grupo controle foram acompanhados em hospitais diferentes;&lt;/li&gt;
+  &lt;li&gt;Pacientes que recusaram integrar o grupo teste foram aceitos no grupo controle;&lt;/li&gt;
+  &lt;li&gt;Pacientes com critério de exclusão para o grupo teste foram aceitos no grupo controle;&lt;/li&gt;
+  &lt;li&gt;6 pacientes do grupo teste foram excluídos da análise final, 3 deles foram para UTI e 1 morreu (!);&lt;/li&gt;
+  &lt;li&gt;O desfecho final foi carga viral laboratorial e não melhora clínica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Percebem que os critérios para selecionar os integrantes do grupo teste e do grupo controle foram diferentes? Então na verdade o grupo controle não está agindo como um controle de verdade! E pior… eles excluíram os pacientes graves da análise. Realmente, se a gente faz um estudo e tira os pacientes que pioram é bem mais provável que no final o resultado será positivo.&lt;/p&gt;
+
+&lt;p&gt;Existem mais problemas no estudo, recomendo demais a leitura do artigo de Luis.&lt;/p&gt;
+
+&lt;p&gt;Mesmo assim, o assunto viralizou e rapidamente as pessoas correram nas farmácias para comprar o remédio milagroso que iria acabar com a pandemia. Em várias farmácias o estoque da droga esgotou e pessoas que realmente precisavam dela, para tratar doenças reumáticas, não conseguiram acesso.&lt;sup id=&quot;fnref:Cloroquina-estadao&quot;&gt;&lt;a href=&quot;#fn:Cloroquina-estadao&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ação-in-vitro&quot;&gt;Ação &lt;em&gt;in-vitro&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;A ideia de testar a cloroquina e hidroxicloroquina no tratamento da COVID-19 surgiu após estudos &lt;em&gt;in vitro&lt;/em&gt; verificarem sua eficácia contra o SARS-CoV-2 (o novo coronavirus).&lt;/p&gt;
+
+&lt;p&gt;Um estudo Chines realizado por Wang &lt;em&gt;et al&lt;/em&gt;. verificou que dentre as drogas testadas (ribavirina, penciclovir, nitazoxanida, nafamostat, cloroquina, remdesivir e favipiravir), tanto o remdesivir quanto a cloroquina apresentaram ação &lt;em&gt;in vitro&lt;/em&gt; contra o SARS-CoV-2 (o novo coronavirus).&lt;sup id=&quot;fnref:Wang&quot;&gt;&lt;a href=&quot;#fn:Wang&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;O que é um estudo &lt;em&gt;in vitro&lt;/em&gt;? É quando fazemos testes fora de seres vivos. Por exemplo, o estudo de Wang &lt;em&gt;et al&lt;/em&gt;.&lt;sup id=&quot;fnref:Wang:1&quot;&gt;&lt;a href=&quot;#fn:Wang&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; utilzou algo semelhante a células infectadas com o SARS-CoV-2 suspensas em soluções com as drogas num tubo de ensaio (não me garanto muito explicando essa parte do estudo, mas é algo nesse sentido).&lt;/p&gt;
+
+&lt;p&gt;Mas será que a ação &lt;em&gt;in vitro&lt;/em&gt; é suficiente para sugerir que o tratamento clínico seja efetivo?&lt;/p&gt;
+
+&lt;p&gt;No dia 8 de Abril o BMJ (&lt;em&gt;British Medical Journal&lt;/em&gt;) publicou um execelente editorial&lt;sup id=&quot;fnref:Ferner&quot;&gt;&lt;a href=&quot;#fn:Ferner&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; sobre a cloroquina. Vou parafrasear a seguir algumas das observações feitas nessa publicação.&lt;/p&gt;
+
+&lt;p&gt;A ação &lt;em&gt;in vitro&lt;/em&gt; da cloroquina já foi testada para vários outros vírus. Em estudos laboratoriais, o uso de cloroquina contra Zika, Ebola, Influenza, Chikungunya e Dengue até chegou a mostrar resultados promissores. Contudo, quando realizados estudos em animais ou seres humanos, os efeitos não foram os mesmos. E pior, em alguns casos a cloroquina piorou o quadro clínico. Por exemplo, porquinhos-da-india infectados com Ebola que receberam cloroquina tiveram agravamento da doença. Já para a Chikungunya, o medicamento piorou a condição de macacos infectados.&lt;sup id=&quot;fnref:Ferner:1&quot;&gt;&lt;a href=&quot;#fn:Ferner&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;E mesmo em estudos &lt;em&gt;in vitro&lt;/em&gt; a cloroquina já se mostrou prejudicial para algumas doenças. Em células infectadas pelo vírus Epstein-Barr (agente etiológico da mononucleose infecciosa) a replicação viral aumentava quando administrada a cloroquina.&lt;/p&gt;
+
+&lt;p&gt;O mais curioso nisso tudo é que esse medicamento já tinha um histórico de esperanças desmanchadas. Zika, Chikungunya, Dengue, Ebola, Influenza… e mesmo assim muitas pessoas depositaram todas as fichas no que provavelmente seria mais uma falsa esperança.&lt;/p&gt;
+
+&lt;p&gt;Na verdade, nós já sabemos do efeito &lt;em&gt;in vitro&lt;/em&gt; da cloroquina contra vírus desde a década de 1960.&lt;sup id=&quot;fnref:Inglot&quot;&gt;&lt;a href=&quot;#fn:Inglot&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; E mesmo assim ainda não temos nenhuma comprovação da eficácia deste medicamento no tratamento de viroses.&lt;/p&gt;
+
+&lt;p&gt;Analisando o histórico da droga quando usada em infecções virais tinhamos algum pressuposto para acreditar que dessa vez iria funcionar? Creio que não.&lt;/p&gt;
+
+&lt;h2 id=&quot;farmacologia&quot;&gt;Farmacologia&lt;/h2&gt;
+
+&lt;p&gt;Tem alguma explicação de porque uma droga com boa ação &lt;em&gt;in vitro&lt;/em&gt; não necessariamente será eficaz nos tratamentos em seres humanos?&lt;/p&gt;
+
+&lt;p&gt;Bem, quando administramos uma droga num ser humano essa droga precisa vencer várias étapas. Ela precisa ser bem absorvida pelo corpo, ela sofre alterações podendo ser alterada pelo organismo, ela precisa ser bem distribuida pelos tecidos do corpo, precisa durar tempo suficiente na circulação antes de ser excretada. Todos esses tópicos são o objetivo de estudo da farmacologia.&lt;/p&gt;
+
+&lt;p&gt;Quando verificamos uma ação &lt;em&gt;in vitro&lt;/em&gt;, estão colocando a droga em contato direto com o vírus, em concentrações controladas. Isso está longe de refletir a realidade do corpo humano que é muito mais complexo.&lt;/p&gt;
+
+&lt;p&gt;Ou seja, verificar que um composto farmacológico é capaz de inativar um vírus em laboratório é apenas o pontapé inicial para supor que esse composto pode vir a ser um remédio para uma doença viral.&lt;/p&gt;
+
+&lt;p&gt;Um raciocínio exagerado que podemos fazer seria: desinfetante inativa o vírus, logo, beber desinfetante pode curar a doença? Claro que não. O mais chocante é que esse exato mesmo raciocínio já foi proposto pelo próprio presidente dos Estados Unidos, Donald Trump, que sugeriu injeções de desinfetante na população… e teve gente bebendo produtos químicos após a declaração de Trump.&lt;sup id=&quot;fnref:Desinfetante&quot;&gt;&lt;a href=&quot;#fn:Desinfetante&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Não tem maior irônia com a narrativa da cloroquina e hidroxicloroquina do que essa situação trágica de pessoas bebendo um composto químico que sabidamente inativa o vírus mas claramente faz mal ao organismo humano.&lt;/p&gt;
+
+&lt;h2 id=&quot;cloroquina-como-moeda-política&quot;&gt;Cloroquina como moeda política&lt;/h2&gt;
+
+&lt;p&gt;Já que citei a fala do Trump sobre desinfetantes, vamos lembrar que ele começou a defender a cloroquina desde o início. Por que políticos ao redor do mundo começaram a “defender” a cloroquina?&lt;/p&gt;
+
+&lt;p&gt;A meu ver, eles estão em busca de roubar o possível reconhecimento pela possível eficácia do tratamento. Bolsonaro e Trump são dois líderes mundiais que continuam advogando em favor da droga mesmo sem nem terem experiência nessa área.&lt;/p&gt;
+
+&lt;p&gt;São os políticos bonzinhos, querendo salvar a população, contra os cientistas malvados que só sabem criticar e fazer testes e mais testes.&lt;/p&gt;
+
+&lt;h2 id=&quot;os-novos-estudos-clínicos&quot;&gt;Os novos estudos clínicos&lt;/h2&gt;
+
+&lt;p&gt;Finalmente, vamos falar um pouco sobre três estudos importantes que saíram.&lt;/p&gt;
+
+&lt;p&gt;Dia 24 de Abril o JAMA (&lt;em&gt;Journal of the American Medical Association&lt;/em&gt;) publicou um estudo de Borba &lt;em&gt;et al&lt;/em&gt;. realizado aqui no Brasil, no Hospital e Pronto-Socorro Delphina Rinaldi Abdel Aziz de Manaus.&lt;sup id=&quot;fnref:Borba&quot;&gt;&lt;a href=&quot;#fn:Borba&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; O estudo dividiu 81 pacientes em dois grupos: 41 destes sendo tratados com altas doses (600 mg duas vezes ao dia por 10 dias) de cloroquina e os outros 40 recebendo baixas dosagens (450 mg duas vezes ao dia no primeiro dia seguido por 450 mg uma vez ao dia por 4 dias). Além disso, ambos os grupos também receberam azitromicina.&lt;/p&gt;
+
+&lt;p&gt;Para que nem os pacientes e nem os médicos identificassem quem estava em cada grupo pela quantidade de comprimidos que ingeriam, os pesquisadores adicionaram comprimidos de placebo nas administrações. Assim, os dois grupos recebiam sempre 4 comprimidos. Ou seja, foi um estudo randomizado e duplo-cego.&lt;/p&gt;
+
+&lt;p&gt;Ao fim do estudo, a mortalidade no grupo de alta dosagem foi maior, de 39% contra 15% no grupo de baixa dosagem. Além disso, o grupo de alta dosagem apresentou mais episódios de alargamento do intervalo QT nos eletrocardiogramas, um distúrbio de ritmo cardíaco.&lt;/p&gt;
+
+&lt;p&gt;A limitação do estudo é que o grupo de pacientes em alta dosagem era mais velho e tinha mais problemas cardíacos. Fazendo a correção estatística por idade, verificaram que a mortalidade era praticamente a mesma nos dois grupos. Ou seja, de qualquer forma, mesmo sem ter malefício, a alta dosagem não mostrou benefício.&lt;/p&gt;
+
+&lt;p&gt;Infelizmente esse estudo não teve um grupo controle sem receber o tratamento. Os autores alegaram que não seria ético negar o tratamento a pacientes graves uma vez que o mundo inteiro havia incluido a droga nos protocolos. É uma pena, pois esse foi o único ensaio clínico randomizado e duplo cego sobre a cloroquina que eu li até agora.&lt;/p&gt;
+
+&lt;p&gt;Para mim, é uma pena ainda maior pois, se tivessem incluido um grupo de controle recebendo apenas placebos, Manaus poderia ter sido palco de um belo estudo clínico randomizado e duplo cego. E de relevância mundial.&lt;/p&gt;
+
+&lt;p&gt;Como eles não tinham um grupo controle fazendo apenas uso de placebo, compararam a letalidade total dos pacientes graves, de 27%, com dados de meta-análises mundiais sobre pacientes internados que não receberam as medicações. A taxa de mortalidade é praticamente a mesma.&lt;/p&gt;
+
+&lt;p&gt;Após a conclusão desse estudo de Manaus, o hospital removeu as altas dosagens do protocolo de tratamento.&lt;/p&gt;
+
+&lt;p&gt;Dia 7 de Maio foi publicado um estudo observacional no NEJM (&lt;em&gt;New England Journal of Medicine&lt;/em&gt;).&lt;sup id=&quot;fnref:Geleris&quot;&gt;&lt;a href=&quot;#fn:Geleris&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt; Avaliando 1376 paciente divididos em dois grupos: 811 recebendo hidroxicloroquina e 565 compondo o grupo controle. Esse estudo verificou que não houve diferença estatística significativa nas taxas de intubação e morte entre os grupos. Após esses resultados, o hospital de Manhattan, sede do estudo, removeu a hidroxicloroquina do protocolo de tratamento padrão.&lt;/p&gt;
+
+&lt;p&gt;Em seguida, dia 11, saiu outro estudo observacional. Desta vez publicado na revista JAMA.&lt;sup id=&quot;fnref:Rosenberg&quot;&gt;&lt;a href=&quot;#fn:Rosenberg&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt; Este analisou dados de 1438 pacientes de 25 hospitais de Nova Iorque que recebiam hidroxicloroquina e azitromicina, só cloroquina, só azitromicina ou nenhum dos dois.&lt;/p&gt;
+
+&lt;p&gt;As probabilidades de óbito foram:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pacientes que recebiam hidroxicloroquina e azitromicina: 25,7%;&lt;/li&gt;
+  &lt;li&gt;Apenas hidroxicloroquina: 19,9%;&lt;/li&gt;
+  &lt;li&gt;Apenas azitromicina: 10%;&lt;/li&gt;
+  &lt;li&gt;Nenhumas das drogas: 12,7%;&lt;/li&gt;
+  &lt;li&gt;A mortalidedade total foi de 20,3%.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aplicando modelos estatiscos, a diferença nnessas taxas de óbitos não foi significativa.&lt;/p&gt;
+
+&lt;p&gt;Contudo, esses dois últimos são estudos observacionais e possuem viéses. Vou comentar a seguir.&lt;/p&gt;
+
+&lt;h2 id=&quot;fim-da-discussão&quot;&gt;Fim da discussão?&lt;/h2&gt;
+
+&lt;p&gt;Nem de longe. Os estudos que citei ainda não dão a resposta definitiva. São necessários mais estudos clínicos randomizados, com grupos de controle recebendo placebo. Só assim avaliaremos o possível benéficio individual dessas drogas.&lt;/p&gt;
+
+&lt;p&gt;Como eu já mencionei no artigo “&lt;a href=&quot;/2020/medicina/a-falacia-ecologica-e-o-estudo-correlacionando-a-vacina-bcg-com-protecao-a-covid19&quot;&gt;A falácia ecológica e o estudo correlacionando a vacina do BCG com proteção à COVID-19&lt;/a&gt;”, estudos observacionais não são adequados para avaliar desfechos individuais. Estes estudos estão sujeitos a vários viéses. Por exemplo, há o viés do médico que está escolhendo para quais pacientes vai dar os medicamentos. Então, é possível que os médicos estejam dando a medicação para os pacientes que eles julgam serem os mais graves.&lt;/p&gt;
+
+&lt;p&gt;De qualquer forma, até o momento os estudos disponíveis vão nos mostrando cada vez mais que o estudo francês sofreu de um grande viés. Nenhum estudo foi capaz de demonstrar as impressionantes taxas de recuperação apresentadas por eles.&lt;/p&gt;
+
+&lt;p&gt;Além disso, como comentei anteriormente, a cloroquina já tem um histórico de falsas esperanças.&lt;/p&gt;
+
+&lt;p&gt;Vamos lembrar aqui que nem a hidroxicloroquina e nem a azitromicina são drogas isentas de risco. A cloroquina pode acarretar efeitos colaterais como: reações adversas cutâneas graves, insuficiência hepática fulminante e arritmias ventriculares, especialmente quando prescritas com azitromicina.&lt;/p&gt;
+
+&lt;p&gt;Vale a pena continuar dando cloroquina ou hidroxicloroquina para todo mundo? Nem sabemos a dimensão do risco &lt;em&gt;versus&lt;/em&gt; benefício.&lt;/p&gt;
+
+&lt;p&gt;E na política a saga da cloroquina continua a todo vapor. Bolsonaro continua insistindo no uso do fármaco em todos pacientes com COVID-19. O auge foi essa matéria da Valor: “&lt;a href=&quot;https://valor.globo.com/politica/noticia/2020/05/14/bolsonaro-exige-que-ministro-da-sade-recomende-a-cloroquina.ghtml&quot;&gt;Bolsonaro ‘exige’ que ministro da Saúde recomende a cloroquina&lt;/a&gt;”.&lt;sup id=&quot;fnref:Valor&quot;&gt;&lt;a href=&quot;#fn:Valor&quot; class=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Enquanto eu escrevia esse texto, o então ministro da Saúde, Nelson Teich, anuncia a sua demissão.&lt;sup id=&quot;fnref:Lauro&quot;&gt;&lt;a href=&quot;#fn:Lauro&quot; class=&quot;footnote&quot;&gt;14&lt;/a&gt;&lt;/sup&gt; Provavelmente foi devido às desavenças em relação ao isolamento social e ao uso de cloroquina, medicamento que Bolsonaro continua defendendo cegamente.&lt;/p&gt;
+
+&lt;p&gt;Até o presente momento, não existe tratamento farmacológico para a COVID-19. Infelizmente.&lt;/p&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Gautret&quot;&gt;
+      &lt;p&gt;Gautret P, Lagier J-C, Parola P, et al. &lt;strong&gt;Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial&lt;/strong&gt;. International Journal of Antimicrobial Agents. Published online March 2020:105949. doi: &lt;a href=&quot;https://doi.org/10.1016/j.ijantimicag.2020.105949&quot;&gt;10.1016/j.ijantimicag.2020.105949&lt;/a&gt;. &lt;a href=&quot;#fnref:Gautret&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Gautret:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Gao&quot;&gt;
+      &lt;p&gt;Gao J, Tian Z, Yang X. &lt;strong&gt;Breakthrough: chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies&lt;/strong&gt;. Biosci Trends 2020;14:72-3. doi: &lt;a href=&quot;https://doi.org/10.5582/bst.2020.0104732074550&quot;&gt;10.5582/bst.2020.0104732074550&lt;/a&gt;. &lt;a href=&quot;#fnref:Gao&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Chen&quot;&gt;
+      &lt;p&gt;Chen Z, Hu J, Zhang Z, et al. &lt;strong&gt;Efficacy of hydroxychloroquine in patients with COVID-19: results of a randomized clinical trial. Version 2&lt;/strong&gt;. medRxiv 2020.03.22.20040758. [Preprint.] doi: &lt;a href=&quot;https://doi.org/10.1101/2020.03.22.20040758&quot;&gt;10.1101/2020.03.22.20040758&lt;/a&gt;. &lt;a href=&quot;#fnref:Chen&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Luis&quot;&gt;
+      &lt;p&gt;Luis Correia. &lt;strong&gt;Hidroxicloroquina: o dia em que a ciência parou&lt;/strong&gt;. Blog Medicina Baseada em Evidências. Publicado em 20 de Março de 2020. Acessado em 14 de Maio de 2020. Disponível em: &lt;a href=&quot;http://medicinabaseadaemevidencias.blogspot.com/2020/03/hidroxicloroquina-o-dia-em-que-ciencia.html&quot;&gt;http://medicinabaseadaemevidencias.blogspot.com/2020/03/hidroxicloroquina-o-dia-em-que-ciencia.html&lt;/a&gt;. &lt;a href=&quot;#fnref:Luis&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Cloroquina-estadao&quot;&gt;
+      &lt;p&gt;Estadão. &lt;strong&gt;Depoimento: ‘Comprava tranquilamente uma ou duas caixas de cloroquina, mas tudo mudou’&lt;/strong&gt;. Publicado em 21 de Março de 2020. Acessado em 15 de Maio de 2020. Disponível em: &lt;a href=&quot;https://saude.estadao.com.br/noticias/geral,depoimento-comecei-a-percorrer-as-farmacias-atras-da-hidroxicloroquina,70003242390&quot;&gt;https://saude.estadao.com.br/noticias/geral,depoimento-comecei-a-percorrer-as-farmacias-atras-da-hidroxicloroquina,70003242390&lt;/a&gt;. &lt;a href=&quot;#fnref:Cloroquina-estadao&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Wang&quot;&gt;
+      &lt;p&gt;Wang M, Cao R, Zhang L, et al. &lt;strong&gt;Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro&lt;/strong&gt;. Cell Res. 2020;30(3):269‐271. doi: &lt;a href=&quot;https://doi.org/0.1038/s41422-020-0282-0&quot;&gt;10.1038/s41422-020-0282-0&lt;/a&gt;. &lt;a href=&quot;#fnref:Wang&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Wang:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Ferner&quot;&gt;
+      &lt;p&gt;Ferner RE, Aronson JK. &lt;strong&gt;Chloroquine and hydroxychloroquine in covid-19&lt;/strong&gt;. BMJ. Published online April 8, 2020:m1432. doi: &lt;a href=&quot;https://doi.org/10.1136/bmj.m1432&quot;&gt;10.1136/bmj.m1432&lt;/a&gt;. &lt;a href=&quot;#fnref:Ferner&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Ferner:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Inglot&quot;&gt;
+      &lt;p&gt;Inglot AD. &lt;strong&gt;Comparison of the antiviral activity in vitro of some non-steroidal anti-inflammatory drugs&lt;/strong&gt;. Journal of General Virology. 1969;4(2):203-214. doi: &lt;a href=&quot;https://doi.org/10.1099/0022-1317-4-2-203&quot;&gt;10.1099/0022-1317-4-2-203&lt;/a&gt;. &lt;a href=&quot;#fnref:Inglot&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Desinfetante&quot;&gt;
+      &lt;p&gt;The New York Times. &lt;strong&gt;Trump’s Suggestion That Disinfectants Could Be Used to Treat Coronavirus Prompts Aggressive Pushback&lt;/strong&gt;. Publicado em 24 de Abril de 2020. Acessado em 15 de Maio de 2020. Disponível em: &lt;a href=&quot;https://www.nytimes.com/2020/04/24/us/politics/trump-inject-disinfectant-bleach-coronavirus.html&quot;&gt;https://www.nytimes.com/2020/04/24/us/politics/trump-inject-disinfectant-bleach-coronavirus.html&lt;/a&gt;. &lt;a href=&quot;#fnref:Desinfetante&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Borba&quot;&gt;
+      &lt;p&gt;Borba MGS, Val FFA, Sampaio VS, et al. &lt;strong&gt;Effect of High vs Low Doses of Chloroquine Diphosphate as Adjunctive Therapy for Patients Hospitalized With Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection: A Randomized Clinical Trial&lt;/strong&gt;. JAMA Netw Open. 2020;3(4):e208857. Published 2020 Apr 24. doi: &lt;a href=&quot;https://doi.org/10.1001/jamanetworkopen.2020.8857&quot;&gt;10.1001/jamanetworkopen.2020.8857&lt;/a&gt;. &lt;a href=&quot;#fnref:Borba&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Geleris&quot;&gt;
+      &lt;p&gt;Geleris J, Sun Y, Platt J, et al. &lt;strong&gt;Observational study of hydroxychloroquine in hospitalized patients with covid-19&lt;/strong&gt;. N Engl J Med. Published online May 7, 2020:NEJMoa2012410. doi: &lt;a href=&quot;https://doi.org/10.1056/NEJMoa2012410&quot;&gt;10.1056/NEJMoa2012410&lt;/a&gt;. &lt;a href=&quot;#fnref:Geleris&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Rosenberg&quot;&gt;
+      &lt;p&gt;Rosenberg ES, Dufort EM, Udo T, et al. &lt;strong&gt;Association of treatment with hydroxychloroquine or azithromycin with in-hospital mortality in patients with covid-19 in new york state&lt;/strong&gt;. JAMA. Published online May 11, 2020. doi: &lt;a href=&quot;https://doi.org/10.1001/jama.2020.8630&quot;&gt;10.1001/jama.2020.8630&lt;/a&gt;. &lt;a href=&quot;#fnref:Rosenberg&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Valor&quot;&gt;
+      &lt;p&gt;Fabio Murakawa. &lt;strong&gt;Bolsonaro ‘exige’ que ministro da Saúde recomende a cloroquina&lt;/strong&gt;. Valor. Publicado em 14 de Maio de 2020. Acessado em 15 de Maior de 2020. Disponível em: &lt;a href=&quot;https://valor.globo.com/politica/noticia/2020/05/14/bolsonaro-exige-que-ministro-da-sade-recomende-a-cloroquina.ghtml&quot;&gt;https://valor.globo.com/politica/noticia/2020/05/14/bolsonaro-exige-que-ministro-da-sade-recomende-a-cloroquina.ghtml&lt;/a&gt;. &lt;a href=&quot;#fnref:Valor&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:Lauro&quot;&gt;
+      &lt;p&gt;Lauro Jardim. &lt;strong&gt;Teich pede demissão&lt;/strong&gt;. O Globo. Publicado e acessado em 15 de Maio de 2020. Disponível em: &lt;a href=&quot;https://blogs.oglobo.globo.com/lauro-jardim/post/teich-pede-demissao.html&quot;&gt;https://blogs.oglobo.globo.com/lauro-jardim/post/teich-pede-demissao.html&lt;/a&gt;. &lt;a href=&quot;#fnref:Lauro&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="COVID-19" /><category term="MBE" /><summary type="html">Finalmente decidi escrever sobre a cloroquina. Já fazem meses desde que essa discussão começou e essa semana saíram novos estudos sobre a possível eficácia da droga.</summary></entry><entry><title type="html">Meu primeiro plantão de 12 horas</title><link href="http://localhost:4000/2020/primeiro-plantao-12h" rel="alternate" type="text/html" title="Meu primeiro plantão de 12 horas" /><published>2020-05-13T00:00:00-03:00</published><updated>2020-05-13T00:00:00-03:00</updated><id>http://localhost:4000/2020/primeiro-plantao-12h</id><content type="html" xml:base="http://localhost:4000/2020/primeiro-plantao-12h">&lt;p&gt;Depois de dias lendo e pesquisando apenas sobre a pandemia de COVID-19, resolvi me dar uma folga do coronavirus. Vou aproveitar esses dias de quarentena para finalizar alguns rascunhos de postagens que eu vinha escrevendo.&lt;/p&gt;
 
 &lt;p&gt;Já fazem meses que dei meu primeiro plantão de 12 horas. E já dei vários depois desse. Há muito tempo que eu queria escrever esse texto, mas fui adiando e adiando por falta de tempo até cair no ostracismo. Finalmente terminei de escrever pra deixar documentado esse momento único da minha vida.&lt;/p&gt;
 
@@ -752,16 +940,4 @@
       &lt;p&gt;Rebmann, T., R. Carrico, and J. Wang: &lt;strong&gt;Physiologic and other effects and compliance with long-term respirator use among medical intensive care unit nurses&lt;/strong&gt;. American Journal of Infection Control 41(12):1218-1223(2013). &lt;a href=&quot;#fnref:tocar&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="COVID-19" /><category term="Vivências" /><summary type="html">Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.</summary></entry><entry><title type="html">Metas para 2020</title><link href="http://localhost:4000/2019/metas-para-2020" rel="alternate" type="text/html" title="Metas para 2020" /><published>2019-12-31T21:10:00-03:00</published><updated>2019-12-31T21:10:00-03:00</updated><id>http://localhost:4000/2019/metas-para-2020</id><content type="html" xml:base="http://localhost:4000/2019/metas-para-2020">&lt;p&gt;Nada representa mais o meu ano de 2019 do que ter deixado pra escrever as metas de 2020 faltando poucas horas para o ano acabar. Como vou precisar escrever rápido antes que o ano termine, fiz uma lista de metas:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Ser mais organizado:&lt;/strong&gt; sempre tentei ter uma agenda mas nunca consegui. Esse ano vou tentar novamente.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ler ao menos um livro por mês:&lt;/strong&gt; em 2019 li pouquíssimos livros. Quero fazer diferente em 2020.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Escrever quinzenalmente para o blog:&lt;/strong&gt; há anos que eu tento fazer e manter um blog. Na maioria das vezes eu acabava desistindo pois não tinha tempo e motivação suficiente para ficar postando. Mas agora estou conseguindo e pretendo manter essa rotina.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ganhar 10 Kg:&lt;/strong&gt; essa vai ser uma das metas mais difíceis. A muito tempo que tento ganhar peso. Em 2019 consegui ganhar 5 Kg. Mas continuo faltando muito à academia.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Não deixar para estudar nas vésperas de prova!!!&lt;/strong&gt; Nossa, essa meta vai ser fundamental para minha saúde acadêmica. Vamos ver se vou conseguir concretizá-la.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aprender a criticar e análisar melhor os filmes:&lt;/strong&gt; quero continuar com o &lt;em&gt;hobby&lt;/em&gt; de fazer críticas de filmes e estou tentando ler bastante sobre o assunto para evoluir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aprender a tocar piano:&lt;/strong&gt; em 2019 consegui comprar um piano com meu suado dinheiro mas ainda não parei para de fato aprender a tocar.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Acho que é isto. Espero que em 2020 eu possa ler essa lista e sentir que alcancei o objetivo. Desejo a todos um feliz ano novo, muita saúde e paz para 2020!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="Off-Topic" /><summary type="html">Nada representa mais o meu ano de 2019 do que ter deixado pra escrever as metas de 2020 faltando poucas horas para o ano acabar. Como vou precisar escrever rápido antes que o ano termine, fiz uma lista de metas:</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="COVID-19" /><category term="Vivências" /><summary type="html">Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se tornando escassos. Muita gente se pergunta se dá pra reutilizar as mesmas máscaras/respiradores N95 por vários dias. Eu mesmo só tenho uma N95 aqui comigo e provavelmente vou precisar usá-la mais de uma vez (o hospital não disponibiliza esse tipo de máscara, apenas a cirúrgica). Então, resolvi fazer uma busca de artigos e recomendações técnicas sobre a viabilidade e segurança de reutilizar essas máscaras.</summary></entry></feed>
