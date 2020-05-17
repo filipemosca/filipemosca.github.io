@@ -518,8 +518,8 @@ video {
 
 // Quadro para Newsletter e apresentação
 .quadro {
-  // background: radial-gradient(circle at 20% 20%, #68d33d 25%, #356821 100%);
-  background-color: #4764f1 !important;
+  background: radial-gradient(circle at 20% 20%,#517bdd 25%,#4640ff 100%);
+  // background-color: #4764f1 !important;
   // border: 1px solid #0c2ec5 !important;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
   margin-right: 30px;
@@ -561,6 +561,34 @@ video {
   font-family: Noto Sans, Helvetica, sans-serif;
   line-height: 1.5rem;
 }
+
+
+// Quadro do Sobre o autor
+.quadro-autor {
+  background: radial-gradient(circle at 20% 20%,#3f69c9 25%,#4640ff 100%);
+  // background-color: #4764f1 !important;
+  // border: 1px solid #0c2ec5 !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  border-radius: 10px;
+  color: white;
+  padding: 10px 10px 10px 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  p, h3 {
+    color: whitesmoke;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 0.9em;
+  }
+}
+.assinar-autor {
+  margin-top: 5px;
+}
+.autor-icon {
+  width: 16px;
+  fill: #2444e4;
+}
+
 
 
 // ícones de seguir redes sociais

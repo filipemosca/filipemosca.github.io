@@ -167,7 +167,7 @@ video { display: block; margin: 0 auto; max-width: 100%; margin-top: 20px; margi
 
 .item-inferior { max-width: 300px; margin: 0 auto; }
 
-.quadro { background-color: #4764f1 !important; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important; margin-right: 30px; margin-left: 30px; border-radius: 10px; padding: 15px 4px 5px 4px; }
+.quadro { background: radial-gradient(circle at 20% 20%, #517bdd 25%, #4640ff 100%); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important; margin-right: 30px; margin-left: 30px; border-radius: 10px; padding: 15px 4px 5px 4px; }
 
 .foto { border-radius: 50%; max-width: 100px; margin: 0 auto; display: block; }
 
@@ -178,6 +178,13 @@ video { display: block; margin: 0 auto; max-width: 100%; margin-top: 20px; margi
 .assinar:visited { color: #2444e4 !important; }
 
 .texto-assine { color: white; font-size: 1.15rem; font-family: Noto Sans, Helvetica, sans-serif; line-height: 1.5rem; }
+
+.quadro-autor { background: radial-gradient(circle at 20% 20%, #3f69c9 25%, #4640ff 100%); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important; border-radius: 10px; color: white; padding: 10px 10px 10px 10px; margin-top: 40px; margin-bottom: 40px; }
+.quadro-autor p, .quadro-autor h3 { color: whitesmoke; margin-top: 5px; margin-bottom: 5px; font-size: 0.9em; }
+
+.assinar-autor { margin-top: 5px; }
+
+.autor-icon { width: 16px; fill: #2444e4; }
 
 .redes { margin: 0 auto; width: 100%; text-align: center; padding-top: 20px; }
 .redes p { margin-bottom: 0; margin-top: 0; }
