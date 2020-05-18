@@ -18,7 +18,7 @@
 
 .scroll::-webkit-scrollbar:horizontal { height: 12px; }
 
-article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption { margin-right: 20px; margin-left: 20px; }
+article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption, article ul, article ol { margin-right: 20px; margin-left: 20px; }
 article p, article ol li, article ul li { font-family: 'Noto Serif'; }
 article > ol li { padding-bottom: 0.8em; }
 article a { word-break: break-word; text-decoration: underline; }
@@ -257,7 +257,7 @@ pre { margin: 20px; padding: 20px; color: #aaa; background-color: #222; white-sp
 
 kbd { background-color: #eee; border-radius: 3px; border: 1px solid #b4b4b4; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), 0 2px 0 0 rgba(255, 255, 255, 0.7) inset; color: #333; display: inline-block; font-size: .85em; font-weight: 700; line-height: 1; padding: 2px 4px; white-space: nowrap; }
 
-blockquote { border-style: solid; border-width: 0 0 0 .2rem; border-color: #6f42c1; padding: .5rem 0 .5rem 2rem; }
+blockquote { border-style: solid; border-width: 0 0 0 .2rem; border-color: #6f42c1; padding: 2px 10px 2px 20px; margin-left: 20px; }
 blockquote p { color: #706969; }
 
 q { font-style: italic; }
