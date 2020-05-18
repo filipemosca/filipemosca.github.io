@@ -818,13 +818,15 @@ kbd {
   white-space: nowrap;
 }
 blockquote {
-  position: relative;
-  font-family: 'Sanchez', serif;
-  font-style: italic;
-  text-align: center;
+  border-style: solid;
+  border-width: 0 0 0 .2rem;
+  border-color: #6f42c1;
+  padding: .5rem 0 .5rem 2rem;
+  p { 
+    color: rgb(112, 105, 105);
+}
 }
 q {
-  font-family: 'Sanchez', serif;
   font-style: italic;
 }
 hr {

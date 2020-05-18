@@ -101,6 +101,12 @@
 <loc>http://localhost:4000/sobre</loc>
 </url>
 <url>
+<loc>http://localhost:4000/listas/covid-19.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/listas/hcq-covid19.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/assets/picol/</loc>
 </url>
 <url>

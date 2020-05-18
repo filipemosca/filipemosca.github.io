@@ -257,9 +257,10 @@ pre { margin: 20px; padding: 20px; color: #aaa; background-color: #222; white-sp
 
 kbd { background-color: #eee; border-radius: 3px; border: 1px solid #b4b4b4; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), 0 2px 0 0 rgba(255, 255, 255, 0.7) inset; color: #333; display: inline-block; font-size: .85em; font-weight: 700; line-height: 1; padding: 2px 4px; white-space: nowrap; }
 
-blockquote { position: relative; font-family: 'Sanchez', serif; font-style: italic; text-align: center; }
+blockquote { border-style: solid; border-width: 0 0 0 .2rem; border-color: #6f42c1; padding: .5rem 0 .5rem 2rem; }
+blockquote p { color: #706969; }
 
-q { font-family: 'Sanchez', serif; font-style: italic; }
+q { font-style: italic; }
 
 hr { border: 0; height: 1px; background-image: linear-gradient(to right, rgba(189, 189, 189, 0), rgba(211, 211, 211, 0.75), rgba(201, 201, 201, 0)); }
 
