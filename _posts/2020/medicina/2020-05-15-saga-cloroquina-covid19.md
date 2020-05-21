@@ -138,6 +138,11 @@ Enquanto eu escrevia esse texto, o então ministro da Saúde, Nelson Teich, anun
 
 Até o presente momento, não existe tratamento farmacológico para a COVID-19. Infelizmente.
 
+**Editado:** logo na véspera de eu publicar este artigo saiu um artigo do BMJ que não tinha dado tempo de ler. Vou acrescentar aqui:
+
+Dia 14 de Maio o BMJ publicou um estudo clínico randomizado e com controles, mas não duplo cego.[^Tang] O estudou envolveu 150 pacientes de 16 hospitais chineses. Estes foram divididos em dois grupos: 75 recebendo hidroxicloroquina e 75 recebendo apenas o tratamento não farmacológico. O estudou concluiu que não houve diferença na taxa de negativação viral após 28 dias de hospitalização entre os dois grupos. Acredito que esse seja o estudo mais interessante, pois avaliou o mesmo desfecho do estudo francês que deu início a tudo: a cura virológica. Enquanto o estudo francês mostrou excelentes resultados de cura virológica, esse do BMJ não mostrou nenhum benefício da droga em relação ao grupo sem tratamento. Além disso, os eventos adversos foram muito mais comuns no grupo fazendo uso da hidroxicloroquina, principalmente os episódios de diarreia.
+
+
 ## Citações
 
 [^Luis]: Luis Correia. **Hidroxicloroquina: o dia em que a ciência parou**. Blog Medicina Baseada em Evidências. Publicado em 20 de Março de 2020. Acessado em 14 de Maio de 2020. Disponível em: <http://medicinabaseadaemevidencias.blogspot.com/2020/03/hidroxicloroquina-o-dia-em-que-ciencia.html>.
@@ -167,3 +172,5 @@ Até o presente momento, não existe tratamento farmacológico para a COVID-19. 
 [^Lauro]: Lauro Jardim. **Teich pede demissão**. O Globo. Publicado e acessado em 15 de Maio de 2020. Disponível em: <https://blogs.oglobo.globo.com/lauro-jardim/post/teich-pede-demissao.html>.
 
 [^Inglot]: Inglot AD. **Comparison of the antiviral activity in vitro of some non-steroidal anti-inflammatory drugs**. Journal of General Virology. 1969;4(2):203-214. doi: [10.1099/0022-1317-4-2-203](https://doi.org/10.1099/0022-1317-4-2-203).
+
+[^Tang]: Tang W, Cao Z, Han M, et al. Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial. BMJ. Published online May 14, 2020:m1849. doi: [10.1136/bmj.m1849](https://doi.org/10.1136/bmj.m1849)
