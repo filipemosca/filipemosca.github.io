@@ -47,27 +47,15 @@ O epitélio alveolar é formado por dois tipos de células: os **pneumócitos ti
 
 A primeira descrição patológica de um paciente com COVID-19 foi realizada por Xu et al. e publicada na revista *The Lancet*.[^Xu] O padrão de acometimento segue o padrão da sindrome do desconforto respiratório agudo (SDRA) que também acontece nas infecções por influenza, outros coronaírus e também pneumonias bacterianas. Agora vamos entender um pouco como ocorre a lesão nos pulmões.
 
-Uma vez dentro dos alvéolos, o SARS-CoV-2 vai infectar principalmente os pneumócitos tipo II. Essas células infectadas sofrem apoptose (morte celular) após a replicação e liberação de novos vírus. Essa destruição dos pneumócitos vai gerando uma dano alveolar difuso e comprometendo a função dos pulmões.
+Uma vez dentro dos alvéolos, o SARS-CoV-2 vai infectar as células que expressam os receptores ACE2, principalmente os pneumócitos tipo II. Essas células infectadas sofrem apoptose (morte celular) após a replicação e liberação de novos vírus. Essa destruição dos pneumócitos vai gerando uma dano alveolar difuso e comprometendo a função dos pulmões.[^Jin] Em reposta à invasão, tecido pulmonar inicia uma reposta inflamatória para tentar conter o vírus.[^Bourgonje]
 
-Essa foi a descrição de uma alvéolo saudável. Contudo, quando o SARS-CoV chega até essas estruturas, ele se depara com a alta expressão do receptor ACE2 nos pneumócitos tipo II e invade essas células. Em reposta à invasão, tecido pulmonar inicia uma reposta inflamatória para tentar conter o vírus.[^Bourgonje]
+Na inflamação, a permeabilidade das membranas plasmáticas, tanto dos alvéolos como dos capilares sanguínenos, é alterada e isso resulta em maior extravasamento de líquido para fora dos vasos e para dentro dos alvéolos. Esse líquido cheio de proteínas é chamado de **exsudato** e começa a se acumular tanto no espaçaco entre os vasos e o alvéolo como no espaço intra-alveolar que outrora era preenchido sumariamente por ar.[^Pierrakos]
 
-Na inflamação em resposta à infecção, a permeabilidade das membranas plasmáticas, tanto dos alvéolos como dos capilares sanguínenos, é alterada e isso resulta em maior extravasamento de líquido para dentro dos alvéolos. Esse líquido cheio de proteínas é chamado de **exsudato** e começa a se acumular no espaço alveolar que outrora era preenchido sumariamente por ar.[^Pierrakos]
-
-A contínua destruição e reparo da parede alveolar vai resultar em extrema desorganização das estrutura, o que chamamos de **lesão alveolar difusa**. Na imagem abaixo extraída de um artigo sobre H1N1[^Buttignol] dá pra ver um pouco as alterações histológicas que ocorrem no pulmão.
+Provavelmente deve ter ficado confuso. A imagem abaixo vai esclarecer melhor. Notem que o alvéolo saudável está praticamente colado ao vaso sanguíneo, permitindo boas trocas gasosas. Já no alvéolo inflamado e cheio de líquido, o ar não entra com facilidade, além de ter uma camada de líquido exsudativo separando a parede alveolar do vaso sanguíneo.
 
 <figure>
-<img src="/assets/2020/covid-dispneia/12931_2017_630_Fig1_HTML.jpg" alt="Lâmina histológica">
-<figcaption>Na esquerda temos uma lâmina de um pulmão normal mostrando as finas paredes alveolares. Na direita é uma lâmina de pulmão com dano alveolar difuso caracetístico da SDRA. Percebam a formação de membrana hialina (hm) e a intensa desorganização com infiltrado celular (resumindo: uma imagem bem mais bagunçada).</figcaption>
-</figure>
-
-
-e a presença de infiltrado alveolar são as duas condições hitopatológicas que caracterizam a síndrome do desconforto respiratório agudo (SDRA). Aqui no Brasil, quando o acometimento é causado por um vírus, chamamos de sindrome respiratória aguda grave (SRAG).
-
-Na imagem abaixo extraida do artigo de Thompson et al.[^Thompson], podemos ver a comparação de um alvéolo saudável com um alvéolo acometido pela SDRA.
-
-<figure>
-<img src="/assets/2020/covid-dispneia/alveolo.jpeg" alt="Alvéolo saudável x acometido">
-<figcaption>Na esquerda, um recorte de alvéolo normal. Na direita, um exemplo das alterações de um alvéolo da SDRA. Observem o acumulo de líquido e a destruição estrutural.</figcaption>
+<img src="/assets/2020/covid-dispneia/alveoli.png" alt="Alvéolo saudável x acometido">
+<figcaption>Na esquerda um alvéolo saudável e na direita um alvéolo inflamado.</figcaption>
 </figure>
 
 Macrófagos começam a liberar citocinas pró-inflamatórias vão dando início ao processo inflamatório. Em toda inflamação ocorre aumento da permeabilidade das membranas celulares. Essa alteração na permeabilidade de certa forma é importante para permitir que as células de defesa atravessem as membranas e chegem até o espaço alveolar. Ela permite que neutrófilos, células de defesa, migrem até os alvéolos para responder aos microorganismos invasores.
@@ -76,26 +64,32 @@ Na verdade, toda inflamação cursa com aumento na permeabilidade dos vasos e fo
 
 Contudo, o acumulo excessivo de líquido que começa a extravasar no espaço entre os alvéolos e os capilares sanguíneos dificulta ou até impossibilita a troca de gases. Ou seja, o agravamento da doença resulta de uma desregulação do sistema imunológico em que há um desequilíbrio entre os fatores pró-inflamatórios e anti-inflamatórios. É como se a inflamação saísse de controle e começasse a prejudicar o próprio pulmão.
 
-Com a destruição dos pneumócitos tipo II o surfactante vai deixando de ser produzido e com isso os alvéolas começam a colabar sem conseguir se expandir.
+Com a destruição dos pneumócitos tipo II o surfactante vai deixando de ser produzido e com isso os alvéolas começam a colabar sem conseguir se expandir. Além disso, as paredes dos alvéolos começam a ser revesitas por uma **membrana hialina**, resultande da condensão do edema rico em proteínas que vai acumulando restos de células mortas.
+
+
+A contínua destruição e reparo da parede alveolar vai resultar em extrema desorganização das estrutura, o que chamamos de **lesão alveolar difusa**. Na imagem abaixo, extraída de um artigo sobre H1N1,[^Buttignol] dá pra ver um pouco as alterações histológicas que ocorrem no pulmão.
+
+<figure>
+<img src="/assets/2020/covid-dispneia/12931_2017_630_Fig1_HTML.jpg" alt="Lâmina histológica">
+<figcaption>Na esquerda temos uma lâmina de um pulmão normal mostrando as finas paredes alveolares. Na direita é uma lâmina de pulmão com dano alveolar difuso caracetístico da SDRA. Percebam a formação de membrana hialina (hm) e a intensa desorganização com infiltrado celular (resumindo: uma imagem bem mais bagunçada).</figcaption>
+</figure>
+
+Na imagem abaixo extraida do artigo de Thompson et al.[^Thompson], podemos ver a comparação de um alvéolo saudável com um alvéolo acometido pela SDRA.
+
+<figure>
+<img src="/assets/2020/covid-dispneia/alveolo.jpeg" alt="Alvéolo saudável x acometido">
+<figcaption>Na esquerda, um recorte de alvéolo normal. Na direita, um exemplo das alterações de um alvéolo da SDRA. Observem o acumulo de líquido e a destruição estrutural.</figcaption>
+</figure>
 
 Até a via de coagulação, com aumento da coagulabilidade do sangue, se envolve nessa "confusão" chamada de inflamação. Mas não quero entrar muito nesse detalhe.
+
+# A falta de ar
 
 Essas regiões inflamadas vão aumentando o que chamamos de **espaço morto pulmonar**, um espaço do pulmão em que o ar não está participa das trocas gasosas, servindo como uma reserva de acumulo de gás carbônico. 
 
 Também ocorre que a gente chama de "alteração da ventilação-perfusão". O sangue chega até os alvéolos (perfusão) mas os gases não são trocados, não ocorre a hematose (ventilação). O resultado é a **hipoxema**, a diminuição na concentração de oxigênio dissolvido no sangue. E isso vai resultar clinicamente na falta de ar observada nos pacientes mais graves para a COVID-19.
 
-
-<figure>
-<img src="/assets/2020/covid-dispneia/alveoli.png" alt="Alvéolo saudável x acometido">
-<figcaption></figcaption>
-</figure>
-
-
-Além disso, as paredes dos alvéolos começam a ser revesitas por uma **membrana hialina**, resultande da condensão do edema rico em proteínas que vai acumulando restos de células mortas.
-
-um acúmulo da proteína fibrina que vai tentando "regenerar" as célulasque vão morrendo.
-
-Aliás, as nomeclaturas e os conceitos são muito confusos. Basicamente a mesma situação recebe vários noves: SARA (síndrome da angustia respiratória aguda), SRAG (síndrome respiratória aguda grave), SDRA (síndrome do desconforto respiratório agudo). Provavelmente cada denominação tem algum uso específico mas aqui vou assumir que é tudo a mesma coisa.
+Essa hipoxemia é o que vai provocar a falta de ar. Menos oxigênio está chegando ao sangue e sendo distribuído aos tecidos. Para tentar compensar essa deficiência, os pacientes começam a respirar mais rápido, inspirando o ar com mais frequência para tentar captar mais oxigênio. Se a doença for avançando, o paciente pode não conseguir mais respirar sozinho e necessitar de um ventilador mecânico que exerça pressão positiva, empurrando o ar para dentro dos alvéolos.
 
 Resumindo: o pulmão infectado e inflamado fica cheio de líquido o que dificulta ou mesmo impede as trocas gasos e, consequentemente, a respiração.
 
