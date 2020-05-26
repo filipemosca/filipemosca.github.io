@@ -403,12 +403,13 @@ nav {
   padding-left: 2rem;
   margin-left: 1.5rem;
   display: inline-block;
-  border-color: black;
-  border: 1px solid;
   border-radius: 1rem;
   font-size: 1rem;
+  a {
+    text-decoration: none;
+  }
   a:hover {
-    color: #686868;
+    text-decoration: underline;
   }
 }
 
@@ -831,9 +832,7 @@ q {
   font-style: italic;
 }
 hr {
-  border: 0;
-  height: 1px;
-  background-image: linear-gradient(to right, rgba(189, 189, 189, 0), rgba(211, 211, 211, 0.75), rgba(201, 201, 201, 0));
+
 }
 
 

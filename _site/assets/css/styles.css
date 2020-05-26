@@ -123,8 +123,9 @@ nav a:visited { color: black; }
 
 #markdown-toc::before { content: "Sumário"; font-weight: bold; font-size: 1.2rem; }
 
-#markdown-toc { max-width: 300px; padding: 1.5em; padding-left: 2rem; margin-left: 1.5rem; display: inline-block; border-color: black; border: 1px solid; border-radius: 1rem; font-size: 1rem; }
-#markdown-toc a:hover { color: #686868; }
+#markdown-toc { max-width: 300px; padding: 1.5em; padding-left: 2rem; margin-left: 1.5rem; display: inline-block; border-radius: 1rem; font-size: 1rem; }
+#markdown-toc a { text-decoration: none; }
+#markdown-toc a:hover { text-decoration: underline; }
 
 h1 { text-align: left; margin-bottom: 5px; max-width: 600px; }
 
@@ -261,8 +262,6 @@ blockquote { border-style: solid; border-width: 0 0 0 .2rem; border-color: #6f42
 blockquote p { color: #706969; }
 
 q { font-style: italic; }
-
-hr { border: 0; height: 1px; background-image: linear-gradient(to right, rgba(189, 189, 189, 0), rgba(211, 211, 211, 0.75), rgba(201, 201, 201, 0)); }
 
 .instagram-div { max-width: 500px; margin-right: auto; margin-left: auto; }
 
