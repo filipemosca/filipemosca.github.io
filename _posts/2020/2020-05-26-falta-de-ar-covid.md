@@ -107,7 +107,7 @@ Até a via de coagulação, com aumento da coagulabilidade do sangue, se envolve
 
 Essas regiões inflamadas vão aumentando o que chamamos de **espaço morto pulmonar**, um espaço do pulmão que tem ar mas não está participa das trocas gasosas, servindo apenas como uma reserva de gás carbônico. Ou seja, é um espaço inútil para a respiração. 
 
-Também ocorre que a gente chama de "**alteração da ventilação-perfusão**". O sangue chega até os alvéolos (perfusão) mas os gases não são trocados, não ocorre a hematose (ventilação). O resultado é a **hipoxema**, a diminuição na concentração de oxigênio dissolvido no sangue. E isso vai resultar clinicamente na falta de ar observada nos pacientes mais graves para a COVID-19.
+Também ocorre que a gente chama de "**alteração da ventilação-perfusão**". O sangue chega até os alvéolos (perfusão) mas os gases não são trocados, não ocorre a hematose (ventilação). O resultado é a **hipoxemia**, a diminuição na concentração de oxigênio dissolvido no sangue. E isso vai resultar clinicamente na falta de ar observada nos pacientes mais graves para a COVID-19.
 
 Menos oxigênio está chegando ao sangue e sendo distribuído aos tecidos. Para tentar compensar essa deficiência, os pacientes começam a respirar mais rápido, inspirando o ar com mais frequência, tentando captar mais oxigênio. Se a doença for avançando, o paciente pode não conseguir mais respirar sozinho e necessitar de um ventilador mecânico que exerça pressão positiva, empurrando o ar para dentro dos alvéolos.
 
