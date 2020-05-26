@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-25T22:25:49-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.</subtitle><entry><title type="html">Lista de leitura sobre a COVID-19</title><link href="http://localhost:4000/listas/covid19" rel="alternate" type="text/html" title="Lista de leitura sobre a COVID-19" /><published>2020-05-25T00:00:00-03:00</published><updated>2020-05-25T00:00:00-03:00</updated><id>http://localhost:4000/listas/lista-covid19</id><content type="html" xml:base="http://localhost:4000/listas/covid19">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-26T13:07:55-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.</subtitle><entry><title type="html">Lista de leitura sobre a COVID-19</title><link href="http://localhost:4000/listas/covid19" rel="alternate" type="text/html" title="Lista de leitura sobre a COVID-19" /><published>2020-05-25T00:00:00-03:00</published><updated>2020-05-25T00:00:00-03:00</updated><id>http://localhost:4000/listas/lista-covid19</id><content type="html" xml:base="http://localhost:4000/listas/covid19">&lt;style&gt;
 .wrapper {
   max-width: 1000px;
   margin: 0 auto;
@@ -138,9 +138,17 @@ padding-left: 20px;
 
 &lt;h1 id=&quot;radiologia&quot;&gt;Radiologia&lt;/h1&gt;
 
+&lt;p&gt;Estudo sobre o padrão de vidro fosco mas não relacionado à COVID-19. Fala, por exemplo, como é um padrão inespecífico que pode ser visto em: inflamação, lesão, edema, hemorragia, fibrose focal, câncer ou hiperplasia adenomatosa atípica.&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Wang M, Guo L, Chen Q, Xia G, Wang B. Typical radiological progression and clinical features of patients with coronavirus disease 2019 [published online ahead of print, 2020 May 2]. Aging (Albany NY). 2020;12:10.18632/aging.103170. doi:10.18632/aging.103170. &lt;a href=&quot;:/9f95e53130e2433b8e15c87f21feb868&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Shi H, Han X, Jiang N, et al. Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis. 2020;20(4):425‐434. doi:10.1016/S1473-3099(20)30086-4&lt;/li&gt;
+  &lt;li&gt;Yu H, Liu S, Zhang C, et al. Computed tomography and pathology evaluation of lung ground-glass opacity. Exp Ther Med. 2018;16(6):5305‐5309. doi:10.3892/etm.2018.6886&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wang M, Guo L, Chen Q, Xia G, Wang B. Typical radiological progression and clinical features of patients with coronavirus disease 2019 [published online ahead of print, 2020 May 2]. Aging (Albany NY). 2020;12:10.18632/aging.103170. doi:10.18632/aging.103170.&lt;/li&gt;
+  &lt;li&gt;Shi H, Han X, Jiang N, et al. Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis. 2020;20(4):425‐434. doi:10.1016/S1473-3099(20)30086-4.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -163,7 +171,7 @@ padding-left: 20px;
 &lt;p&gt;O editorial do The Lancet criticando Bolsonaro e as ações d governo brasileiro:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;The Lancet. COVID-19 in Brazil: “So what?” The Lancet. 2020;395(10235):1461. doi:10.1016/S0140-6736(20)31095-3.&lt;a href=&quot;:/ed5eb604f832481aa3e35c7113bfc9e2&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Lancet. COVID-19 in Brazil: “So what?” The Lancet. 2020;395(10235):1461. doi:10.1016/S0140-6736(20)31095-3.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;bcg&quot;&gt;BCG&lt;/h1&gt;
