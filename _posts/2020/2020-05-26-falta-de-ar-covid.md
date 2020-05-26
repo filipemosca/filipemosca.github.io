@@ -3,7 +3,7 @@ title: Por que o coronavirus provoca falta de ar?
 tags: [COVID-19, Educação]
 ---
 
-Me inspirei a escrever esse texto após ler um artigo muito bom e muito bem feito do *New York Times*, "*[In the Fight to Treat Coronavirus, Your Lungs Are a Battlefield](https://www.nytimes.com/interactive/2020/05/08/health/coronavirus-covid-lungs-ventilators.html)*".[^nyt] Mas aqui nesse texto eu vou focar mais na parte dos mecanismos que causam a falta de ar e a chamada SDRA (síndrome do desconforto respiratório agudo).
+Me inspirei a escrever esse texto após ler um artigo muito bom e muito bem feito do *New York Times*, "*[In the Fight to Treat Coronavirus, Your Lungs Are a Battlefield](https://www.nytimes.com/interactive/2020/05/08/health/coronavirus-covid-lungs-ventilators.html)*".[^nyt] Mas aqui nessa postagem vou focar mais na parte dos mecanismos que causam a falta de ar e a SDRA (síndrome do desconforto respiratório agudo).
 
 Vou tentar explicar a fisiopatologia da lesão pulmonar numa linguagem que todos possam entender.
 
@@ -15,23 +15,23 @@ Quem quiser se aprofundar mais no assunto, o principal artigo que estudei foi o 
 
 # Infecção
 
-Primeiro vamos conversar sobre como nos infectamos. O novo coronavirus (SARS-CoV-2) é transmitido através de gotículas contaminadas de pessoas já infectadas. Essas gotículas quando em contato com nossas mucosas faciais (nariz, boca e olhos) permite a entrada do vírus em nosso organismo.[^Jin]
+Primeiro, vamos conversar sobre como nos infectamos. O novo coronavirus (SARS-CoV-2) é transmitido através de gotículas contaminadas de pessoas já infectadas. Essas gotículas, quando em contato com nossas mucosas faciais (nariz, boca e olhos), permite a entrada do vírus em nosso organismo.[^Jin]
 
 Uma vez em nossas muscosas, a proteína *Spike* (S) do SARS-CoV-2 se liga nos receptores da enzima conversora da angiotensina 2 (ACE2) das células epiteliais. Essa ligação ativa um mecanismo que permite a entrada do vírus no interior das célula.[^Bourgonje] [^Jin]
 
-Esse é um conceito bem curioso na microbiologia. Nos só somos infectados porque nossas células permitem a entrada do vírus. É como se os vírus "aprendessem" a se disfarçar de estruturas conhecidas do nosso corpo, enganando-o.
+Esse é um conceito bem curioso na microbiologia, nos só somos infectados porque nossas células permitem a entrada do vírus. É como se os vírus "aprendessem" a se disfarçar de estruturas conhecidas do nosso corpo, enganando-o.
 
-Várias de nossas células possuem esse receptor ACE2 e podem ser infectadas, como no estômago, intestino, coração, rins. Contudo, é principalmente no epitélio nasal e nos pulmões que o vírus se liga aos receptores e invade as células.[^Jin] O acometimento destes outros órgãos também pode acontecer, mas na maioria dos casos o SARS-CoV-2 atua no sistema respiatório, provocando uma síndrome gripal.
+Várias de nossas células possuem esse receptor ACE2 e podem ser infectadas, como no estômago, intestino, coração, rins. Contudo, é principalmente no epitélio nasal e nos pulmões que o vírus se liga aos receptores e invade as células.[^Jin] O acometimento destes outros órgãos também pode acontecer, mas na maioria dos casos o SARS-CoV-2 atua no sistema respiratório, provocando uma síndrome gripal.
 
 Após a invasão, o vírus começa a utilizar o metabolismo celular para criar cópias de si mesmo. Quando vários vírus novos são criados, eles são liberados e a célula morre. As células infectadas funcionam como fábricas para produção de novas cópias virais.
 
-Na maioria dos infectados (aproximadamente 80-90%), a infecção se resumo ao trato respiratório superior. A atividade do vírus na região nasal provoca sintomas como coriza, perda do olfato, dor de garganta e tosse. Além disso, alguns sintomas mais gerais como fraqueza, dor de cabeça e febre podem aparecer.[^Mason] [^Jin]
+Na maioria dos infectados (aproximadamente 80-90%), a infecção se restringe ao trato respiratório superior. A atividade do vírus na região nasal provoca sintomas como coriza, perda do olfato, dor de garganta e tosse. Além disso, alguns sintomas mais gerais como fraqueza, dor de cabeça e febre podem aparecer.[^Mason] [^Jin]
 
 Contudo, em cerca de 10-20% dos infectados o vírus vai acometer mais seriamente o trato respiratório inferior, descendo pelas vias aéreas até chegar nos pulmões.[^Bourgonje]
 
 # O pulmão saudável
 
-Primeiro vou explicar rapidinho como funciona um pulmão saudável. Na imagem abaixo podemos ver a anatomia de um pulmão. A estrutura mais distal são os alvéolos. É lá que ocorrem as trocas gasos permitindo a entrada de oxigênio no sangue e a saída do gás carbônico para a expiração.
+Primeiro vou explicar rapidinho como funciona um pulmão saudável. Na imagem abaixo podemos ver a anatomia de um pulmão. A estrutura mais distal são os alvéolos. É lá que ocorrem as trocas gasosas, permitindo a entrada de oxigênio no sangue e a saída do gás carbônico para a expiração.
 
 <figure>
 <img src="/assets/2020/covid-dispneia/Lungs_Anatomy.jpg" alt="Anatomia dos pulmões">
@@ -64,15 +64,15 @@ Já a imagem abaixo eu coloquei só a título de curiosidade mesmo. É uma visã
 
 # A inflamação dos pulmões
 
-Agora vou falar sobre o que acontece quando os pulmão são infectados e mais seriamente acometidos em pacientes com a COVID-19.
+Agora vou falar sobre o que acontece quando os pulmões são infectados e mais seriamente acometidos em pacientes com a COVID-19.
 
 A primeira descrição patológica de um paciente com COVID-19 foi realizada por Xu et al. e publicada na revista *The Lancet*.[^Xu] O padrão de acometimento segue o padrão da sindrome do desconforto respiratório agudo (SDRA) que também acontece nas infecções por influenza, outros coronavirus e também pneumonias bacterianas.
 
-Uma vez dentro dos alvéolos, o SARS-CoV-2 vai infectar as células que expressam os receptores ACE2, principalmente os pneumócitos tipo II. Essas células infectadas sofrem apoptose (morte celular) após a replicação e liberação de novos vírus. Em reposta à invasão, tecido pulmonar inicia uma reposta inflamatória para tentar conter o vírus.[^Bourgonje] [^Jin]
+Uma vez dentro dos alvéolos, o SARS-CoV-2 vai infectar as células que expressam os receptores ACE2, principalmente os pneumócitos tipo II. Essas células infectadas sofrem apoptose (morte celular) após a replicação e liberação de novos vírus. Em reposta à invasão, tecido pulmonar inicia uma reposta inflamatória para tentar conter a invasão.[^Bourgonje] [^Jin]
 
 Na vigência da infecção, macrófagos (células de defesa) começam a liberar citocinas pró-inflamatórias que dão início ao processo inflamatório. Em toda inflamação ocorre aumento da permeabilidade das membranas celulares. Essa alteração na permeabilidade de certa forma é importante para permitir que as células de defesa atravessem as membranas e chegem até o espaço alveolar.
 
-Contudo, essa alteração na permeabilidade das membranas também resulta em maior extravasamento de líquido para fora dos vasos e para dentro dos alvéolos. Esse líquido cheio de proteínas é chamado de **exsudato** e começa a se acumular tanto no espaçaco entre os vasos e o alvéolo como no espaço intra-alveolar que outrora era preenchido apenas por ar.[^Pierrakos]
+Contudo, essa alteração na permeabilidade das membranas também resulta em maior extravasamento de líquido para fora dos vasos e para dentro dos alvéolos. Esse líquido cheio de proteínas é chamado de **exsudato** e começa a se acumular tanto no espaço entre os vasos e o alvéolo como no espaço intra-alveolar que outrora era preenchido apenas por ar.[^Pierrakos]
 
 Provavelmente deve ter ficado confuso. A imagem abaixo vai esclarecer melhor. Notem que o alvéolo saudável está praticamente colado ao vaso sanguíneo, permitindo boas trocas gasosas. Já no alvéolo inflamado e cheio de líquido, o ar não entra com facilidade, além de ter uma camada de líquido exsudativo separando a parede alveolar do vaso sanguíneo.
 
@@ -105,13 +105,13 @@ Até a via de coagulação, com aumento da coagulabilidade do sangue, se envolve
 
 # A falta de ar
 
-Essas regiões inflamadas vão aumentando o que chamamos de **espaço morto pulmonar**, um espaço do pulmão que tem ar mas este não está participa das trocas gasosas, servindo apenas como uma reserva de gás carbônico. Ou seja, é um espaço inútil para a respiração. 
+Essas regiões inflamadas vão aumentando o que chamamos de **espaço morto pulmonar**, um espaço do pulmão que tem ar mas não está participa das trocas gasosas, servindo apenas como uma reserva de gás carbônico. Ou seja, é um espaço inútil para a respiração. 
 
-Também ocorre que a gente chama de "**alteração da ventilação-perfusão**". O sangue chega até os alvéolos (perfusão) mas os gases não são trocados, não ocorre a hematose (ventilação). O resultado é a **hipoxema** (diminuição na concentração de oxigênio dissolvido no sangue). E isso vai resultar clinicamente na falta de ar observada nos pacientes mais graves para a COVID-19.
+Também ocorre que a gente chama de "**alteração da ventilação-perfusão**". O sangue chega até os alvéolos (perfusão) mas os gases não são trocados, não ocorre a hematose (ventilação). O resultado é a **hipoxema**, a diminuição na concentração de oxigênio dissolvido no sangue. E isso vai resultar clinicamente na falta de ar observada nos pacientes mais graves para a COVID-19.
 
-Essa hipoxemia é o que vai provocar a falta de ar. Menos oxigênio está chegando ao sangue e sendo distribuído aos tecidos. Para tentar compensar essa deficiência, os pacientes começam a respirar mais rápido, inspirando o ar com mais frequência para tentar captar mais oxigênio. Se a doença for avançando, o paciente pode não conseguir mais respirar sozinho e necessitar de um ventilador mecânico que exerça pressão positiva, empurrando o ar para dentro dos alvéolos.
+Menos oxigênio está chegando ao sangue e sendo distribuído aos tecidos. Para tentar compensar essa deficiência, os pacientes começam a respirar mais rápido, inspirando o ar com mais frequência, tentando captar mais oxigênio. Se a doença for avançando, o paciente pode não conseguir mais respirar sozinho e necessitar de um ventilador mecânico que exerça pressão positiva, empurrando o ar para dentro dos alvéolos.
 
-Resumindo: o pulmão infectado e inflamado fica cheio de líquido o que dificulta ou mesmo impede as trocas gasos e, consequentemente, a respiração.
+Resumindo: o pulmão infectado e inflamado fica cheio de líquido o que dificulta ou mesmo impede as trocas gasosas e, consequentemente, a respiração.
 
 # Cicatrização do pulmão
 
@@ -123,11 +123,11 @@ Esses pacientes vão ter sequelas respiratórias para o resto da vida, com redu�
 
 Essa é uma pergunta que ainda vem sendo bastante estudada. Mas já existem várias hipóteses. Uma coleção de fatores estão envolvidos nessa explicação.
 
-Simplificando, os idosos possuem um sistema imune mais fraco e também não possuem uma regeneração tão boa do epitélio pulmonar como os jovens. Além disso, existem cílios nas paredes dos tecidos respiratórios que servem para empurrar as secreções para cima. Nos idosos esses cílios estão comprometidos, o que dificulta a "limpeza" dos pulmões.[^Mason]
+Simplificando, os idosos possuem um sistema imune mais fraco e também não possuem uma regeneração tão boa do epitélio pulmonar como os jovens. Além disso, existem cílios nas paredes dos tecidos respiratórios que servem para empurrar as secreções para cima. Nos idosos, esses cílios estão comprometidos, o que dificulta a "limpeza" dos pulmões.[^Mason]
 
 Também existe uma hipóstese em estudo de que a expressão do receptor ACE2 nos pulmões aumente no decorrer da idade. Isso poderia explicar em parte a maior facilidade de infecção e agravamento da doença.[^Bourgonje]
 
-De forma semelhante, também existem alguns estudos mostrando que homens expressam mais o ACE2 do que mulheres, o que explicaria a maior severidade da doença em homens. Contudo, também existem outras explicações como o fato de homens normalmente possuírem mais comorbidades associadas.[^Bourgonje]
+De forma semelhante, também existem alguns estudos mostrando que homens expressam mais o ACE2 do que mulheres, o que explicaria a maior severidade da doença no sexo masculino. Contudo, também existem outras explicações, como o fato de homens normalmente possuírem mais comorbidades associadas.[^Bourgonje]
 
 # Citações
 
