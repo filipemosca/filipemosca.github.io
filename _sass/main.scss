@@ -403,7 +403,9 @@ nav {
   padding-left: 2rem;
   margin-left: 1.5rem;
   display: inline-block;
-  border-radius: 1rem;
+  background-color: #f3f3f3 !important;
+  border-radius: 5px;
+  border: 1px solid #dadada !important;
   font-size: 1rem;
   a {
     text-decoration: none;
@@ -474,11 +476,6 @@ video {
   margin-bottom: 20px;
 }
 
-/* article a[target="_blank"]:after {
-  content: url(http://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png);
-  margin: 0 0 0 5px;
-}
-*/
 
 // select marked text
 ::selection {
@@ -832,7 +829,7 @@ q {
   font-style: italic;
 }
 hr {
-
+  color: #dadada !important;
 }
 
 
