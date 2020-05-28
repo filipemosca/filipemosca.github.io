@@ -148,3 +148,5 @@ De forma semelhante, também existem alguns estudos mostrando que homens express
 [^Xu]: Xu Z, Shi L, Wang Y, et al. **Pathological findings of COVID-19 associated with acute respiratory distress syndrome**. The Lancet Respiratory Medicine. 2020;8(4):420-422. doi: [10.1016/S2213-2600(20)30076-X](https://doi.org/10.1016/S2213-2600(20)30076-X).
 
 [^nyt]: Mika Gröndahl, Andrew Jacobs and Larry Buchanan. **In the Fight to Treat Coronavirus, Your Lungs Are a Battlefield**. The New York Times. Publicado em 8 Maio 2020 e acessado em 26 Maio 2020. Disponível em: <https://www.nytimes.com/interactive/2020/05/08/health/coronavirus-covid-lungs-ventilators.html>.
+
+[^Thompson]: Thompson BT, Chambers RC, Liu KD. **Acute respiratory distress syndrome**. Drazen JM, ed. N Engl J Med. 2017;377(6):562-572. doi: [10.1056/NEJMra1608077](https://doi.org/10.1056/NEJMra1608077).

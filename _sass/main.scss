@@ -842,7 +842,7 @@ hr {
 
 
 // Footnote simble in posts
-.footnote {
+.footnote, .footnote-ref {
   color: var(--link-color);
   :visited {
     color: var(--link-visited-color);
@@ -854,6 +854,13 @@ a.footnote:before {
 a.footnote:after {
   content: "]";
 }
+.footnote-ref a:before {   
+  content: "[";
+ }
+.footnote-ref a:after {
+  content: "]";
+}
+
 
 
 // Comments mail

@@ -34,7 +34,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+markdown: CommonMarkGhPages
 
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 # para o SEO tag:
 lang: pt_BR

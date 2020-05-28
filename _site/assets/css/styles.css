@@ -264,12 +264,16 @@ hr { color: #dadada !important; }
 
 .instagram-div { max-width: 500px; margin-right: auto; margin-left: auto; }
 
-.footnote { color: var(--link-color); }
-.footnote :visited { color: var(--link-visited-color); }
+.footnote, .footnote-ref { color: var(--link-color); }
+.footnote :visited, .footnote-ref :visited { color: var(--link-visited-color); }
 
 a.footnote:before { content: "["; }
 
 a.footnote:after { content: "]"; }
+
+.footnote-ref a:before { content: "["; }
+
+.footnote-ref a:after { content: "]"; }
 
 .comments { background-color: var(--botao-color); padding: 1px 10px 5px 10px; border-radius: 10px; }
 
