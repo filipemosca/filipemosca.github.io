@@ -1,6 +1,7 @@
 ---
 title: Minha biblioteca virtual e como abandonei o papel
 tags: Livros
+image: biblio.jpg
 ---
 
 Eu sempre tive o hábito de comprar os livros necessários pra estudar. Durante o colégio eu era um cliente frequente dos cebos da cidade. No início da até tentei continuar comprando os livros, porém, os livros da graduação costumam ser extremamente caros e difíceis de encontrar nos cebos. Quando encontro já são versões muito antigas e desatualizadas. Com o tempo fui percebendo que as aquisições não estavam compensando, boa porta dos livros eu só usava por um ou dois semestres. Também não estava sendo nada prático carregar peso levando livros para a a faculdade. E somado a isso tudo, a biblioteca da faculdade não têm uma grande variedade de livros.

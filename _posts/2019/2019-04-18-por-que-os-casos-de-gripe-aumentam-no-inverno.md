@@ -1,6 +1,7 @@
 ---
 title: Por que os casos de gripe aumentam no inverno?
 tags: MBE
+image: gripe.jpg
 ---
 
 Chega o inverno e o frio começa a atacar.

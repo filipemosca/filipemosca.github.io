@@ -2,6 +2,7 @@
 title: 'Relatório projeta 5 mil mortes para essa semana e a maior taxa de transmissão no Brasil'
 tags: [COVID-19, MBE, Notícias]
 permalink: /2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil
+image: graph.webp
 ---
 
 Dia 28 deste mês de abril, o **Imperial College London** disponibilizou online um relatório com previsões de mortalidade por COVID-19 para a próxima semana[^imp].

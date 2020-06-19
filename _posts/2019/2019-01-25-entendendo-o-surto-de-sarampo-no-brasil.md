@@ -4,6 +4,7 @@ category: medicina
 tags:
   - Notícias
 permalink: /2019/medicina/entendendo-o-surto-de-sarampo-no-brasil
+image: vacina.jpg
 ---
 Em 2016, o sarampo foi considerado uma doença eliminada no Brasil. Com 95% da população alvo vacinada e 12 meses sem novos casos, a [OPAS](https://www.paho.org/bra/) nos concedeu essa conquista. Contudo, se você acompanha os noticiários já deve estar por dentro da mais nova preocupação. O sarampo parece está voltando ao Brasil. Dois anos após a eliminação o nosso título está ameaçado? Ao longo do artigo vou tentar explicar os fatores que levaram ao surto e também responder essa pergunta.
 

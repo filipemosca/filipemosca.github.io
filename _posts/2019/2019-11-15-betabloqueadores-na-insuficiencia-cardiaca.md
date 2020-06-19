@@ -1,6 +1,7 @@
 ---
 title: O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca
 tags: [MBE]
+image: heart.jpg
 ---
 
 Este semestre comecei a pagar a cadeira de cardiologia no curso médico. Já comecei a acompanhar  ambulatório de cardiologia antes mesmo de começar a ter as aulas teóricas. Então, acompanhei as consultas apenas com meu conhecimento basal, adquirido nos períodos anteriores, sobre cardiologia.

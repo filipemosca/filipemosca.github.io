@@ -2,6 +2,7 @@
 title: Os cigarros eletrônicos e a doença misteriosa
 tags: [MBE, Notícias]
 date: 2019-09-15 17:57:00	-0300
+image: vapers.jpg
 ---
 
 Os cigarros eletrônicos (ou DEFs — dispositivos eletrônicos para fumar) são aparelhos que funcionam a base de baterias e que aquecem compostos químicos gerando aerosois, uma fumaça, que é inalada pelo usuário. Foram inicialmente projetados em 1963, mas só começaram a ser comercializados nos Estados Unidos em 2007. A partir daí, foram ganhando cada vez mais popularidade entre os jovens que nem chegam a se considerar fumantes, mas sim _vapori  zadores_ (ou _vapers_). Os DEFs costumam conter menos compostos tóxicos ou em menores concentrações que os cigarros convencionais, mas ainda assim não estão isentos de riscos, continuam possuindo compostos já conhecidos pelo seu potencial carcinogênico. Os cigarros eletrônicos também são muito usados para a inalação de compostos como  o canabidiol (CBD), tetrahidrocanabinol (THC) e outros óleos.[^inca2016]
