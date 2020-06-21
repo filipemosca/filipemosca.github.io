@@ -10,3 +10,6 @@
 - name: Sobre
   link: /sobre
   icon: <img class="emoji" alt="bust_in_silhouette" src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png" width="16" height="16">
+- name: Cérebro
+  link: /cerebro/
+  icon: <img class="emoji" alt="cerebro" src="/assets/emojis/brain-twitter.png" width="16" height="16">
