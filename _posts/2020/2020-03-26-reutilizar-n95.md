@@ -9,8 +9,6 @@ Em tempos de pandemia pelo Novo Coronavirus, os equipamentos de EPI estão se to
 
 Sempre importante lembrar que não é recomendado o uso de respiradores N95 pela população geral. Esses equipamentos devem ser reservados apenas para uso por profissionais de saúde em situação de risco de exposição.
 
-![N95](/assets/2020/n95.jpeg)
-
 ## Reutilização dos respiradores
 
 A reutilização é definida como a prática de usar o mesmo respirador N95 em mais de uma ocasião, mas removendo-o a cada ocasião. O respirador é armazenado entre os encontros para ser colocado novamente antes do próximo encontro com um paciente. 

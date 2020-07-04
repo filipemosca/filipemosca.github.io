@@ -6,11 +6,6 @@ image: mandetta.jpg
 
 Recentemente eu venho elogiando bastante o ministro Luiz Henrique Mandetta por sua condução do ministério da saúde. Apesar de poder apenas falar de suas atitudes durante o período da pandemia, pois antes disso eu não o acompanhava de perto.
 
-<figure>
-    <img src="/assets/2020/mandetta.jpg">
-    <figcaption>O atual ministro da saúde, Luiz Henrique Mandetta</figcaption>
-</figure>
-
 Desde o início da quarentena que eu venho acompanhando as lives diárias do Ministério da Saúde, sempre às 17 horas. O que mais me impressionou em suas falas foram as citações de papers científicos. pela primeira vez eu vi um ministro (ou melhor, um político) dizendo que leu artigos de uma revista científica publicados no dia anterior! Mandetta estava se referindo às recentes publicações sobre o possível benefício do uso da hidroxicloroquina no tratamento da COVID-19 da NEJM. E vinha se mostrando muito coerente e sensato na interpretação das evidências.
 
 Assistindo às lives do Ministério da Saúde, eu até tinha a impressão (leia-se, ilusão) de que o governo estava sendo sério. Se ignorássemos a existência do presidente, o país estava sim sendo bem comandado em meio a essa crise mundial de saúde.
