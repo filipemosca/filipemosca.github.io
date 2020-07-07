@@ -252,9 +252,11 @@ button { border: none; }
 
 .Humanidades { background-color: #ffcbfc; }
 
-.SaúdeColetiva { background-color: #9df0a8; }
+.SaúdeColetiva { background-color: #b1e6b8; }
 
 .SUS { background-color: #b3ccf1; }
+
+.Saneamento { background-color: #f0d8bc; }
 
 .archive-list li { line-height: 1em; margin-bottom: 15px; }
 .archive-list li a { text-decoration: none; padding-bottom: 0; line-height: 1.2em; font-family: var(--header-font); }
