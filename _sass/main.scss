@@ -868,14 +868,14 @@ kbd {
   white-space: nowrap;
 }
 blockquote {
-  border-style: solid;
-  border-width: 0 0 0 .2rem;
-  border-color: #005b82ff;
-  padding: 2px 10px 2px 20px;
+  // border-style: solid;
+  // border-width: 0 0 0 .2rem;
+  // border-color: #005b82ff;
+  padding: 2px 5px 2px 5px;
   margin-left: 20px;
   p {
     color: rgb(112, 105, 105);
-}
+  }
 }
 q {
   font-style: italic;
@@ -922,6 +922,12 @@ a.footnote:after {
   border-radius: 10px;
 }
 
+/* Glyph */
+#separador {
+    text-align:center;
+    color: #9c9a9a; 
+    font-size: 30px; 
+}
 
 /* Aqui começa o footer */
 .footer {
