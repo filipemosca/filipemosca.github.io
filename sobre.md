@@ -31,9 +31,9 @@ Esse site foi 100% desenvolvido por mim mesmo, utilizando a plataforma [Jekyll](
 
 Já fui de jogar muito xadrez. Quem sabe um dia não volto com esse *hobby*.
 
-Se tiver interesse de me acompanhar mais de perto, o Twitter é o lugar onde mais estou ativo: <https://twitter.com/moscafilipe>
+Se tiver interesse de me acompanhar mais de perto, o Twitter é o lugar onde mais estou ativo: <https://twitter.com/filipemosca>
 
-Quer me dizer alguma coisa? Adoro receber emails com comentários, críticas, sugestões, seja lá o que for. Pode mandar para <filipemosca@disroot.org>
+Quer me dizer alguma coisa? Adoro receber emails com comentários, críticas, sugestões, seja lá o que for. Pode mandar para <filipe@mosquildo.com.br>
 
 <!-- ## Lendo
 

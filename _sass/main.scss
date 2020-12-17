@@ -8,10 +8,24 @@
   max-width: 100%;
 }
 
+
+
+.tg {
+  border-collapse:collapse;border-spacing:0;
+  margin: 0 auto;
+}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-sq0u{background-color:#dae8fc;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-3e88{background-color:#dadada;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-mfxt{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:middle}
 /*
 [1]: All items a forced onto a single line, causing the overflow when necessary.
 [2]: Automatic overflow means a scroll bar won’t be present if it isn’t needed
-[3]: Make it smooth scrolling on iOS devices before 
+[3]: Make it smooth scrolling on iOS devices before
 [4]: Hide the ugly scrollbars in Edge until the scrollable area is hovered
 [5]: Hide the scroll bar in WebKit browsers
 */
@@ -46,10 +60,10 @@ article {
     margin-left: 20px;
   }
   p, ol li, ul li {
-    font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Noto Sans', Georgia, 'Times New Roman', Times, serif;
   }
   > ol li {
-    padding-bottom: 0.8em;
+    padding-bottom: 0.4em;
   }
   a {
     word-break: break-word;
@@ -74,7 +88,7 @@ body {
 }
 
 
-// Start Themes colors 
+// Start Themes colors
 html, html[data-theme="light"] {
   --font-color: #333;
   --font-color-header: #222;
@@ -234,7 +248,7 @@ html[data-theme="dark"] {
   p {
   text-align: center;
   font-size: 0.9em;
-  color: rgb(240, 240, 240); 
+  color: rgb(240, 240, 240);
   line-height: 1.3em;
   font-family: Helvetica, sans-serif;
   margin-bottom: 0;
@@ -262,7 +276,7 @@ input[type=checkbox] {
   transform: scale(1.5);
 }
 .mc-field-group {
-  ul { 
+  ul {
     list-style-type: none;
     margin-left: 0;
     padding-left: 0;
@@ -430,7 +444,7 @@ h1  {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--header-font);
-  color: #005457;
+  color: black;
   font-weight: bold;
   line-height: 1.2;
   margin-bottom: 0.2em;
@@ -447,7 +461,7 @@ a:hover {
   text-decoration: underline;
 }
 p, li {
-  line-height: 1.8;
+  line-height: 1.6;
   color: var(--font-color);
 }
 figure img {
@@ -602,7 +616,7 @@ video {
     margin-bottom: 0;
     margin-top: 0;
     a {
-     text-decoration: none; 
+     text-decoration: none;
     }
   }
 }
@@ -757,7 +771,7 @@ button {
 .post-info {
   font-size: 1rem;
   color: rgb(150, 150, 150);
-  margin-top: 5px;
+  margin-top: 15px;
   margin-bottom: 0;
   padding-bottom: 0;
   margin-right: 10px;
@@ -789,7 +803,7 @@ button {
   }
   li a {
     text-decoration: none;
-    padding-bottom: 0;
+    padding-bottom: 20px;
     line-height: 1.2em;
     font-family: var(--header-font);
   }
@@ -799,7 +813,7 @@ button {
 }
 .post-info-archive {
   color: gray;
-  margin-top: 0;
+  margin-top: 10px;
   margin-right: 3px;
   display: inline-block;
   font-size: 0.8em;
@@ -807,6 +821,7 @@ button {
   padding-top: 0;
 }
 .tag-archive {
+  margin-top: 5px;
   font-size: 0.9rem;
   line-height: 0.8em;
 }
@@ -831,8 +846,8 @@ button {
 }
 
 
-pre { 
-	margin: 20px; padding: 20px; 
+pre {
+	margin: 20px; padding: 20px;
 	color: #aaa; background-color: #222;
 	white-space: pre; text-shadow: 0 1px 0 #000;
 	border-radius: 15px; border-bottom: 1px solid #555;
@@ -858,7 +873,7 @@ blockquote {
   border-color: #005b82ff;
   padding: 2px 10px 2px 20px;
   margin-left: 20px;
-  p { 
+  p {
     color: rgb(112, 105, 105);
 }
 }
@@ -885,13 +900,13 @@ hr {
     color: var(--link-visited-color);
   }
 }
-a.footnote:before {   
+a.footnote:before {
   content: "[";
  }
 a.footnote:after {
   content: "]";
 }
-.footnote-ref a:before {   
+.footnote-ref a:before {
   content: "[";
  }
 .footnote-ref a:after {
@@ -1001,7 +1016,7 @@ a.footnote:after {
     float: right;
   }
   article {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
   }
 }
 
