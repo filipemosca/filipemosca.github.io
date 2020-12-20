@@ -72,6 +72,20 @@ html[data-theme="dark"] { --font-color: #b3b9c5; --font-color-header: #b3b9c5; -
 
 .botao-entrada { font-size: 0.7em; margin-left: 0; margin-right: 0; margin-bottom: 0.5em; margin-top: 0; }
 
+.amazon-div { display: block; margin: 0 auto; width: 150px; background: linear-gradient(to bottom, #f7dfa5, #f0c14b); border-color: #a88734 #9c7e31 #846a29; border: 1px solid; border-radius: 3px; }
+
+.amazon-div:hover { background: linear-gradient(to bottom, #f7da98, #e2b544); border-color: orange; }
+
+.amazon { text-decoration: none; font-size: medium; color: black; font-weight: normal; padding: 5px 6px 4px 6px; text-align: center; display: block; margin: 0 auto; }
+
+.amazon:hover { text-decoration: none; color: black; }
+
+.amazon:visited { color: black; }
+
+.icon-amazon { display: inline-block; position: relative; top: 2px; height: 20px; width: 20px; stroke-width: 0; stroke: currentColor; fill: currentColor; }
+
+.parceria { max-width: 300px; margin: 0 auto; }
+
 #assinar-email { margin-bottom: 0.25em; }
 
 .assinar-email-long { background: radial-gradient(circle at 20% 20%, #329709 25%, #256b09 100%); padding: 8px 8px 8px 8px; box-shadow: 0.5rem 1rem 1rem 0 rgba(100, 110, 140, 0.4); margin: 20px auto; display: block; width: 560px; max-width: 80%; text-align: center; border-radius: 0.8rem; color: white; font-family: Helvetica, sans-serif; text-decoration: none; }
