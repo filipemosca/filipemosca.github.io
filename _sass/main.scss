@@ -60,11 +60,9 @@ article {
     margin-left: 20px;
     // font-family: 'Noto Sans', Georgia, 'Times New Roman', Times, serif;
     font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
-    // font-size: 16px;
-    // line-height: 1.4em;
   }
   > ol li {
-    padding-bottom: 0.4em;
+    padding-bottom: 0.2em;
   }
   a {
     word-break: break-word;
@@ -88,7 +86,7 @@ body {
   // --header-font: "Times New Roman", Times, serif;
   --header-font: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
   p, li, a, {
-    font-size: 21px;
+    font-size: 19px;
   }
   h1 {font-size: 40px;}
   h2 {font-size: 34px;}
@@ -104,7 +102,7 @@ html, html[data-theme="light"] {
   --link-color: #1a0dab;
   --link-visited-color: purple;
   --botao-color: #dedede;
-  --marked-color: yellow;
+  --marked-color: #bbebee;
   --hover-bg-color: #cccccc;
   --comments-subject: green;
   --light: black;
@@ -366,7 +364,9 @@ nav {
     font-size: 14px;
     font-family: Helvetica, Arial, sans-serif;
     background-color: #f3f3f3 !important;
+    // background-color: #faf0d6 !important;
     border: 1px solid #dadada !important;
+    // border: 1px solid #e1cc89 !important;
     border-top: none;
     border-radius: 0 0 0.5rem 0.5rem;
     color: black;
@@ -391,6 +391,7 @@ nav {
 .current {
   padding-bottom: 10px;
   margin-bottom: 0px;
+  // background-color: #e9d6a8 !important;
   background-color: #e6e6e6 !important;
 }
 
@@ -506,7 +507,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  text-decoration: none;
+  // text-decoration: none;
   color: var(--link-color);
 }
 a:visited {
@@ -558,6 +559,10 @@ video {
 }
 ::-moz-selection {
   background: var(--marked-color); /* Gecko Browsers */
+}
+mark {
+  background-color: #faebbc;
+  top: 10px;
 }
 
 
@@ -934,15 +939,39 @@ kbd {
   white-space: nowrap;
 }
 blockquote {
-  // border-style: solid;
-  // border-width: 0 0 0 .2rem;
-  // border-color: #005b82ff;
-  padding: 2px 5px 2px 5px;
-  margin-left: 20px;
-  p {
-    color: rgb(112, 105, 105);
-  }
+  padding: 8px;
+  background-color: #faebbc;
+  border-top: 1px solid #e1cc89;
+  border-bottom: 1px solid #e1cc89;
+  margin: 21px 0 0 0;
+  background-image: url(/assets/openquote1.gif);
+  background-position: top left;
+  background-repeat: no-repeat;
+  text-indent: 23px;
 }
+blockquote p {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'EB Garamond', serif;
+    font-size: 16px;
+    background-image: url(/assets/closequote1.gif);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+  }
+  q {
+    background-color: #fff5d5;
+  }
+// blockquote {
+//   // border-style: solid;
+//   // border-width: 0 0 0 .2rem;
+//   // border-color: #005b82ff;
+//   padding: 2px 5px 2px 5px;
+//   margin-left: 20px;
+//   p {
+//     color: rgb(112, 105, 105);
+//   }
+// }
 q {
   font-style: italic;
 }

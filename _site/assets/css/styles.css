@@ -33,18 +33,18 @@
 .scroll::-webkit-scrollbar:horizontal { height: 12px; }
 
 article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption, article ul, article ol { margin-right: 20px; margin-left: 20px; font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif; }
-article > ol li { padding-bottom: 0.4em; }
+article > ol li { padding-bottom: 0.2em; }
 article a { word-break: break-word; text-decoration: underline; }
 
 .wrapper-footer { max-width: 700px; margin-right: auto; margin-left: auto; padding-right: 20px; padding-left: 20px; }
 
 body { margin: 0 0 0 0; font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif; background-color: var(--bg-color); color: var(--font-color); --header-font: 'Noto Serif', Georgia, 'Times New Roman', Times, serif; }
-body p, body li, body a { font-size: 21px; }
+body p, body li, body a { font-size: 19px; }
 body h1 { font-size: 40px; }
 body h2 { font-size: 34px; }
 body h3 { font-size: 30px; }
 
-html, html[data-theme="light"] { --font-color: #333; --font-color-header: #222; --bg-color: white; --link-color: #1a0dab; --link-visited-color: purple; --botao-color: #dedede; --marked-color: yellow; --hover-bg-color: #cccccc; --comments-subject: green; --light: black; --blockquote-color: rgb(221, 221, 221); --icon-color: rgb(131, 128, 127); }
+html, html[data-theme="light"] { --font-color: #333; --font-color-header: #222; --bg-color: white; --link-color: #1a0dab; --link-visited-color: purple; --botao-color: #dedede; --marked-color: #bbebee; --hover-bg-color: #cccccc; --comments-subject: green; --light: black; --blockquote-color: rgb(221, 221, 221); --icon-color: rgb(131, 128, 127); }
 
 html[data-theme="dark"] { --font-color: #b3b9c5; --font-color-header: #b3b9c5; --bg-color: #202020; --link-color: #81a5f8; --link-visited-color: #c197f8; --botao-color: #3d3d3d; --marked-color: #3560d4; --hover-bg-color: #303030; --comments-subject: orange; --light: yellow; --blockquote-color: #181818; --icon-color: #b3b9c5; }
 
@@ -164,7 +164,7 @@ h1 { text-align: left; margin-bottom: 5px; max-width: 600px; }
 
 h1, h2, h3, h4, h5, h6 { font-family: var(--header-font); color: black; font-weight: bold; line-height: 1.2; margin-bottom: 0.2em; }
 
-a { text-decoration: none; color: var(--link-color); }
+a { color: var(--link-color); }
 
 a:visited { color: var(--link-visited-color); }
 
@@ -185,6 +185,8 @@ video { display: block; margin: 0 auto; max-width: 100%; margin-top: 20px; margi
 ::selection { background: var(--marked-color); /* WebKit/Blink Browsers */ color: #000; }
 
 ::-moz-selection { background: var(--marked-color); /* Gecko Browsers */ }
+
+mark { background-color: #faebbc; top: 10px; }
 
 .abertura { color: var(--font-color); display: block; }
 .abertura h2 { margin-bottom: 1px; }
@@ -309,8 +311,11 @@ pre { margin: 20px; padding: 20px; color: #aaa; background-color: #222; white-sp
 
 kbd { background-color: #eee; border-radius: 3px; border: 1px solid #b4b4b4; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), 0 2px 0 0 rgba(255, 255, 255, 0.7) inset; color: #333; display: inline-block; font-size: .85em; font-weight: 700; line-height: 1; padding: 2px 4px; white-space: nowrap; }
 
-blockquote { padding: 2px 5px 2px 5px; margin-left: 20px; }
-blockquote p { color: #706969; }
+blockquote { padding: 8px; background-color: #faebbc; border-top: 1px solid #e1cc89; border-bottom: 1px solid #e1cc89; margin: 21px 0 0 0; background-image: url(/assets/openquote1.gif); background-position: top left; background-repeat: no-repeat; text-indent: 23px; }
+
+blockquote p { display: block; margin-top: 0; margin-bottom: 0; font-family: 'EB Garamond', serif; font-size: 16px; background-image: url(/assets/closequote1.gif); background-repeat: no-repeat; background-position: bottom right; }
+
+q { background-color: #fff5d5; }
 
 q { font-style: italic; }
 
