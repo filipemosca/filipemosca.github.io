@@ -2,6 +2,9 @@
 title: Meu primeiro plantão de 12 horas
 tags: Vivências
 image: birth.jpg
+resumo: '<p>Depois de dias lendo e pesquisando apenas sobre a pandemia de COVID-19, resolvi me dar uma folga do coronavirus. Vou aproveitar esses dias de quarentena para finalizar alguns rascunhos de postagens que eu vinha escrevendo.</p>
+
+<p>Já fazem meses que dei meu primeiro plantão de 12 horas. E já dei vários depois desse. Há muito tempo que eu queria escrever esse texto, mas fui adiando e adiando por falta de tempo até cair no ostracismo. Finalmente terminei de escrever pra deixar documentado esse momento único da minha vida.</p>'
 ---
 
 Depois de dias lendo e pesquisando apenas sobre a pandemia de COVID-19, resolvi me dar uma folga do coronavirus. Vou aproveitar esses dias de quarentena para finalizar alguns rascunhos de postagens que eu vinha escrevendo.

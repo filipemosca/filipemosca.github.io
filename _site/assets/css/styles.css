@@ -32,8 +32,9 @@
 
 .scroll::-webkit-scrollbar:horizontal { height: 12px; }
 
+ol li { padding-bottom: 0.2em; }
+
 article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption, article ul, article ol { margin-right: 20px; margin-left: 20px; font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif; }
-article > ol li { padding-bottom: 0.2em; }
 article a { word-break: break-word; text-decoration: underline; }
 
 .wrapper-footer { max-width: 700px; margin-right: auto; margin-left: auto; padding-right: 20px; padding-left: 20px; }
@@ -242,8 +243,9 @@ button { border: none; }
 
 .post-block { display: block; }
 
+.post-block:hover h2 { color: #05659c; }
+
 .post-list ul { list-style-type: none; padding-left: 0; }
-.post-list ul li { line-height: 1; margin-bottom: 35px; padding-bottom: 10px; }
 .post-list li h2 { line-height: 1.2; margin-top: 0; margin-bottom: 5px; }
 .post-list li h2 a { text-decoration: none; font-size: 28px; color: #004c4e; font-weight: bold; }
 .post-list li h2 a:hover { color: #005457; text-decoration: underline; }
@@ -254,13 +256,15 @@ button { border: none; }
 
 .feat-img { object-fit: cover; display: block; width: 100%; border-radius: 5px; }
 
+.feat-img:hover { transform: scale(1.05); transition: transform .8s ease; box-shadow: 1px 1px 20px #c4bbb0; }
+
 .continuar { text-align: right; display: block; color: #004346; }
 
 .continuar:visited { color: #004c4e; }
 
 .hr-postlist { border: 1px dashed; }
 
-.post-img { object-fit: cover; display: block; width: 100%; height: 100%; border-top: 2px solid #005b82ff; border-bottom: 2px solid #005b82ff; }
+.post-img { object-fit: cover; display: block; width: 100%; height: 100%; border-radius: 5px; }
 
 .tag { background-color: #fafa18; box-shadow: inset 0 -1px 0 rgba(27, 31, 35, 0.12); padding: 3px 5px 3px 5px; border-radius: 5px; margin-right: 2px; color: var(--font-color); font-size: 1rem; display: inline-block; }
 
@@ -372,5 +376,4 @@ a.footnote:after { content: "]"; }
   article p, article h1, article h2, article h3, article h4, article h5, article h6 { margin-right: 0; margin-left: 0; }
   article p img { margin: 0 auto; display: block; max-width: 100%; }
   .abertura { display: flex; }
-  .quadro { margin-right: 0; margin-left: 60px; }
-  .post-img { border: 2px solid #005b82ff; border-radius: 4px; } }
+  .quadro { margin-right: 0; margin-left: 60px; } }
