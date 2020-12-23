@@ -198,17 +198,17 @@ mark { background-color: #faebbc; top: 10px; }
 
 .item-inferior { max-width: 300px; margin: 0 auto; }
 
-.quadro { background: radial-gradient(circle at 20% 20%, #0a8c91 25%, #007377 100%); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important; margin-right: 30px; margin-left: 30px; border-radius: 10px; padding: 15px 4px 5px 4px; }
+.quadro { margin-right: 30px; margin-left: 30px; border-radius: 10px; padding: 15px 4px 5px 4px; }
 
-.foto { border-radius: 50%; max-width: 100px; margin: 0 auto; display: block; }
+.foto { border-radius: 50%; max-width: 140px; margin: 0 auto; display: block; }
 
-.assinar { text-decoration: none; font-size: medium; background-color: white; font-family: Helvetica, sans-serif; color: #007377 !important; font-weight: bold; padding: 10px; border-radius: 4px; display: inline-block; margin-top: 20px; margin-bottom: 10px; line-height: 1.2; }
+.assinar { text-decoration: none; font-size: medium; background-color: #dee9e7; font-family: Helvetica, sans-serif; color: #007377 !important; font-weight: bold; padding: 10px; border-radius: 4px; display: inline-block; margin-top: 20px; margin-bottom: 10px; line-height: 1.2; }
 
 .assinar:hover { background-color: #f0f0f0; text-decoration: none; }
 
 .assinar:visited { color: #007377 !important; }
 
-.texto-assine { color: white; font-size: 1.15rem; font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif; line-height: 1.5rem; }
+.texto-assine { color: var(--font-color); font-size: 1.15rem; font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif; line-height: 1.5rem; }
 
 .quadro-autor { background: radial-gradient(circle at 20% 20%, #0a8c91 25%, #007377 100%); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important; border-radius: 10px; color: white; padding: 10px 10px 10px 10px; margin-top: 40px; margin-bottom: 40px; }
 .quadro-autor p, .quadro-autor h3 { color: whitesmoke; margin-top: 5px; margin-bottom: 5px; font-size: 0.9em; }
@@ -221,7 +221,7 @@ mark { background-color: #faebbc; top: 10px; }
 .redes p { margin-bottom: 0; margin-top: 0; }
 .redes p a { text-decoration: none; }
 
-.icon-abertura { fill: white; padding-right: 8px; width: 20px; height: 20px; }
+.icon-abertura { fill: #005457; padding-right: 8px; width: 20px; height: 20px; }
 
 input, textarea { margin-top: 0; padding-top: 0; background-color: var(--botao-color); color: var(--font-color); font-weight: normal; padding: 5px 8px 5px 8px; border-radius: 4px; display: inline-block; border: solid 0px; padding-right: 5px; margin-right: 2px; margin-bottom: 5px; line-height: 1.2; max-width: 90%; }
 
@@ -239,8 +239,6 @@ button { border: none; }
 .post-date { font-size: 0.9em; margin-bottom: 0; font-family: Georgia, serif; }
 
 .post-author { font-size: 16px; color: gray; text-align: right; margin-top: 0; }
-
-#ultimas { padding-top: 10px; text-align: left; }
 
 .post-block { display: block; }
 

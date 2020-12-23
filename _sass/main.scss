@@ -593,10 +593,10 @@ mark {
 
 // Quadro para Newsletter e apresentação
 .quadro {
-  background: radial-gradient(circle at 20% 20%,#0a8c91 25%,#007377 100%);
+  // background: radial-gradient(circle at 20% 20%,#0a8c91 25%,#007377 100%);
   // background-color: #4764f1 !important;
   // border: 1px solid #0c2ec5 !important;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
   margin-right: 30px;
   margin-left: 30px;
   border-radius: 10px;
@@ -605,14 +605,14 @@ mark {
 // Minha foto na página inicial
 .foto {
   border-radius: 50%;
-  max-width: 100px;
+  max-width: 140px;
   margin: 0 auto;
   display: block;
 }
 .assinar {
   text-decoration: none;
   font-size: medium;
-  background-color: white;
+  background-color: rgb(222, 233, 231);
   font-family: Helvetica, sans-serif;
   color: #007377 !important;
   font-weight: bold;
@@ -631,7 +631,7 @@ mark {
   color: #007377 !important;
 }
 .texto-assine {
-  color: white;
+  color: var(--font-color);
   font-size: 1.15rem;
   font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
   line-height: 1.5rem;
@@ -681,7 +681,7 @@ mark {
   }
 }
 .icon-abertura {
-  fill: rgb(255, 255, 255);
+  fill: #005457;
   padding-right: 8px;
   width: 20px;
   height: 20px;
@@ -749,10 +749,6 @@ button {
 
 
 // Index layout
-#ultimas {
-  padding-top: 10px;
-  text-align: left;
-}
 .post-block {
   display: block;
 }
