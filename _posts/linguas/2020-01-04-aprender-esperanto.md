@@ -3,6 +3,8 @@ title: Livros e links para aprender esperanto
 permalink: /linguas/aprender-esperanto
 ---
 
+![Pagina em construção](/assets/const2.gif)
+
 Essa lista vai ser breve por que ainda estou em busca de material. Aos poucos vou atualizando aqui.
 
 ## Esperanto em 12 dias

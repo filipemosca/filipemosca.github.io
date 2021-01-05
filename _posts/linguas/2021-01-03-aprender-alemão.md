@@ -4,6 +4,7 @@ categories: linguas
 permalink: /linguas/aprender-alemao
 ---
 
+![Pagina em construção](/assets/const2.gif)
 
 ## Curso gratuito do DW
 

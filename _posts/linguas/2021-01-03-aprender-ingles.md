@@ -4,6 +4,8 @@ categories: linguas
 permalink: /linguas/aprender-ingles
 ---
 
+![Pagina em construção](/assets/const2.gif)
+
 Como essa página provavelmente vai ficar bem extensa, coloquei abaixo um sumário dos conteúdos para que você possa pular diretamente para o tópico que te interessa.
 
 * Sumário

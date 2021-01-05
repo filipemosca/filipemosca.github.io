@@ -4,6 +4,8 @@ category: linguas
 permalink: /linguas/aprender-grego-antigo
 ---
 
+![Pagina em construção](/assets/const2.gif)
+
 Sem dúvidas esse foi o meu novo hobby mais aleatório de 2020. Foi uma das coisas boas que me permiti usando menos as redes sociais no final do ano passado.
 
 Do nada eu comecei a desenvolver um grande interesse por aprender novas línguas. Há alguns meses eu já estava me preparando e adquirindo material para começar a aprender alemão sozinho e a continuar praticando o inglês. Contudo, eis que o grego antigo surgiu na minha frente e eu me apaixonei.
