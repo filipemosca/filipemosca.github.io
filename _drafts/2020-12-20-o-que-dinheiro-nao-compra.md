@@ -3,10 +3,6 @@ title: Minhas impressões sobre "O que dinheiro não compra" do Michael Sandel
 subtitle: Existem limites morais ao mercado? Quais são?
 tags: [Filosofia, Livros]
 category: Filosofia
-# image: leia-imediatamente-sandel.png
-resumo: '<p></p>
-
-<p></p>'
 ---
 
 Mal acabei a leitura do "Justiça: o que é fazer a coisa certa?" e já engatei a leitura do livro seguinte do Sandel, que dessa vez aborda um tema mais particular.

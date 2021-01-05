@@ -11,12 +11,15 @@ Antigamente, as pessoas compartilhavam coisas na internet através de *homepages
 
 ## O que é um jardim virtual?
 
-
 ## Esse site não compartilha seus dados
 
 E tem outra notícia boa aqui para o site: finalmente tirei completamente os scripts Google Anylitics. Agora o site é totalmente *privacy friendly*. Você que acesssa meu site, pode ficar tranquilo que seus dados não serão usados por nenhuma companhia. Eu não coleto nenhuma informação pessoal de ninguém.
 
 Exemplos de homepages que eu ainda tenho hábito de visitar:
 
-* https://people.wku.edu/jan.garrett/ethics/libcrit.htm
-* ES Raymond
+* Homepage de um professor universitário de filosofia (<https://people.wku.edu/jan.garrett/>).
+* A homepage do Eric S. Raymond (<http://www.catb.org/~esr/>).
+
+## Links mencionados
+
+1. My blog is a digital garden, not a blog por Joel Hooks(<https://joelhooks.com/digital-garden>)
