@@ -1,7 +1,6 @@
 ---
 title: O Brasil idolatrou um estuprador?
-tag: [Off-Topic]
-image: justica.webp
+category: blog
 ---
 
 Como fiz uma postagem praticamente idolatrando a participação do ex-BBB Felipe Prior no programa, acredito que tenho a obrigação de me posicionar sobre a [matéria publicada pela revista Marie Claire](https://revistamarieclaire.globo.com/Mulheres-do-Mundo/noticia/2020/04/duas-acusacoes-de-estupro-e-uma-de-tentativa-de-estupro-contra-felipe-prior.html).

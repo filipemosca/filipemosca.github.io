@@ -1,8 +1,8 @@
 .wrapper {
   max-width: 700px;
   margin: 0 auto;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 .wrapper-post {
   max-width: 100%;
@@ -10,18 +10,22 @@
 
 
 
-.tg {
-  border-collapse:collapse;border-spacing:0;
-  margin: 0 auto;
-}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-sq0u{background-color:#dae8fc;border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-3e88{background-color:#dadada;border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-mfxt{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:middle}
+// .tg {
+//   border-collapse:collapse;border-spacing:0;
+//   margin: 0 auto;
+// }
+// .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+//   overflow:hidden;padding:10px 5px;word-break:normal;}
+// .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+//   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+// .tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+// .tg .tg-sq0u{background-color:#dae8fc;border-color:inherit;text-align:left;vertical-align:middle}
+// .tg .tg-3e88{background-color:#dadada;border-color:inherit;text-align:left;vertical-align:middle}
+// .tg .tg-mfxt{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:middle}
+
+
+
+
 /*
 [1]: All items a forced onto a single line, causing the overflow when necessary.
 [2]: Automatic overflow means a scroll bar won’t be present if it isn’t needed
@@ -38,7 +42,7 @@
 }
 
 //* [5] *
- .scroll::-webkit-scrollbar {
+.scroll::-webkit-scrollbar {
    display: show;
    -webkit-appearance: none;
 }
@@ -53,14 +57,14 @@
 
 
 ol li {
-  padding-bottom: 0.2em;
+  // padding-bottom: 0.2em;
 }
 article {
   p, h1, h2, h3, h4, h5, h6, figcaption, ul, ol {
     margin-right: 20px;
     margin-left: 20px;
-    // font-family: 'Noto Sans', Georgia, 'Times New Roman', Times, serif;
-    font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+    // font-family: 'Open Sans', 'Noto Sans', sans-serif;
+    // font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
   }
   a {
     word-break: break-word;
@@ -77,18 +81,19 @@ article {
 }
 body {
   margin: 0 0 0 0;
-  font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+  // font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
   // font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Noto Sans', sans-serif;
   background-color: var(--bg-color);
   color: var(--font-color);
   // --header-font: "Times New Roman", Times, serif;
   --header-font: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
-  p, li, a, {
-    font-size: 19px;
-  }
-  h1 {font-size: 40px;}
-  h2 {font-size: 34px;}
-  h3 {font-size: 30px;}
+  // p, li, a, {
+  //   font-size: 16px;
+  // }
+  // h1 {font-size: 40px;}
+  // h2 {font-size: 34px;}
+  // h3 {font-size: 30px;}
 }
 
 
@@ -100,7 +105,7 @@ html, html[data-theme="light"] {
   --link-color: #1a0dab;
   --link-visited-color: purple;
   --botao-color: #dedede;
-  --marked-color: #bbebee;
+  --marked-color: rgb(255, 255, 143);
   --hover-bg-color: #cccccc;
   --comments-subject: green;
   --light: black;
@@ -276,9 +281,6 @@ html[data-theme="dark"] {
 .assinar-email-long:visited {
   color: white;
 }
-#news-todas {background: radial-gradient(circle at 20% 20%, #b3b44c 25%, #d1b435 100%);}
-#news-musica {background: radial-gradient(circle at 20% 20%, #9c0505 25%, #640505 100%);}
-#news-cinema {background: radial-gradient(circle at 20% 20%, #05659c 25%, #053469 100%);}
 .newsletter {
   width: 220px;
   margin-bottom: 12px;
@@ -359,7 +361,7 @@ nav {
   display: inline-block;
   a {
     text-decoration: none;
-    font-size: 14px;
+    font-size: 14px !important;
     font-family: Helvetica, Arial, sans-serif;
     background-color: #f3f3f3 !important;
     // background-color: #faf0d6 !important;
@@ -469,21 +471,24 @@ nav {
   font-size: 1.2rem;
 }
 #markdown-toc {
-  max-width: 300px;
-  padding: 1.5em;
+  padding: 5px 30px 10px 5px;
   padding-left: 2rem;
   margin-left: 1.5rem;
   display: inline-block;
-  background-color: #f3f3f3 !important;
+  background-color: #faebbc;
+  border: 1px solid #e1cc89;
+  // background-color: #f3f3f3 !important;
   border-radius: 5px;
-  border: 1px solid #dadada !important;
-  font-size: 1rem;
+  // border: 1px solid #dadada !important;
   a {
     text-decoration: none;
   }
   a:hover {
     text-decoration: underline;
   }
+}
+#markdown-toc li, li a {
+  font-size: 16px !important;
 }
 
 
@@ -494,12 +499,10 @@ nav {
 h1  {
   text-align: left;
   margin-bottom: 5px;
-  max-width: 600px;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--header-font);
+  // font-family: var(--header-font);
   color: black;
-  font-weight: bold;
   line-height: 1.2;
   margin-bottom: 0.2em;
 }
@@ -610,9 +613,9 @@ mark {
 .assinar {
   text-decoration: none;
   font-size: medium;
-  background-color: rgb(222, 233, 231);
+  background-color: rgb(240, 240, 240);
   font-family: Helvetica, sans-serif;
-  color: #007377 !important;
+  color: var(--link-color);
   font-weight: bold;
   padding: 10px;
   border-radius: 4px;
@@ -622,11 +625,11 @@ mark {
   line-height: 1.2;
 }
 .assinar:hover {
-  background-color: rgb(240, 240, 240);
+  background-color: rgb(226, 242, 252);
   text-decoration: none;
 }
 .assinar:visited {
-  color: #007377 !important;
+  color: var(--link-color) !important;
 }
 .texto-assine {
   color: var(--font-color);
@@ -638,7 +641,7 @@ mark {
 
 // Quadro do Sobre o autor
 .quadro-autor {
-  background: radial-gradient(circle at 20% 20%,#0a8c91 25%,#007377 100%);
+  background: radial-gradient(circle at 20% 20%,#21238f 25%,#304ba7 100%);
   // background-color: #4764f1 !important;
   // border: 1px solid #0c2ec5 !important;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
@@ -659,7 +662,7 @@ mark {
 }
 .autor-icon {
   width: 16px;
-  fill: #007377;
+  fill: var(--link-color);
 }
 
 
@@ -679,7 +682,7 @@ mark {
   }
 }
 .icon-abertura {
-  fill: #005457;
+  fill: var(--link-color);
   padding-right: 8px;
   width: 20px;
   height: 20px;
@@ -746,9 +749,48 @@ button {
 }
 
 
-// Index layout
+// Index layout --------------------------------------------------
+
+// Últimas H2
+.ultimas {
+  margin-bottom: 10px;
+}
+
+// Principais páginas lista
+.principais li a {
+  text-decoration: none;
+}
+.principais li a:hover {
+  text-decoration: underline;
+}
+
+// Sumário
+.sumario details {
+  margin-bottom: 5px;
+  line-height: 18px;
+  font-size: 16px;
+  color: var(--link-color);
+  background-color: #faebbc;
+  border: 1px solid #e1cc89;
+  border-radius: 5px;
+  padding: 5px;
+}
+.sumario summary:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.sumario details ol li a {
+  font-size: 16px;
+  text-decoration: none;
+}
+.sumario details ol li a:hover {
+  text-decoration: underline;
+}
+
+
 .post-block {
   display: block;
+  margin-bottom: 10px;
 }
 .post-block:hover h2 {
   color: #05659c;
@@ -764,34 +806,24 @@ button {
   //   padding-bottom: 10px;
   //   // border-bottom: 2px solid #005b82ff;
   // }
-  li h2 {
-    line-height: 1.2;
+  li h3 {
+    // line-height: 1.2;
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
   }
-  li h2 a {
+  li h3 a {
     text-decoration: none;
-    font-size: 28px;
-    color: #004c4e;
-    font-weight: bold;
+    font-size: 20px;
+    color: var(--link-color);
+    font-weight: 500;
   }
-  li h2 a:hover {
-    color: #005457;
+  li h3 a:hover {
+    color: var(--link-color);
     text-decoration: underline;
   }
 }
-.post-info-list {
-  font-size: 1rem;
-  color: rgb(150, 150, 150);
-  margin-top: 10px;
-  margin-bottom: 0;
-  padding-bottom: 0;
-  width: 100%;
-  border-radius: 4px;
-  display: block;
-}
+
 .list-block {
-  padding: 10px;
   margin-right: 10px;
 }
 .feat-img {
@@ -801,19 +833,9 @@ button {
     // max-height: 400px;
     border-radius: 5px;
 }
-.feat-img:hover {
-  transform: scale(1.05);
-  transition: transform .8s ease;
-  box-shadow: 1px 1px 20px rgb(196, 187, 176);
-  // width: 720px;
-}
 .continuar {
   text-align: right;
   display: block;
-  color: #004346;
-}
-.continuar:visited {
-  color: #004c4e;
 }
 .hr-postlist {
   border: 1px dashed;
@@ -823,51 +845,69 @@ button {
   display: block;
   width: 100%;
   height: 100%;
-  border-radius: 5px;
+  border-radius: none;
 }
 
+
+// Datas
+.post-info-list {
+  font-size: 14px;
+  color: var(--font-color);
+  margin-top: 5px;
+  margin-bottom: 0;
+  margin-right: 5px;
+  padding-bottom: 0;
+  width: 100%;
+}
 // CSS das Tags
 .tag {
-  background-color: rgb(250, 250, 24);
-  box-shadow: inset 0 -1px 0 rgba(27,31,35,.12);
-  padding: 3px 5px 3px 5px;
-  border-radius: 5px;
+  // background-color: rgb(250, 250, 24);
+  // box-shadow: inset 0 -1px 0 rgba(27,31,35,.12);
+  // padding: 0px 3px 0px 3px;
+  // border-radius: 5px;
   margin-right: 2px;
   color: var(--font-color);
-  font-size: 1rem;
+  font-size: 14px !important;
+  line-height: 16px;
   display: inline-block;
 }
 .tag-posts {
   margin-top: 5px;
+  font-size: 15px;
+  color: #969696;
+}
+
+
+
+// Layout da página de post
+.post-title {
+  text-align: center;
 }
 .post-info {
-  font-size: 1rem;
-  color: rgb(150, 150, 150);
-  margin-top: 10px;
-  margin-bottom: 0;
-  padding-bottom: 0;
-  margin-right: 10px;
-  border-radius: 4px;
+  font-size: 15px;
   display: block;
+  text-align: center;
+  color: rgb(150, 150, 150);
+  margin: 0 auto;
   a {
-    color: #004346;
+    color: var(--link-color);
     margin-left: 4px;
     font-size: 1em;
   }
 }
 
-.MBE {background-color: rgb(250, 201, 201);}
-.Notícias {background-color: rgb(248, 246, 147);}
-.Vivências {background-color: rgb(191, 241, 194);}
-.COVID-19 {background-color: rgb(235, 232, 255);}
-.Educação {background-color: rgb(203, 255, 251);}
-.Livros {background-color:rgb(188, 222, 253);}
-.Off-Topic {background-color: rgb(241, 229, 202);}
-.Variados {background-color: rgb(222, 255, 203);}
-.Humanidades {background-color: rgb(255, 203, 252);}
-.SaúdeColetiva {background-color: rgb(177, 230, 184);}
-.SUS {background-color: rgb(179, 204, 241);}
-.Saneamento {background-color: rgb(240, 216, 188);}
+.MBE {color: rgb(158, 37, 37);}
+.Notícias {color: rgb(136, 134, 17);}
+.Vivências {color: rgb(25, 143, 33);}
+.COVID-19 {color: rgb(46, 32, 134);}
+.Educação {color: rgb(12, 117, 109);}
+.Livros {color:rgb(7, 81, 150);}
+.Off-Topic {color: rgb(138, 93, 9);}
+.Variados {color: rgb(192, 0, 144);}
+.Humanidades {color: rgb(105, 11, 101);}
+.SaúdeColetiva {color: rgb(10, 78, 19);}
+.SUS {color: rgb(8, 52, 117);}
+.Saneamento {color: rgb(194, 103, 0);}
 
 .archive-list {
   li {
@@ -876,9 +916,7 @@ button {
   }
   li a {
     text-decoration: none;
-    padding-bottom: 20px;
     line-height: 1.2em;
-    font-family: var(--header-font);
   }
   li a:hover {
     text-decoration: underline;
@@ -886,7 +924,7 @@ button {
 }
 .post-info-archive {
   color: gray;
-  margin-top: 10px;
+  margin-top: 5px;
   margin-right: 3px;
   display: inline-block;
   font-size: 0.8em;
@@ -894,9 +932,8 @@ button {
   padding-top: 0;
 }
 .tag-archive {
-  margin-top: 5px;
-  font-size: 0.9rem;
-  line-height: 0.8em;
+  // margin-top: 5px;
+  font-size: 0.8rem;
 }
 
 #post-page-info {
@@ -1041,7 +1078,7 @@ a.footnote:after {
 
 // Ícones do footer
 .icon-footer {
-  fill: gray;
+  fill: var(--link-color);
   width: 20px;
 }
 
@@ -1111,16 +1148,17 @@ a.footnote:after {
 
 /* Aqui é pra computador */
 @media only screen and (min-width: 800px) {
-  #post-info,{
-    // display: inline-block;
+  .post-img {
+    border-radius: 5px;
   }
-
-  #markdown-toc {
-    float: right;
+  body {
+    p, li, a, {
+      font-size: 18px;
+    }
+    // h1 {font-size: 38px;}
+    // h2 {font-size: 34px;}
+    // h3 {font-size: 30px;}
   }
-  // article {
-  //   font-size: 1.4em;
-  // }
 }
 
 /* Aqui é para tablet */
@@ -1130,14 +1168,6 @@ a.footnote:after {
     margin: 0 auto;
     padding-right: 20px;
     padding-left: 20px;
-  }
-  .feat-img {
-    // width: calc(100% - 100px);
-    margin: 0 auto;
-    // height: 100%;
-  }
-  .post-block {
-    // display: flex;
   }
   article {
     p, h1, h2, h3, h4, h5, h6 {

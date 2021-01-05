@@ -1,7 +1,7 @@
 <!--
 Created by Filipe Mosca
 Homepage: https://mosquildo.com.br
-Contact: filipemosca@disroot.org
+Contact: filipe@mosquildo.com.br
 
   -. (#)(#) .-
    '\.';;'./'
@@ -35,53 +35,64 @@ Contact: filipemosca@disroot.org
 <meta property="og:url" content="http://localhost:4000/assets/picol/" />
 <meta property="og:site_name" content="Mosquildo" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/assets/picol/","headline":"The PICOL icons pack as font!","description":"Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/assets/picol/","description":"Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.","headline":"The PICOL icons pack as font!","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
   <body>
     <h1 id="the-picol-icons-pack-as-font">The PICOL icons pack as font!</h1>
+
 <h2 id="installation">Installation</h2>
-<pre><code>bower install picol-font
-</code></pre>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bower install picol-font
+</code></pre></div></div>
+
 <h2 id="about-the-content-of-this-repository">About the content of this repository</h2>
+
 <ul>
-<li>The directory <code>font</code> contains the font in different formats</li>
-<li>The directory <code>css</code> contains different css files, just for all your needs…<br>You can also avoid to use the <code>&lt;i&gt;</code> tag and assign icon classes directly to text elements.</li>
-<li><code>demo.html</code> - The demo html file</li>
-<li><code>config.json</code> - Just a settings file</li>
+  <li>The directory <code class="language-plaintext highlighter-rouge">font</code> contains the font in different formats</li>
+  <li>The directory <code class="language-plaintext highlighter-rouge">css</code> contains different css files, just for all your needs…<br />You can also avoid to use the <code class="language-plaintext highlighter-rouge">&lt;i&gt;</code> tag and assign icon classes directly to text elements.</li>
+  <li><code class="language-plaintext highlighter-rouge">demo.html</code> - The demo html file</li>
+  <li><code class="language-plaintext highlighter-rouge">config.json</code> - Just a settings file</li>
 </ul>
+
 <h2 id="why-so-many-css-files">Why so many CSS files?</h2>
 <p>Because we like to fit all your needs! :)</p>
 <ul>
-<li><code>picol.css</code> - is the basic file and is usually enougth. It contains @font-face and character codes definition</li>
-<li><code>picol-ie7.css</code> - if you need IE7 support</li>
-<li><code>picol-codes.css</code> and <code>picol-ie7-codes.css</code> - if you like to use your own @font-face rules. This can be very convenient for automated assets build systems.</li>
-<li><code>picol-embedded.css</code> - if you are ok with dirty hack, this file is for you! This is a basic css file, but with embedded WOFF font. To avoid CORS issues in Firefox and IE9+, when fonts are hosted on the separate domain.<br />We strongly recommend to resolve this issue by <code>Access-Control-Allow-Origin</code> server headers.<br />Note that data url moved to separate @font-face to avoid problems with &lt;IE9, when string is too long.</li>
-<li><code>animation.css</code> - use it to get ideas about spinner rotation animation.</li>
+  <li><code class="language-plaintext highlighter-rouge">picol.css</code> - is the basic file and is usually enougth. It contains @font-face and character codes definition</li>
+  <li><code class="language-plaintext highlighter-rouge">picol-ie7.css</code> - if you need IE7 support</li>
+  <li><code class="language-plaintext highlighter-rouge">picol-codes.css</code> and <code class="language-plaintext highlighter-rouge">picol-ie7-codes.css</code> - if you like to use your own @font-face rules. This can be very convenient for automated assets build systems.</li>
+  <li><code class="language-plaintext highlighter-rouge">picol-embedded.css</code> - if you are ok with dirty hack, this file is for you! This is a basic css file, but with embedded WOFF font. To avoid CORS issues in Firefox and IE9+, when fonts are hosted on the separate domain.<br />We strongly recommend to resolve this issue by <code class="language-plaintext highlighter-rouge">Access-Control-Allow-Origin</code> server headers.<br />Note that data url moved to separate @font-face to avoid problems with &lt;IE9, when string is too long.</li>
+  <li><code class="language-plaintext highlighter-rouge">animation.css</code> - use it to get ideas about spinner rotation animation.</li>
 </ul>
+
 <h2 id="pay-attention-for-server-setup">Pay attention for Server setup</h2>
-<p>You MUST setup your Server to reply font files with proper <code>mime-type</code>, otherwise some browsers will fail showing fonts.
-Apache usually already has necessary settings, but <code>nginx</code> and other webservers should be tuned.
+<p>You MUST setup your Server to reply font files with proper <code class="language-plaintext highlighter-rouge">mime-type</code>, otherwise some browsers will fail showing fonts.
+Apache usually already has necessary settings, but <code class="language-plaintext highlighter-rouge">nginx</code> and other webservers should be tuned.
 Here is list of mime types for our file extentions:</p>
+
 <ul>
-<li><code>eot</code>: <code>application/vnd.ms-fontobject</code></li>
-<li><code>woff</code>: <code>application/x-font-woff</code></li>
-<li><code>ttf</code>: <code>application/x-font-ttf</code></li>
-<li><code>svg</code>: <code>image/svg+xml</code></li>
+  <li><code class="language-plaintext highlighter-rouge">eot</code>: <code class="language-plaintext highlighter-rouge">application/vnd.ms-fontobject</code></li>
+  <li><code class="language-plaintext highlighter-rouge">woff</code>: <code class="language-plaintext highlighter-rouge">application/x-font-woff</code></li>
+  <li><code class="language-plaintext highlighter-rouge">ttf</code>: <code class="language-plaintext highlighter-rouge">application/x-font-ttf</code></li>
+  <li><code class="language-plaintext highlighter-rouge">svg</code>: <code class="language-plaintext highlighter-rouge">image/svg+xml</code></li>
 </ul>
+
 <h2 id="license-information">License information</h2>
 <p><img src="http://picol.org/images/cc_liscence.png" alt="Picol license cc" /></p>
+
 <p>Except otherwise noted, the content of this site and all icons are licensed under a <a href="http://www.creativecommons.org/licenses/by/3.0/">Creative Commons-License BY</a>.<br />
 You are free to:<br />
 <img src="http://blog.picol.org/wp-content/uploads/2009/03/copy_16.png" alt="" /> SHARE — copy and redistribute the material in any medium or format<br />
 <img src="http://blog.picol.org/wp-content/uploads/2009/03/remix_16.png" alt="" /> ADAPT — remix, transform, and build upon the material for any purpose, even commercially.
 The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+
 <p>Under the following conditions:<br />
 <img src="http://blog.picol.org/wp-content/uploads/2009/03/user_full_16.png" alt="" /> ATTRIBUTION – Include a link to picol.org or blog.picol.org in your credits or any fitting place.<br />
 You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
-<p><img src="http://blog.picol.org/wp-content/uploads/2009/03/mail_16.png" alt="" /> Please send me a mail dropaline(aet)picol.org with a link or a screenshot of your project, if you use the PICOL signs.<BR />
+
+<p><img src="http://blog.picol.org/wp-content/uploads/2009/03/mail_16.png" alt="" /> Please send me a mail dropaline(aet)picol.org with a link or a screenshot of your project, if you use the PICOL signs.<br />
 I´m very interested in your applications and how you use the icons.</p>
+
 
     <div class="footer">
   <div class="wrapper">

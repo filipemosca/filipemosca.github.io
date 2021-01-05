@@ -1,19 +1,7 @@
 ---
 title: Pode a virtude ser ensinada? Resenha de "Mênon" por Platão
-resumo: '<p>Eu nunca tinha lido nada de Platão então esse foi meu primeiro contato direto com a sua obra. Mênon (<em>Meno</em> em inglês) é um diálogo bem curtinho — apenas 70 páginas. Eu li numa única tarde mas a sensação ao terminar foi de dias mergulhado.</p>
-
-<p>Mesmo que pequeno, esse simples diálogo aborda vários temas diferentes. Dentre eles:</p>
-
-<ol>
-<li>O que é virtude?</li>
-<li>A virtude pode ser ensinada? É adquirida ou inata?</li>
-<li>Como podemos concluir sobre o que não conhecemos?</li>
-<li>Qual a diferença entre conhecimento e opinião verdadeira?</li>
-</ol>
-
-<p>Nesta resenha vou abordar cada uma dessas perguntas e também contar as minhas impressões com a obra.</p>'
 tags: [Filosofia, Livros]
-image: meno.jpeg
+category: blog
 ---
 
 Eu nunca tinha lido nada de Platão então esse foi meu primeiro contato direto com a sua obra. Mênon (_Meno_ em inglês) é um diálogo bem curtinho — apenas 70 páginas. Eu li numa única tarde mas a sensação ao terminar foi de dias mergulhado.

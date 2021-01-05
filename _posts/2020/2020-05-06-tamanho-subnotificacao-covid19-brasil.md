@@ -2,7 +2,7 @@
 title: Qual o tamanho da subnotificação por COVID-19 no Brasil?
 tags: [COVID-19, MBE]
 permalink: /2020/medicina/tamanho-subnotificacao-covid19-brasil
-image: corona.jpeg
+category: blog
 ---
 
 No início da pandemia eu estava bem otimista com o prognóstico do Brasil. Começamos o distanciamento social bem cedo, numa época em que a mortalidade não havia nem atingido os 100 primeiros óbitos. Mas agora, percebo que fui completamente enganado pela subnotificação. 

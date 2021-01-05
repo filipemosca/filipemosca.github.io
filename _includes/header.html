@@ -2,7 +2,8 @@
   <nav class="scroll">
       {% for item in site.data.navigation %}
         <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
-          {{ item.icon}} {{ item.name }}</a>
+          <!-- {{ item.icon}} -->
+          {{ item.name }}</a>
       {% endfor %}
   </nav>
 </header>

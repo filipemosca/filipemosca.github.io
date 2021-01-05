@@ -2,9 +2,6 @@
 title: A saga da cloroquina contra a COVID-19
 tags: [COVID-19, MBE]
 image: pills.png
-resumo: '<p>Finalmente decidi escrever sobre a cloroquina. Já fazem meses desde que essa discussão começou e essa semana saíram novos estudos sobre a possível eficácia da droga.</p>
-
-<p>No fim das contas foi bom eu ter demorado a escrever sobre a cloroquina pois agora vou poder contar toda história desde o início até os últimos estudos.</p>'
 ---
 
 Finalmente decidi escrever sobre a cloroquina. Já fazem meses desde que essa discussão começou e essa semana saíram novos estudos sobre a possível eficácia da droga. 

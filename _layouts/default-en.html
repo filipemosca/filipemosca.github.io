@@ -1,0 +1,60 @@
+<!--
+Created by Filipe Mosca
+Homepage: https://mosquildo.com.br
+Contact: filipe@mosquildo.com.br
+
+  -. (#)(#) .-
+   '\.';;'./'
+.-\.'  ;;  './-.
+  ;    ;;    ;
+  ;   .''.   ;
+   '''    '''
+-->
+
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/picol/css/picol.css' | relative_url }}">
+    <link rel='shortcut icon' type='image/x-icon' href='/favicon.png' />
+    <meta name="theme-color" content="#202020">
+    <meta name="apple-mobile-web-app-status-bar-style" content="blue">
+    {% feed_meta %}
+    <!--  seo  -->
+    <title>Mosquildo | A blog about medicine, philosophy, literature, cinema, tech, and more..</title>
+    <meta name="generator" content="Jekyll v3.9.0" />
+    <meta property="og:title" content="Mosquildo" />
+    <meta property="og:locale" content="en" />
+    <meta name="description" content="A blog about medicine, philosophy, literature, cinema, tech, and more." />
+    <meta property="og:description" content="A blog about medicine, philosophy, literature, cinema, tech, and more." />
+    <link rel="canonical" href="http://localhost:4000/en.html" />
+    <meta property="og:url" content="http://localhost:4000/en.html" />
+    <meta property="og:site_name" content="Mosquildo" />
+    <script type="application/ld+json">
+    {"@type":"WebPage","url":"http://localhost:4000/en.html","headline":"Mosquildo","description":"A blog about medicine, philosophy, literature, cinema, tech, and more.","@context":"https://schema.org"}</script>
+  </head>
+  <body>
+    {{ content }}
+    {% include footer.html %}
+    
+    <script data-goatcounter="https://mosquildo.goatcounter.com/count"
+    async src="//gc.zgo.at/count.js"></script>
+
+    <script> // counter.dev tracking code
+      if (!sessionStorage.getItem("_swa") && document.referrer.indexOf(location.protocol + "//" + location.host) !== 0) {
+          fetch("https://counter.dev/track?" + new URLSearchParams({
+              referrer: document.referrer,
+              screen: screen.width + "x" + screen.height,
+              user: "filipemosca",
+              utcoffset: -3}));}
+      sessionStorage.setItem("_swa", "1");
+      </script>
+
+    <script data-host="https://privacycounter.com" data-dnt="false" src="https://privacycounter.com/js/script.js" id="ZwSg9rf6GA" async defer></script>
+
+  </body>
+</html>

@@ -34,7 +34,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
+# Build settings
+markdown: kramdown
 
 commonmark:
   options: ["SMART", "FOOTNOTES"]

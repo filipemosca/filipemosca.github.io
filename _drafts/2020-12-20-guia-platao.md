@@ -3,7 +3,7 @@ title: Guia para começar a ler os diálogos de Platão
 image: atenas.jpeg
 ---
 
-Antes de tudo um _disclaimmer_: eu não sou filósofo, nunca fiz filosofia e muito memos qualquer curso de humanas. Sou apenas um mero mortal que faz um curso de saúde. Então por que estou me aventurando e fazendo recomendações sobre leituras de filosofia? Pois, como um entusiasta humilde da filosofia, acredito que vou encontrar as mesmas dificuldades que os demais interessados em ler Platão e espero ajudar com uma visão de _leigo para leigo_.
+Antes de tudo um **_disclaimmer_**: eu **não sou filósofo**, nunca fiz filosofia e muito memos qualquer curso de humanas. Sou apenas um mero mortal que faz um curso de saúde. Então por que estou me aventurando e fazendo recomendações sobre leituras de filosofia? Pois, como um entusiasta humilde da filosofia, acredito que vou encontrar as mesmas dificuldades que os demais interessados em ler Platão e espero ajudar com uma visão de **_leigo para leigo_**.
 
 Antes de começar a de fato ler as obras eu precise pesquisar um pouco sobre qual a melhor ordem de leitura, quais os livros mais importantes, o que cada livro fala, se existe alguma edição melhor que outra, e muito mais. Aqui vou compartilhar tudo que encotrei para facilitar a vida de quem também tiver interesse de começar essa aventura (e também vou facilitar a mim mesmo tentando compilar e ordenar as obras de Platão).
 

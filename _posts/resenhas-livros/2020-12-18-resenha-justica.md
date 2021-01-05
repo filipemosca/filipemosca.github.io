@@ -1,11 +1,7 @@
 ---
 title: 'Resenha de "Justiça: o que é fazer a coisa certa?"'
 tags: [Filosofia, Livros]
-category: Filosofia
-image: justica.jpeg
-resumo: '<p>Que livro, meus amigos! Que livro foi esse?! Meu objetivo neste artigo vai ser tentar explicar porque você e todos os cidadãos da Terra deveriam ler esse livro que uma vez lido jamais será deslido. Espero conseguir transmitir com vocês um pouco da minha empolgação com esta obra.</p>
-
-<p>"Justiça: o que é fazer a coisa certa", escrito pelo filósofo e professor universitário americano, Michael Sandel, foi publicado em 2009 e traduzido para o portugês em 2011. Sandel já era famoso...</p>'
+category: blog
 ---
 
 Que livro, meus amigos! Que livro foi esse?! Meu objetivo neste artigo vai ser tentar explicar porque você e todos os cidadãos da Terra deveriam ler esse livro que uma vez lido jamais será deslido. Espero conseguir transmitir com vocês um pouco da minha empolgação com esta obra.
