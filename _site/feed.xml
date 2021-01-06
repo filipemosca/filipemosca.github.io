@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2021-01-05T02:34:01-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.</subtitle><entry><title type="html">Livros e links para aprender alemão sozinho</title><link href="http://localhost:4000/linguas/aprender-alemao" rel="alternate" type="text/html" title="Livros e links para aprender alemão sozinho" /><published>2021-01-03T00:00:00-03:00</published><updated>2021-01-03T00:00:00-03:00</updated><id>http://localhost:4000/linguas/aprender-alem%C3%A3o</id><content type="html" xml:base="http://localhost:4000/linguas/aprender-alemao">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2021-01-05T16:47:39-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.</subtitle><entry><title type="html">Livros e links para aprender alemão sozinho</title><link href="http://localhost:4000/linguas/aprender-alemao" rel="alternate" type="text/html" title="Livros e links para aprender alemão sozinho" /><published>2021-01-03T00:00:00-03:00</published><updated>2021-01-03T00:00:00-03:00</updated><id>http://localhost:4000/linguas/aprender-alem%C3%A3o</id><content type="html" xml:base="http://localhost:4000/linguas/aprender-alemao">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;curso-gratuito-do-dw&quot;&gt;Curso gratuito do DW&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://learngerman.dw.com/en/beginners&quot;&gt;https://learngerman.dw.com/en/beginners&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Para iniciantes, o curso online do DW é muito legal e muito bem feito. É bastante interativo, com  muitos vídeos e áudios para treinar a interpretação e o &lt;em&gt;listening&lt;/em&gt;. O curso vai gradativamente te introduzindo um vocabulário enquanto explica conceitos de gramática e conversação.&lt;/p&gt;
+
+&lt;h2 id=&quot;sites&quot;&gt;Sites&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;german.net&lt;/strong&gt; (&lt;a href=&quot;https://german.net&quot;&gt;https://german.net&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;grimmstories.com&lt;/strong&gt;: reune várias contos dos Grimm em vários idiomas e você pode ler comparando duas traduções na mesma tela (&lt;a href=&quot;https://www.grimmstories.com/&quot;&gt;https://www.grimmstories.com/&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Word Reference&lt;/strong&gt; (&lt;a href=&quot;https://www.wordreference.com/&quot;&gt;https://www.wordreference.com/&lt;/a&gt;).&lt;/li&gt;
+  &lt;li&gt;NDR Dokw (&lt;a href=&quot;https://www.youtube.com/user/ndr&quot;&gt;https://www.youtube.com/user/ndr&lt;/a&gt;).&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&quot;livros&quot;&gt;Livros&lt;/h2&gt;
 
@@ -16,7 +25,17 @@
 
 &lt;h3 id=&quot;german-all-in-one-for-dummies&quot;&gt;German All-in-One for Dummies&lt;/h3&gt;
 
-&lt;p&gt;Esse eu dei umas folheadas. Ele é muito completo e CHEIO de informações mas eu acho que pra um iniciante isso pode ser ruim pois confunde mais do que ajuda. O Complete Cerman é mais simples e vai apresentando o assunto aos poucos, então preferi ficar com ele.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Livros e links para aprender grego sozinho</title><link href="http://localhost:4000/linguas/aprender-grego" rel="alternate" type="text/html" title="Livros e links para aprender grego sozinho" /><published>2021-01-03T00:00:00-03:00</published><updated>2021-01-03T00:00:00-03:00</updated><id>http://localhost:4000/linguas/aprender-grego</id><content type="html" xml:base="http://localhost:4000/linguas/aprender-grego">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Esse eu dei umas folheadas. Ele é muito completo e CHEIO de informações mas eu acho que pra um iniciante isso pode ser ruim pois confunde mais do que ajuda. O Complete Cerman é mais simples e vai apresentando o assunto aos poucos, então preferi ficar com ele.&lt;/p&gt;
+
+&lt;h3 id=&quot;histórias-em-alemão&quot;&gt;Histórias em Alemão&lt;/h3&gt;
+
+&lt;p&gt;Uma pequenas lista de livros que vi recomendações e pretendo ler no futuro:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Learn German with Stories: short stories for beginners por Klein André.&lt;/li&gt;
+  &lt;li&gt;Einfach Deustch Leses por Angelika Bohn&lt;/li&gt;
+  &lt;li&gt;You go me on the cookie por Dana Newman&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Livros e links para aprender grego sozinho</title><link href="http://localhost:4000/linguas/aprender-grego" rel="alternate" type="text/html" title="Livros e links para aprender grego sozinho" /><published>2021-01-03T00:00:00-03:00</published><updated>2021-01-03T00:00:00-03:00</updated><id>http://localhost:4000/linguas/aprender-grego</id><content type="html" xml:base="http://localhost:4000/linguas/aprender-grego">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Vou deixar essa página pausada pois vou deixar o grego de lado por um tempo para focar em outras línguas. No futuro coloco mais coisa aqui.&lt;/p&gt;
 
