@@ -7,6 +7,10 @@ permalink: /linguas/aprender-esperanto
 
 Essa lista vai ser breve por que ainda estou em busca de material. Aos poucos vou atualizando aqui.
 
+## Lernu.net
+
+<https://lernu.net/pt/kurso/nakamura/1/1>
+
 ## Esperanto em 12 dias
 
 <https://learn.esperanto.com/pt/>
@@ -19,7 +23,14 @@ O Duolingo tem curso de Esperanto.
 
 ## Complete Esperanto
 
+![Esperanto](/assets/linguas/esperanto.jpeg)
+
 Um livro que comecei a usar esses dias. Os audios estão disponíveis gratuitamente online aqui <https://library.teachyourself.com/id004325475>.
+
+Owen, Tim, and Meyer, Judith. Complete Esperanto. Hodder and Stoughton/John Murray Learning, 2018. ISBN 9781473669185
+
+---
+
 
 ## Comentários aleatórios meus
 
