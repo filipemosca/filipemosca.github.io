@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2021-01-08T20:18:29-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.</subtitle><entry><title type="html">Livros e links para aprender alemão sozinho</title><link href="http://localhost:4000/linguas/aprender-alemao" rel="alternate" type="text/html" title="Livros e links para aprender alemão sozinho" /><published>2021-01-03T00:00:00-03:00</published><updated>2021-01-03T00:00:00-03:00</updated><id>http://localhost:4000/linguas/aprender-alem%C3%A3o</id><content type="html" xml:base="http://localhost:4000/linguas/aprender-alemao">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2021-05-24T00:44:36-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mosquildo</title><subtitle>Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.</subtitle><entry><title type="html">Melhores músicas de Power Metal</title><link href="http://localhost:4000/2021/melhores-musicas-power-metal" rel="alternate" type="text/html" title="Melhores músicas de Power Metal" /><published>2021-04-16T00:00:00-03:00</published><updated>2021-04-16T00:00:00-03:00</updated><id>http://localhost:4000/2021/melhores-musicas-power-metal</id><content type="html" xml:base="http://localhost:4000/2021/melhores-musicas-power-metal">&lt;p&gt;Tô criando essa página pra listar algumas de minhas músicas favoritas de Power Metal. Vou logo deixar claro aqui que esta é minha seleção pessoal; sou muito viciado nesse gênero musical e estou sempre em busca de novas bandas e novos albuns. Sentiu falta de algum grupo musical ou música? Me manda um email com uma sugestão que vou adorar conhecer.&lt;/p&gt;
+
+&lt;p&gt;Aqui eu basicamente vou listar minhas músicas favoritas, aquelas que eu em algum momento da minha vida já fiquei dias ouvindo em &lt;em&gt;loop&lt;/em&gt; sem parar. Essas são as mesmas músicas que eu costumo apresentar para as pessoas que não estão muito familiarizada com esse gênero musical e estão afim de conhecer um pouco.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Tô criando essa página pra listar algumas de minhas músicas favoritas de Power Metal. Vou logo deixar claro aqui que esta é minha seleção pessoal; sou muito viciado nesse gênero musical e estou sempre em busca de novas bandas e novos albuns. Sentiu falta de algum grupo musical ou música? Me manda um email com uma sugestão que vou adorar conhecer.</summary></entry><entry><title type="html">Livros e links para aprender alemão sozinho</title><link href="http://localhost:4000/linguas/aprender-alemao" rel="alternate" type="text/html" title="Livros e links para aprender alemão sozinho" /><published>2021-01-03T00:00:00-03:00</published><updated>2021-01-03T00:00:00-03:00</updated><id>http://localhost:4000/linguas/aprender-alem%C3%A3o</id><content type="html" xml:base="http://localhost:4000/linguas/aprender-alemao">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;curso-gratuito-do-dw&quot;&gt;Curso gratuito do DW&lt;/h2&gt;
 
@@ -42,14 +44,14 @@
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;https://ankiweb.net/shared/info/1427904553&quot;&gt;https://ankiweb.net/shared/info/1427904553&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Livros e links para aprender grego sozinho</title><link href="http://localhost:4000/linguas/aprender-grego" rel="alternate" type="text/html" title="Livros e links para aprender grego sozinho" /><published>2021-01-03T00:00:00-03:00</published><updated>2021-01-03T00:00:00-03:00</updated><id>http://localhost:4000/linguas/aprender-grego</id><content type="html" xml:base="http://localhost:4000/linguas/aprender-grego">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="linguas" /><summary type="html"></summary></entry><entry><title type="html">Livros e links para aprender grego sozinho</title><link href="http://localhost:4000/linguas/aprender-grego" rel="alternate" type="text/html" title="Livros e links para aprender grego sozinho" /><published>2021-01-03T00:00:00-03:00</published><updated>2021-01-03T00:00:00-03:00</updated><id>http://localhost:4000/linguas/aprender-grego</id><content type="html" xml:base="http://localhost:4000/linguas/aprender-grego">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Vou deixar essa página pausada pois vou deixar o grego de lado por um tempo para focar em outras línguas. No futuro coloco mais coisa aqui.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.xanthi.ilsp.gr/filog/default.htm&quot;&gt;Filogrossia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://kypros.org/LearnGreek/&quot;&gt;Kypros&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Materiais para aprender inglês sozinho</title><link href="http://localhost:4000/linguas/aprender-ingles" rel="alternate" type="text/html" title="Materiais para aprender inglês sozinho" /><published>2021-01-03T00:00:00-03:00</published><updated>2021-01-03T00:00:00-03:00</updated><id>http://localhost:4000/linguas/aprender-ingles</id><content type="html" xml:base="http://localhost:4000/linguas/aprender-ingles">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><category term="linguas" /><summary type="html"></summary></entry><entry><title type="html">Materiais para aprender inglês sozinho</title><link href="http://localhost:4000/linguas/aprender-ingles" rel="alternate" type="text/html" title="Materiais para aprender inglês sozinho" /><published>2021-01-03T00:00:00-03:00</published><updated>2021-01-03T00:00:00-03:00</updated><id>http://localhost:4000/linguas/aprender-ingles</id><content type="html" xml:base="http://localhost:4000/linguas/aprender-ingles">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Como essa página provavelmente vai ficar bem extensa, coloquei abaixo um sumário dos conteúdos para que você possa pular diretamente para o tópico que te interessa.&lt;/p&gt;
 
@@ -89,7 +91,7 @@
 
 &lt;p&gt;Na minha opinião, o Duolingo é muito bom para iniciantes. Ele ajuda quem está começando a construir um vocabulário (algo em torno de mil palavras) de forma bem natural e paulatina. O duolingo também ajuda muito você a começar a entender como formar frases e a estruturação da gramática. Além disso, ensina bastante a pronuncia e o &lt;em&gt;listening&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;O mais legal do Duolingo é que você &lt;strong&gt;não precisa pagar para ter acesso aos cursos completos&lt;/strong&gt;. A assinatura Plus é mais pra quem não quer ficar vendo propagandas. O conteúdo apresentado pra quem paga e pra quem não paga é o mesmo.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Um pequeno guia de como usar o Anki</title><link href="http://localhost:4000/guia-anki" rel="alternate" type="text/html" title="Um pequeno guia de como usar o Anki" /><published>2021-01-02T00:00:00-03:00</published><updated>2021-01-02T00:00:00-03:00</updated><id>http://localhost:4000/guia-anki</id><content type="html" xml:base="http://localhost:4000/guia-anki">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O mais legal do Duolingo é que você &lt;strong&gt;não precisa pagar para ter acesso aos cursos completos&lt;/strong&gt;. A assinatura Plus é mais pra quem não quer ficar vendo propagandas. O conteúdo apresentado pra quem paga e pra quem não paga é o mesmo.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="linguas" /><summary type="html"></summary></entry><entry><title type="html">Um pequeno guia de como usar o Anki</title><link href="http://localhost:4000/guia-anki" rel="alternate" type="text/html" title="Um pequeno guia de como usar o Anki" /><published>2021-01-02T00:00:00-03:00</published><updated>2021-01-02T00:00:00-03:00</updated><id>http://localhost:4000/guia-anki</id><content type="html" xml:base="http://localhost:4000/guia-anki">&lt;p&gt;&lt;img src=&quot;/assets/const2.gif&quot; alt=&quot;Pagina em construção&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Como de costume:&lt;/strong&gt; essa pagina provavelmente vai ficar extensa então aqui em baixo vou deixar um &lt;strong&gt;sumário&lt;/strong&gt; para que você possa &lt;strong&gt;acessar rapidamente o tópico que te interessa&lt;/strong&gt;.&lt;/p&gt;
 
@@ -100,6 +102,10 @@
   &lt;li&gt;&lt;a href=&quot;#minhas-configurações&quot; id=&quot;markdown-toc-minhas-configurações&quot;&gt;Minhas configurações&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#minhas-extensões-e-complementos&quot; id=&quot;markdown-toc-minhas-extensões-e-complementos&quot;&gt;Minhas extensões e complementos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#outros-links&quot; id=&quot;markdown-toc-outros-links&quot;&gt;Outros links&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#como-eu-costumo-usar-o-anki&quot; id=&quot;markdown-toc-como-eu-costumo-usar-o-anki&quot;&gt;Como eu costumo usar o Anki&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#apagar-e-editar-cartões&quot; id=&quot;markdown-toc-apagar-e-editar-cartões&quot;&gt;Apagar e editar cartões&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;como-funciona-o-anki&quot;&gt;Como funciona o Anki&lt;/h2&gt;
@@ -175,7 +181,13 @@ Abaixou vou mostrar algumas cartas minhas mas não é para vocês considerarem c
 &lt;ol&gt;
   &lt;li&gt;Comunidade do Anki no Reddit (&lt;a href=&quot;https://www.reddit.com/r/Anki/&quot;&gt;https://www.reddit.com/r/Anki/&lt;/a&gt;).&lt;/li&gt;
   &lt;li&gt;Comunidade de estudantes de medicina que usam Anki no Reddit (&lt;a href=&quot;https://www.reddit.com/r/medicalschoolanki/&quot;&gt;https://www.reddit.com/r/medicalschoolanki/&lt;/a&gt;).&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Pode a virtude ser ensinada? Resenha de “Mênon” por Platão</title><link href="http://localhost:4000/2020/menon-platao" rel="alternate" type="text/html" title="Pode a virtude ser ensinada? Resenha de &quot;Mênon&quot; por Platão" /><published>2020-12-23T00:00:00-03:00</published><updated>2020-12-23T00:00:00-03:00</updated><id>http://localhost:4000/2020/menon-platao</id><content type="html" xml:base="http://localhost:4000/2020/menon-platao">&lt;p&gt;Eu nunca tinha lido nada de Platão então esse foi meu primeiro contato direto com a sua obra. Mênon (&lt;em&gt;Meno&lt;/em&gt; em inglês) é um diálogo bem curtinho — apenas 70 páginas. Eu li numa única tarde mas a sensação ao terminar foi de dias mergulhado.&lt;/p&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;como-eu-costumo-usar-o-anki&quot;&gt;Como eu costumo usar o Anki&lt;/h2&gt;
+
+&lt;h3 id=&quot;apagar-e-editar-cartões&quot;&gt;Apagar e editar cartões&lt;/h3&gt;
+
+&lt;p&gt;Quanto eu tô estudando, acabo fazendo cartões até demais. Muitos até são redundantes. Então ao longo que vou revisando os cartões eu sempre acabo deletando vários deles que não cosidero tão essenciais para entender os principais conceitos do assunto em questão.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="flashcards" /><summary type="html"></summary></entry><entry><title type="html">Pode a virtude ser ensinada? Resenha de “Mênon” por Platão</title><link href="http://localhost:4000/2020/menon-platao" rel="alternate" type="text/html" title="Pode a virtude ser ensinada? Resenha de “Mênon” por Platão" /><published>2020-12-23T00:00:00-03:00</published><updated>2020-12-23T00:00:00-03:00</updated><id>http://localhost:4000/2020/menon-platao</id><content type="html" xml:base="http://localhost:4000/2020/menon-platao">&lt;p&gt;Eu nunca tinha lido nada de Platão então esse foi meu primeiro contato direto com a sua obra. Mênon (&lt;em&gt;Meno&lt;/em&gt; em inglês) é um diálogo bem curtinho — apenas 70 páginas. Eu li numa única tarde mas a sensação ao terminar foi de dias mergulhado.&lt;/p&gt;
 
 &lt;p&gt;Mesmo que pequeno, esse simples diálogo aborda vários temas diferentes. Dentre eles:&lt;/p&gt;
 
@@ -356,7 +368,7 @@ Abaixou vou mostrar algumas cartas minhas mas não é para vocês considerarem c
 
 &lt;p&gt;The Dialogues of Plato translated into English with Analyses and Introductions by B. Jowett, M.A. in Five Volumes. 3rd edition revised and corrected (Oxford University Press, 1892).&lt;/p&gt;
 
-&lt;p&gt;Erikk Geannikis. Plato’s Meno: The Geometry Lesson. YouTube. 25 de set. de 2013. Disponível em: &lt;a href=&quot;https://www.youtube.com/watch?v=yqDoLdmcyZo&amp;amp;t=238s&quot;&gt;https://www.youtube.com/watch?v=yqDoLdmcyZo&amp;amp;t=238s&lt;/a&gt;&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="blog" /><category term="Filosofia" /><category term="Livros" /><summary type="html">Eu nunca tinha lido nada de Platão então esse foi meu primeiro contato direto com a sua obra. Mênon (Meno em inglês) é um diálogo bem curtinho — apenas 70 páginas. Eu li numa única tarde mas a sensação ao terminar foi de dias mergulhado.</summary></entry><entry><title type="html">Resenha de “Justiça: o que é fazer a coisa certa?”</title><link href="http://localhost:4000/2020/resenha-justica" rel="alternate" type="text/html" title="Resenha de &quot;Justiça: o que é fazer a coisa certa?&quot;" /><published>2020-12-18T00:00:00-03:00</published><updated>2020-12-18T00:00:00-03:00</updated><id>http://localhost:4000/2020/resenha-justica</id><content type="html" xml:base="http://localhost:4000/2020/resenha-justica">&lt;p&gt;Que livro, meus amigos! Que livro foi esse?! Meu objetivo neste artigo vai ser tentar explicar porque você e todos os cidadãos da Terra deveriam ler esse livro que uma vez lido jamais será deslido. Espero conseguir transmitir com vocês um pouco da minha empolgação com esta obra.&lt;/p&gt;
+&lt;p&gt;Erikk Geannikis. Plato’s Meno: The Geometry Lesson. YouTube. 25 de set. de 2013. Disponível em: &lt;a href=&quot;https://www.youtube.com/watch?v=yqDoLdmcyZo&amp;amp;t=238s&quot;&gt;https://www.youtube.com/watch?v=yqDoLdmcyZo&amp;amp;t=238s&lt;/a&gt;&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="blog" /><category term="Filosofia" /><category term="Livros" /><summary type="html">Eu nunca tinha lido nada de Platão então esse foi meu primeiro contato direto com a sua obra. Mênon (Meno em inglês) é um diálogo bem curtinho — apenas 70 páginas. Eu li numa única tarde mas a sensação ao terminar foi de dias mergulhado.</summary></entry><entry><title type="html">Resenha de “Justiça: o que é fazer a coisa certa?”</title><link href="http://localhost:4000/2020/resenha-justica" rel="alternate" type="text/html" title="Resenha de “Justiça: o que é fazer a coisa certa?”" /><published>2020-12-18T00:00:00-03:00</published><updated>2020-12-18T00:00:00-03:00</updated><id>http://localhost:4000/2020/resenha-justica</id><content type="html" xml:base="http://localhost:4000/2020/resenha-justica">&lt;p&gt;Que livro, meus amigos! Que livro foi esse?! Meu objetivo neste artigo vai ser tentar explicar porque você e todos os cidadãos da Terra deveriam ler esse livro que uma vez lido jamais será deslido. Espero conseguir transmitir com vocês um pouco da minha empolgação com esta obra.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/leia-imediatamente-sandel.png&quot; alt=&quot;Leia imediatamente&quot; /&gt;&lt;/p&gt;
 
@@ -409,30 +421,30 @@ Abaixou vou mostrar algumas cartas minhas mas não é para vocês considerarem c
 
 &lt;p&gt;Leu algum livro de Sandel e quer compartilhar o que achou? Me manda um email (&lt;a href=&quot;mailto:filipe@mosquildo.com.br&quot;&gt;filipe@mosquildo.com.br&lt;/a&gt;) com suas impressões que vou adorar ouvir. Posso passar horas discutindo as questões desse livro sem nem cansar.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Mas e você, mentiria para um assassino?&lt;/strong&gt; (quem leu vai entender).&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="blog" /><category term="Filosofia" /><category term="Livros" /><summary type="html">Que livro, meus amigos! Que livro foi esse?! Meu objetivo neste artigo vai ser tentar explicar porque você e todos os cidadãos da Terra deveriam ler esse livro que uma vez lido jamais será deslido. Espero conseguir transmitir com vocês um pouco da minha empolgação com esta obra.</summary></entry><entry><title type="html">Por que o coronavirus provoca falta de ar?</title><link href="http://localhost:4000/2020/falta-de-ar-covid" rel="alternate" type="text/html" title="Por que o coronavirus provoca falta de ar?" /><published>2020-05-26T00:00:00-03:00</published><updated>2020-05-26T00:00:00-03:00</updated><id>http://localhost:4000/2020/falta-de-ar-covid</id><content type="html" xml:base="http://localhost:4000/2020/falta-de-ar-covid">&lt;p&gt;Me inspirei a escrever esse texto após ler um artigo muito bom e muito bem feito do &lt;em&gt;New York Times&lt;/em&gt;, “&lt;em&gt;&lt;a href=&quot;https://www.nytimes.com/interactive/2020/05/08/health/coronavirus-covid-lungs-ventilators.html&quot;&gt;In the Fight to Treat Coronavirus, Your Lungs Are a Battlefield&lt;/a&gt;&lt;/em&gt;”.&lt;sup id=&quot;fnref:nyt&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:nyt&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Mas aqui nessa postagem vou focar mais na parte dos mecanismos que causam a falta de ar e a SDRA (síndrome do desconforto respiratório agudo).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mas e você, mentiria para um assassino?&lt;/strong&gt; (quem leu vai entender).&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="blog" /><category term="Filosofia" /><category term="Livros" /><summary type="html">Que livro, meus amigos! Que livro foi esse?! Meu objetivo neste artigo vai ser tentar explicar porque você e todos os cidadãos da Terra deveriam ler esse livro que uma vez lido jamais será deslido. Espero conseguir transmitir com vocês um pouco da minha empolgação com esta obra.</summary></entry><entry><title type="html">Por que o coronavirus provoca falta de ar?</title><link href="http://localhost:4000/2020/falta-de-ar-covid" rel="alternate" type="text/html" title="Por que o coronavirus provoca falta de ar?" /><published>2020-05-26T00:00:00-03:00</published><updated>2020-05-26T00:00:00-03:00</updated><id>http://localhost:4000/2020/falta-de-ar-covid</id><content type="html" xml:base="http://localhost:4000/2020/falta-de-ar-covid">&lt;p&gt;Me inspirei a escrever esse texto após ler um artigo muito bom e muito bem feito do &lt;em&gt;New York Times&lt;/em&gt;, “&lt;em&gt;&lt;a href=&quot;https://www.nytimes.com/interactive/2020/05/08/health/coronavirus-covid-lungs-ventilators.html&quot;&gt;In the Fight to Treat Coronavirus, Your Lungs Are a Battlefield&lt;/a&gt;&lt;/em&gt;”.&lt;sup id=&quot;fnref:nyt&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:nyt&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Mas aqui nessa postagem vou focar mais na parte dos mecanismos que causam a falta de ar e a SDRA (síndrome do desconforto respiratório agudo).&lt;/p&gt;
 
 &lt;p&gt;Vou tentar explicar a fisiopatologia da lesão pulmonar numa linguagem que todos possam entender.&lt;/p&gt;
 
 &lt;!-- 
 Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de outro coronavirus, o SARS-CoV-1. Então, apesar de a interação do SARS-CoV-2 ainda não ter sido completamente detalhada em nosso organismo, acredita-se que seja bastante semelhante ao SARS-CoV-1, com diferenças pontuais mas muito importantes (por exemplo, a maior prevalência de eventos trombo-embólicos).  --&gt;
 
-&lt;p&gt;Quem quiser se aprofundar mais no assunto, o principal artigo que estudei foi o de Bourgonje et al.&lt;sup id=&quot;fnref:Bourgonje&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Ele está bem completo e faz uma boa revisão do que se sabe até agora.&lt;/p&gt;
+&lt;p&gt;Quem quiser se aprofundar mais no assunto, o principal artigo que estudei foi o de Bourgonje et al.&lt;sup id=&quot;fnref:Bourgonje&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Ele está bem completo e faz uma boa revisão do que se sabe até agora.&lt;/p&gt;
 
 &lt;h1 id=&quot;infecção&quot;&gt;Infecção&lt;/h1&gt;
 
-&lt;p&gt;Primeiro, vamos conversar sobre como nos infectamos. O novo coronavirus (SARS-CoV-2) é transmitido através de gotículas contaminadas de pessoas já infectadas. Essas gotículas, quando em contato com nossas mucosas faciais (nariz, boca e olhos), permite a entrada do vírus em nosso organismo.&lt;sup id=&quot;fnref:Jin&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Jin&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Primeiro, vamos conversar sobre como nos infectamos. O novo coronavirus (SARS-CoV-2) é transmitido através de gotículas contaminadas de pessoas já infectadas. Essas gotículas, quando em contato com nossas mucosas faciais (nariz, boca e olhos), permite a entrada do vírus em nosso organismo.&lt;sup id=&quot;fnref:Jin&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Jin&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Uma vez em nossas muscosas, a proteína &lt;em&gt;Spike&lt;/em&gt; (S) do SARS-CoV-2 se liga nos receptores da enzima conversora da angiotensina 2 (ACE2) das células epiteliais. Essa ligação ativa um mecanismo que permite a entrada do vírus no interior das célula.&lt;sup id=&quot;fnref:Bourgonje:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Jin:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Jin&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Uma vez em nossas muscosas, a proteína &lt;em&gt;Spike&lt;/em&gt; (S) do SARS-CoV-2 se liga nos receptores da enzima conversora da angiotensina 2 (ACE2) das células epiteliais. Essa ligação ativa um mecanismo que permite a entrada do vírus no interior das célula.&lt;sup id=&quot;fnref:Bourgonje:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Jin:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Jin&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Esse é um conceito bem curioso na microbiologia, nos só somos infectados porque nossas células permitem a entrada do vírus. É como se os vírus “aprendessem” a se disfarçar de estruturas conhecidas do nosso corpo, enganando-o.&lt;/p&gt;
 
-&lt;p&gt;Várias de nossas células possuem esse receptor ACE2 e podem ser infectadas, como no estômago, intestino, coração, rins. Contudo, é principalmente no epitélio nasal e nos pulmões que o vírus se liga aos receptores e invade as células.&lt;sup id=&quot;fnref:Jin:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Jin&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; O acometimento destes outros órgãos também pode acontecer, mas na maioria dos casos o SARS-CoV-2 atua no sistema respiratório, provocando uma síndrome gripal.&lt;/p&gt;
+&lt;p&gt;Várias de nossas células possuem esse receptor ACE2 e podem ser infectadas, como no estômago, intestino, coração, rins. Contudo, é principalmente no epitélio nasal e nos pulmões que o vírus se liga aos receptores e invade as células.&lt;sup id=&quot;fnref:Jin:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Jin&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; O acometimento destes outros órgãos também pode acontecer, mas na maioria dos casos o SARS-CoV-2 atua no sistema respiratório, provocando uma síndrome gripal.&lt;/p&gt;
 
 &lt;p&gt;Após a invasão, o vírus começa a utilizar o metabolismo celular para criar cópias de si mesmo. Quando vários vírus novos são criados, eles são liberados e a célula morre. As células infectadas funcionam como fábricas para produção de novas cópias virais.&lt;/p&gt;
 
-&lt;p&gt;Na maioria dos infectados (aproximadamente 80-90%), a infecção se restringe ao trato respiratório superior. A atividade do vírus na região nasal provoca sintomas como coriza, perda do olfato, dor de garganta e tosse. Além disso, alguns sintomas mais gerais como fraqueza, dor de cabeça e febre podem aparecer.&lt;sup id=&quot;fnref:Mason&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Mason&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Jin:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Jin&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Na maioria dos infectados (aproximadamente 80-90%), a infecção se restringe ao trato respiratório superior. A atividade do vírus na região nasal provoca sintomas como coriza, perda do olfato, dor de garganta e tosse. Além disso, alguns sintomas mais gerais como fraqueza, dor de cabeça e febre podem aparecer.&lt;sup id=&quot;fnref:Mason&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Mason&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Jin:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Jin&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Contudo, em cerca de 10-20% dos infectados o vírus vai acometer mais seriamente o trato respiratório inferior, descendo pelas vias aéreas até chegar nos pulmões.&lt;sup id=&quot;fnref:Bourgonje:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Contudo, em cerca de 10-20% dos infectados o vírus vai acometer mais seriamente o trato respiratório inferior, descendo pelas vias aéreas até chegar nos pulmões.&lt;sup id=&quot;fnref:Bourgonje:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;o-pulmão-saudável&quot;&gt;O pulmão saudável&lt;/h1&gt;
 
@@ -450,9 +462,9 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 &lt;figcaption&gt;Troca gasosa em um pulmão saudável. O alvéolo revestido pelo epitélio alveolar e o vaso sanguíneo revestido pelo endotélio. Percebam como as paredes são bem finas, apenas uma camada de células.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;O epitélio alveolar é formado por dois tipos de células: os &lt;strong&gt;pneumócitos tipo I&lt;/strong&gt;, responsáveis pela troca gasosa, e os &lt;strong&gt;pneumócitos tipo II&lt;/strong&gt;, produtores do surfactante (um líquido que serve para reduzir o atrito e impedir que os alvéolos fechem). Esses dois tipos de células estão continuamente absorvendo o excesso de líquido e jogando nos vasos linfáticos e sanguíneos.&lt;sup id=&quot;fnref:Matthay&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Matthay&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;O epitélio alveolar é formado por dois tipos de células: os &lt;strong&gt;pneumócitos tipo I&lt;/strong&gt;, responsáveis pela troca gasosa, e os &lt;strong&gt;pneumócitos tipo II&lt;/strong&gt;, produtores do surfactante (um líquido que serve para reduzir o atrito e impedir que os alvéolos fechem). Esses dois tipos de células estão continuamente absorvendo o excesso de líquido e jogando nos vasos linfáticos e sanguíneos.&lt;sup id=&quot;fnref:Matthay&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Matthay&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;A imagem abaixo, extraída do artigo de Matthay et al.,&lt;sup id=&quot;fnref:Matthay:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Matthay&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; vai parecer bem confusa e assustadora, mas foquem apenas nas marcações que eu fiz (PI, PII e VS). Ela mostra um alvéolo saudável.&lt;/p&gt;
+&lt;p&gt;A imagem abaixo, extraída do artigo de Matthay et al.,&lt;sup id=&quot;fnref:Matthay:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Matthay&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; vai parecer bem confusa e assustadora, mas foquem apenas nas marcações que eu fiz (PI, PII e VS). Ela mostra um alvéolo saudável.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;/assets/2020/covid-dispneia/alveoli-edit.png&quot; alt=&quot;Troca gasosa alveolar&quot; /&gt;
@@ -470,13 +482,13 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;p&gt;Agora vou falar sobre o que acontece quando os pulmões são infectados e mais seriamente acometidos em pacientes com a COVID-19.&lt;/p&gt;
 
-&lt;p&gt;A primeira descrição patológica de um paciente com COVID-19 foi realizada por Xu et al. e publicada na revista &lt;em&gt;The Lancet&lt;/em&gt;.&lt;sup id=&quot;fnref:Xu&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Xu&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; O padrão de acometimento segue o padrão da sindrome do desconforto respiratório agudo (SDRA) que também acontece nas infecções por influenza, outros coronavirus e também pneumonias bacterianas.&lt;/p&gt;
+&lt;p&gt;A primeira descrição patológica de um paciente com COVID-19 foi realizada por Xu et al. e publicada na revista &lt;em&gt;The Lancet&lt;/em&gt;.&lt;sup id=&quot;fnref:Xu&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Xu&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; O padrão de acometimento segue o padrão da sindrome do desconforto respiratório agudo (SDRA) que também acontece nas infecções por influenza, outros coronavirus e também pneumonias bacterianas.&lt;/p&gt;
 
-&lt;p&gt;Uma vez dentro dos alvéolos, o SARS-CoV-2 vai infectar as células que expressam os receptores ACE2, principalmente os pneumócitos tipo II. Essas células infectadas sofrem apoptose (morte celular) após a replicação e liberação de novos vírus. Em reposta à invasão, tecido pulmonar inicia uma reposta inflamatória para tentar conter a invasão.&lt;sup id=&quot;fnref:Bourgonje:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Jin:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Jin&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Uma vez dentro dos alvéolos, o SARS-CoV-2 vai infectar as células que expressam os receptores ACE2, principalmente os pneumócitos tipo II. Essas células infectadas sofrem apoptose (morte celular) após a replicação e liberação de novos vírus. Em reposta à invasão, tecido pulmonar inicia uma reposta inflamatória para tentar conter a invasão.&lt;sup id=&quot;fnref:Bourgonje:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Jin:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Jin&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Na vigência da infecção, macrófagos (células de defesa) começam a liberar citocinas pró-inflamatórias que dão início ao processo inflamatório. Em toda inflamação ocorre aumento da permeabilidade das membranas celulares. Essa alteração na permeabilidade de certa forma é importante para permitir que as células de defesa atravessem as membranas e chegem até o espaço alveolar.&lt;/p&gt;
 
-&lt;p&gt;Contudo, essa alteração na permeabilidade das membranas também resulta em maior extravasamento de líquido para fora dos vasos e para dentro dos alvéolos. Esse líquido cheio de proteínas é chamado de &lt;strong&gt;exsudato&lt;/strong&gt; e começa a se acumular tanto no espaço entre os vasos e o alvéolo como no espaço intra-alveolar que outrora era preenchido apenas por ar.&lt;sup id=&quot;fnref:Pierrakos&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Pierrakos&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Contudo, essa alteração na permeabilidade das membranas também resulta em maior extravasamento de líquido para fora dos vasos e para dentro dos alvéolos. Esse líquido cheio de proteínas é chamado de &lt;strong&gt;exsudato&lt;/strong&gt; e começa a se acumular tanto no espaço entre os vasos e o alvéolo como no espaço intra-alveolar que outrora era preenchido apenas por ar.&lt;sup id=&quot;fnref:Pierrakos&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Pierrakos&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Provavelmente deve ter ficado confuso. A imagem abaixo vai esclarecer melhor. Notem que o alvéolo saudável está praticamente colado ao vaso sanguíneo, permitindo boas trocas gasosas. Já no alvéolo inflamado e cheio de líquido, o ar não entra com facilidade, além de ter uma camada de líquido exsudativo separando a parede alveolar do vaso sanguíneo.&lt;/p&gt;
 
@@ -487,9 +499,9 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;p&gt;Na verdade, toda inflamação cursa com aumento na permeabilidade dos vasos e formação de edema. Por exemplo, quando você leva uma picada de um inseto e fica uma bolinha inflamada na sua pele. Esse acúmulo de líquidos, que chamamos de edema, é promovido pelo mesmo mecanismo da inflamação.&lt;/p&gt;
 
-&lt;p&gt;O acumulo excessivo de líquido que começa a extravasar no espaço entre os alvéolos e os capilares sanguíneos dificulta ou até impossibilita a troca de gases. Acredita-se que o agravamento da doença resulta de uma desregulação do sistema imunológico em que há um desequilíbrio entre os fatores pró-inflamatórios e anti-inflamatórios. É como se a inflamação saísse de controle e começasse a prejudicar o próprio pulmão.&lt;sup id=&quot;fnref:Robbins&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Robbins&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;O acumulo excessivo de líquido que começa a extravasar no espaço entre os alvéolos e os capilares sanguíneos dificulta ou até impossibilita a troca de gases. Acredita-se que o agravamento da doença resulta de uma desregulação do sistema imunológico em que há um desequilíbrio entre os fatores pró-inflamatórios e anti-inflamatórios. É como se a inflamação saísse de controle e começasse a prejudicar o próprio pulmão.&lt;sup id=&quot;fnref:Robbins&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Robbins&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;A contínua destruição e reparo da parede alveolar vai resultar em extrema desorganização na estrutura dos alvélos, o que chamamos de &lt;strong&gt;lesão alveolar difusa&lt;/strong&gt;. Na imagem abaixo, extraída de um artigo sobre H1N1,&lt;sup id=&quot;fnref:Buttignol&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Buttignol&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; dá pra ver um pouco as alterações histológicas que ocorrem no pulmão.&lt;/p&gt;
+&lt;p&gt;A contínua destruição e reparo da parede alveolar vai resultar em extrema desorganização na estrutura dos alvélos, o que chamamos de &lt;strong&gt;lesão alveolar difusa&lt;/strong&gt;. Na imagem abaixo, extraída de um artigo sobre H1N1,&lt;sup id=&quot;fnref:Buttignol&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Buttignol&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; dá pra ver um pouco as alterações histológicas que ocorrem no pulmão.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;/assets/2020/covid-dispneia/12931_2017_630_Fig1_HTML.jpg&quot; alt=&quot;Lâmina histológica&quot; /&gt;
@@ -498,7 +510,7 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;p&gt;Com a destruição dos pneumócitos tipo II o surfactante vai deixando de ser produzido e com isso os alvéolas começam a colabar sem conseguir se expandir. Além disso, as paredes dos alvéolos começam a ser revestidas por uma &lt;strong&gt;membrana hialina&lt;/strong&gt;, resultante da condensação do edema rico em proteínas e do acúmulo de restos de células mortas.&lt;/p&gt;
 
-&lt;p&gt;Na imagem abaixo extraida do artigo de Thompson et al.&lt;sup id=&quot;fnref:Thompson&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Thompson&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;, podemos ver a comparação de um alvéolo saudável com um alvéolo acometido pela SDRA, resumindo todas as alterações presentes.&lt;/p&gt;
+&lt;p&gt;Na imagem abaixo extraida do artigo de Thompson et al.&lt;sup id=&quot;fnref:Thompson&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Thompson&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;, podemos ver a comparação de um alvéolo saudável com um alvéolo acometido pela SDRA, resumindo todas as alterações presentes.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;/assets/2020/covid-dispneia/alveolo.jpeg&quot; alt=&quot;Alvéolo saudável x acometido&quot; /&gt;
@@ -521,17 +533,17 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;p&gt;Enquanto em alguns pacientes o pulmão consegue se regenerar completamente sem deixar aparentes sequelas. Em uma minoria dos casos o tecido pulmonar é substituído por tecido cicatricial, incapaz de realizar trocas gasosas. Esse tecido substituto serve apenas para preencher o espaço vazio e manter a estrutura do pulmão.&lt;/p&gt;
 
-&lt;p&gt;Esses pacientes vão ter sequelas respiratórias para o resto da vida, com redução da capacidade pulmonar. A gente chama essa condição de fibrose pulmonar.&lt;sup id=&quot;fnref:Robbins:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Robbins&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Esses pacientes vão ter sequelas respiratórias para o resto da vida, com redução da capacidade pulmonar. A gente chama essa condição de fibrose pulmonar.&lt;sup id=&quot;fnref:Robbins:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Robbins&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;por-que-idosos-têm-uma-doença-mais-grave&quot;&gt;Por que idosos têm uma doença mais grave?&lt;/h1&gt;
 
 &lt;p&gt;Essa é uma pergunta que ainda vem sendo bastante estudada. Mas já existem várias hipóteses. Uma coleção de fatores estão envolvidos nessa explicação.&lt;/p&gt;
 
-&lt;p&gt;Simplificando, os idosos possuem um sistema imune mais fraco e também não possuem uma regeneração tão boa do epitélio pulmonar como os jovens. Além disso, existem cílios nas paredes dos tecidos respiratórios que servem para empurrar as secreções para cima. Nos idosos, esses cílios estão comprometidos, o que dificulta a “limpeza” dos pulmões.&lt;sup id=&quot;fnref:Mason:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Mason&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Simplificando, os idosos possuem um sistema imune mais fraco e também não possuem uma regeneração tão boa do epitélio pulmonar como os jovens. Além disso, existem cílios nas paredes dos tecidos respiratórios que servem para empurrar as secreções para cima. Nos idosos, esses cílios estão comprometidos, o que dificulta a “limpeza” dos pulmões.&lt;sup id=&quot;fnref:Mason:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Mason&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Também existe uma hipóstese em estudo de que a expressão do receptor ACE2 nos pulmões aumente no decorrer da idade. Isso poderia explicar em parte a maior facilidade de infecção e agravamento da doença.&lt;sup id=&quot;fnref:Bourgonje:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Também existe uma hipóstese em estudo de que a expressão do receptor ACE2 nos pulmões aumente no decorrer da idade. Isso poderia explicar em parte a maior facilidade de infecção e agravamento da doença.&lt;sup id=&quot;fnref:Bourgonje:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;De forma semelhante, também existem alguns estudos mostrando que homens expressam mais o ACE2 do que mulheres, o que explicaria a maior severidade da doença no sexo masculino. Contudo, também existem outras explicações, como o fato de homens normalmente possuírem mais comorbidades associadas.&lt;sup id=&quot;fnref:Bourgonje:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;De forma semelhante, também existem alguns estudos mostrando que homens expressam mais o ACE2 do que mulheres, o que explicaria a maior severidade da doença no sexo masculino. Contudo, também existem outras explicações, como o fato de homens normalmente possuírem mais comorbidades associadas.&lt;sup id=&quot;fnref:Bourgonje:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Bourgonje&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;citações&quot;&gt;Citações&lt;/h1&gt;
 
@@ -574,21 +586,21 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;h2 id=&quot;o-estudo-francês&quot;&gt;O estudo francês&lt;/h2&gt;
 
-&lt;p&gt;Tudo começou quando Gautret &lt;em&gt;et al&lt;/em&gt;. publicaram um estudo dia 18 de março na revista &lt;em&gt;International Journal of Antimicrobial Agents&lt;/em&gt;.&lt;sup id=&quot;fnref:Gautret&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Gautret&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; O texto foi publicado ainda como um &lt;em&gt;pre-proof&lt;/em&gt;, isto é, um artigo já revisado por pares e aceito para publicação mas que ainda não está na versão final.&lt;/p&gt;
+&lt;p&gt;Tudo começou quando Gautret &lt;em&gt;et al&lt;/em&gt;. publicaram um estudo dia 18 de março na revista &lt;em&gt;International Journal of Antimicrobial Agents&lt;/em&gt;.&lt;sup id=&quot;fnref:Gautret&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Gautret&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; O texto foi publicado ainda como um &lt;em&gt;pre-proof&lt;/em&gt;, isto é, um artigo já revisado por pares e aceito para publicação mas que ainda não está na versão final.&lt;/p&gt;
 
-&lt;p&gt;Outros estudos chineses já tinham apotando a cloroquina e hidroxicloroquina como possíveis tratamentos, um de Gao &lt;em&gt;et al&lt;/em&gt;.&lt;sup id=&quot;fnref:Gao&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Gao&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; e outro de Chen &lt;em&gt;et al&lt;/em&gt;.&lt;sup id=&quot;fnref:Chen&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Chen&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Mas a grande discussão começou mesmo após o estudo francês.&lt;/p&gt;
+&lt;p&gt;Outros estudos chineses já tinham apotando a cloroquina e hidroxicloroquina como possíveis tratamentos, um de Gao &lt;em&gt;et al&lt;/em&gt;.&lt;sup id=&quot;fnref:Gao&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Gao&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; e outro de Chen &lt;em&gt;et al&lt;/em&gt;.&lt;sup id=&quot;fnref:Chen&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Chen&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Mas a grande discussão começou mesmo após o estudo francês.&lt;/p&gt;
 
 &lt;p&gt;Quem lê rapidamente o estudo francês facilmente fica maravilhado com os resultados. Após 6 dias de tratamento, 100% dos pacientes tratados com hidroxicloroquina e azitromicina foram virologicamente curados, contra 57% dos tratados apenas com hidroxicloroquina e 12,5% dos controles que não receberam nenhum tratamento.&lt;/p&gt;
 
 &lt;p&gt;E olha como os autores concluem o artigo:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“Portanto, recomendamos que os pacientes com COVID-19 sejam tratados com hidroxicloroquina e azitromicina para curar sua infecção e limitar a transmissão do vírus a outras pessoas, a fim de conter a disseminação do COVID-19 no mundo.”&lt;sup id=&quot;fnref:Gautret:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Gautret&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;p&gt;“Portanto, recomendamos que os pacientes com COVID-19 sejam tratados com hidroxicloroquina e azitromicina para curar sua infecção e limitar a transmissão do vírus a outras pessoas, a fim de conter a disseminação do COVID-19 no mundo.”&lt;sup id=&quot;fnref:Gautret:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Gautret&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Qualquer pessoa pouco cética lendo isso com certeza vai achar o resultado fantástico e começar a espalhar a eficácia da hidroxicloroquina com azitromicina por aí. Mas será que esse estudo foi bem feito?&lt;/p&gt;
 
-&lt;p&gt;Dia 20 de março, o médico Luis Correia publicou em seu blog o excelente artigo “&lt;a href=&quot;http://medicinabaseadaemevidencias.blogspot.com/2020/03/hidroxicloroquina-o-dia-em-que-ciencia.html&quot;&gt;Hidroxicloroquina: o dia em que a ciência parou &lt;/a&gt;”.&lt;sup id=&quot;fnref:Luis&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Luis&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; Nele, Luis descreveu as fraquezas metodológicas do estudo em questão.&lt;/p&gt;
+&lt;p&gt;Dia 20 de março, o médico Luis Correia publicou em seu blog o excelente artigo “&lt;a href=&quot;http://medicinabaseadaemevidencias.blogspot.com/2020/03/hidroxicloroquina-o-dia-em-que-ciencia.html&quot;&gt;Hidroxicloroquina: o dia em que a ciência parou &lt;/a&gt;”.&lt;sup id=&quot;fnref:Luis&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Luis&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; Nele, Luis descreveu as fraquezas metodológicas do estudo em questão.&lt;/p&gt;
 
 &lt;p&gt;Vou resumir rapidamente algumas dessas fraquezas:&lt;/p&gt;
 
@@ -605,27 +617,27 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;p&gt;Existem mais problemas no estudo, recomendo demais a leitura do artigo de Luis.&lt;/p&gt;
 
-&lt;p&gt;Mesmo assim, o assunto viralizou e rapidamente as pessoas correram nas farmácias para comprar o remédio milagroso que iria acabar com a pandemia. Em várias farmácias o estoque da droga esgotou e pessoas que realmente precisavam dela, para tratar doenças reumáticas, não conseguiram acesso.&lt;sup id=&quot;fnref:Cloroquina-estadao&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Cloroquina-estadao&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Mesmo assim, o assunto viralizou e rapidamente as pessoas correram nas farmácias para comprar o remédio milagroso que iria acabar com a pandemia. Em várias farmácias o estoque da droga esgotou e pessoas que realmente precisavam dela, para tratar doenças reumáticas, não conseguiram acesso.&lt;sup id=&quot;fnref:Cloroquina-estadao&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Cloroquina-estadao&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;ação-in-vitro&quot;&gt;Ação &lt;em&gt;in-vitro&lt;/em&gt;&lt;/h2&gt;
 
 &lt;p&gt;A ideia de testar a cloroquina e hidroxicloroquina no tratamento da COVID-19 surgiu após estudos &lt;em&gt;in vitro&lt;/em&gt; verificarem sua eficácia contra o SARS-CoV-2 (o novo coronavirus).&lt;/p&gt;
 
-&lt;p&gt;Um estudo Chines realizado por Wang &lt;em&gt;et al&lt;/em&gt;. verificou que dentre as drogas testadas (ribavirina, penciclovir, nitazoxanida, nafamostat, cloroquina, remdesivir e favipiravir), tanto o remdesivir quanto a cloroquina apresentaram ação &lt;em&gt;in vitro&lt;/em&gt; contra o SARS-CoV-2 (o novo coronavirus).&lt;sup id=&quot;fnref:Wang&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Wang&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Um estudo Chines realizado por Wang &lt;em&gt;et al&lt;/em&gt;. verificou que dentre as drogas testadas (ribavirina, penciclovir, nitazoxanida, nafamostat, cloroquina, remdesivir e favipiravir), tanto o remdesivir quanto a cloroquina apresentaram ação &lt;em&gt;in vitro&lt;/em&gt; contra o SARS-CoV-2 (o novo coronavirus).&lt;sup id=&quot;fnref:Wang&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Wang&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;O que é um estudo &lt;em&gt;in vitro&lt;/em&gt;? É quando fazemos testes fora de seres vivos. Por exemplo, o estudo de Wang &lt;em&gt;et al&lt;/em&gt;.&lt;sup id=&quot;fnref:Wang:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Wang&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; utilzou algo semelhante a células infectadas com o SARS-CoV-2 suspensas em soluções com as drogas num tubo de ensaio (não me garanto muito explicando essa parte do estudo, mas é algo nesse sentido).&lt;/p&gt;
+&lt;p&gt;O que é um estudo &lt;em&gt;in vitro&lt;/em&gt;? É quando fazemos testes fora de seres vivos. Por exemplo, o estudo de Wang &lt;em&gt;et al&lt;/em&gt;.&lt;sup id=&quot;fnref:Wang:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Wang&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; utilzou algo semelhante a células infectadas com o SARS-CoV-2 suspensas em soluções com as drogas num tubo de ensaio (não me garanto muito explicando essa parte do estudo, mas é algo nesse sentido).&lt;/p&gt;
 
 &lt;p&gt;Mas será que a ação &lt;em&gt;in vitro&lt;/em&gt; é suficiente para sugerir que o tratamento clínico seja efetivo?&lt;/p&gt;
 
-&lt;p&gt;No dia 8 de Abril o BMJ (&lt;em&gt;British Medical Journal&lt;/em&gt;) publicou um execelente editorial&lt;sup id=&quot;fnref:Ferner&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Ferner&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; sobre a cloroquina. Vou parafrasear a seguir algumas das observações feitas nessa publicação.&lt;/p&gt;
+&lt;p&gt;No dia 8 de Abril o BMJ (&lt;em&gt;British Medical Journal&lt;/em&gt;) publicou um execelente editorial&lt;sup id=&quot;fnref:Ferner&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Ferner&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; sobre a cloroquina. Vou parafrasear a seguir algumas das observações feitas nessa publicação.&lt;/p&gt;
 
-&lt;p&gt;A ação &lt;em&gt;in vitro&lt;/em&gt; da cloroquina já foi testada para vários outros vírus. Em estudos laboratoriais, o uso de cloroquina contra Zika, Ebola, Influenza, Chikungunya e Dengue até chegou a mostrar resultados promissores. Contudo, quando realizados estudos em animais ou seres humanos, os efeitos não foram os mesmos. E pior, em alguns casos a cloroquina piorou o quadro clínico. Por exemplo, porquinhos-da-india infectados com Ebola que receberam cloroquina tiveram agravamento da doença. Já para a Chikungunya, o medicamento piorou a condição de macacos infectados.&lt;sup id=&quot;fnref:Ferner:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Ferner&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;A ação &lt;em&gt;in vitro&lt;/em&gt; da cloroquina já foi testada para vários outros vírus. Em estudos laboratoriais, o uso de cloroquina contra Zika, Ebola, Influenza, Chikungunya e Dengue até chegou a mostrar resultados promissores. Contudo, quando realizados estudos em animais ou seres humanos, os efeitos não foram os mesmos. E pior, em alguns casos a cloroquina piorou o quadro clínico. Por exemplo, porquinhos-da-india infectados com Ebola que receberam cloroquina tiveram agravamento da doença. Já para a Chikungunya, o medicamento piorou a condição de macacos infectados.&lt;sup id=&quot;fnref:Ferner:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Ferner&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;E mesmo em estudos &lt;em&gt;in vitro&lt;/em&gt; a cloroquina já se mostrou prejudicial para algumas doenças. Em células infectadas pelo vírus Epstein-Barr (agente etiológico da mononucleose infecciosa) a replicação viral aumentava quando administrada a cloroquina.&lt;/p&gt;
 
 &lt;p&gt;O mais curioso nisso tudo é que esse medicamento já tinha um histórico de esperanças desmanchadas. Zika, Chikungunya, Dengue, Ebola, Influenza… e mesmo assim muitas pessoas depositaram todas as fichas no que provavelmente seria mais uma falsa esperança.&lt;/p&gt;
 
-&lt;p&gt;Na verdade, nós já sabemos do efeito &lt;em&gt;in vitro&lt;/em&gt; da cloroquina contra vírus desde a década de 1960.&lt;sup id=&quot;fnref:Inglot&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Inglot&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; E mesmo assim ainda não temos nenhuma comprovação da eficácia deste medicamento no tratamento de viroses.&lt;/p&gt;
+&lt;p&gt;Na verdade, nós já sabemos do efeito &lt;em&gt;in vitro&lt;/em&gt; da cloroquina contra vírus desde a década de 1960.&lt;sup id=&quot;fnref:Inglot&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Inglot&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; E mesmo assim ainda não temos nenhuma comprovação da eficácia deste medicamento no tratamento de viroses.&lt;/p&gt;
 
 &lt;p&gt;Analisando o histórico da droga quando usada em infecções virais tinhamos algum pressuposto para acreditar que dessa vez iria funcionar? Creio que não.&lt;/p&gt;
 
@@ -639,7 +651,7 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;p&gt;Ou seja, verificar que um composto farmacológico é capaz de inativar um vírus em laboratório é apenas o pontapé inicial para supor que esse composto pode vir a ser um remédio para uma doença viral.&lt;/p&gt;
 
-&lt;p&gt;Um raciocínio exagerado que podemos fazer seria: desinfetante inativa o vírus, logo, beber desinfetante pode curar a doença? Claro que não. O mais chocante é que esse exato mesmo raciocínio já foi proposto pelo próprio presidente dos Estados Unidos, Donald Trump, que sugeriu injeções de desinfetante na população… e teve gente bebendo produtos químicos após a declaração de Trump.&lt;sup id=&quot;fnref:Desinfetante&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Desinfetante&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Um raciocínio exagerado que podemos fazer seria: desinfetante inativa o vírus, logo, beber desinfetante pode curar a doença? Claro que não. O mais chocante é que esse exato mesmo raciocínio já foi proposto pelo próprio presidente dos Estados Unidos, Donald Trump, que sugeriu injeções de desinfetante na população… e teve gente bebendo produtos químicos após a declaração de Trump.&lt;sup id=&quot;fnref:Desinfetante&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Desinfetante&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Não tem maior irônia com a narrativa da cloroquina e hidroxicloroquina do que essa situação trágica de pessoas bebendo um composto químico que sabidamente inativa o vírus mas claramente faz mal ao organismo humano.&lt;/p&gt;
 
@@ -655,7 +667,7 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;p&gt;Finalmente, vamos falar um pouco sobre três estudos importantes que saíram.&lt;/p&gt;
 
-&lt;p&gt;Dia 24 de Abril o JAMA (&lt;em&gt;Journal of the American Medical Association&lt;/em&gt;) publicou um estudo de Borba &lt;em&gt;et al&lt;/em&gt;. realizado aqui no Brasil, no Hospital e Pronto-Socorro Delphina Rinaldi Abdel Aziz de Manaus.&lt;sup id=&quot;fnref:Borba&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Borba&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; O estudo dividiu 81 pacientes em dois grupos: 41 destes sendo tratados com altas doses (600 mg duas vezes ao dia por 10 dias) de cloroquina e os outros 40 recebendo baixas dosagens (450 mg duas vezes ao dia no primeiro dia seguido por 450 mg uma vez ao dia por 4 dias). Além disso, ambos os grupos também receberam azitromicina.&lt;/p&gt;
+&lt;p&gt;Dia 24 de Abril o JAMA (&lt;em&gt;Journal of the American Medical Association&lt;/em&gt;) publicou um estudo de Borba &lt;em&gt;et al&lt;/em&gt;. realizado aqui no Brasil, no Hospital e Pronto-Socorro Delphina Rinaldi Abdel Aziz de Manaus.&lt;sup id=&quot;fnref:Borba&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Borba&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; O estudo dividiu 81 pacientes em dois grupos: 41 destes sendo tratados com altas doses (600 mg duas vezes ao dia por 10 dias) de cloroquina e os outros 40 recebendo baixas dosagens (450 mg duas vezes ao dia no primeiro dia seguido por 450 mg uma vez ao dia por 4 dias). Além disso, ambos os grupos também receberam azitromicina.&lt;/p&gt;
 
 &lt;p&gt;Para que nem os pacientes e nem os médicos identificassem quem estava em cada grupo pela quantidade de comprimidos que ingeriam, os pesquisadores adicionaram comprimidos de placebo nas administrações. Assim, os dois grupos recebiam sempre 4 comprimidos. Ou seja, foi um estudo randomizado e duplo-cego.&lt;/p&gt;
 
@@ -671,9 +683,9 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;p&gt;Após a conclusão desse estudo de Manaus, o hospital removeu as altas dosagens do protocolo de tratamento.&lt;/p&gt;
 
-&lt;p&gt;Dia 7 de Maio foi publicado um estudo observacional no NEJM (&lt;em&gt;New England Journal of Medicine&lt;/em&gt;).&lt;sup id=&quot;fnref:Geleris&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Geleris&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt; Avaliando 1376 paciente divididos em dois grupos: 811 recebendo hidroxicloroquina e 565 compondo o grupo controle. Esse estudo verificou que não houve diferença estatística significativa nas taxas de intubação e morte entre os grupos. Após esses resultados, o hospital de Manhattan, sede do estudo, removeu a hidroxicloroquina do protocolo de tratamento padrão.&lt;/p&gt;
+&lt;p&gt;Dia 7 de Maio foi publicado um estudo observacional no NEJM (&lt;em&gt;New England Journal of Medicine&lt;/em&gt;).&lt;sup id=&quot;fnref:Geleris&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Geleris&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt; Avaliando 1376 paciente divididos em dois grupos: 811 recebendo hidroxicloroquina e 565 compondo o grupo controle. Esse estudo verificou que não houve diferença estatística significativa nas taxas de intubação e morte entre os grupos. Após esses resultados, o hospital de Manhattan, sede do estudo, removeu a hidroxicloroquina do protocolo de tratamento padrão.&lt;/p&gt;
 
-&lt;p&gt;Em seguida, dia 11, saiu outro estudo observacional. Desta vez publicado na revista JAMA.&lt;sup id=&quot;fnref:Rosenberg&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Rosenberg&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt; Este analisou dados de 1438 pacientes de 25 hospitais de Nova Iorque que recebiam hidroxicloroquina e azitromicina, só cloroquina, só azitromicina ou nenhum dos dois.&lt;/p&gt;
+&lt;p&gt;Em seguida, dia 11, saiu outro estudo observacional. Desta vez publicado na revista JAMA.&lt;sup id=&quot;fnref:Rosenberg&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Rosenberg&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt; Este analisou dados de 1438 pacientes de 25 hospitais de Nova Iorque que recebiam hidroxicloroquina e azitromicina, só cloroquina, só azitromicina ou nenhum dos dois.&lt;/p&gt;
 
 &lt;p&gt;As probabilidades de óbito foram:&lt;/p&gt;
 
@@ -703,15 +715,15 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;p&gt;Vale a pena continuar dando cloroquina ou hidroxicloroquina para todo mundo? Nem sabemos a dimensão do risco &lt;em&gt;versus&lt;/em&gt; benefício.&lt;/p&gt;
 
-&lt;p&gt;E na política a saga da cloroquina continua a todo vapor. Bolsonaro continua insistindo no uso do fármaco em todos pacientes com COVID-19. O auge foi essa matéria da Valor: “&lt;a href=&quot;https://valor.globo.com/politica/noticia/2020/05/14/bolsonaro-exige-que-ministro-da-sade-recomende-a-cloroquina.ghtml&quot;&gt;Bolsonaro ‘exige’ que ministro da Saúde recomende a cloroquina&lt;/a&gt;”.&lt;sup id=&quot;fnref:Valor&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Valor&quot; class=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;E na política a saga da cloroquina continua a todo vapor. Bolsonaro continua insistindo no uso do fármaco em todos pacientes com COVID-19. O auge foi essa matéria da Valor: “&lt;a href=&quot;https://valor.globo.com/politica/noticia/2020/05/14/bolsonaro-exige-que-ministro-da-sade-recomende-a-cloroquina.ghtml&quot;&gt;Bolsonaro ‘exige’ que ministro da Saúde recomende a cloroquina&lt;/a&gt;”.&lt;sup id=&quot;fnref:Valor&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Valor&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Enquanto eu escrevia esse texto, o então ministro da Saúde, Nelson Teich, anuncia a sua demissão.&lt;sup id=&quot;fnref:Lauro&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Lauro&quot; class=&quot;footnote&quot;&gt;14&lt;/a&gt;&lt;/sup&gt; Provavelmente foi devido às desavenças em relação ao isolamento social e ao uso de cloroquina, medicamento que Bolsonaro continua defendendo cegamente.&lt;/p&gt;
+&lt;p&gt;Enquanto eu escrevia esse texto, o então ministro da Saúde, Nelson Teich, anuncia a sua demissão.&lt;sup id=&quot;fnref:Lauro&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Lauro&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;14&lt;/a&gt;&lt;/sup&gt; Provavelmente foi devido às desavenças em relação ao isolamento social e ao uso de cloroquina, medicamento que Bolsonaro continua defendendo cegamente.&lt;/p&gt;
 
 &lt;p&gt;Até o presente momento, não existe tratamento farmacológico para a COVID-19. Infelizmente.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Editado:&lt;/strong&gt; logo na véspera de eu publicar este artigo saiu um artigo do BMJ que não tinha dado tempo de ler. Vou acrescentar aqui:&lt;/p&gt;
 
-&lt;p&gt;Dia 14 de Maio o BMJ publicou um estudo clínico randomizado e com controles, mas não duplo cego.&lt;sup id=&quot;fnref:Tang&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Tang&quot; class=&quot;footnote&quot;&gt;15&lt;/a&gt;&lt;/sup&gt; O estudou envolveu 150 pacientes de 16 hospitais chineses. Estes foram divididos em dois grupos: 75 recebendo hidroxicloroquina e 75 recebendo apenas o tratamento não farmacológico. O estudou concluiu que não houve diferença na taxa de negativação viral após 28 dias de hospitalização entre os dois grupos. Acredito que esse seja o estudo mais interessante, pois avaliou o mesmo desfecho do estudo francês que deu início a tudo: a cura virológica. Enquanto o estudo francês mostrou excelentes resultados de cura virológica, esse do BMJ não mostrou nenhum benefício da droga em relação ao grupo sem tratamento. Além disso, os eventos adversos foram muito mais comuns no grupo fazendo uso da hidroxicloroquina, principalmente os episódios de diarreia.&lt;/p&gt;
+&lt;p&gt;Dia 14 de Maio o BMJ publicou um estudo clínico randomizado e com controles, mas não duplo cego.&lt;sup id=&quot;fnref:Tang&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Tang&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;15&lt;/a&gt;&lt;/sup&gt; O estudou envolveu 150 pacientes de 16 hospitais chineses. Estes foram divididos em dois grupos: 75 recebendo hidroxicloroquina e 75 recebendo apenas o tratamento não farmacológico. O estudou concluiu que não houve diferença na taxa de negativação viral após 28 dias de hospitalização entre os dois grupos. Acredito que esse seja o estudo mais interessante, pois avaliou o mesmo desfecho do estudo francês que deu início a tudo: a cura virológica. Enquanto o estudo francês mostrou excelentes resultados de cura virológica, esse do BMJ não mostrou nenhum benefício da droga em relação ao grupo sem tratamento. Além disso, os eventos adversos foram muito mais comuns no grupo fazendo uso da hidroxicloroquina, principalmente os episódios de diarreia.&lt;/p&gt;
 
 &lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
 
@@ -845,201 +857,4 @@ Têm-se observado que a fisiopatologia da COVID-19 é muito semelhante à de out
 
 &lt;p&gt;Agora com a pandemia de COVID-19 os plantões do estágio foram suspensos. Eu adoraria estar lá ajudando mas entendo perfeitamente que provavelmente os estudantes estariam apenas ajudando a disseminar ainda mais o vírus, como vetores. Agora só me resta aguardar essa pandemia passar para desfrutar de mais plantões maravilhosos.&lt;/p&gt;
 
-&lt;p&gt;Fazendo um paralelo com as minhas expectativas antes de saber o que era dar um plantão, agora vejo que realmente é bastante cansativo. Mas o tanto que tem de cansativo tem também de prazeroso e recompensador.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="blog" /><summary type="html">Depois de dias lendo e pesquisando apenas sobre a pandemia de COVID-19, resolvi me dar uma folga do coronavirus. Vou aproveitar esses dias de quarentena para finalizar alguns rascunhos de postagens que eu vinha escrevendo.</summary></entry><entry><title type="html">Qual o tamanho da subnotificação por COVID-19 no Brasil?</title><link href="http://localhost:4000/2020/medicina/tamanho-subnotificacao-covid19-brasil" rel="alternate" type="text/html" title="Qual o tamanho da subnotificação por COVID-19 no Brasil?" /><published>2020-05-06T00:00:00-03:00</published><updated>2020-05-06T00:00:00-03:00</updated><id>http://localhost:4000/2020/medicina/tamanho-subnotificacao-covid19-brasil</id><content type="html" xml:base="http://localhost:4000/2020/medicina/tamanho-subnotificacao-covid19-brasil">&lt;p&gt;No início da pandemia eu estava bem otimista com o prognóstico do Brasil. Começamos o distanciamento social bem cedo, numa época em que a mortalidade não havia nem atingido os 100 primeiros óbitos. Mas agora, percebo que fui completamente enganado pela subnotificação.&lt;/p&gt;
-
-&lt;p&gt;Nossa situação está bastante grave e o pior é que não temos real noção do quanto grave é.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Editado:&lt;/strong&gt; corrigi a informação de número de testes por mil habitantes na Itália e EUA. Também coloquei mais um gráfico ilustrando a taxa de testes pra cada país.&lt;/p&gt;
-
-&lt;h2 id=&quot;quantos-testes-o-brasil-fez&quot;&gt;Quantos testes o Brasil fez?&lt;/h2&gt;
-
-&lt;p&gt;Segundo uma &lt;a href=&quot;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&quot;&gt;matéria do Exame, até dia 7 de Abril o país tinha realizado 63 mil testes&lt;/a&gt;&lt;sup id=&quot;fnref:Exame&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Exame&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Destes, foram cerca de 13,7 mil confirmações para a doença, realizando uma taxa de 6,7 mil testes por dia.&lt;/p&gt;
-
-&lt;p&gt;Ou seja, até o início de Abril, em torno de 1 teste a cada 4,6 dava positivo. E o Brasil estava aplicando 300 testes para cada milhão de habitantes (0,30 testes para cada mil habitantes).&lt;/p&gt;
-
-&lt;p&gt;Já numa &lt;a href=&quot;https://www.bbc.com/portuguese/brasil-52509734&quot;&gt;matéria da BBC&lt;/a&gt;&lt;sup id=&quot;fnref:BBC&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:BBC&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;: &lt;em&gt;“Até 20 de abril a rede pública realizou 132 mil testes específicos para covid-19. Isso é quase o mesmo número de testes realizados pelo Reino Unido em um só dia: 120 mil em 30 de abril”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Em 20 de abril, o Brasil tinha feito 0,63 testes para cada mil habitantes. Na mesma época, a Itália já tinha feito 23 testes e os EUA 12 testes para cada mil habitantes.&lt;sup id=&quot;fnref:WorldData&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/testes-20.jpeg&quot; alt=&quot;gráfico com curva de testes realizados por cada país&quot; /&gt;
-    &lt;figcaption&gt;Gráfico com curva de testes realizados por cada país em número de testes para cada 100 mil habitantes.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Até o momento, tudo indica que o Brasil está fazendo algo em torno de 30 mil testes por dia. “Tudo indica” pois não existem números oficiais quanto a isso. Destes 30 mil testes por dia, mais de 1/4 estão dando positivo.&lt;/p&gt;
-
-&lt;p&gt;Como podemos ver no gráfico abaixo, essa taxa de 1 teste confirmado a cada 4 é uma das mais baixas. Isso é mais um indicador da nossa subnotificação. Uma taxa baixa é ruim pois, se fizéssemos mais testes, essa fração seria maior.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/number-of-covid-19-tests-per-confirmed-case-bar-chart.png&quot; alt=&quot;gráfico de testes realizados para cada resultado positivo&quot; /&gt;
-    &lt;figcaption&gt;Número de testes realizados para cada resultado positivo de acordo com cada país.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Se pararmos pra pensar, um quarto de testes positivando é uma taxa muitíssimo alta. Digamos que a proporção de positivos se mantenha se testarmos mais pessoas. Se fizéssemos 100 mil testes por dia, teríamos 30 mil novos casos diariamente? Isso é algo a se pensar.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/chernobyl-corona.jpeg&quot; alt=&quot;Meme de da série Chernobyl&quot; /&gt;
-    &lt;figcaption&gt;Referência ao meme da série Chernobyl da HBO.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;os-números-oficiais&quot;&gt;Os números oficiais&lt;/h2&gt;
-
-&lt;p&gt;Peguei &lt;a href=&quot;https://ourworldindata.org/coronavirus&quot;&gt;dois gráficos no &lt;em&gt;Our World in Data&lt;/em&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:WorldData:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:WorldData&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, um gráficos de novos casos notificados por dia, e um gráfico de novos óbitos por dia.&lt;/p&gt;
-
-&lt;p&gt;No gráfico de novos casos por dia (Figura 1), vemos que a curva brasileira teve grandes variações. São vários picos seguidos de quedas.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/daily-cases-covid-19.png&quot; alt=&quot;gráficos de casos novos por dia&quot; /&gt;
-    &lt;figcaption&gt;Figura 1: número de novos casos de COVID-19 por dia de notificação.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Mas olhem como a última queda, dos dias 1 a 4 de Maio, foi bastante acentuada. Muita gente, olhando esse gráfico e vendo &lt;strong&gt;4 dias consecutivos de queda&lt;/strong&gt;, se apressou em dizer que já estávamos em desaceleração, que já tínhamos passado o pico.&lt;/p&gt;
-
-&lt;p&gt;Não haveria problema em fazer essa afirmação se os dados fossem confiáveis e refletissem o cenário real.&lt;/p&gt;
-
-&lt;p&gt;Contudo, o Brasil vem fazendo tão poucos testes que existem muita margem para variações do próprio acaso. Podemos estar fazendo estatística de números pequenos confiando demais nesses números. A amostragem pode não definir a situação do país.&lt;/p&gt;
-
-&lt;p&gt;Quanto menos testes são feitos, maior a margem de erro pra tentar ilustrar a situação atual. É o raciocínio equivalente a jogar um dado algumas vezes e não dar o número 6. Ficamos com a impressão que é mais difícil cair o número 6, mas isso só ocorre pois jogamos o dado poucas vezes. Se jogássemos o dado infinitamente, o número de vezes que ele cai pra cada número seria igual.&lt;/p&gt;
-
-&lt;p&gt;A mesma queda também foi observada no gráfico de novos óbitos por dia de notificação (Figura 2).&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/daily-deaths-covid-19.png&quot; alt=&quot;gráficos de óbitos novos por dia&quot; /&gt;
-    &lt;figcaption&gt;Figura 2: número de novos óbitos de COVID-19 por dia de notificação.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Como explicar essas quedas? Será uma desaceleração no avanço da pandemia? Com praticamente certeza que não. O Ministério da Saúde não está tendo controle sobre quantos testes estão sendo feitos por dia. Será que esses dias de queda foram devidos a menos testes sendo realizados? Simplesmente não temos como saber. Esses dados não são divulgados.&lt;/p&gt;
-
-&lt;p&gt;Tem um frase que, apesar de extremamente óbvia, a gente precisa se lembrar sempre: &lt;strong&gt;quantos menos testes fazemos, menos casos vamos ter&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Chegamos numa situação em que estamos completamente no escuro. Nem adianta levar muito a sério os números oficiais. Em alta ou queda, não reflete a situação que estamos enfrentando.&lt;/p&gt;
-
-&lt;h2 id=&quot;os-feriados&quot;&gt;Os feriados&lt;/h2&gt;
-
-&lt;p&gt;A &lt;a href=&quot;https://www.lagomdata.com.br/coronavirus&quot;&gt;Lagom Data&lt;/a&gt;&lt;sup id=&quot;fnref:Lagom&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Lagom&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; fez o gráfico abaixo (Figura 3) destacando os dias de fériados e fins de semana na curva diária de novos óbitos.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/obitos-feriados.png&quot; alt=&quot;gráficos de óbitos novos por dia destacando os feriados&quot; /&gt;
-    &lt;figcaption&gt;Figura 3: óbitos novos por dia destacando os feriados e fins de semana.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Como podemos ver, os dias de feriados coincidem com os dias de quedas acentuadas nas notificações. Então, será que nos feriados menos testes são realizados? Se isso for verdade, então temos mais um fator de subnotificação para ser somado.&lt;/p&gt;
-
-&lt;p&gt;Além da subnotificação padrão, estamos sofrendo também da subnotificação dos feriados. Isso deixa a amostragem da curva de casos ainda mais tendenciosa.&lt;/p&gt;
-
-&lt;p&gt;E, além disso, não estamos seguindo uma regularidade na testagem. Ao longo da semana provavelmente a quantidade diária de testes está variando. Isso altera a precisão da curva.&lt;/p&gt;
-
-&lt;h2 id=&quot;recorde-de-casos&quot;&gt;Recorde de casos&lt;/h2&gt;
-
-&lt;p&gt;Para corroborar ainda mais a hipótese de que realizamos menos testes em feriados, ontem – dia 5 de Maio –, foram notificadas 600 mortes por COVID-19. O número recorde até agora. A curva volta a subir como se as quedas anteriores nem tivessem existido.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/notificacao-5-maio.jpeg&quot; alt=&quot;Notificação do MS para dia 5 de Maio&quot; /&gt;
-    &lt;figcaption&gt;Slide de atualização de casos do Ministério da Saúde para o dia 5 de Maio.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Lembram da &lt;a href=&quot;/2020/medicina/estudo-imperial-college-projecao-de-cinco-mil-mortes-e-maior-taxa-de-transmissao-no-brasil&quot;&gt;projeção do &lt;em&gt;Imperial College&lt;/em&gt; projetando que teríamos 5 mil novas mortes na semana passada?&lt;/a&gt; Nem podemos dizer que a projeção estava errada pois a subnotificação está absurda e muito irregular.&lt;/p&gt;
-
-&lt;h2 id=&quot;os-números-dos-cartórios&quot;&gt;Os números dos cartórios&lt;/h2&gt;
-
-&lt;p&gt;Agora vem a parte mais impactante que quero transmitir. A imprensa vem fazendo um trabalho muito bom de correr atrás dos dados que o Governo não está fornecendo.&lt;/p&gt;
-
-&lt;p&gt;O G1 fez um levantamento por conta própria nos registros de cartório. &lt;a href=&quot;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&quot;&gt;Helio Gurovitz, em seu blog no G1&lt;/a&gt;&lt;sup id=&quot;fnref:Helio&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Helio&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;, escreveu:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;As mortes nas cinco cidades brasileiras mais atingidas pela Covid-19 somaram pelo menos 26.445 desde o início da pandemia até o dia 25 de abril, um crescimento de 30% em relação à média dos anos anteriores, de 20.384 durante as mesmas semanas. […] Houve, nessas cidades, no mínimo 3.842 mortes além das registradas por Covid-19 […].&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Recomendo muito muito ler o artigo do Helio. Lá ele colocou gráficos que não vou reproduzir aqui pois não sei se tenho permissão.&lt;/p&gt;
-
-&lt;p&gt;Vou resumir aqui os resultados do levantamento:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Em São Paulo ocorreram 1386 mortes a mais que a média histórica, não relacionadas à COVID-19.&lt;/li&gt;
-  &lt;li&gt;Em Manaus o excesso não relacionado à pandemia foi de 1130.&lt;/li&gt;
-  &lt;li&gt;No Rio de Janeiro: 837.&lt;/li&gt;
-  &lt;li&gt;Em Recife: 473.&lt;/li&gt;
-  &lt;li&gt;Fortaleza: 17.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O &lt;a href=&quot;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&quot;&gt;Jornal Nacional também noticiou o aumento do registro de mortes em cartórios de todo o país&lt;/a&gt;&lt;sup id=&quot;fnref:JN&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:JN&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Isso tudo excluindo mortes de causa externa (homicídio, suicídio, acidentes de trânsito, etc.), só estão sendo considerados os aumentos por mortes de causa “natural”.&lt;/p&gt;
-
-&lt;p&gt;Com certeza parte dessas mortes em excesso foram causadas diretamente pelo Novo coronavirus. E a outra parte provavelmente foi indiretamente causada pela pandemia.&lt;/p&gt;
-
-&lt;p&gt;E mais uma &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;notícia assustadora, dessa vez de O Globo&lt;/a&gt;&lt;sup id=&quot;fnref:Manaus&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:Manaus&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;, mostra que mais de 30% dos óbitos em Manaus estão ocorrendo nas residências. Lá o sistema de saúde está completamente colapsado. Não tem atendimento pra todo mundo.&lt;/p&gt;
-
-&lt;h2 id=&quot;excesso-de-mortalidade-por-todas-as-causas&quot;&gt;Excesso de mortalidade por todas as causas&lt;/h2&gt;
-
-&lt;p&gt;O excesso de mortalidade por todas as causas &lt;strong&gt;é o indicador mais importante para avaliarmos o impacto causado pela pandemia&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Muita gente se preocupa demais com a mortalidade causada diretamente pelo Novo coronavirus (SARS-CoV-2) e se esquece completamente das mortes indiretas.&lt;/p&gt;
-
-&lt;p&gt;Vamos imaginar uma seguinte situação: surge uma nova virose que mata 0,1% dos infectados. Muito pouco não é mesmo? Mas e se essa virose tiver uma taxa de internamento em UTI de 10% e for altamente contagiosa? Ela será um problema caótico? Com certeza!&lt;/p&gt;
-
-&lt;p&gt;Por mais que a mortalidade seja baixa, o alto índice de internações vai sobrecarregar o sistema de saúde. Sem leitos de UTI, sem profissionais disponíveis, sem equipamento e material, os pacientes com outras doenças graves ficarão desassistidos. E então notamos aumento da mortalidade por outras causas.&lt;/p&gt;
-
-&lt;p&gt;Isso é o que está acontecendo. E, ao contrário do que muita gente pensa, todas essas mortes estão sim relacionadas à pandemia. Porque se não tivesse um surto de coronavirus elas simplesmente não aconteceriam. O aumento de mortes por doenças como infarto e derrame estão sim relacionadas à pandemia.&lt;/p&gt;
-
-&lt;h2 id=&quot;estimativas-de-subnotificação&quot;&gt;Estimativas de subnotificação&lt;/h2&gt;
-
-&lt;p&gt;Para não me estender muito mais, vou apenas listar algumas estimativas de subnotificação para o Brasil realizadas por diferentes centros científicos.&lt;/p&gt;
-
-&lt;p&gt;A UFMG fez uma estimativa se baseando na média histórica de notificação por SRAG (síndrome respiratória aguda grave) dos últimos 10 anos. Eles estimam que teríamos em torno de 7,7 casos subnotificados para cada caso confirmado.&lt;sup id=&quot;fnref:UFMG&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/assets/2020/medicina/subnotificacao/ufmg-estudo.png&quot; alt=&quot;Tabela de notificações por SRAG&quot; /&gt;
-    &lt;figcaption&gt;Número de hospitalizações por SRAG entre 2012 e 2020, nos meses de Janeiro, Fevereiro e Março.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Inclusive esse estudo da UFMG conclui com a frase: &lt;em&gt;“nosso estudo mostra que os números relatados pelo governo brasileiro devem estar longe das situações reais. Nesse contexto, manifestações de alguns políticos a favor de menos restrições ao movimento de pessoas devem ser vistas com enorme preocupação”&lt;/em&gt;.&lt;sup id=&quot;fnref:UFMG:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:UFMG&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;O CMMID (&lt;em&gt;Centre for the Mathematical Modelling of Infectious Diseases&lt;/em&gt;), da &lt;em&gt;London School of Hygiene &amp;amp; Tropical Medicine&lt;/em&gt;, estima que apenas 7,6% dos casos sintomáticos estão sendo notificados no Brasil.&lt;sup id=&quot;fnref:CMMID&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:CMMID&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Um grupo da USP de Ribeirão Preto se baseou na letalidade por COVID-19 da Coreia do Sul para “corrigir” as taxas de mortalidade divulgadas pelo governo brasileiro. Pela estimativa deles, corrigindo a distribuição etária em relação à Coreia do Sul, até o dia 28 de Abril já deveríamos ter 1 milhão de casos.&lt;sup id=&quot;fnref:USP&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:USP&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; No estudo, eles assumem que a taxa de letalidade esperada para o nosso país é de 1,11% (a da Coreia do Sul é de 1,635%).&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
-
-&lt;p&gt;Tá na cara que estamos com uma absurda taxa de notificação. Minha intenção com este artigo era mais jogar algumas informações que considero relevantes para mostrar que não podemos confiar nos dados oficiais. Por mais que o governo divulgue quedas consecutivas na curva, isso não quer dizer muita coisa e não reflete a realidade.&lt;/p&gt;
-
-&lt;p&gt;Este artigo foi bastante trabalhoso. Escrevi com bastante cautela e tomando o maior cuidado para checar todas as fontes. Felizmente (ou infelizmente) me empolgo demais escrevendo esses textos e está sendo um bom passatempo na quarentena.&lt;/p&gt;
-
-&lt;p&gt;Se você percebeu algum erro, por favor entra em contato comigo. Tem alguma crítica ou sugestão? Fala comigo também!&lt;/p&gt;
-
-&lt;p&gt;Até a próxima e #FicaEmCasa.&lt;/p&gt;
-
-&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:Exame&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Covid-19: Brasil realizou 63 mil testes e projeta chegar a 30 mil por dia&lt;/strong&gt;. Exame. Publicado em 8 de Abril de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&quot;&gt;https://exame.abril.com.br/brasil/covid-19-brasil-realizou-63-mil-testes-e-projeta-chegar-a-30-mil-por-dia/&lt;/a&gt;. &lt;a href=&quot;#fnref:Exame&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:BBC&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Mortes, testes e contágio: como o Brasil se compara a outros países na pandemia de coronavírus&lt;/strong&gt;. BBC News Brasil. Publicado em 1 de Maio de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://www.bbc.com/portuguese/brasil-52509734&quot;&gt;https://www.bbc.com/portuguese/brasil-52509734&lt;/a&gt;. &lt;a href=&quot;#fnref:BBC&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:WorldData&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - “&lt;strong&gt;Coronavirus Pandemic (COVID-19)&lt;/strong&gt;”. Published online at OurWorldInData.org. Retrieved from: ‘&lt;a href=&quot;https://ourworldindata.org/coronavirus&quot;&gt;https://ourworldindata.org/coronavirus&lt;/a&gt;’ [Online Resource]. &lt;a href=&quot;#fnref:WorldData&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:WorldData:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:Lagom&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Coronavírus no Brasil&lt;/strong&gt;. Lagom Data. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://www.lagomdata.com.br/coronavirus&quot;&gt;https://www.lagomdata.com.br/coronavirus&lt;/a&gt;. &lt;a href=&quot;#fnref:Lagom&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:Helio&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Mortes subiram 30% em 5 cidades&lt;/strong&gt;. Blog Do Helio Gurovitz. Publicado em 4 de Maio de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&quot;&gt;https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/04/mortes-subiram-30percent-em-5-cidades.ghtml&lt;/a&gt;. &lt;a href=&quot;#fnref:Helio&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:JN&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Cartórios registram aumento de 1.035% nas mortes por síndrome respiratória&lt;/strong&gt;. Jornal Nacional. Publicado em 28 de Abril de 2020. Acessado em 5 de Maio de 2020. Disponível em: &lt;a href=&quot;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&quot;&gt;https://g1.globo.com/jornal-nacional/noticia/2020/04/28/cartorios-registram-aumento-de-1035percent-nas-mortes-por-sindrome-respiratoria.ghtml&lt;/a&gt;. &lt;a href=&quot;#fnref:JN&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:Manaus&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Durante crise da Covid-19, mais de 30% dos óbitos ocorrem em casa em Manaus&lt;/strong&gt;. O Globo. Publicado em 4 de Abril de 2020. Acessado em 5 de Abril de 2020. Disponível em: &lt;a href=&quot;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&quot;&gt;https://oglobo.globo.com/sociedade/durante-crise-da-covid-19-mais-de-30-dos-obitos-ocorrem-em-casa-em-manaus-24408767&lt;/a&gt;. &lt;a href=&quot;#fnref:Manaus&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:UFMG&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Nota Técnica: Estimate of underreporting of COVID-19 in Brazil by Acute Respiratory Syndrome hospitalization reports&lt;/strong&gt;. UFMG. Publicado em 16 de Abril de 2020. Disponível em: &lt;a href=&quot;https://www.cedeplar.ufmg.br/noticias/1234-nota-tecnica-estimate-of-underreporting-of-covid-19-in-brazil-by-acute-respiratory-syndrome-hospitalization-reports&quot;&gt;https://www.cedeplar.ufmg.br/noticias/1234-nota-tecnica-estimate-of-underreporting-of-covid-19-in-brazil-by-acute-respiratory-syndrome-hospitalization-reports&lt;/a&gt;. &lt;a href=&quot;#fnref:UFMG&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:UFMG:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:CMMID&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Timothy WR, Joel H, Sam A, Nick G, Hamish G, Christopher IJ, Kevin van Z, Stefan F, Rosalind ME, W John E &amp;amp; Adam JK. &lt;strong&gt;Using a delay-adjusted case fatality ratio to estimate under-reporting&lt;/strong&gt;. CMMID. Real time report. First online: 22-03-2020. Last update: 30-04-2020. Disponível em: &lt;a href=&quot;https://cmmid.github.io/topics/covid19/global_cfr_estimates.html&quot;&gt;https://cmmid.github.io/topics/covid19/global_cfr_estimates.html&lt;/a&gt;. &lt;a href=&quot;#fnref:CMMID&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:USP&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Domingos Alves, Rodrigo Gaete, Newton Miyoshi, Bruno Carciofi, Lariza Olveira e Tiago Sanchez. &lt;strong&gt;Estimativa de Casos de COVID-19&lt;/strong&gt;. USP. Acessado em 5 de Maio de 2020. Diponível em: &lt;a href=&quot;https://ciis.fmrp.usp.br/covid19-subnotificacao/&quot;&gt;https://ciis.fmrp.usp.br/covid19-subnotificacao/&lt;/a&gt;. &lt;a href=&quot;#fnref:USP&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><category term="blog" /><category term="COVID-19" /><category term="MBE" /><summary type="html">No início da pandemia eu estava bem otimista com o prognóstico do Brasil. Começamos o distanciamento social bem cedo, numa época em que a mortalidade não havia nem atingido os 100 primeiros óbitos. Mas agora, percebo que fui completamente enganado pela subnotificação.</summary></entry></feed>
+&lt;p&gt;Fazendo um paralelo com as minhas expectativas antes de saber o que era dar um plantão, agora vejo que realmente é bastante cansativo. Mas o tanto que tem de cansativo tem também de prazeroso e recompensador.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><category term="blog" /><summary type="html">Depois de dias lendo e pesquisando apenas sobre a pandemia de COVID-19, resolvi me dar uma folga do coronavirus. Vou aproveitar esses dias de quarentena para finalizar alguns rascunhos de postagens que eu vinha escrevendo.</summary></entry></feed>
