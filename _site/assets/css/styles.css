@@ -256,9 +256,9 @@ button { border: none; }
 
 .tag-posts { margin-top: 5px; font-size: 15px; color: #969696; }
 
-.post-title { text-align: center; }
+.post-title { text-align: left; }
 
-.post-info { font-size: 15px; display: block; text-align: center; color: #969696; margin: 0 auto; }
+.post-info { font-size: 15px; display: block; text-align: left; color: #969696; margin: 0 auto; }
 .post-info a { color: var(--link-color); margin-left: 4px; font-size: 1em; }
 
 .MBE { color: #9e2525; }
