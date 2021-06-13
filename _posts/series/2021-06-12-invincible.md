@@ -103,8 +103,52 @@ E acaba com o Damian sendo exorcidado pelo Cecil...... Que porra é essa mano, e
 
 
 
-## 5º ep:
-## 6º ep:
+## 5º ep: Essa doeu de verdade
+
+Começa o episódio: cenas maneiras do homem de pedra dando porrada em bandido. Aí ele começa a fazer coisas maléficas mas demonstra bastante piedade. Aparentemente ele comete crimes por necessidade mas tem um bom coração (?). Somos introduzidos a mais um vilão, o chefe dele: facemecânica.
+
+![Facemecânica](/assets/series/invincible/faciemecanica.png)
+
+E aí o maluco de pedra pede ajuda ao Invincible pra derrotar o chefe que ameaça sua família. Enquanto isso o fortão azul completa o processo de clonar a si mesmo.
+
+![Clone azul](/assets/series/invincible/clone.png)
+
+Debbie encontra um blodo de notas do demônio detetive e descobre onde Nolan escondeu o seu traze sujo com o sangue dos guardiões. O detetive demônio, mesmo no inferno, cotinua tendo impacto (goxto).
+
+![Bloco de notas de Damian](/assets/series/invincible/bloco.png)
+
+E aí pronto, chegamos no ápice do episódio: a luta do pedregoso e invencible contra o chefão do tráfico. A verdade é que os dois tomam uma surra do leão gigante que mais parece o leão do Proerd. Os novos guardiões chegam pra ajudar mas acabam apanhando também. Mark 'invencivel' é levado de helicóptero às pressas para ser operado. No fim conseguiram deter o chefão do crime mas só porque o leão da Proerd achou a luta fácil demais e simplesmente se mandou, entediado.
+
+![Leão](/assets/series/invincible/leao.png)
+
+O mais triste é o quase fim da menina monstro. Fiquei realmente com medo de matarem essa personagem, o conceito dela é interessante demais. Felizmente (e curiosamente) o robô suspeito criou algum tipo de conexão com ela e tá fazendo de tudo para protegê-la. A essa altura da série eu estou tentando não me apegar a nenhum personagem específico pois imagino que a qualquer momento podem matá-lo.
+
+![Menina monstro](/assets/series/invincible/menina_monstro.png)
+
+Esses médicos são muito maneiros, fico empolgadasso quando aparecem pra resolver a bagunça. Viva a super medicina salvando os super-heróis.
+
+Ainda descobrimos que o maluco pedregoso é outro grande filha da puta. Esse mundo tá lascado.
+
+E acaba o episódio falando que as células viltrumitas são praticamente indestrutíveis, não podem ser destruídas. E a ADG (agência de defesa global) coletou uma amostra do sangue do Mark para estudos (provavelmente para estudar como deter o Omni-man, imagino eu).
+
+## 6º ep: Eu só quero o progresso
+
+Nesse episódio o vilão é um maluco que gosta de dar uma de Dr. Frankenstein. Logo depos da cena de introdução dele, corta pra base da ADG onde os médicos trazem os feridos pro setor médico, tentando salvá-los. Tem até uma cena bem legal de um tentando intubar a menina monstro que até tinha convulsionado.
+
+![Intubação](/assets/series/invincible/intubar.png)
+
+Mark vai visitar a faculdade com Amber e o amigo mas são surprendidos por um dos ciborgues do maluco Frankenstein. Incrível como Mark só apanha. Em seguida o namorado do amigo de Mark é secrestado e também transformado num ciborgue. Mark e seu amigo só conseguem escapar porque Rick recupera seus sentimentos e luta contra seu 'transformador'.
+
+Como de costume, Cecil chega pra limpar a bagunça e demonstra interesse pela tecnologia ciborgue que cria super-humanos.
+
+Eve atômica tá morando numa árvore e dando voltas pelo planeta fazendo boas ações. O robô contratou os clones azuis para clonar alguém que ainda não sabemos quem (aparentemente é o Rex pois o robô roubou sangue dele. Mas... pra quê clonar aquele idiota?).
+
+![Clone do robô](/assets/series/invincible/clone_robo.png)
+
+E acaba o episódio com Debbie confrontando Nolan, questionando-o sobre porque ele matou so guardiões. Ela descobriu após analisar o DNA do sangue no traje dele com a ajuda do alfaiate. E Nolan fica putinho e faz um buraco na parede.
+
+A menina monstro também acorda :)
+
 ## 7º ep:
 ## 8º ep:
 
