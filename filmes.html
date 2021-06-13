@@ -43,77 +43,15 @@ layout: wrapped
   </div>
 </div>
 
-<p>Isso aqui costumava ser um blog mas eu estou mudando um pouco o paradigma. Esse espaço na internet agora está se tornando um <b>jardim virtual</b> 🌱. Uma espécie de mural onde posso compartilhar informações em páginas que vou atualizando ao longo do tempo.</p>
 
-<!-- Principais páginas -->
-<h2 class="ultimas">✨ Principais páginas</h2>
-<ul class="principais">
-  <li><a href="/guia-anki">📒 Guia de recursos do Anki</a></li>
-  <li><a href="/linguas/aprender-ingles">🇬🇧 Materiais para aprender Inglês</a></li>
-  <li><a href="/filmes/materiais-cinema">🎥 Lista de materiais sobre cinema</a></li>
-</ul>   
+<!-- Aqui começa o Blog de Filmes -->
 
-
-<!-- Sumário com details -->
-<h2 class="ultimas">🌲 Sumário do jardim</h2>
-
-<div class="sumario">
-  <details><summary>📚 Resenhas de Livros</summary>
-    <ol reversed>
-      <li><a href="/2020/menon-platao">Mênon por Platão</a></li>
-      <li><a href="/2020/resenha-justica">Justiça: o que é fazer a coisa certa por Michael Sandel</a></li>
-    </ol>    
-  </details>
-
-    <!-- <details><summary>🎥 Resenhas de Filmes</summary>
-    <ol reversed>
-      <li><a href="/2021/brazil">Brazil, 1985</a></li>
-      <li><a href="/cinema/blade-runner">Blade Runner, 1982</a></li>
-      <li><a href="/cinema/1917">1917</a></li>
-    </ol>
-  </details> -->
-
-  <details><summary>🃏 Flashcards e Anki</summary>
-    <ol reversed>
-      <li><a href="/guia-anki">Guia de recursos do Anki</a></li>
-    </ol>    
-  </details>
-
-  <details><summary>🗣 Línguas</summary>
-    <ol reversed>
-      <li><a href="/linguas/aprender-grego-antigo">🇬🇷 Materiais para aprender Grego Antigo</a></li>
-      <li><a href="/linguas/aprender-grego">🇬🇷 Materiais para aprender Grego Moderno</a></li>
-      <li><a href="/linguas/aprender-ingles">🇬🇧 Materiais para aprender Inglês</a></li>
-      <li><a href="/linguas/aprender-esperanto">🌍 Materiais para aprender Esperanto</a></li>
-      <li><a href="/linguas/aprender-alemao">🇩🇪 Materiais para aprender Alemão</a></li>
-    </ol>
-  </details>
-
-  
-
-  <!-- <details><summary>🐧 Linux</summary>
-
-  </details>
-
-  <details><summary>📊 MBE</summary>
-
-  </details> -->
-
-
-
-
-  
-</div>
-
-
-<!-- Aqui começa o Blog -->
-
-<h2 id="ultimas">💬 Blog:</h2>
+<h2 id="ultimas">🎥 Resenhas de filmes:</h2>
 
 <div class="post-list">
   <ul>
     {% for post in site.posts %}
-      {% if post.categories contains "blog" or post.categories contains "livros" or post.categories contains "filmes" or post.categories contains "series" %}
+      {% if post.categories contains "filmes" %}
         <li>
           <div class="post-block"> 
             <div class="item list-block">
@@ -135,10 +73,6 @@ layout: wrapped
                   {% endcase %}{{ post.date | date: "%Y"}}
               </span>
 
-              {% for tag in post.tags %}
-                {% capture tag_name %}{{ tag }}{% endcapture %}
-                <span class="tag {{ tag_name }}">#{{ tag_name }}</span>
-              {% endfor %}
 
               <h3>
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -151,3 +85,4 @@ layout: wrapped
     {% endfor %}
   </ul>
 </div>
+

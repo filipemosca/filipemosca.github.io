@@ -400,7 +400,7 @@ nav {
 .fa, .fas, .fab, .far {
   padding-right: 5px;
 }
-#face, #git, {
+#face, #git {
   font-size: 20px;
 }
 .fa-rss {
@@ -808,14 +808,17 @@ button {
   // }
   li h3 {
     // line-height: 1.2;
+    padding-top: 0;
     margin-top: 0;
     margin-bottom: 2px;
   }
   li h3 a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 20px !important;
+    padding-top: 0;
+    margin-top: 0;
     color: var(--link-color);
-    font-weight: 500;
+    // font-weight: 500;
   }
   li h3 a:hover {
     color: var(--link-color);
@@ -823,9 +826,6 @@ button {
   }
 }
 
-.list-block {
-  margin-right: 10px;
-}
 .feat-img {
     object-fit: cover;
     display: block;
@@ -855,7 +855,6 @@ button {
   color: var(--font-color);
   margin-top: 5px;
   margin-bottom: 0;
-  margin-right: 5px;
   padding-bottom: 0;
   width: 100%;
 }
@@ -1152,7 +1151,7 @@ a.footnote:after {
     border-radius: 5px;
   }
   body {
-    p, li, a, {
+    p, li, a {
       font-size: 18px;
     }
     // h1 {font-size: 38px;}

@@ -1,7 +1,7 @@
 ---
 title: 'Army of the dead: o filme infinito do Snyder'
 tag: Filmes
-category: blog
+categories: filmes
 ---
 
 Não estou com muito tempo para escrever então vou deixar de elaborar uma sinópse do filme para já ir direto nos comentários sobre o que achei do filme. Esse texto é destinado para pessoas que já assistiram o filme e estão em busca das impressões de terceiros, ou seja, tem spoilers.
@@ -26,6 +26,8 @@ Pior, nem sequer sabemos se Geeta realmente morre. Isto porque depois que o heli
 
 Outra cena horrível é a do diálogo de Scott com sua filha Kate. Não me lembro de um diálogo tão ruim e cringe quanto. Quando Scott descobre que Kate na verdade nunca o culpou pela morte da mãe mas que na verdade desensolveu um ranço do pai simplesmente pelo fato dele ter sumido sem dar sinais de vida. O momento: "então quer dizer que você me odeia porque eu sumi e não porque tive que matar a sua mãe?" foi bem cara de cu.
 
+Outro aspécto não abordado ao longo do filme foi a divisão de dinheiro entre os mercenários. Logo no início, no recrutamento, o filme deixa bem claro como cada um vai receber uma quantia diferente pelo serviço. E existe uma diferença gritante entre os valores da recompensa para cada um deles. O que a gente espera sendo apresentado a isso? Que ao longo do filme eles vão descobrir essa diferença e vai haver algum tipo de conflito. Mas não, não deu em nada mesmo não. Não causou nem sequer um leve estranhamento entre eles.
+
 ## Duração excessiva com muito tempo de tela para eventos inúteis
 
 Esse é um filme de ação que consegue ser entediante na maior parte do tempo. É demasiadamente longo e ainda demora horrores para a ação realmente começar. O tempo que perdem montando a equipe é extremamente chato e mal aproveitado. 
@@ -42,7 +44,7 @@ P.S: a cena mais pro final do helicoptero que abandonou eles no telhado mas depo
 
 ## Veredito 
 
-Nota: ★★ (2/5)
+Nota: ★½ (1,5/5)
 
 Enfim, essas estrelas que estou dando são para os 8 minutos iniciais dos dois soldados, para os efeitos especiais e para o personagem de Scott que é muito maneiro (Bautista tem uma vibe muito soldado parrudo gente boa). Aguentar 2 horas e 38 min dessa história insossa não foi lá uma experiência muito prazerosa.
 

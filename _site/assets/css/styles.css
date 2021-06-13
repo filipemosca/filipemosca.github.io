@@ -236,11 +236,9 @@ button { border: none; }
 .post-block:hover h2 { color: #05659c; }
 
 .post-list ul { list-style-type: none; padding-left: 0; }
-.post-list li h3 { margin-top: 0; margin-bottom: 2px; }
-.post-list li h3 a { text-decoration: none; font-size: 20px; color: var(--link-color); font-weight: 500; }
+.post-list li h3 { padding-top: 0; margin-top: 0; margin-bottom: 2px; }
+.post-list li h3 a { text-decoration: none; font-size: 20px !important; padding-top: 0; margin-top: 0; color: var(--link-color); }
 .post-list li h3 a:hover { color: var(--link-color); text-decoration: underline; }
-
-.list-block { margin-right: 10px; }
 
 .feat-img { object-fit: cover; display: block; width: 100%; border-radius: 5px; }
 
@@ -250,7 +248,7 @@ button { border: none; }
 
 .post-img { object-fit: cover; display: block; width: 100%; height: 100%; border-radius: none; }
 
-.post-info-list { font-size: 14px; color: var(--font-color); margin-top: 5px; margin-bottom: 0; margin-right: 5px; padding-bottom: 0; width: 100%; }
+.post-info-list { font-size: 14px; color: var(--font-color); margin-top: 5px; margin-bottom: 0; padding-bottom: 0; width: 100%; }
 
 .tag { margin-right: 2px; color: var(--font-color); font-size: 14px !important; line-height: 16px; display: inline-block; }
 
