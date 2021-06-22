@@ -151,7 +151,7 @@ p, li { line-height: 1.6; color: var(--font-color); }
 
 figure img { max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; }
 
-article img, article p img { max-width: 100%; margin: 0 auto; display: block; border: solid 6px #e1cc89; }
+article img, article p img { max-width: 100%; margin: 0 auto; display: block; }
 
 figure { margin-bottom: 1em; margin-top: 0em; margin-inline-start: 0; margin-inline-end: 0; }
 
@@ -271,7 +271,7 @@ button { border: none; }
 
 .Series { color: #c00090; }
 
-.Humanidades { color: #690b65; }
+.HQs { color: #690b65; }
 
 .SaúdeColetiva { color: #0a4e13; }
 
