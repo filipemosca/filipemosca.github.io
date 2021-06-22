@@ -1,6 +1,7 @@
 ---
 title: Meu primeiro plantão de 12 horas
 category: blog
+Tags: Medicina
 ---
 
 Depois de dias lendo e pesquisando apenas sobre a pandemia de COVID-19, resolvi me dar uma folga do coronavirus. Vou aproveitar esses dias de quarentena para finalizar alguns rascunhos de postagens que eu vinha escrevendo.

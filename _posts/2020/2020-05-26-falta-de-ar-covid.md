@@ -1,7 +1,7 @@
 ---
 title: 'Por que o coronavirus provoca falta de ar?'
-tags: [COVID-19, Educação]
-image: respirador.jpg
+tags: [Medicina]
+category: blog
 ---
 
 Me inspirei a escrever esse texto após ler um artigo muito bom e muito bem feito do *New York Times*, "*[In the Fight to Treat Coronavirus, Your Lungs Are a Battlefield](https://www.nytimes.com/interactive/2020/05/08/health/coronavirus-covid-lungs-ventilators.html)*".[^nyt] Mas aqui nessa postagem vou focar mais na parte dos mecanismos que causam a falta de ar e a SDRA (síndrome do desconforto respiratório agudo).

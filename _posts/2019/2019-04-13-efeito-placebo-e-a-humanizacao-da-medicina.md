@@ -1,7 +1,7 @@
 ---
 title: O efeito placebo e a humanização da medicina
-category: medicina
-tags: [Humanidades, MBE]
+category: blog
+tags: Medicina
 image: placebo.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: O estudo que projetou distanciamento social até 2022 por causa da COVID-19
-tags: [COVID-19, Notícias, MBE]
+tags: [Medicina]
 permalink: /2020/medicina/o-estudo-que-projetou-distanciamento-social-ate-2022-por-causa-da-covid19
 category: blog
 ---

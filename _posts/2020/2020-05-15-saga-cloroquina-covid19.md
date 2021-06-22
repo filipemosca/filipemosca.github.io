@@ -1,6 +1,6 @@
 ---
 title: A saga da cloroquina contra a COVID-19
-tags: [COVID-19, MBE]
+tags: [Medicina]
 image: pills.png
 ---
 

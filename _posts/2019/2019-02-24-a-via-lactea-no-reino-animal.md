@@ -1,6 +1,7 @@
 ---
 title: A via láctea do reino animal e por que o leite é tão importante
 image: milk.jpg
+tags: Medicina
 ---
 
 Fui atraído pelo simples e curioso título de [uma matéria](https://www.nytimes.com/2019/02/11/science/milk-animals-evolution.html) do _New York Times_:  "Everywhere in the Animal Kingdom, Followers of the Milky Way". De ínicio fiquei logo interessado em entender o que "followers of the milky way" queria dizer, curioso com a associação ao nome de nossa galáxia.

@@ -1,6 +1,6 @@
 ---
 title: Qual o tamanho da subnotificação por COVID-19 no Brasil?
-tags: [COVID-19, MBE]
+tags: [Medicina]
 permalink: /2020/medicina/tamanho-subnotificacao-covid19-brasil
 category: blog
 ---

@@ -1,6 +1,6 @@
 ---
 title: O ministro que ousou se basear em ciência
-tags: [Notícias, MBE]
+tags: [Medicina]
 category: blog
 ---
 

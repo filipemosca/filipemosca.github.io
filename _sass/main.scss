@@ -807,18 +807,31 @@ button {
   //   padding-bottom: 10px;
   //   // border-bottom: 2px solid #005b82ff;
   // }
+  li:nth-child(even) {
+    background: #fffaec; 
+    // border-radius: 4px; 
+    // border: 1px solid #e1cc89; 
+    padding: 0 2px 0 2px;
+  }
+  li:nth-child(odd) {
+    background: #fcf4e4; 
+    // border-radius: 4px;
+    // border: 1px solid #e1cc89; 
+    padding-left: 2px;
+    padding-right: 2px;
+  }
   li h3 {
     // line-height: 1.2;
     padding-top: 0;
     margin-top: 0;
-    margin-bottom: 2px;
+    margin-bottom: 5px;
   }
   li h3 a {
     text-decoration: none;
     font-size: 20px !important;
     padding-top: 0;
     margin-top: 0;
-    color: var(--link-color);
+    color: black;
     // font-weight: 500;
   }
   li h3 a:hover {
@@ -869,6 +882,7 @@ button {
   color: var(--font-color);
   font-size: 14px !important;
   line-height: 16px;
+  font-weight: bold;
   display: inline-block;
 }
 .tag-posts {
@@ -887,7 +901,7 @@ button {
   font-size: 15px;
   display: block;
   text-align: left;
-  color: rgb(150, 150, 150);
+  color: rgb(133, 133, 133);
   margin: 0 auto;
   a {
     color: var(--link-color);
@@ -896,18 +910,13 @@ button {
   }
 }
 
-.MBE {color: rgb(158, 37, 37);}
-.Notícias {color: rgb(136, 134, 17);}
-.Vivências {color: rgb(25, 143, 33);}
-.COVID-19 {color: rgb(46, 32, 134);}
-.Educação {color: rgb(12, 117, 109);}
+.Filmes {color: rgb(158, 37, 37);}
+.Medicina {color: rgb(25, 143, 33);}
 .Livros {color:rgb(7, 81, 150);}
 .Off-Topic {color: rgb(138, 93, 9);}
-.Variados {color: rgb(192, 0, 144);}
+.Series {color: rgb(192, 0, 144);}
 .Humanidades {color: rgb(105, 11, 101);}
 .SaúdeColetiva {color: rgb(10, 78, 19);}
-.SUS {color: rgb(8, 52, 117);}
-.Saneamento {color: rgb(194, 103, 0);}
 
 .archive-list {
   li {

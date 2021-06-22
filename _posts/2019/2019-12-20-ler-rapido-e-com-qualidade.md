@@ -1,7 +1,7 @@
 ---
 title: Ler mais livros, ler rápido e com qualidade
 tags: [Livros]
-category: blog
+category: livros
 ---
 
 Agora que estou de férias, vou me propor o desafio de ler o máximo de livros que conseguir em apenas 3 meses. Faz muito tempo que não leio algo que não esteja diretamente relacionado aos estudos. Durante este hiato, vou aproveitar a oferta de 3 meses de assinatura do *Kindle unlimited* por um realzinho. Quero ler tantos livros a ponto de fazer os donos da Amazon se arrependerem por ter me concedido essa oferta.

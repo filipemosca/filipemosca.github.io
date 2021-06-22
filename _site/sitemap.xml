@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2019/medicina/entendendo-o-surto-de-sarampo-no-brasil</loc>
-<lastmod>2019-01-25T00:00:00-03:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/2019/o-que-sao-superbacterias</loc>
 <lastmod>2019-02-03T00:00:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2019/a-via-lactea-no-reino-animal</loc>
 <lastmod>2019-02-24T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2019/novos-casos-cura-hiv</loc>
-<lastmod>2019-03-10T00:00:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2019/efeito-placebo-e-a-humanizacao-da-medicina</loc>
@@ -27,10 +19,6 @@
 <url>
 <loc>http://localhost:4000/2019/biblioteca-virtual</loc>
 <lastmod>2019-09-11T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2019/os-cigarros-eletronicos-e-a-doenca-misteriosa</loc>
-<lastmod>2019-09-15T17:57:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2019/betabloqueadores-na-insuficiencia-cardiaca</loc>

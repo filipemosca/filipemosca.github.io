@@ -1,6 +1,6 @@
 ---
 title: O paradoxo dos betabloqueadores no tratamento da insuficiência cardíaca
-tags: [MBE]
+tags: Medicina
 category: blog
 ---
 

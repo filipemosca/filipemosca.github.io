@@ -1,6 +1,6 @@
 ---
 title: Dá para reutilizar máscaras N95/PFF2 no surto de Coronavirus?
-tags: [COVID-19, Vivências]
+tags: [Medicina]
 permalink: /2020/medicina/reutilizar-n95
 category: blog
 ---
