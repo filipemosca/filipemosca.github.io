@@ -23,3 +23,5 @@ Eu gosto bastante que o Lichess analisa os jogos e lista os principais erros, al
 
 Na imagem da pra ver que eu cometi 6 erros graves ('capivaradas') contra 10 do oponente. Mas o mais interessante é que no início do jogo, o oponente foi abrindo uma vantagem que chegou a 8 pontos de diferença, mas que depois consegui recuperar e reverter (claro que me aproveitando dos erros dele).
 
+Em breve posto mais sobre xadrez.
+
