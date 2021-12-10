@@ -231,13 +231,17 @@ button { border: none; }
 
 .sumario details ol li a:hover { text-decoration: underline; }
 
-.post-block { display: block; margin-bottom: 10px; }
+.post-block { display: block; margin-bottom: 6px; }
 
 .post-block:hover h2 { color: #05659c; }
 
 .post-list ul { list-style-type: none; padding-left: 0; }
-.post-list li:nth-child(even) { background: #fffaec; padding: 0 2px 0 2px; }
-.post-list li:nth-child(odd) { background: #fcf4e4; padding-left: 2px; padding-right: 2px; }
+.post-list li { background: #fffaec; border-radius: 4px; border: 1px solid #e1cc89; padding: 0 4px 0 4px; margin-bottom: 10px; }
+.post-list li.Medicina { background: #f4fff4; border-color: green; }
+.post-list li.Livros { background: #ebebf9; border-color: blue; }
+.post-list li.Filmes { background: #ffefed; border-color: red; }
+.post-list li.Series { background: #fff1f7; border-color: pink; }
+.post-list li.Misc { background: #fffaec; border-color: #e1cc89; }
 .post-list li h3 { padding-top: 0; margin-top: 0; margin-bottom: 5px; }
 .post-list li h3 a { text-decoration: none; font-size: 20px !important; padding-top: 0; margin-top: 0; color: black; }
 .post-list li h3 a:hover { color: var(--link-color); text-decoration: underline; }

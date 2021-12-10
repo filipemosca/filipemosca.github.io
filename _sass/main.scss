@@ -787,7 +787,7 @@ button {
 
 .post-block {
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
 .post-block:hover h2 {
   color: #05659c;
@@ -803,19 +803,18 @@ button {
   //   padding-bottom: 10px;
   //   // border-bottom: 2px solid #005b82ff;
   // }
-  li:nth-child(even) {
-    background: #fffaec; 
-    // border-radius: 4px; 
-    // border: 1px solid #e1cc89; 
-    padding: 0 2px 0 2px;
+  li {
+    background: #fffaec;
+    border-radius: 4px;
+    border: 1px solid #e1cc89;
+    padding: 0 4px 0 4px;
+    margin-bottom: 10px;
   }
-  li:nth-child(odd) {
-    background: #fcf4e4; 
-    // border-radius: 4px;
-    // border: 1px solid #e1cc89; 
-    padding-left: 2px;
-    padding-right: 2px;
-  }
+  li.Medicina {background: #f4fff4; border-color: green;}
+  li.Livros {background: #ebebf9; border-color: blue;}
+  li.Filmes {background: #ffefed; border-color: red;}
+  li.Series {background: #fff1f7; border-color: pink;}
+  li.Misc {background: #fffaec; border-color: #e1cc89;}
   li h3 {
     // line-height: 1.2;
     padding-top: 0;
@@ -1063,8 +1062,8 @@ a.footnote:after {
 /* Glyph */
 #separador {
     text-align:center;
-    color: #9c9a9a; 
-    font-size: 30px; 
+    color: #9c9a9a;
+    font-size: 30px;
 }
 
 /* Aqui começa o footer */
