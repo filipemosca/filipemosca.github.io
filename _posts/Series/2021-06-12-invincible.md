@@ -1,7 +1,7 @@
 ---
 title: 'Invencível: o que achei da 1ª temporada (2021)'
 tag: Series
-category: series
+category: blog
 ---
 
 Isso aqui não vai ser uma análise séria da série, está mais para um diário onde vou anotando pensamentos aleatórios e impressões ao longo que vou assistindo. Como de costume, já aviso que **TEM SPOILERS!** Só leia depois de assistir os episódios.
@@ -19,7 +19,7 @@ Esse aqui foi um estouro. Começa o episódio e vai dando a impressão que é um
 
 Estava bem divertido já, mas fazendo o feijão com arroz. Quando chegou nos 30 min de episódio, eu já estava convencido a continuar assistindo, tudo indicava ser uma série decente. Mas... POW. O QUE FOI AQUILO??????? Eu não tinha essa sensação de choque assistindo TV desde o casamento vermelho de Game of Thrones! Meu Deus! De repente é como se o episódio virasse de cabeça para baixo, e isso nos minutos finais!
 
-Até então a série não tinha apresentado nenhuma violência gráfica muito intensa e de repente somos apresentados à cena do 'flash' tendo a cabeça explodida e o 'batman' sendo estilhaçado com as visceras explodindo foi uma grande quebra de expectativa. 
+Até então a série não tinha apresentado nenhuma violência gráfica muito intensa e de repente somos apresentados à cena do 'flash' tendo a cabeça explodida e o 'batman' sendo estilhaçado com as visceras explodindo foi uma grande quebra de expectativa.
 
 Quando o Omni-man começou a matar um por um os integrantes da defesa global eu entrei em choque, fiquei sem acreditar nessa ousadia. Foram 30 minutos introduzindo aqueles personagens para logo em seguida matá-los. E EU GOSTEI DISSO?!!
 
@@ -45,7 +45,7 @@ O final do episódio é a melhor parte, com o Omni-man entrando no portal pro pl
 
 ![Destruindo o planeta](/assets/series/invincible/destruindo_planeta.webp)
 
-No momento que acaba esse episódio meus pensamentos são: "não acho que o Omni-man seja do mau, acho que ele deve estar com algum tipo de 'inveja' e matou todos os guardiões pois acredita ser o único defensor digno da Terra ou por considerar que eles talvez fossem uma ameaça." 
+No momento que acaba esse episódio meus pensamentos são: "não acho que o Omni-man seja do mau, acho que ele deve estar com algum tipo de 'inveja' e matou todos os guardiões pois acredita ser o único defensor digno da Terra ou por considerar que eles talvez fossem uma ameaça."
 
 ## 3º ep: Quem você chamou de feia?
 
@@ -63,7 +63,7 @@ O detetive demônio, Damien, esclarece aqui que conseguiu fugir do inferno que s
 
 ![Robô FDP](/assets/series/invincible/robo_fdp.webp)
 
-O carinha do governo decide congelar o Kaiju que o Omni-man teve dificuldade de derrotar. Provavelmene na tentativa de juntar inimigos capazes de derrotá-lo para o caso dele se rebelar. 
+O carinha do governo decide congelar o Kaiju que o Omni-man teve dificuldade de derrotar. Provavelmene na tentativa de juntar inimigos capazes de derrotá-lo para o caso dele se rebelar.
 
 No fim desse episódio eu penso: "em algum momento Mark vai ter que lutar contra o pai".
 
@@ -223,7 +223,7 @@ O legal da violência explícita nessa série não é alimentar um 'sadismo' nos
 
 Imagina um filme realista do Superman versus o Batman. Todos sabemos que o Superman é extremamente mais forte que o Batman (que na verdade é um ser humano 'comum'). Se o superma usa toda sua força para arremessar o corpo do Batman contra o chão, o resultado será o mesmo da cena em que Omni-Man transforma o Asa Negra em pasta, com as tripas explodindo na pancada. Mas isso não acontece nas grandes produções de super-heróis do cinema porque elas não são nada realistas.
 
-Quando eu era pirralho e fui ver Star Wars pela primeira vez, eu fiquei muito chocado com Luke perdendo um braço. Na época eu cheguei a ter pesadelos com essa cena. Mas se a gente parar pra pensar, numa luta de espadas, perder pelo menos um braço, a parte do corpo mais exposta e frágil nesse tipo de luta, é algo totalmente esperado e até comum de acontecer. 
+Quando eu era pirralho e fui ver Star Wars pela primeira vez, eu fiquei muito chocado com Luke perdendo um braço. Na época eu cheguei a ter pesadelos com essa cena. Mas se a gente parar pra pensar, numa luta de espadas, perder pelo menos um braço, a parte do corpo mais exposta e frágil nesse tipo de luta, é algo totalmente esperado e até comum de acontecer.
 
 ## Veredito
 
