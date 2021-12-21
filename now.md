@@ -2,9 +2,13 @@
 title: Now
 layout: wrapped-article
 permalink: /now
+date: 2021-12-21
 ---
 
-# Now
+<h1 class="post-title">Now</h1>
+<span class="post-info">Atualizado: <time>
+  {{ page.date | date: "%d %b %Y" }}
+</time></span>
 
 Nessa página serve pra eu descrever o que ando fazendo atualmente. Minhas metas e ocupações atuais.
 

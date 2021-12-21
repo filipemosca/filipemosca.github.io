@@ -2,9 +2,14 @@
 title: Sobre mim
 layout: wrapped-article
 permalink: /sobre
+date: 2020-11-08
 ---
 
 # Sobre mim
+
+<span class="post-info">Atualizado: <time>
+  {{ page.date | date: "%d %b %Y" }}
+</time></span>
 
 Olá! Eu sou Filipe Mosca. Criei este blog pois minha cabeça não estava comportando tudo que eu queria aprender. Meu *hobby* é acumular *hobbies* e aqui está sendo o báu para armazená-los e evoluí-los.
 
@@ -41,5 +46,3 @@ Quer me dizer alguma coisa? Adoro receber emails com comentários, críticas, su
     <img src="/assets/images/reading/rapido-e-devagar.jpg" alt="Capa do livro que estou lendo">
     <figcaption>Game of Thrones</figcaption>
 </figure> -->
-
-

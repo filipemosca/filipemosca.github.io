@@ -13,7 +13,7 @@ layout: wrapped
 
 
     {% for post in site.posts %}
-      {% if post.categories contains "HQs" and post.tags contains "pagina" %}
+      {% if post.categories contains "HQs" and post.tags contains "Pagina" %}
         <li>
           <div class="post-block">
               <h3>
@@ -27,11 +27,11 @@ layout: wrapped
 </div>
 
 <!-- Leituras anotadas -->
-<h2>✍️ Leituras anotadas:</h2>
+<h2>Leituras anotadas ✍️</h2>
 <p>Aqui está uma coletânea de todos os HQs que li e escrevi comentários, algo que chamam por aí de "leitura anotada" ou <i>annotated reading</i>. Em ordem alfabética...</p>
 
 <div class="post-list">
-  <ul order='alfabética'>
+  <ul>
     {% assign sortedPosts = site.posts | sort: 'obra' %}
     {% for post in sortedPosts %}
       {% if post.categories contains "HQs" and post.tags contains "Anotada"%}

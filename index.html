@@ -13,7 +13,7 @@ layout: wrapped
 
     <h1>Bem vindo(a)! 👋</h1>
 
-    <p class="apresentacao">Olá! Eu sou <b>Filipe Mosca</b> e esse é meu espacinho na internet, meu <b>jardim virtual 🌱</b>. Aqui escrevo anotações sobre medicina, filosofia, literatura, cinema, quadrinhos, tecnologia e o que mais der vontade.</p>
+    <p class="apresentacao"><b>Olá!</b> Eu sou <b>Filipe Mosca</b> e esse é meu espacinho na internet, meu <b>jardim virtual 🌱</b>. Que isso? É uma espécie de mural digital que posso ir construíndo aos poucos, todas as páginas estão sempre em atualização. Aqui compartilho listas, notas e artigos sobre medicina, filosofia, literatura, cinema, quadrinhos, tecnologia e o que mais der vontade.</p>
 
   </div>
   <div class="item item-inferior">
@@ -55,67 +55,20 @@ layout: wrapped
 <!-- PRINCIPAIS páginas -->
 <h2 class="ultimas">Principais páginas ✨</h2>
 <ul class="principais">
-  <li>📜 <a href="/lista-de-leitura-hqs">Lista de leitura de HQs</a></li>
-  <li>📒 <a href="/guia-anki">Guia de recursos do Anki</a></li>
-  <li>🇬🇧 <a href="/linguas/aprender-ingles">Materiais para aprender Inglês</a></li>
-  <li>🎟 <a href="/filmes/materiais-cinema">Lista de materiais sobre cinema</a></li>
+  <li>📌 <a href="/lista-de-leitura-hqs">Lista de leitura de HQs</a></li>
+  <li><a href="/guia-anki">Guia de recursos do Anki</a></li>
+  <li><a href="/linguas/aprender-ingles">Materiais para aprender Inglês</a></li>
+  <li><a href="/filmes/materiais-cinema">Lista de materiais sobre cinema</a></li>
 </ul>
 
-
-<!-- Sumário com details -->
-<!-- <h2 class="ultimas">🌲 Sumário do jardim</h2> -->
-<!-- <div class="sumario">
- <details><summary>🎥 Resenhas de Filmes</summary>
-    <ol reversed>
-      <li><a href="/2021/brazil">Brazil, 1985</a></li>
-      <li><a href="/cinema/blade-runner">Blade Runner, 1982</a></li>
-      <li><a href="/cinema/1917">1917</a></li>
-    </ol>
-  </details>
-
-  <details><summary>🃏 Flashcards e Anki</summary>
-    <ol reversed>
-      <li><a href="/guia-anki">Guia de recursos do Anki</a></li>
-    </ol>
-  </details>
-
-  <details><summary>🗣 Línguas</summary>
-    <ol reversed>
-      <li><a href="/linguas/aprender-grego-antigo">🇬🇷 Materiais para aprender Grego Antigo</a></li>
-      <li><a href="/linguas/aprender-grego">🇬🇷 Materiais para aprender Grego Moderno</a></li>
-      <li><a href="/linguas/aprender-ingles">🇬🇧 Materiais para aprender Inglês</a></li>
-      <li><a href="/linguas/aprender-esperanto">🌍 Materiais para aprender Esperanto</a></li>
-      <li><a href="/linguas/aprender-alemao">🇩🇪 Materiais para aprender Alemão</a></li>
-    </ol>
-  </details>
-</div> -->
-
-
 <!-- Aqui começa o Blog -->
-<h2 id="ultimas">Últimas 📅</h2>
+<h2 id="ultimas">Últimas atualizações ⏲</h2>
 <div class="post-list">
   <ul>
     {% for post in site.posts %}
         <li class="{{ post.category }}">
           <div class="post-block">
             <div class="item list-block">
-              <!-- <span class="post-info-list">
-                {{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
-                  {% case m %}
-                    {% when '1' %}jan
-                    {% when '2' %}fev
-                    {% when '3' %}mar
-                    {% when '4' %}abr
-                    {% when '5' %}mai
-                    {% when '6' %}jun
-                    {% when '7' %}jul
-                    {% when '8' %}ago
-                    {% when '9' %}set
-                    {% when '10' %}out
-                    {% when '11' %}nov
-                    {% when '12' %}dez
-                  {% endcase %}{{ post.date | date: "%Y"}}
-              </span> -->
 
               <span class="post-info-list">
                 {{ post.date | date: "%d/%m/%y" }}

@@ -8,26 +8,13 @@ layout: default
 
     <h1 class="post-title">{{ page.title }}</h1>
 
-    <span class="post-info">
-        {{ page.date | date: "%-d" }} {% assign m = page.date | date: "%-m" %}
-          {% case m %}
-          {% when '1' %}jan
-          {% when '2' %}fev
-          {% when '3' %}mar
-          {% when '4' %}abr
-          {% when '5' %}mai
-          {% when '6' %}jun
-          {% when '7' %}jul
-          {% when '8' %}ago
-          {% when '9' %}set
-          {% when '10' %}out
-          {% when '11' %}nov
-          {% when '12' %}dez
-          {% endcase %}{{ page.date | date: "%Y"}}
-    </span>
+    {%- if page.publicado -%}
+      <span class="post-info">Atualizado: {{ page.date | date: "%d %b %Y" }}</span>
+      <span class="post-info">Publicado: {{ page.publicado | date: "%d %b %Y" }}</span>
+    {%- else -%}
+      <span class="post-info">Atualizado: {{ page.date | date: "%d %b %Y" }}</span>
+    {%- endif -%}
 
-    <span class="post-info">{{ page.atualizado }}
-    </span>
 
     {% for category in page.categories %}
     {% capture category_name %}{{ category }}{% endcapture %}
@@ -42,10 +29,11 @@ layout: default
   </article>
 </div>
 
-<div class="wrapper">
+<p id="separador" class="text-align:center">* * *</p>
+
+<!-- <div class="wrapper">
   <div class="main">
 
-    <p id="separador" class="text-align:center">* * *</p>
 
     <h2>Críticas 🔎, sugestões 📜, observações 💡?</h2>
     <p>Como o site não possui sessão de comentários você pode mandar um email para <a href="mailto:filipe@mosquildo.com.br">filipe@mosquildo.com.br</a> 📬 me dizendo o que achou do artigo que ficarei bastante feliz em responder: </p>
@@ -60,4 +48,4 @@ layout: default
     </div>
 
   </div>
-</div>
+</div> -->
