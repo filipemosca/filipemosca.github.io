@@ -160,12 +160,14 @@ html[data-theme="dark"] {
   fill: var(--font-color);
 }
 
+// CHECKBOX
 .task-list {
   list-style-type: none;
   padding-left: 0;
 }
 .task-list-item-checkbox {
   margin-right: 10px;
+  background-color: blue;
 }
 
 
