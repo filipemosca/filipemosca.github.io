@@ -1,5 +1,5 @@
 @charset "UTF-8";
-.wrapper { max-width: 700px; margin: 0 auto; padding-right: 10px; padding-left: 10px; }
+.wrapper { max-width: 1000px; margin: 0 auto; padding-right: 15px; padding-left: 15px; }
 
 .wrapper-post { max-width: 100%; }
 
@@ -23,7 +23,7 @@ article a { word-break: break-word; text-decoration: underline; }
 
 .wrapper-footer { max-width: 700px; margin-right: auto; margin-left: auto; padding-right: 20px; padding-left: 20px; }
 
-body { margin: 0 0 0 0; font-family: 'Open Sans', 'Noto Sans', sans-serif; background-color: var(--bg-color); color: var(--font-color); --header-font: 'Noto Serif', Georgia, 'Times New Roman', Times, serif; }
+body { margin: 0 0 0 0; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol; color: var(--font-color); --header-font: 'Noto Serif', Georgia, 'Times New Roman', Times, serif; }
 
 html, html[data-theme="light"] { --font-color: #333; --font-color-header: #222; --bg-color: white; --link-color: #1a0dab; --link-visited-color: purple; --botao-color: #dedede; --marked-color: rgb(255, 255, 143); --hover-bg-color: #cccccc; --comments-subject: green; --light: black; --blockquote-color: rgb(221, 221, 221); --icon-color: rgb(131, 128, 127); }
 
@@ -357,7 +357,7 @@ a.footnote:after { content: "]"; }
 @media only screen and (min-width: 800px) { .post-img { border-radius: 5px; }
   body p, body li, body a { font-size: 18px; } }
 /* Aqui é para tablet */
-@media only screen and (min-width: 600px) { .wrapper-post { max-width: 700px; margin: 0 auto; padding-right: 20px; padding-left: 20px; }
+@media only screen and (min-width: 600px) { .wrapper-post { max-width: 1000px; margin: 0 auto; padding-right: 20px; padding-left: 20px; }
   article p, article h1, article h2, article h3, article h4, article h5, article h6 { margin-right: 0; margin-left: 0; }
   article p img { margin: 0 auto; display: block; max-width: 100%; }
   .abertura { display: flex; }
