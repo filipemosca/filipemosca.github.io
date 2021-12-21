@@ -1,7 +1,7 @@
 ---
 title: A saga da cloroquina contra a COVID-19
 tag: [Medicina]
-category: blog
+category: Medicina
 ---
 
 Finalmente decidi escrever sobre a cloroquina. Já fazem meses desde que essa discussão começou e essa semana saíram novos estudos sobre a possível eficácia da droga.

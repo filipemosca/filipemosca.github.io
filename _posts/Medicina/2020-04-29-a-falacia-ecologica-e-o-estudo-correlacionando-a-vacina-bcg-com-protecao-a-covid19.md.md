@@ -1,6 +1,6 @@
 ---
 title: 'A falácia ecológica e o estudo correlacionando a vacina do BCG com proteção à COVID-19'
-category: blog
+category: Medicina
 tag: [Medicina]
 ---
 

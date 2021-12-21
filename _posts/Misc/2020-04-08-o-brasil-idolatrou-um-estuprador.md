@@ -1,6 +1,6 @@
 ---
 title: O Brasil idolatrou um estuprador?
-category: blog
+category: Misc
 tag: Misc
 ---
 

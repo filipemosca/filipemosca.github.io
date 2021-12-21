@@ -1,8 +1,7 @@
 ---
 title: Lista de materiais sobre cinema e teoria cinematográfica
-tag: Filmes
-category: blog
-permalink: /filmes/materiais-cinema
+tag: Pagina
+category: Filmes
 ---
 
 * Sumário
@@ -27,7 +26,7 @@ Aqui vou listar livros que estou lendo e/ou pretendo ler.
 
 [The Media Insider](https://www.youtube.com/c/TheMediaInsider) é um canal bem recente que acabei de conhecer. Ele ainda tem poucos vídeos e acabei já assistindo praticamente todos. Recomendo bastante pois o dono do canal é professor de cinema e ele fala de assuntos bastate técnicos de uma forma bem agradável pro grande público.
 
-Exemplo de vídeos dele: 
+Exemplo de vídeos dele:
 
 1. [How to read mise en scéne -- Visual film analysis explained!](https://www.youtube.com/watch?v=ueSh66xktkk&t=335s)
 2. [How to read cinematography -- Shot analysis explained](https://www.youtube.com/watch?v=dhWIDCnktwc)
@@ -39,7 +38,7 @@ Exemplo de vídeos dele:
 ## Blogs
 
 1. [Roger Ebert](https://www.rogerebert.com/)
-2. [Cinema em cena](https://cinemaemcena.com.br/critica) 
+2. [Cinema em cena](https://cinemaemcena.com.br/critica)
 
 ## Críticos para acompanhar
 

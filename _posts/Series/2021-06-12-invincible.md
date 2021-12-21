@@ -1,7 +1,8 @@
 ---
 title: 'Invencível: o que achei da 1ª temporada (2021)'
 tag: Series
-category: blog
+category: Series
+obra: 'Invincible (2021)'
 ---
 
 Isso aqui não vai ser uma análise séria da série, está mais para um diário onde vou anotando pensamentos aleatórios e impressões ao longo que vou assistindo. Como de costume, já aviso que **TEM SPOILERS!** Só leia depois de assistir os episódios.

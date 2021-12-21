@@ -1,6 +1,6 @@
 ---
 title: Meu primeiro plantão de 12 horas
-category: blog
+category: Medicina
 tag: Medicina
 ---
 

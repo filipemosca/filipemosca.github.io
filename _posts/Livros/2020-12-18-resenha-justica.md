@@ -1,7 +1,8 @@
 ---
 title: 'Resenha de "Justiça: o que é fazer a coisa certa?"'
 tag: [Livros]
-category: blog
+category: Livros
+obra: 'Justiça (Sandel, 2008)'
 ---
 
 Que livro, meus amigos! Que livro foi esse?! Meu objetivo neste artigo vai ser tentar explicar porque você e todos os cidadãos da Terra deveriam ler esse livro que uma vez lido jamais será deslido. Espero conseguir transmitir com vocês um pouco da minha empolgação com esta obra.

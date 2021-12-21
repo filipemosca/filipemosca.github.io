@@ -1,7 +1,7 @@
 ---
 title: Lista de leitura de HQs
-category: pagina
-tag: HQs
+category: HQs
+tag: pagina
 permalink: /lista-de-leitura-hqs
 ---
 
@@ -13,9 +13,11 @@ _**Obs:** os títulos estão todos em inglês porque sempre prefiro ler históri
 
 ## Universo DC:
 
-- [X] Crisis on inifinite earths #1-12 (1985)
-- [ ] Kingdom Come #1-4
+- [X] Crisis on inifinite Earths #1-12 (1985)
+- [ ] Kingdom Come #1-4 (1996)
+- [ ] The Kingdom (1998)
 - [ ] Indentity crisis
+- [ ] Infinite crisis #1-7 (2005)
 - [ ] Watchmen #1-12
 - [ ] Wonder Woman by George Perez (v2) #1-24
 - [ ] Sandmen #1-75
@@ -47,6 +49,8 @@ Aqui vou reunir uma lista de histórias espaciais que ainda estou pesquisando se
 - Omega Men
 - Great Darkness Saga
 - Green Lantern by Geoff Johns
+- Multiversity
+- **Geoff Johns run on Green Lantern**
 
 ### Marvel...
 

@@ -1,0 +1,29 @@
+---
+title: Séries
+layout: wrapped
+---
+
+{% include header.html %}
+
+<h1>📺 Séries</h1>
+<h2>Resenhas:</h2>
+
+<p>Abaixo estão algumas resenhas das séries que assisti, em ordem alfabética...</p>
+
+<!-- PAGINAS -->
+<div class="post-list">
+  <ul>
+    {% assign sortedPosts = site.posts | sort: 'obra' %}
+    {% for post in sortedPosts %}
+      {% if post.categories contains "Series" %}
+        <li>
+          <div class="post-block">
+              <h3>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
+              </h3>
+          </div>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

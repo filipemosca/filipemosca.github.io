@@ -1,6 +1,6 @@
 ---
 title: Materiais para aprender inglês sozinho
-categories: linguas
+categories: Linguas
 permalink: /linguas/aprender-ingles
 ---
 

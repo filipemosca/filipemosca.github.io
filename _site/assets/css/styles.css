@@ -18,7 +18,7 @@
 
 .scroll::-webkit-scrollbar:horizontal { height: 12px; }
 
-article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption, article ul, article ol { margin-right: 20px; margin-left: 20px; }
+article p, article h1, article h2, article h3, article h4, article h5, article h6, article figcaption, article ul, article ol { margin-right: 10px; margin-left: 10px; }
 article a { word-break: break-word; text-decoration: underline; }
 
 .wrapper-footer { max-width: 700px; margin-right: auto; margin-left: auto; padding-right: 20px; padding-left: 20px; }
@@ -223,7 +223,11 @@ button { border: none; }
 
 .ultimas { margin-bottom: 10px; }
 
-.principais li a { text-decoration: none; }
+.mapa li a { text-decoration: none; font-size: 18px !important; font-weight: bold; }
+
+.mapa li a:hover { text-decoration: underline; }
+
+.principais li a { text-decoration: none; font-weight: bold; }
 
 .principais li a:hover { text-decoration: underline; }
 
@@ -235,20 +239,16 @@ button { border: none; }
 
 .sumario details ol li a:hover { text-decoration: underline; }
 
+.post-list ul { list-style-type: none; padding-left: 0; }
+.post-list li h3 { padding-top: 0; margin-top: 0; margin-bottom: 5px; display: inline; }
+.post-list li h3 a { text-decoration: none; font-size: 20px !important; padding-top: 0; margin-top: 0; color: var(--link-color); }
+.post-list li h3 a:hover { text-decoration: underline; }
+.post-list li span a { text-decoration: none; font-weight: bold; padding-top: 0; margin-top: 0; color: var(--link-color); }
+.post-list li span a:hover { text-decoration: underline; }
+
 .post-block { display: block; margin-bottom: 6px; }
 
 .post-block:hover h2 { color: #05659c; }
-
-.post-list ul { list-style-type: none; padding-left: 0; }
-.post-list li { background: #fffaec; border-radius: 4px; border: 1px solid #e1cc89; padding: 0 4px 0 4px; margin-bottom: 10px; }
-.post-list li.Medicina { background: #f4fff4; border-color: green; }
-.post-list li.Livros { background: #ebebf9; border-color: blue; }
-.post-list li.Filmes { background: #ffefed; border-color: red; }
-.post-list li.Series { background: #fff1f7; border-color: pink; }
-.post-list li.Misc { background: #fffaec; border-color: #e1cc89; }
-.post-list li h3 { padding-top: 0; margin-top: 0; margin-bottom: 5px; }
-.post-list li h3 a { text-decoration: none; font-size: 20px !important; padding-top: 0; margin-top: 0; color: black; }
-.post-list li h3 a:hover { color: var(--link-color); text-decoration: underline; }
 
 .feat-img { object-fit: cover; display: block; width: 100%; border-radius: 5px; }
 
@@ -260,13 +260,13 @@ button { border: none; }
 
 .post-info-list { font-size: 14px; color: var(--font-color); margin-top: 5px; margin-bottom: 0; padding-bottom: 0; width: 100%; }
 
-.tag { margin-right: 2px; color: var(--font-color); font-size: 14px !important; line-height: 16px; font-weight: bold; display: inline-block; }
+.category { margin-right: 2px; color: var(--font-color); font-size: 14px !important; line-height: 16px; font-weight: bold; display: inline-block; }
 
-.tag-posts { margin-top: 5px; font-size: 15px; color: #969696; }
+.category-posts { margin-top: 5px; font-size: 15px; color: #969696; }
 
 .post-title { text-align: left; }
 
-.post-info { font-size: 15px; display: block; text-align: left; color: #858585; margin: 0 auto; }
+.post-info { font-size: 15px; font-weight: bold; display: block; text-align: left; color: #858585; margin: 0 auto; }
 .post-info a { color: var(--link-color); margin-left: 4px; font-size: 1em; }
 
 .Filmes { color: #9e2525; }

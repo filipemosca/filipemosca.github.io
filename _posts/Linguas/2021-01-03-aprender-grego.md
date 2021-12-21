@@ -1,6 +1,6 @@
 ---
 title: Livros e links para aprender grego sozinho
-categories: linguas
+categories: Linguas
 permalink: /linguas/aprender-grego
 ---
 

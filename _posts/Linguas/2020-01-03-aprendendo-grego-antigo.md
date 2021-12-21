@@ -1,6 +1,6 @@
 ---
 title: Como aprender grego antigo sozinho
-category: linguas
+category: Linguas
 permalink: /linguas/aprender-grego-antigo
 ---
 
@@ -10,7 +10,7 @@ Sem dúvidas esse foi o meu novo hobby mais aleatório de 2020. Foi uma das cois
 
 Do nada eu comecei a desenvolver um grande interesse por aprender novas línguas. Há alguns meses eu já estava me preparando e adquirindo material para começar a aprender alemão sozinho e a continuar praticando o inglês. Contudo, eis que o grego antigo surgiu na minha frente e eu me apaixonei.
 
-É curioso porque eu não tenho absolutamente nenhuma razão ou necessidade para aprender grego; ainda mais grego antigo. Eu comecei a ler um pouco só por curiosidade, fui aprendendo o alfabeto e algumas palavras, até que... quando me dei conta já estava lendo parágrafos de textos em grego. E estava genuinamente me divertindo. 
+É curioso porque eu não tenho absolutamente nenhuma razão ou necessidade para aprender grego; ainda mais grego antigo. Eu comecei a ler um pouco só por curiosidade, fui aprendendo o alfabeto e algumas palavras, até que... quando me dei conta já estava lendo parágrafos de textos em grego. E estava genuinamente me divertindo.
 
 Se mais alguém também estiver manifestando interesse de aprender grego antigo, vou listar livros e materiais que achei interessante. É muito díficil achar recomendações desse tipo em português então vou compartilhar o que encontrei até o momento.
 
@@ -23,7 +23,7 @@ Vou editando essa lista ao longo do tempo.
 ## Livros
 
 ### **Reading Greek** by Joint association
-   
+
 Esse é o livro principal que estou usando para estudar. Ele é muito simples e bastante agradável de se ler. Os textos são muito interessantes e a gramática é introduzida de forma bastante paulatina, sem lhe arremessar muita informação de uma vez.
 
 ![Livros Reading Greek](/assets/flashcards/livrosd-rg.jpg)
@@ -40,7 +40,7 @@ São basicamente três livros dessa coleção que vocês vão precisar para apre
 2. **Reading Greek: Text and Vocabulary** — esse livro reune todos os textos e os vocabulários que serão abordados no livro de gramática (é complementar à gramática).
 3. **Reading Greek: An Independent Study Guide** — esse é o livro com as respostas dos exercícios e algumas observações interessantes; não sei se dá pra aprender a língua sem ele.
 
-### Athenaze 
+### Athenaze
 
 Pelo que li no Reddit esse costuma ser o livro mais recomendado; principalmente a edição Italiana que parece ter conteúdo exclusivo de altíssima qualidade (mas claro que pra mim não faz diferença pois nem falo italiano).
 

@@ -1,0 +1,48 @@
+---
+title: HQs
+layout: wrapped
+---
+
+{% include header.html %}
+
+<h1>🖼 HQs</h1>
+
+<!-- PAGINAS -->
+<div class="post-list">
+  <ul>
+
+
+    {% for post in site.posts %}
+      {% if post.categories contains "HQs" and post.tags contains "pagina" %}
+        <li>
+          <div class="post-block">
+              <h3>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+              </h3>
+          </div>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+<!-- Leituras anotadas -->
+<h2>✍️ Leituras anotadas:</h2>
+<p>Aqui está uma coletânea de todos os HQs que li e escrevi comentários, algo que chamam por aí de "leitura anotada" ou <i>annotated reading</i>. Em ordem alfabética...</p>
+
+<div class="post-list">
+  <ul order='alfabética'>
+    {% assign sortedPosts = site.posts | sort: 'obra' %}
+    {% for post in sortedPosts %}
+      {% if post.categories contains "HQs" and post.tags contains "Anotada"%}
+        <li>
+          <div class="post-block">
+              <h3>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
+              </h3>
+          </div>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

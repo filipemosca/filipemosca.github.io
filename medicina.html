@@ -1,0 +1,27 @@
+---
+title: Medicina
+layout: wrapped
+---
+
+{% include header.html %}
+
+<h1>⚕️ Medicina</h1>
+
+<p>Aqui estão alguns textos que escrevi envolvendo temas da medicina. Esta página ainda está em reformulação.</p>
+
+<!-- PAGINAS -->
+<div class="post-list">
+  <ul>
+    {% for post in site.posts %}
+      {% if post.categories contains "Medicina" %}
+        <li>
+          <div class="post-block">
+              <h3>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+              </h3>
+          </div>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

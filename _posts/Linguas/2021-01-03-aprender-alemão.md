@@ -1,6 +1,6 @@
 ---
 title: Livros e links para aprender alemão sozinho
-categories: linguas
+categories: Linguas
 permalink: /linguas/aprender-alemao
 ---
 
@@ -14,7 +14,7 @@ Para iniciantes, o curso online do DW é muito legal e muito bem feito. É basta
 
 ## Sites
 
-1. **german.net** (<https://german.net>) 
+1. **german.net** (<https://german.net>)
 2. **grimmstories.com**: reune várias contos dos Grimm em vários idiomas e você pode ler comparando duas traduções na mesma tela (<https://www.grimmstories.com/>)
 3. **Word Reference** (<https://www.wordreference.com/>).
 4. NDR Dokw (<https://www.youtube.com/user/ndr>).
@@ -42,4 +42,4 @@ Uma pequenas lista de livros que vi recomendações e pretendo ler no futuro:
 ## Anki decks
 
 1. <https://ankiweb.net/shared/info/1427904553>
-2. 
+2.

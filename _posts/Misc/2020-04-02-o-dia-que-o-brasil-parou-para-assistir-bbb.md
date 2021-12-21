@@ -1,7 +1,7 @@
 ---
 title: 'O dia que o Brasil parou para assistir o fim do BBB'
 tag: Misc
-category: blog
+category: Misc
 ---
 
 Terça-feira dia 31 de março foi um dia histórico para o entretenimento televisivo brasileiro. Mas, infelizmente, um dia trágico. O "paredão do bilhão", como ficou conhecido por ter acumulado mais de 1,5 bilhão de votos, enterrou o que estava para ser o melhor *Big Brother Brasil* da história.
