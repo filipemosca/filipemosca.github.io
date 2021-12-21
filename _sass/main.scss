@@ -810,6 +810,9 @@ button {
     list-style-type: none;
     padding-left: 0;
   }
+  ul li {
+    white-space: nowrap;
+  }
   // li {
   //   background: #fffaec;
   //   border-radius: 4px;
@@ -843,6 +846,7 @@ button {
   li span a {
     text-decoration: none;
     font-weight: bold;
+    font-size: 14px !important;
     padding-top: 0;
     margin-top: 0;
     color: var(--link-color);
