@@ -150,7 +150,6 @@ html[data-theme="dark"] {
 }
 .task-list-item-checkbox {
   margin-right: 10px;
-  background-color: blue;
 }
 
 
@@ -832,15 +831,15 @@ button {
   li h3 a:hover {
     text-decoration: underline;
   }
-  li span a {
+  li a {
     text-decoration: none;
     font-weight: bold;
-    font-size: 14px !important;
+    font-size: 18px !important;
     padding-top: 0;
     margin-top: 0;
     color: var(--link-color);
   }
-  li span a:hover {
+  li a:hover {
     text-decoration: underline;
   }
 }

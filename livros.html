@@ -16,12 +16,7 @@ layout: wrapped
     {% assign sortedPosts = site.posts | sort: 'obra' %}
     {% for post in sortedPosts %}
       {% if post.categories contains "Livros" %}
-        <li>
-          <div class="post-block">
-              <h3>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
-              </h3>
-          </div>
+        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
         </li>
       {% endif %}
     {% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: Lista de materiais sobre cinema e teoria cinematográfica
 tag: Pagina
-category: Filmes
+category: Misc
 ---
 
 * Sumário

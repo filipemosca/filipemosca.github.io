@@ -8,21 +8,27 @@ layout: wrapped
 <h1>📺 Séries</h1>
 <h2>Resenhas:</h2>
 
-<p>Abaixo estão algumas resenhas das séries que assisti, em ordem alfabética...</p>
+<p>Abaixo estão séries que ainda vou assistir e em seguida resenhas de séries que já assisti, em ordem alfabética...</p>
 
 <!-- PAGINAS -->
 <div class="post-list">
   <ul>
+      <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Wandavision (2021)</li>
+      <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Loki (2021)</li>
+      <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">The Boys (2019-Atual; Assistindo 👀)</li>
+      <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Arcane (2021)</li>
+      <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Foundation</li>
+      <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Invasion</li>
+      <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">What if?</li>
+      <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Sopranos (Assistindo 👀)</li>
+      <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">ER (Assistindo 👀)</li>
+      <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Round 6 🤢</li>
     {% assign sortedPosts = site.posts | sort: 'obra' %}
     {% for post in sortedPosts %}
       {% if post.categories contains "Series" %}
-        <li>
-          <div class="post-block">
-              <h3>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
-              </h3>
-          </div>
-        </li>
+      <li>
+        <input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
+      </li>
       {% endif %}
     {% endfor %}
   </ul>

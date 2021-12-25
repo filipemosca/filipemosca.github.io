@@ -10,16 +10,9 @@ layout: wrapped
 <!-- PAGINAS -->
 <div class="post-list">
   <ul>
-
-
     {% for post in site.posts %}
       {% if post.categories contains "HQs" and post.tags contains "Pagina" %}
-        <li>
-          <div class="post-block">
-              <h3>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-              </h3>
-          </div>
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
       {% endif %}
     {% endfor %}
@@ -35,12 +28,7 @@ layout: wrapped
     {% assign sortedPosts = site.posts | sort: 'obra' %}
     {% for post in sortedPosts %}
       {% if post.categories contains "HQs" and post.tags contains "Anotada"%}
-        <li>
-          <div class="post-block">
-              <h3>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
-              </h3>
-          </div>
+        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
         </li>
       {% endif %}
     {% endfor %}
