@@ -2,8 +2,8 @@
 title: '🚧 Crise nas infinitas terras: leitura anotada'
 category: HQs
 tags: [Anotada]
-obra: 'Crisis on infinites Earths (1985)'
-date: 2021-12-21
+obra: Crisis on infinites Earths (1985)
+date: 2021-12-21T00:00:00-03:00
 ---
 
 <style media="screen">
@@ -90,3 +90,7 @@ Essa revista começa bem confusa. São introduzidas muitas sidequests que contin
 # Issue #10
 
 <img src="/assets/HQs/crise_terras_infinitas/Crisis on Infinite Earths 010-000.jpg" alt="Capa 10" style="float: right;">
+
+
+
+A melhor issue é sem dúvida a da morte da supergirl.
