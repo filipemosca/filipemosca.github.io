@@ -382,7 +382,9 @@ nav {
   padding-bottom: 10px;
   margin-bottom: 0px;
   // background-color: #e9d6a8 !important;
-  background-color: #e6e6e6 !important;
+  background-color: #faebbc !important;
+  border-color: #e1cc89 !important;
+
 }
 
 
@@ -577,7 +579,7 @@ mark {
   flex: 1;
 }
 .item-inferior {
-  max-width: 300px;
+  max-width: 350px;
   margin: 0 auto;
 }
 
@@ -593,40 +595,36 @@ mark {
   border-radius: 10px;
   padding: 15px 4px 5px 4px;
 }
+
+
+
 // Minha foto na página inicial
 .foto {
   border-radius: 50%;
   max-width: 140px;
-  margin: 0 auto;
+  margin-right: 15px;
+  float: left;
   display: block;
 }
-.assinar {
-  text-decoration: none;
-  font-size: medium;
-  background-color: rgb(240, 240, 240);
-  font-family: Helvetica, sans-serif;
-  color: var(--link-color);
-  font-weight: bold;
-  padding: 10px;
-  border-radius: 4px;
-  display: inline-block;
-  margin-top: 20px;
-  margin-bottom: 10px;
-  line-height: 1.2;
+// ícones de seguir redes sociais
+.redes {
+  margin: 0 auto;
+  width: 100%;
+  text-align: left;
+ ul {
+   list-style-type: none;
+ }
+ ul li a {
+   text-decoration: none;
+   font-weight: bold;
+ }
+ ul li a:hover {
+   text-decoration: underline;
+ }
 }
-.assinar:hover {
-  background-color: rgb(226, 242, 252);
-  text-decoration: none;
-}
-.assinar:visited {
-  color: var(--link-color) !important;
-}
-.texto-assine {
-  color: var(--font-color);
-  font-size: 1.15rem;
-  font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
-  line-height: 1.5rem;
-}
+
+
+
 
 
 // Quadro do Sobre o autor
@@ -657,20 +655,7 @@ mark {
 
 
 
-// ícones de seguir redes sociais
-.redes {
-  margin: 0 auto;
-  width: 100%;
-  text-align: center;
-  padding-top: 20px;
-  p {
-    margin-bottom: 0;
-    margin-top: 0;
-    a {
-     text-decoration: none;
-    }
-  }
-}
+
 .icon-abertura {
   fill: var(--link-color);
   padding-right: 8px;
@@ -747,13 +732,32 @@ button {
 }
 
 // MAPA
+.mapa {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  li {
+    display: inline;
+  }
+}
 .mapa li a {
   text-decoration: none;
   font-size: 18px !important;
   font-weight: bold;
+  padding-top: 3px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-bottom: 2px;
+  background-color: #f3f3f3 !important;
+  border: 1px solid #dadada !important;
+  border-radius: 0.5rem;
+  display: inline-block;
+  margin-bottom: 6px;
+  margin-right: 6px;
 }
 .mapa li a:hover {
-  text-decoration: underline;
+  background-color: #faebbc !important;
+  border-color: #e1cc89 !important;
 }
 
 // PRINCIPAIS páginas lista
@@ -1178,7 +1182,7 @@ a.footnote:after {
 }
 
 /* Aqui é para tablet */
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 650px) {
   .wrapper-post {
     max-width: 1000px;
     margin: 0 auto;
@@ -1201,6 +1205,9 @@ a.footnote:after {
   }
   .quadro {
     margin-right: 0;
-    margin-left: 60px;
+    margin-left: 20px;
+  }
+  .mapa {
+    text-align: left;
   }
 }

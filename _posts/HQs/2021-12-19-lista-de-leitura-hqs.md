@@ -1,5 +1,5 @@
 ---
-title: Lista de leitura de HQs
+title: 🚧 Lista de leitura de HQs
 category: HQs
 tag: Pagina
 date: 2021-12-21
@@ -23,6 +23,37 @@ _**Obs:** os títulos estão todos em inglês porque sempre prefiro ler históri
 - [ ] Sandmen #1-75
 - [ ] JLA Year One #1-12
 - [ ] JLA #1–93 (1997-2006) by Morrison/Waid/Kelly
+
+### Fourth World by Jack Kirby
+
+"This new omnibus edition includes SUPERMAN’S PAL JIMMY OLSEN #133-139 and 141-148, NEW GODS #1-11, FOREVER PEOPLE #1-11, DC GRAPHIC NOVEL #4: THE HUNGER DOGS and a story from NEW GODS #6 (1984)"
+
+- [ ] Forever People #1-8
+- [ ] New Gods #1-6
+- [ ] Mister Miracle #1-6
+- [ ] Forever People #9-11
+- [ ] New Gods #7-11
+- [ ] Mister Miracle #7-18
+- [ ] Even Gods Must Die
+- [ ] The Hunger Dogs (graphic novel)
+
+Ordem do Ominubus: um usuário do Reddit postou uma foto do íncide do Ominubus.
+
+- [ ] Superman's pal, Jimmy Olsen #133-135
+- [ ] Forever people #1
+- [ ] The New Gods #1
+- [ ] Mister Miracle #1
+- [ ] Superman's pal, Jimmy Olsen #136
+- [ ] Forever people #2
+- [ ] The New Gods #2
+- [ ] Superman's pal, Jimmy Olsen #137
+- [ ] Mister Miracle #2
+- [ ] Forever people #3
+- [ ] Superman's pal, Jimmy Olsen #136
+...
+
+
+
 
 ## Universo Image comics:
 
