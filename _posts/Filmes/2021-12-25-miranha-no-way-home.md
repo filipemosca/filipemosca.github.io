@@ -76,6 +76,8 @@ Horas após a estreia do filme novo, saíram noticias da confirmação que Holla
 
 O filme tem defeitos? Provavelmente, mas nem quero pensar sobre eles para não mudar a imagem do filme que me divertiu tanto. Durante todas as mais de duas horas de filme não identifiquei nenhum defeito, foi pura diversão.
 
+Não foi um filme, foi um evento. Todo mundo saiu do cinema com o maior sorrisão. O filme tem 2 horas e meia que passaram super rápido e no fim eu queria mais. Foi ótimo ter voltado ao cinema depois de tanto tempo sem poder ir por causa da pandemia.
+
 Se assisti um filme divertido para caralho e não vi defeitos... então porque eu estragaria essa experiência e essa memória procurando por defeitos após já ter assistido? O que importa não é o sentimento durante o ato de assistir? Talvez revendo daqui alguns meses eu mude de ideia mas isso só o tempo dirá.
 
 Mas pra deixar claro, esse filme só é bom porque se apoia no ombro de gigantes (Tobey Maguire, Andrew Garfield e Sam Reimi). Sempre achei o Peter Parker do Tom Holland mediocre e chato.
