@@ -2,6 +2,7 @@
 title: 🚧 Lista de leitura de HQs
 tag: HQs
 date: 2021-12-21
+permalink: lista-de-leitura-hqs
 ---
 
 Nesta pagina vou compartilhar os **HQs que pretendo ler em 2022**. Não sou um grande leitor de quadrinhos mas pretendo me aventurar mais nesse universo. Decidi criar essa lista tanto para me organizar como para compartilhar as obras com pessoas que possuam um gosto parecido com o meu.

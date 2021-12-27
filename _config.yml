@@ -20,8 +20,7 @@
 
 title: Mosquildo
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Um blog sobre medicina. Escrevo sobre medicina baseada em evidências, educação médica, casos clínicos e sobre minha vivência na faculdade.
+description: Um jardim virtual
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://filipemosca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: filipemosca
@@ -57,16 +56,10 @@ defaults:
       permalink: "/:title"
 #defaults para todo o resto
   - scope:
-      path: "Jardim"
+      path: "notes"
       type: "pages"
     values:
       layout: "post"
-      permalink: "/:basename"
-#Imagens
-  - scope:
-      path: "Jardim/Files/"
-    values:
-      image: true
       permalink: "/:basename"
 
 # Exclude from processing.
