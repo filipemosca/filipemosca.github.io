@@ -1,9 +1,9 @@
 ---
 publicado: 2021-12-24T20:50:02-03:00
-date: 2021-12-25
+date: 2021-12-25T00:00:00-03:00
 title: 'Miranha: sem volta pra casa'
 obra: 'Spider-Man: No Way Home (2021)'
-permalink: '/miranha-no-way-home'
+permalink: /miranha-no-way-home
 ---
 
 QUE FILME, meus amigos. Atenção pois todos os comentários aqui a partir de agora vão ter **_SPOILERS_** do filme.
@@ -75,6 +75,10 @@ Horas após a estreia do filme novo, saíram noticias da confirmação que Holla
 
 O filme tem defeitos? Provavelmente, mas nem quero pensar sobre eles para não mudar a imagem do filme que me divertiu tanto. Durante todas as mais de duas horas de filme não identifiquei nenhum defeito, foi pura diversão.
 
+Não foi um filme, foi um evento. Todo mundo saiu do cinema com o maior sorrisão. O filme tem 2 horas e meia que passaram super rápido e no fim eu queria mais. Foi ótimo ter voltado ao cinema depois de tanto tempo sem poder ir por causa da pandemia.
+
 Se assisti um filme divertido para caralho e não vi defeitos... então porque eu estragaria essa experiência e essa memória procurando por defeitos após já ter assistido? O que importa não é o sentimento durante o ato de assistir? Talvez revendo daqui alguns meses eu mude de ideia mas isso só o tempo dirá.
+
+Mas pra deixar claro, esse filme só é bom porque se apoia no ombro de gigantes (Tobey Maguire, Andrew Garfield e Sam Reimi). Sempre achei o Peter Parker do Tom Holland mediocre e chato.
 
 **Nota:** é **5/5⭐**, me diverti à beça e assistiria 10 horas ininterruptas dos 3 miranhas conversando nerdices como a teia orgânica _versus_ fabricada; tô nem aí.
