@@ -12,12 +12,12 @@ layout: wrapped
 <!-- PAGINAS -->
 <div class="post-list">
   <ul>
-    {% for post in site.posts %}
-      {% if post.categories contains "Medicina" %}
+    {% for page in site.pages %}
+      {% if page.tag contains "Medicina" %}
         <li>
           <div class="post-block">
               <h3>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
               </h3>
           </div>
         </li>

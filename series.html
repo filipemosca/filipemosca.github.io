@@ -23,11 +23,11 @@ layout: wrapped
       <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Sopranos (Assistindo 👀)</li>
       <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">ER (Assistindo 👀)</li>
       <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Round 6 🤢</li>
-    {% assign sortedPosts = site.posts | sort: 'obra' %}
-    {% for post in sortedPosts %}
-      {% if post.categories contains "Series" %}
+    {% assign sortedPosts = site.pages | sort: 'obra' %}
+    {% for page in sortedPosts %}
+      {% if page.tag contains "Series" %}
       <li>
-        <input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
+        <input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ page.obra }}</a>
       </li>
       {% endif %}
     {% endfor %}

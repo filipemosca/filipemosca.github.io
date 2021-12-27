@@ -9,6 +9,20 @@ layout: wrapped
 
 <p>Me segue no <a href="https://letterboxd.com/filipemosca/"><mark><b>Letterboxd</b></mark></a> que lá tem todo o meu diário e avaliações dos filmes assistidos. Meu gênero favorito é <b>Sci-fi ❤️</b> mas sempre procuro assistir de tudo (até musicais, que odeio 🤢).</p>
 
+<div class="post-list">
+  <ul>
+    {% assign sortedPages = site.pages | sort: 'obra' %}
+    {% for page in sortedPages %}
+      {% if page.tag contains "Filmes" %}
+      {% unless page.obra %}
+        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a>
+        </li>
+      {% endunless %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
 <h2>Resenhas:</h2>
 
 <p>Abaixo estão as resenhas de filmes que escrevi, em ordem alfabética dos títulos originais em inglês...</p>
@@ -16,11 +30,13 @@ layout: wrapped
 <!-- PAGINAS -->
 <div class="post-list">
   <ul>
-    {% assign sortedPosts = site.posts | sort: 'obra' %}
-    {% for post in sortedPosts %}
-      {% if post.categories contains "Filmes" %}
-        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
+    {% assign sortedPages = site.pages | sort: 'obra' %}
+    {% for page in sortedPages %}
+      {% if page.tag contains "Filmes" %}
+      {% if page.obra %}
+        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ page.obra }}</a>
         </li>
+      {% endif %}
       {% endif %}
     {% endfor %}
   </ul>

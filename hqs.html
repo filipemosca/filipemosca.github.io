@@ -10,10 +10,13 @@ layout: wrapped
 <!-- PAGINAS -->
 <div class="post-list">
   <ul>
-    {% for post in site.posts %}
-      {% if post.categories contains "HQs" and post.tags contains "Pagina" %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    {% assign sortedPages = site.pages | sort: 'obra' %}
+    {% for page in sortedPages %}
+      {% if page.tag contains "HQs" %}
+      {% unless page.obra %}
+        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a>
         </li>
+      {% endunless %}
       {% endif %}
     {% endfor %}
   </ul>
@@ -23,13 +26,16 @@ layout: wrapped
 <h2>Leituras anotadas ✍️</h2>
 <p>Aqui está uma coletânea de todos os HQs que li e escrevi comentários, algo que chamam por aí de "leitura anotada" ou <i>annotated reading</i>. Em ordem alfabética...</p>
 
+<!-- PAGINAS -->
 <div class="post-list">
   <ul>
-    {% assign sortedPosts = site.posts | sort: 'obra' %}
-    {% for post in sortedPosts %}
-      {% if post.categories contains "HQs" and post.tags contains "Anotada"%}
-        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
+    {% assign sortedPages = site.pages | sort: 'obra' %}
+    {% for page in sortedPages %}
+      {% if page.tag contains "HQs" %}
+      {% if page.obra %}
+        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ page.obra }}</a>
         </li>
+      {% endif %}
       {% endif %}
     {% endfor %}
   </ul>

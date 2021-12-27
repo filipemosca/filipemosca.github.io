@@ -30,7 +30,7 @@ github_username:  filipemosca
 # Build settings
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-seo-tag
 
 # markdown: CommonMarkGhPages
@@ -44,6 +44,8 @@ commonmark:
 # para o SEO tag:
 lang: pt_BR
 
+exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+
 defaults:
 #defaults para os posts
   - scope:
@@ -55,10 +57,17 @@ defaults:
       permalink: "/:title"
 #defaults para todo o resto
   - scope:
-      path: ""
+      path: "Jardim"
       type: "pages"
     values:
-      layout: "default"
+      layout: "post"
+      permalink: "/:basename"
+#Imagens
+  - scope:
+      path: "Jardim/Files/"
+    values:
+      image: true
+      permalink: "/:basename"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

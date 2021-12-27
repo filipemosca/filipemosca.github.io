@@ -6,6 +6,22 @@ layout: wrapped
 {% include header.html %}
 
 <h1>📚 Livros</h1>
+
+<!-- PAGINAS -->
+<div class="post-list">
+  <ul>
+    {% assign sortedPosts = site.pages | sort: 'obra' %}
+    {% for page in sortedPosts %}
+      {% if page.tag contains "Livros" %}
+      {% unless page.obra %}
+        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a>
+        </li>
+      {% endunless %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
 <h2>Resenhas:</h2>
 
 <p>Abaixo estão algumas resenhas de livros que li, em ordem alfabética...</p>
@@ -13,11 +29,13 @@ layout: wrapped
 <!-- PAGINAS -->
 <div class="post-list">
   <ul>
-    {% assign sortedPosts = site.posts | sort: 'obra' %}
-    {% for post in sortedPosts %}
-      {% if post.categories contains "Livros" %}
-        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.obra }}</a>
+    {% assign sortedPosts = site.pages | sort: 'obra' %}
+    {% for page in sortedPosts %}
+      {% if page.tag contains "Livros" %}
+      {% if page.obra %}
+        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ page.obra }}</a>
         </li>
+      {% endif %}
       {% endif %}
     {% endfor %}
   </ul>
