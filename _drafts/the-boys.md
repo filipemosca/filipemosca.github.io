@@ -1,4 +1,3 @@
-<<<<<<< HEAD:_drafts/the-boys.md
 ---
 title: 'The Boys'
 tag: Series
@@ -8,11 +7,6 @@ obra: 'The Boys (2019-Presente)'
 ## Num mundo de super-heróis os mortais são insetos
 
 Assisti os dois primeiros episódios e já gostei demais. Nesse ponto já sei que vou viciar na série, é exatamente o tipo de história que curto. Já comentei sobre isso no comentário de [[../Invincible]] mas vou repetir aqui: gosto de histórias de super-heróis com consequências reais, onde a magnitude dos poderes trazem consequências na vida das pessoas comuns nessa mesma magnitude.
-=======
-## Num mundo de super-heróis os mortais são insetos
-
-Assisti os dois primeiros episódios e já gostei demais. Nesse ponto já sei que vou viciar na série, é exatamente o tipo de história que curto. Já comentei sobre isso no comentário de Invincible mas vou repetir aqui: gosto de histórias de super-heróis com consequências reais, onde a magnitude dos poderes trazem consequências na vida das pessoas comuns nessa mesma magnitude.
->>>>>>> 7212984b222a2f870e7e0b1ef2efed760a545335:_posts/Series/the-boys.md
 
 A cena da namorada do protagonista sendo morta é simplesmente incrível, porque para o Trem-Bala foi como pisar numa formiga que estava no caminho. Num mundo com seres humanos tão poderosos vivendo ao lado de seres humanos comuns, esse é o tipo de coisa que pode acontecer a qualquer momento, basta apenas um leve toque de irresponsabilidade por parte dos supers e isso já pode ocasionar a morte dolorosa de alguém.
 

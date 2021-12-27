@@ -1,15 +1,8 @@
 ---
 title: '🚧 Crise nas infinitas terras: leitura anotada'
-<<<<<<< HEAD:notes/Crise nas infinitas terras.md
 tag: [HQs]
 obra: 'Crisis on infinites Earths (1985)'
 date: 2021-12-21
-=======
-category: HQs
-tags: [Anotada]
-obra: Crisis on infinites Earths (1985)
-date: 2021-12-21T00:00:00-03:00
->>>>>>> 7212984b222a2f870e7e0b1ef2efed760a545335:_posts/HQs/2021-12-20-crise-infinitas-terras.md
 ---
 
 Inspirações:
