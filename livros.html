@@ -14,7 +14,7 @@ layout: wrapped
     {% for page in sortedPosts %}
       {% if page.tag contains "Livros" %}
       {% unless page.obra %}
-        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a>
+        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
         </li>
       {% endunless %}
       {% endif %}
@@ -33,7 +33,7 @@ layout: wrapped
     {% for page in sortedPosts %}
       {% if page.tag contains "Livros" %}
       {% if page.obra %}
-        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ post.url }}">{{ page.obra }}</a>
+        <li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.obra }}</a>
         </li>
       {% endif %}
       {% endif %}
