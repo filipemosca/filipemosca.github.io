@@ -57,7 +57,7 @@ defaults:
       permalink: "/:title"
 #defaults para todo o resto
   - scope:
-      path: "Jardim"
+      path: "notes"
       type: "pages"
     values:
       layout: "post"

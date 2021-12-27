@@ -1,6 +1,5 @@
 ---
 title: Lista de materiais sobre cinema e teoria cinematográfica
-tag: Pagina
 ---
 
 * Sumário

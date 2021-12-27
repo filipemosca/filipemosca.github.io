@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "4780ff24c2b53f94",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf1462b87add6a10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Testando.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0127879fdb2bbe68",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a86820402595c69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fde08633276c2656",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbbdf338a4e21b45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27c555a405392cfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7d5135dd436f69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "782229285ba750fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Testando.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bf1462b87add6a10",
+  "lastOpenFiles": [
+    "notes/Testando.md",
+    "notes/Miranha sem volta pra casa.md"
+  ]
+}

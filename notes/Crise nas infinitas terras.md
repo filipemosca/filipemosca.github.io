@@ -3,6 +3,7 @@ title: '🚧 Crise nas infinitas terras: leitura anotada'
 tag: [HQs]
 obra: 'Crisis on infinites Earths (1985)'
 date: 2021-12-21
+permalink: crisis-on-inifite-earths
 ---
 
 Inspirações:
