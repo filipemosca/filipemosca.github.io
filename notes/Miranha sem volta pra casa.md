@@ -4,6 +4,7 @@ date: 2021-12-25T00:00:00-03:00
 title: 'Miranha: sem volta pra casa'
 tag: Filmes
 obra: 'Spider-Man: No Way Home (2021)'
+permalink: miranha-sem-volta-casa
 ---
 
 QUE FILME, meus amigos. Atenção pois todos os comentários aqui a partir de agora vão ter **_SPOILERS_** do filme.
