@@ -1,8 +1,8 @@
 ---
 date: 2021-12-31T00:00:00-03:00
-updated: 2021-12-31T03:41:15-03:00
+updated: 2021-12-31T04:12:25-03:00
 title: Liga da Justiça do Snyder em preto e branco
-obra: Justice League Snyder's cut
+obra: Justice League Snyder's cut (2021) ♥️
 tag: Filmes
 permalink: justice-league-snyder
 ---
