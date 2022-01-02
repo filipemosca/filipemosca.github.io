@@ -1,13 +1,13 @@
 ---
-title: 'Eyes wide shut (1999)'
+title: 'Eyes wide shut (1999) 🤔'
 tag: [Filmes]
-obra: 'Eyes wide shut (1999)'
+obra: 'Eyes wide shut (1999) 🤔'
 date: 2022-01-01
 updated: 2022-01-02
 permalink: eyes-wide-shut
 ---
 
-![Deitada ao lado da máscara](assets/img/eyes-wide-shut.webp)
+<figure><img src="assets/img/eyes-wide-shut.jpg" alt="Deitada ao lado da máscara"></figure>
 
 Primeiro filme que assisti em 2022, bem no clima de natal e ano novo (definitivamente um filme natalino). Último filme do Kubick que morreu alguns dias após a conclusão.
 
