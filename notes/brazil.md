@@ -2,6 +2,7 @@
 title: Resenha de Brazil (1985)
 tag: Filmes
 obra: 'Brazil (1985)'
+updated: 2021-12-20
 ---
 
 Produzido em 1985, Brazil é um longa dirigido por Terry Gilliam (membro do grupo de comédia britância, Monty Python) que na versão extendida possui 143 min.

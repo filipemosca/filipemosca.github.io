@@ -1,6 +1,6 @@
 ---
-publicado: 2021-12-24T20:50:02-03:00
-date: 2021-12-25T00:00:00-03:00
+updated: 2021-12-25
+date: 2021-12-24
 title: 'Miranha: sem volta pra casa'
 tag: Filmes
 obra: 'Spider-Man: No Way Home (2021)'

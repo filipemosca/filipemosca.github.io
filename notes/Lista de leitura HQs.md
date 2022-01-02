@@ -2,6 +2,7 @@
 title: 🚧 Lista de leitura de HQs
 tag: HQs
 date: 2021-12-21
+updated: 2021-12-23
 permalink: lista-de-leitura-hqs
 ---
 

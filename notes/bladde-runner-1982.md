@@ -2,6 +2,7 @@
 title: 'Escrevendo sobre Blade Runner em Novembro de 2019'
 tag: Filmes
 obra: 'Blade Runner (1982) ❤️'
+updated: 2021-12-20
 ---
 
 Estamos em Novembro de 2019, exatamente o futuro no qual se passa a hitória de Blade Runner. E Infelizmente ainda não temos carros voadores.

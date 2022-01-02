@@ -2,6 +2,7 @@
 title: 'Invencível: o que achei da 1ª temporada (2021)'
 tag: Series
 obra: 'Invincible (2021) ❤️'
+updated: 2021-12-20
 permalink: invincible
 ---
 

@@ -896,7 +896,6 @@ button {
   display: inline-block;
 }
 .category-posts {
-  margin-top: 5px;
   font-size: 15px;
   color: #969696;
 }
@@ -1183,7 +1182,7 @@ a.footnote:after {
 /* Aqui é para tablet */
 @media only screen and (min-width: 650px) {
   .wrapper-post {
-    max-width: 1000px;
+    max-width: 700px;
     margin: 0 auto;
     padding-right: 20px;
     padding-left: 20px;

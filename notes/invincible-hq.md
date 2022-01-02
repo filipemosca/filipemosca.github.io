@@ -1,7 +1,7 @@
 ---
-date: 2021-12-30T18:19:42-03:00
-updated: 2021-12-30T18:23:12-03:00
-title: Invincible (HQ)
+date: 2021-12-30
+updated: 2021-12-30
+title: 🚧 Invincible (HQ)
 obra: Invincible HQ
 tag: HQs
 permalink: invencible-hq

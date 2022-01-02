@@ -54,37 +54,25 @@ layout: wrapped
 
 <h2>Now 👇</h2>
 <ul>
-  <li><b>📖 Lendo:</b> Crisis on inifinites Earths</li>
+  <li><b>📖 Lendo:</b> Dr. Fate v1</li>
   <li><b>👀 Assistindo:</b> Sopranos, Twin peaks, ER</li>
   <li>Tentando me animar pra voltar a praticar piano</li>
   <li>Estudando pro concurso de residência médica</li>
 </ul>
 
 <!-- Aqui começa o Blog -->
-<!-- <h2 id="ultimas">Últimas atualizações 🗓️</h2>
+
+<h2 id="ultimas">Últimas atualizações 🗓️</h2>
 <div class="post-list">
   <ul>
-    {% for post in site.posts %}
-        <li class="{{ post.category }}">
-          <div class="post-block">
-            <div class="item list-block">
-
-              <span class="post-info-list">
-                {{ post.date | date: "%d/%m/%y" }}
-              </span>
-
-              {% for category in post.categories %}
-                {% capture category_name %}{{ category }}{% endcapture %}
-                <span class="category {{ category_name }}">#{{ category_name }}</span>
-              {% endfor %}
-
-              <span>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-              </span>
-
-            </div>
-          </div>
+    {% assign sortedPages = site.pages | sort: 'updated' | reverse %}
+    {% for page in sortedPages %}
+    {% if page.updated %}
+        <li>
+          <span><time>{{ page.updated }}</time></span>
+          <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
         </li>
+    {% endif %}
     {% endfor %}
   </ul>
-</div> -->
+</div>

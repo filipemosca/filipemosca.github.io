@@ -8,18 +8,17 @@ layout: default
 
     <h1 class="post-title">{{ page.title }}</h1>
 
-    {% if page.publicado %}
-    <span class="post-info">Publicado: {{ page.publicado | date: "%d %b %Y" }}</span>
-    {% endif %}
-
     {% if page.date %}
-    <span class="post-info">Atualizado: {{ page.date | date: "%d %b %Y" }}</span>
+    <span class="post-info">Publicado: {{ page.date | date: "%d %b %Y" }}</span>
     {% endif %}
 
+    {% if page.updated %}
+    <span class="post-info">Atualizado: {{ page.updated | date: "%d %b %Y" }}</span>
+    {% endif %}
 
-    {% for category in page.categories %}
-    {% capture category_name %}{{ category }}{% endcapture %}
-    <span class="category {{ category_name }} category-posts">#{{ category_name }}</span>
+    {% for tag in page.tag %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <span class="category {{ tag_name }} category-posts">#{{ tag_name }}</span>
     {% endfor %}
   </div>
 </div>

@@ -3,6 +3,7 @@ title: Pode a virtude ser ensinada? Resenha de "Mênon" por Platão
 tag: [Livros]
 obra: 'Mênon (Platão)'
 permalink: menon
+updated: 2021-12-20
 ---
 
 Eu nunca tinha lido nada de Platão então esse foi meu primeiro contato direto com a sua obra. Mênon (_Meno_ em inglês) é um diálogo bem curtinho — apenas 70 páginas. Eu li numa única tarde mas a sensação ao terminar foi de dias mergulhado.

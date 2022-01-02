@@ -2,6 +2,7 @@
 title: 'Army of the dead: o filme infinito do Snyder'
 tag: Filmes
 obra: 'Army of the dead (2021)'
+updated: 2021-12-20
 ---
 
 Não estou com muito tempo para escrever então vou deixar de elaborar uma sinópse do filme para já ir direto nos comentários sobre o que achei do filme. Esse texto é destinado para pessoas que já assistiram o filme e estão em busca das impressões de terceiros, ou seja, tem spoilers.

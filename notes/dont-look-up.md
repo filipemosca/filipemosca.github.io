@@ -1,8 +1,9 @@
 ---
-title: Don't look up e seu potencial desperdiçado
+title: "Don't look up e seu potencial desperdiçado"
 tag: Filmes
 date: 2021-12-27
-obra: Don't look up (2021)
+updated: 2022-01-01
+obra: "Don't look up (2021)"
 permalink: dont-look-up
 ---
 
