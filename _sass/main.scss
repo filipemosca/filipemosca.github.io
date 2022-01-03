@@ -167,6 +167,16 @@ html[data-theme="dark"] {
 }
 // End Header
 
+.flex-index {
+  width: 100%;
+  display: flex;
+}
+.flex-index div {
+  -ms-flex: 1;  /* IE 10 */  
+  flex: 1;
+  padding-right: 20px;
+  max-width: 400px;
+}
 
 .mosca {
   display: inline-block;

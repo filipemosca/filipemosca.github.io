@@ -2,6 +2,7 @@
 title: 'Escrevendo sobre Blade Runner em Novembro de 2019'
 tag: Filmes
 obra: 'Blade Runner (1982) ❤️'
+date: 2019-11-19
 updated: 2021-12-20
 ---
 

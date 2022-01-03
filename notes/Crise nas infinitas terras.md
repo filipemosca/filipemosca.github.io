@@ -7,7 +7,7 @@ updated: 2022-01-02
 permalink: crisis-on-inifite-earths
 ---
 
-![Capa/poster da revista](assets/img/Crisis-on-Infinite-Earths-dc-comics.webp)
+<figure><img src="assets/img/Crisis-on-Infinite-Earths-dc-comics.webp" alt="Capa/poster da revista"></figure>
 
 Acho que é um bom ponto de partida para começar a ler HQs da DC. Normalmente as pessoas recomendam hitórias muito longas e até chatas para iniciar no universo. Eu pessoalmente acho melhor já pegar uma história de grande importância e um grande evento pra já pular no meio da ação e dos grandes acontecimentos da DC. Esse é o primeiro grande Crossover e o responsável por reformular todo o universo.
 
@@ -21,7 +21,7 @@ Mas acho que a partir dela a conclusão foi muito fraca, assim como a batalha fi
 
 Gostei bastante do personagem da Harbinger.
 
-![Vários personagens](assets/img/personagens-dc-crisis.webp)
+<figure><img src="assets/img/personagens-dc-crisis.webp" alt="Vários personagens"></figure>
 
 Outra coisa que me incomodou nessa HQ são as subhistórias introduzidas e continuadas em histórias solos de outras revistas. Deixam uma linha do plot em aberto pra te fazer ler outra HQ, mas nem lascando que vou ler essas HQs mequetrefes.
 

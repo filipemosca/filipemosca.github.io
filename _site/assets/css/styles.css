@@ -47,6 +47,10 @@ html[data-theme="dark"] { --font-color: #b3b9c5; --font-color-header: #b3b9c5; -
 #header h1 { margin-top: 10px; font-weight: normal; text-align: left; max-width: 100%; font-size: 3em; }
 #header h1 a { color: var(--font-color); }
 
+.flex-index { width: 100%; display: flex; }
+
+.flex-index div { -ms-flex: 1; /* IE 10 */ flex: 1; padding-right: 20px; max-width: 400px; }
+
 .mosca { display: inline-block; }
 
 .botao { text-decoration: none; font-size: medium; background-color: var(--botao-color); color: var(--font-color); font-weight: normal; padding: 5px 6px 4px 6px; border-radius: 4px; display: inline-block; padding-right: 5px; margin-right: 2px; margin-bottom: 5px; line-height: 1.2; }
